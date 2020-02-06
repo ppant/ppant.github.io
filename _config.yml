@@ -33,7 +33,7 @@ twitter_username: ppant
 github_username:  ppant
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hacker
 #paginate: 8
 #theme: Emerald
 #theme: jekyll-theme-hacker

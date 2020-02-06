@@ -1,0 +1,3023 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+- phpMyAdmin XML Dump
+- version 4.8.3
+- https://www.phpmyadmin.net
+-
+- Host: localhost:3306
+- Generation Time: Jan 13, 2020 at 08:06 AM
+- Server version: 5.5.61-38.13-log
+- PHP Version: 7.2.7
+-->
+
+<pma_xml_export version="1.0" xmlns:pma="https://www.phpmyadmin.net/some_doc_url/">
+    <!--
+    - Structure schemas
+    -->
+    <pma:structure_schemas>
+        <pma:database name="pradez89_wp18" collation="utf8mb4_unicode_ci" charset="utf8mb4">
+            <pma:table name="wp_posts">
+                CREATE TABLE `wp_posts` (
+                  `ID` bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+                  `post_author` bigint(20) unsigned NOT NULL DEFAULT '0',
+                  `post_date` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+                  `post_date_gmt` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+                  `post_content` longtext COLLATE utf8mb4_unicode_ci NOT NULL,
+                  `post_title` text COLLATE utf8mb4_unicode_ci NOT NULL,
+                  `post_excerpt` text COLLATE utf8mb4_unicode_ci NOT NULL,
+                  `post_status` varchar(20) COLLATE utf8mb4_unicode_ci NOT NULL DEFAULT 'publish',
+                  `comment_status` varchar(20) COLLATE utf8mb4_unicode_ci NOT NULL DEFAULT 'open',
+                  `ping_status` varchar(20) COLLATE utf8mb4_unicode_ci NOT NULL DEFAULT 'open',
+                  `post_password` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL DEFAULT '',
+                  `post_name` varchar(200) COLLATE utf8mb4_unicode_ci NOT NULL DEFAULT '',
+                  `to_ping` text COLLATE utf8mb4_unicode_ci NOT NULL,
+                  `pinged` text COLLATE utf8mb4_unicode_ci NOT NULL,
+                  `post_modified` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+                  `post_modified_gmt` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+                  `post_content_filtered` longtext COLLATE utf8mb4_unicode_ci NOT NULL,
+                  `post_parent` bigint(20) unsigned NOT NULL DEFAULT '0',
+                  `guid` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL DEFAULT '',
+                  `menu_order` int(11) NOT NULL DEFAULT '0',
+                  `post_type` varchar(20) COLLATE utf8mb4_unicode_ci NOT NULL DEFAULT 'post',
+                  `post_mime_type` varchar(100) COLLATE utf8mb4_unicode_ci NOT NULL DEFAULT '',
+                  `comment_count` bigint(20) NOT NULL DEFAULT '0',
+                  PRIMARY KEY (`ID`),
+                  KEY `type_status_date` (`post_type`,`post_status`,`post_date`,`ID`),
+                  KEY `post_parent` (`post_parent`),
+                  KEY `post_author` (`post_author`),
+                  KEY `post_name` (`post_name`(191))
+                ) ENGINE=MyISAM AUTO_INCREMENT=2278 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+            </pma:table>
+        </pma:database>
+    </pma:structure_schemas>
+
+    <!--
+    - Database: 'pradez89_wp18'
+    -->
+    <database name="pradez89_wp18">
+        <!-- Table wp_posts -->
+        <table name="wp_posts">
+            <column name="ID">2228</column>
+            <column name="post_author">2</column>
+            <column name="post_date">2019-12-09 21:35:45</column>
+            <column name="post_date_gmt">2019-12-09 16:05:45</column>
+            <column name="post_content">&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Apache POI is the set of &lt;a href=&quot;http://poi.apache.org/apidocs/4.1/&quot;&gt;&lt;strong&gt;Java APIs&lt;/strong&gt; &lt;/a&gt;that can be used to manipulate MS Office and other types of documents. This post will give quick info on how to make a &lt;a href=&quot;https://www.perl.org/&quot;&gt;Perl&lt;/a&gt; based dev environment for Java POI interface.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list {&quot;ordered&quot;:true} --&gt;
+&lt;ol&gt;&lt;li&gt;Download .bin of &lt;a href=&quot;https://www.apache.org/dyn/closer.lua/poi/release/bin/poi-bin-4.1.1-20191023.tar.gz&quot;&gt;POI version 4.1.1&lt;/a&gt; and add classpath in &lt;code&gt;.bashrc&lt;/code&gt;&lt;br&gt;&lt;br&gt;&lt;code&gt;&lt;em&gt;CLASSPATH=&quot;$CLASSPATH:/usr/local/src/poi-4.1.1/poi-4.1.1.jar:/usr/local/src/poi-4.1.1/poi-ooxml-schemas-4.1.1.jar:/usr/local/src/poi-4.1.1/poi-excelant-4.1.1.jar:/usr/local/src/poi-4.1.1/poi-ooxml-4.1.1.jar:/usr/local/src/poi-4.1.1/poi-scratchpad-4.1.1.jar:/usr/local/src/poi-4.1.1/poi-examples-4.1.1.jar:/usr/local/src/poi-4.1.1/ooxml-lib/xmlbeans-3.1.0.jar:/usr/local/src/poi-4.1.1/ooxml-lib/curvesapi-1.06.jar&quot;&lt;/em&gt;&lt;br&gt;&lt;em&gt;export CLASSPATH&lt;/em&gt;&lt;/code&gt;&lt;/li&gt;&lt;li&gt;Install &lt;a href=&quot;https://metacpan.org/release/Inline&quot;&gt;Inline module&amp;nbsp;0.83&lt;/a&gt; (Through CPAN) ---&amp;gt;  &lt;code&gt;&lt;em&gt;$ cpan -i Inline&lt;/em&gt;&amp;nbsp;&lt;/code&gt;&lt;/li&gt;&lt;li&gt;Install &lt;a href=&quot;https://metacpan.org/release/Inline-Java&quot;&gt;Inline:: Java module 0.66&lt;/a&gt; (Manually as we need to pass&lt;code&gt; J2SK=/usr/&lt;/code&gt; in &lt;code&gt;Makefile.PL&lt;/code&gt;),&amp;nbsp;e.g.; &lt;code&gt; $ &lt;em&gt;perl Makefile.PL J2SDK=/usr/&lt;/em&gt;&amp;nbsp;&lt;/code&gt;&lt;/li&gt;&lt;/ol&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;You are set to go to use POI API through Perl programs. &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt; In the next post, I will explain in detail more on POI and how to use them inside a Perl module.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Prerequisites and references:&lt;/strong&gt;&lt;br&gt;Java 8&lt;br&gt;&lt;a href=&quot;https://poi.apache.org/&quot;&gt;https://poi.apache.org/&lt;/a&gt; &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</column>
+            <column name="post_title">Apache POI env setting in CentOS 6+ and Perl</column>
+            <column name="post_excerpt"></column>
+            <column name="post_status">publish</column>
+            <column name="comment_status">open</column>
+            <column name="ping_status">open</column>
+            <column name="post_password"></column>
+            <column name="post_name">apache-poi-env-setting-in-centos-6-and-perl</column>
+            <column name="to_ping"></column>
+            <column name="pinged"></column>
+            <column name="post_modified">2019-12-09 19:32:28</column>
+            <column name="post_modified_gmt">2019-12-09 14:02:28</column>
+            <column name="post_content_filtered"></column>
+            <column name="post_parent">0</column>
+            <column name="guid">http://pradeeppant.com/?p=2228</column>
+            <column name="menu_order">0</column>
+            <column name="post_type">post</column>
+            <column name="post_mime_type"></column>
+            <column name="comment_count">1</column>
+        </table>
+        <table name="wp_posts">
+            <column name="ID">2229</column>
+            <column name="post_author">2</column>
+            <column name="post_date">2019-12-04 13:32:33</column>
+            <column name="post_date_gmt">2019-12-04 08:02:33</column>
+            <column name="post_content">&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Apache POI are the set of Java APIs that can be used to manipulate MS Office and other types of documents. In this post quick info on how to make a dev environment for using Java POI interface using Perl.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list {&quot;ordered&quot;:true} --&gt;
+&lt;ol&gt;&lt;li&gt;Download .bin of &lt;a href=&quot;https://www.apache.org/dyn/closer.lua/poi/release/bin/poi-bin-4.1.1-20191023.tar.gz&quot;&gt;POI version 4.1.1&lt;/a&gt; and add classpath in .bashrc&lt;br&gt;&lt;br&gt;&lt;code&gt;&lt;em&gt;CLASSPATH=&quot;$CLASSPATH:/usr/local/src/poi-4.1.1/poi-4.1.1.jar:/usr/local/src/poi-4.1.1/poi-ooxml-schemas-4.1.1.jar:/usr/local/src/poi-4.1.1/poi-excelant-4.1.1.jar:/usr/local/src/poi-4.1.1/poi-ooxml-4.1.1.jar:/usr/local/src/poi-4.1.1/poi-scratchpad-4.1.1.jar:/usr/local/src/poi-4.1.1/poi-examples-4.1.1.jar:/usr/local/src/poi-4.1.1/ooxml-lib/xmlbeans-3.1.0.jar:/usr/local/src/poi-4.1.1/ooxml-lib/curvesapi-1.06.jar&quot;&lt;/em&gt;&lt;br&gt;&lt;em&gt;export CLASSPATH&lt;/em&gt;&lt;/code&gt;&lt;/li&gt;&lt;li&gt;Install Inline module 0.83 (Through CPAN) ---&gt;  &lt;code&gt;&lt;em&gt;$ cpan -i Inline&lt;/em&gt; &lt;/code&gt;&lt;/li&gt;&lt;li&gt;Install Inline:: Java module 0.66 (Manually as we need to pass J2SK=/usr/ in Makefile.PL), e.g.; &lt;code&gt; $ &lt;em&gt;perl Makefile.PL J2SDK=/usr/&lt;/em&gt; &lt;/code&gt;&lt;/li&gt;&lt;/ol&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;  I will explain in detail more on POI and how to use them in upcoming posts.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</column>
+            <column name="post_title">Apache POI env setting via Perl CentOS 6+</column>
+            <column name="post_excerpt"></column>
+            <column name="post_status">inherit</column>
+            <column name="comment_status">closed</column>
+            <column name="ping_status">closed</column>
+            <column name="post_password"></column>
+            <column name="post_name">2228-revision-v1</column>
+            <column name="to_ping"></column>
+            <column name="pinged"></column>
+            <column name="post_modified">2019-12-04 13:32:33</column>
+            <column name="post_modified_gmt">2019-12-04 08:02:33</column>
+            <column name="post_content_filtered"></column>
+            <column name="post_parent">2228</column>
+            <column name="guid">https://pradeeppant.com/2019/12/04/2228-revision-v1/</column>
+            <column name="menu_order">0</column>
+            <column name="post_type">revision</column>
+            <column name="post_mime_type"></column>
+            <column name="comment_count">0</column>
+        </table>
+        <table name="wp_posts">
+            <column name="ID">2230</column>
+            <column name="post_author">2</column>
+            <column name="post_date">2019-12-04 13:40:36</column>
+            <column name="post_date_gmt">2019-12-04 08:10:36</column>
+            <column name="post_content">&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Apache POI are the set of Java APIs that can be used to manipulate MS Office and other types of documents. In this post quick info on how to make a dev environment for using Java POI interface using Perl.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list {&quot;ordered&quot;:true} --&gt;
+&lt;ol&gt;&lt;li&gt;Download .bin of &lt;a href=&quot;https://www.apache.org/dyn/closer.lua/poi/release/bin/poi-bin-4.1.1-20191023.tar.gz&quot;&gt;POI version 4.1.1&lt;/a&gt; and add classpath in .bashrc&lt;br&gt;&lt;br&gt;&lt;code&gt;&lt;em&gt;CLASSPATH=&quot;$CLASSPATH:/usr/local/src/poi-4.1.1/poi-4.1.1.jar:/usr/local/src/poi-4.1.1/poi-ooxml-schemas-4.1.1.jar:/usr/local/src/poi-4.1.1/poi-excelant-4.1.1.jar:/usr/local/src/poi-4.1.1/poi-ooxml-4.1.1.jar:/usr/local/src/poi-4.1.1/poi-scratchpad-4.1.1.jar:/usr/local/src/poi-4.1.1/poi-examples-4.1.1.jar:/usr/local/src/poi-4.1.1/ooxml-lib/xmlbeans-3.1.0.jar:/usr/local/src/poi-4.1.1/ooxml-lib/curvesapi-1.06.jar&quot;&lt;/em&gt;&lt;br&gt;&lt;em&gt;export CLASSPATH&lt;/em&gt;&lt;/code&gt;&lt;/li&gt;&lt;li&gt;Install Inline module 0.83 (Through CPAN) ---&gt;  &lt;code&gt;&lt;em&gt;$ cpan -i Inline&lt;/em&gt; &lt;/code&gt;&lt;/li&gt;&lt;li&gt;Install Inline:: Java module 0.66 (Manually as we need to pass J2SK=/usr/ in Makefile.PL), e.g.; &lt;code&gt; $ &lt;em&gt;perl Makefile.PL J2SDK=/usr/&lt;/em&gt; &lt;/code&gt;&lt;/li&gt;&lt;/ol&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;  I will explain in detail more on POI and how to use them in upcoming posts.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Prerequisites:&lt;/strong&gt;&lt;br&gt;Java 8&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</column>
+            <column name="post_title">Apache POI env setting via Perl CentOS 6+</column>
+            <column name="post_excerpt"></column>
+            <column name="post_status">inherit</column>
+            <column name="comment_status">closed</column>
+            <column name="ping_status">closed</column>
+            <column name="post_password"></column>
+            <column name="post_name">2228-revision-v1</column>
+            <column name="to_ping"></column>
+            <column name="pinged"></column>
+            <column name="post_modified">2019-12-04 13:40:36</column>
+            <column name="post_modified_gmt">2019-12-04 08:10:36</column>
+            <column name="post_content_filtered"></column>
+            <column name="post_parent">2228</column>
+            <column name="guid">https://pradeeppant.com/2019/12/04/2228-revision-v1/</column>
+            <column name="menu_order">0</column>
+            <column name="post_type">revision</column>
+            <column name="post_mime_type"></column>
+            <column name="comment_count">0</column>
+        </table>
+        <table name="wp_posts">
+            <column name="ID">2231</column>
+            <column name="post_author">2</column>
+            <column name="post_date">2019-12-04 13:46:52</column>
+            <column name="post_date_gmt">2019-12-04 08:16:52</column>
+            <column name="post_content">&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Apache POI are the set of Java APIs that can be used to manipulate MS Office and other types of documents. In this post quick info on how to make a dev environment for using Java POI interface using Perl.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list {&quot;ordered&quot;:true} --&gt;
+&lt;ol&gt;&lt;li&gt;Download .bin of &lt;a href=&quot;https://www.apache.org/dyn/closer.lua/poi/release/bin/poi-bin-4.1.1-20191023.tar.gz&quot;&gt;POI version 4.1.1&lt;/a&gt; and add classpath in .bashrc&lt;br&gt;&lt;br&gt;&lt;code&gt;&lt;em&gt;CLASSPATH=&quot;$CLASSPATH:/usr/local/src/poi-4.1.1/poi-4.1.1.jar:/usr/local/src/poi-4.1.1/poi-ooxml-schemas-4.1.1.jar:/usr/local/src/poi-4.1.1/poi-excelant-4.1.1.jar:/usr/local/src/poi-4.1.1/poi-ooxml-4.1.1.jar:/usr/local/src/poi-4.1.1/poi-scratchpad-4.1.1.jar:/usr/local/src/poi-4.1.1/poi-examples-4.1.1.jar:/usr/local/src/poi-4.1.1/ooxml-lib/xmlbeans-3.1.0.jar:/usr/local/src/poi-4.1.1/ooxml-lib/curvesapi-1.06.jar&quot;&lt;/em&gt;&lt;br&gt;&lt;em&gt;export CLASSPATH&lt;/em&gt;&lt;/code&gt;&lt;/li&gt;&lt;li&gt;Install &lt;a href=&quot;https://metacpan.org/release/Inline&quot;&gt;Inline module 0.83&lt;/a&gt; (Through CPAN) ---&gt;  &lt;code&gt;&lt;em&gt;$ cpan -i Inline&lt;/em&gt; &lt;/code&gt;&lt;/li&gt;&lt;li&gt;Install &lt;a href=&quot;https://metacpan.org/release/Inline-Java&quot;&gt;Inline:: Java module 0.66&lt;/a&gt; (Manually as we need to pass J2SK=/usr/ in Makefile.PL), e.g.; &lt;code&gt; $ &lt;em&gt;perl Makefile.PL J2SDK=/usr/&lt;/em&gt; &lt;/code&gt;&lt;/li&gt;&lt;/ol&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;  In the next post, I will explain in detail more on POI and how to use them.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Prerequisites:&lt;/strong&gt;&lt;br&gt;Java 8&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</column>
+            <column name="post_title">Apache POI env setting in CentOS 6+ and Perl</column>
+            <column name="post_excerpt"></column>
+            <column name="post_status">inherit</column>
+            <column name="comment_status">closed</column>
+            <column name="ping_status">closed</column>
+            <column name="post_password"></column>
+            <column name="post_name">2228-revision-v1</column>
+            <column name="to_ping"></column>
+            <column name="pinged"></column>
+            <column name="post_modified">2019-12-04 13:46:52</column>
+            <column name="post_modified_gmt">2019-12-04 08:16:52</column>
+            <column name="post_content_filtered"></column>
+            <column name="post_parent">2228</column>
+            <column name="guid">https://pradeeppant.com/2019/12/04/2228-revision-v1/</column>
+            <column name="menu_order">0</column>
+            <column name="post_type">revision</column>
+            <column name="post_mime_type"></column>
+            <column name="comment_count">0</column>
+        </table>
+        <table name="wp_posts">
+            <column name="ID">2232</column>
+            <column name="post_author">2</column>
+            <column name="post_date">2019-12-04 13:47:03</column>
+            <column name="post_date_gmt">2019-12-04 08:17:03</column>
+            <column name="post_content">&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Apache POI is the collection of Java APIs that can be used to manipulate MS Office and other types of documents. In this post, I will give you quick info on how to make a dev environment on CentOS 6+ with Java POI interface and Perl.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list {&quot;ordered&quot;:true} --&gt;
+&lt;ol&gt;&lt;li&gt;Download .bin of &lt;a href=&quot;https://www.apache.org/dyn/closer.lua/poi/release/bin/poi-bin-4.1.1-20191023.tar.gz&quot;&gt;POI version 4.1.1&lt;/a&gt; and add classpath in .bashrc&lt;br&gt;&lt;br&gt;&lt;code&gt;&lt;em&gt;CLASSPATH=&quot;$CLASSPATH:/usr/local/src/poi-4.1.1/poi-4.1.1.jar:/usr/local/src/poi-4.1.1/poi-ooxml-schemas-4.1.1.jar:/usr/local/src/poi-4.1.1/poi-excelant-4.1.1.jar:/usr/local/src/poi-4.1.1/poi-ooxml-4.1.1.jar:/usr/local/src/poi-4.1.1/poi-scratchpad-4.1.1.jar:/usr/local/src/poi-4.1.1/poi-examples-4.1.1.jar:/usr/local/src/poi-4.1.1/ooxml-lib/xmlbeans-3.1.0.jar:/usr/local/src/poi-4.1.1/ooxml-lib/curvesapi-1.06.jar&quot;&lt;/em&gt;&lt;br&gt;&lt;em&gt;export CLASSPATH&lt;/em&gt;&lt;/code&gt;&lt;/li&gt;&lt;li&gt;Install Inline module&amp;nbsp;0.83 (Through CPAN) ---&amp;gt;  &lt;code&gt;&lt;em&gt;$ cpan -i Inline&lt;/em&gt;&amp;nbsp;&lt;/code&gt;&lt;/li&gt;&lt;li&gt;Install Inline:: Java module 0.66 (Manually as we need to pass J2SK=/usr/ in Makefile.PL),&amp;nbsp;e.g.; &lt;code&gt; $ &lt;em&gt;perl Makefile.PL J2SDK=/usr/&lt;/em&gt;&amp;nbsp;&lt;/code&gt;&lt;/li&gt;&lt;/ol&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;You are ready to go!&lt;br&gt;Time to write your first program to push some metadata in an MS Office document. In my next post, I will explain in detail more on POI with use cases. &lt;br&gt;&lt;br&gt;&lt;strong&gt;Prerequisites:&lt;/strong&gt;&lt;br&gt;Java 8&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</column>
+            <column name="post_title">Apache POI env setting in CentOS 6+ and Perl</column>
+            <column name="post_excerpt"></column>
+            <column name="post_status">inherit</column>
+            <column name="comment_status">closed</column>
+            <column name="ping_status">closed</column>
+            <column name="post_password"></column>
+            <column name="post_name">2228-revision-v1</column>
+            <column name="to_ping"></column>
+            <column name="pinged"></column>
+            <column name="post_modified">2019-12-04 13:47:03</column>
+            <column name="post_modified_gmt">2019-12-04 08:17:03</column>
+            <column name="post_content_filtered"></column>
+            <column name="post_parent">2228</column>
+            <column name="guid">https://pradeeppant.com/2019/12/04/2228-revision-v1/</column>
+            <column name="menu_order">0</column>
+            <column name="post_type">revision</column>
+            <column name="post_mime_type"></column>
+            <column name="comment_count">0</column>
+        </table>
+        <table name="wp_posts">
+            <column name="ID">2233</column>
+            <column name="post_author">2</column>
+            <column name="post_date">2019-12-04 13:48:50</column>
+            <column name="post_date_gmt">2019-12-04 08:18:50</column>
+            <column name="post_content">&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Apache POI are the set of Java APIs that can be used to manipulate MS Office and other types of documents. In this post quick info on how to make a dev environment for using Java POI interface using Perl.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list {&quot;ordered&quot;:true} --&gt;
+&lt;ol&gt;&lt;li&gt;Download .bin of &lt;a href=&quot;https://www.apache.org/dyn/closer.lua/poi/release/bin/poi-bin-4.1.1-20191023.tar.gz&quot;&gt;POI version 4.1.1&lt;/a&gt; and add classpath in .bashrc&lt;br&gt;&lt;br&gt;&lt;code&gt;&lt;em&gt;CLASSPATH=&quot;$CLASSPATH:/usr/local/src/poi-4.1.1/poi-4.1.1.jar:/usr/local/src/poi-4.1.1/poi-ooxml-schemas-4.1.1.jar:/usr/local/src/poi-4.1.1/poi-excelant-4.1.1.jar:/usr/local/src/poi-4.1.1/poi-ooxml-4.1.1.jar:/usr/local/src/poi-4.1.1/poi-scratchpad-4.1.1.jar:/usr/local/src/poi-4.1.1/poi-examples-4.1.1.jar:/usr/local/src/poi-4.1.1/ooxml-lib/xmlbeans-3.1.0.jar:/usr/local/src/poi-4.1.1/ooxml-lib/curvesapi-1.06.jar&quot;&lt;/em&gt;&lt;br&gt;&lt;em&gt;export CLASSPATH&lt;/em&gt;&lt;/code&gt;&lt;/li&gt;&lt;li&gt;Install &lt;a href=&quot;https://metacpan.org/release/Inline&quot;&gt;Inline module 0.83&lt;/a&gt; (Through CPAN) ---&gt;  &lt;code&gt;&lt;em&gt;$ cpan -i Inline&lt;/em&gt; &lt;/code&gt;&lt;/li&gt;&lt;li&gt;Install &lt;a href=&quot;https://metacpan.org/release/Inline-Java&quot;&gt;Inline:: Java module 0.66&lt;/a&gt; (Manually as we need to pass J2SK=/usr/ in Makefile.PL), e.g.; &lt;code&gt; $ &lt;em&gt;perl Makefile.PL J2SDK=/usr/&lt;/em&gt; &lt;/code&gt;&lt;/li&gt;&lt;/ol&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;  In the next post, I will explain in detail more on POI and how to use them.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Prerequisites:&lt;/strong&gt;&lt;br&gt;Java 8&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</column>
+            <column name="post_title">Apache POI env setting in CentOS 6+ and Perl</column>
+            <column name="post_excerpt"></column>
+            <column name="post_status">inherit</column>
+            <column name="comment_status">closed</column>
+            <column name="ping_status">closed</column>
+            <column name="post_password"></column>
+            <column name="post_name">2228-revision-v1</column>
+            <column name="to_ping"></column>
+            <column name="pinged"></column>
+            <column name="post_modified">2019-12-04 13:48:50</column>
+            <column name="post_modified_gmt">2019-12-04 08:18:50</column>
+            <column name="post_content_filtered"></column>
+            <column name="post_parent">2228</column>
+            <column name="guid">https://pradeeppant.com/2019/12/04/2228-revision-v1/</column>
+            <column name="menu_order">0</column>
+            <column name="post_type">revision</column>
+            <column name="post_mime_type"></column>
+            <column name="comment_count">0</column>
+        </table>
+        <table name="wp_posts">
+            <column name="ID">2234</column>
+            <column name="post_author">2</column>
+            <column name="post_date">2019-12-04 13:52:36</column>
+            <column name="post_date_gmt">2019-12-04 08:22:36</column>
+            <column name="post_content">&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Apache POI are the set of Java APIs that can be used to manipulate MS Office and other types of documents. In this post quick info on how to make a dev environment for using Java POI interface using Perl.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list {&quot;ordered&quot;:true} --&gt;
+&lt;ol&gt;&lt;li&gt;Download .bin of &lt;a href=&quot;https://www.apache.org/dyn/closer.lua/poi/release/bin/poi-bin-4.1.1-20191023.tar.gz&quot;&gt;POI version 4.1.1&lt;/a&gt; and add classpath in &lt;code&gt;.bashrc&lt;/code&gt;&lt;br&gt;&lt;br&gt;&lt;code&gt;&lt;em&gt;CLASSPATH=&quot;$CLASSPATH:/usr/local/src/poi-4.1.1/poi-4.1.1.jar:/usr/local/src/poi-4.1.1/poi-ooxml-schemas-4.1.1.jar:/usr/local/src/poi-4.1.1/poi-excelant-4.1.1.jar:/usr/local/src/poi-4.1.1/poi-ooxml-4.1.1.jar:/usr/local/src/poi-4.1.1/poi-scratchpad-4.1.1.jar:/usr/local/src/poi-4.1.1/poi-examples-4.1.1.jar:/usr/local/src/poi-4.1.1/ooxml-lib/xmlbeans-3.1.0.jar:/usr/local/src/poi-4.1.1/ooxml-lib/curvesapi-1.06.jar&quot;&lt;/em&gt;&lt;br&gt;&lt;em&gt;export CLASSPATH&lt;/em&gt;&lt;/code&gt;&lt;/li&gt;&lt;li&gt;Install &lt;a href=&quot;https://metacpan.org/release/Inline&quot;&gt;Inline module 0.83&lt;/a&gt; (Through CPAN) ---&gt;  &lt;code&gt;&lt;em&gt;$ cpan -i Inline&lt;/em&gt; &lt;/code&gt;&lt;/li&gt;&lt;li&gt;Install &lt;a href=&quot;https://metacpan.org/release/Inline-Java&quot;&gt;Inline:: Java module 0.66&lt;/a&gt; (Manually as we need to pass&lt;code&gt; J2SK=/usr/&lt;/code&gt; in &lt;code&gt;Makefile.PL&lt;/code&gt;), e.g.; &lt;code&gt; $ &lt;em&gt;perl Makefile.PL J2SDK=/usr/&lt;/em&gt; &lt;/code&gt;&lt;/li&gt;&lt;/ol&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;You are set to go to use POI API through Perl programs. &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt; In the next post, I will explain in detail more on POI and how to use them.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Prerequisites and references:&lt;/strong&gt;&lt;br&gt;Java 8&lt;br&gt;&lt;a href=&quot;https://poi.apache.org/&quot;&gt;https://poi.apache.org/&lt;/a&gt; &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</column>
+            <column name="post_title">Apache POI env setting in CentOS 6+ and Perl</column>
+            <column name="post_excerpt"></column>
+            <column name="post_status">inherit</column>
+            <column name="comment_status">closed</column>
+            <column name="ping_status">closed</column>
+            <column name="post_password"></column>
+            <column name="post_name">2228-revision-v1</column>
+            <column name="to_ping"></column>
+            <column name="pinged"></column>
+            <column name="post_modified">2019-12-04 13:52:36</column>
+            <column name="post_modified_gmt">2019-12-04 08:22:36</column>
+            <column name="post_content_filtered"></column>
+            <column name="post_parent">2228</column>
+            <column name="guid">https://pradeeppant.com/2019/12/04/2228-revision-v1/</column>
+            <column name="menu_order">0</column>
+            <column name="post_type">revision</column>
+            <column name="post_mime_type"></column>
+            <column name="comment_count">0</column>
+        </table>
+        <table name="wp_posts">
+            <column name="ID">2238</column>
+            <column name="post_author">2</column>
+            <column name="post_date">2019-12-09 19:09:45</column>
+            <column name="post_date_gmt">2019-12-09 13:39:45</column>
+            <column name="post_content">&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Apache POI is the set of &lt;a href=&quot;http://poi.apache.org/apidocs/4.1/&quot;&gt;&lt;strong&gt;Java APIs&lt;/strong&gt; &lt;/a&gt;that can be used to manipulate MS Office and other types of documents. This post will give quick info on how to make a &lt;a href=&quot;https://www.perl.org/&quot;&gt;Perl&lt;/a&gt; based dev environment for Java POI interface.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list {&quot;ordered&quot;:true} --&gt;
+&lt;ol&gt;&lt;li&gt;Download .bin of &lt;a href=&quot;https://www.apache.org/dyn/closer.lua/poi/release/bin/poi-bin-4.1.1-20191023.tar.gz&quot;&gt;POI version 4.1.1&lt;/a&gt; and add classpath in &lt;code&gt;.bashrc&lt;/code&gt;&lt;br&gt;&lt;br&gt;&lt;code&gt;&lt;em&gt;CLASSPATH=&quot;$CLASSPATH:/usr/local/src/poi-4.1.1/poi-4.1.1.jar:/usr/local/src/poi-4.1.1/poi-ooxml-schemas-4.1.1.jar:/usr/local/src/poi-4.1.1/poi-excelant-4.1.1.jar:/usr/local/src/poi-4.1.1/poi-ooxml-4.1.1.jar:/usr/local/src/poi-4.1.1/poi-scratchpad-4.1.1.jar:/usr/local/src/poi-4.1.1/poi-examples-4.1.1.jar:/usr/local/src/poi-4.1.1/ooxml-lib/xmlbeans-3.1.0.jar:/usr/local/src/poi-4.1.1/ooxml-lib/curvesapi-1.06.jar&quot;&lt;/em&gt;&lt;br&gt;&lt;em&gt;export CLASSPATH&lt;/em&gt;&lt;/code&gt;&lt;/li&gt;&lt;li&gt;Install &lt;a href=&quot;https://metacpan.org/release/Inline&quot;&gt;Inline module&amp;nbsp;0.83&lt;/a&gt; (Through CPAN) ---&amp;gt;  &lt;code&gt;&lt;em&gt;$ cpan -i Inline&lt;/em&gt;&amp;nbsp;&lt;/code&gt;&lt;/li&gt;&lt;li&gt;Install &lt;a href=&quot;https://metacpan.org/release/Inline-Java&quot;&gt;Inline:: Java module 0.66&lt;/a&gt; (Manually as we need to pass&lt;code&gt; J2SK=/usr/&lt;/code&gt; in &lt;code&gt;Makefile.PL&lt;/code&gt;),&amp;nbsp;e.g.; &lt;code&gt; $ &lt;em&gt;perl Makefile.PL J2SDK=/usr/&lt;/em&gt;&amp;nbsp;&lt;/code&gt;&lt;/li&gt;&lt;/ol&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;You are set to go to use POI API through Perl programs. &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt; In the next post, I will explain in detail more on POI and how to use them inside a Perl module.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Prerequisites and references:&lt;/strong&gt;&lt;br&gt;Java 8&lt;br&gt;&lt;a href=&quot;https://poi.apache.org/&quot;&gt;https://poi.apache.org/&lt;/a&gt; &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</column>
+            <column name="post_title">Apache POI env setting in CentOS 6+ and Perl</column>
+            <column name="post_excerpt"></column>
+            <column name="post_status">inherit</column>
+            <column name="comment_status">closed</column>
+            <column name="ping_status">closed</column>
+            <column name="post_password"></column>
+            <column name="post_name">2228-revision-v1</column>
+            <column name="to_ping"></column>
+            <column name="pinged"></column>
+            <column name="post_modified">2019-12-09 19:09:45</column>
+            <column name="post_modified_gmt">2019-12-09 13:39:45</column>
+            <column name="post_content_filtered"></column>
+            <column name="post_parent">2228</column>
+            <column name="guid">http://pradeeppant.com/2019/12/09/2228-revision-v1/</column>
+            <column name="menu_order">0</column>
+            <column name="post_type">revision</column>
+            <column name="post_mime_type"></column>
+            <column name="comment_count">0</column>
+        </table>
+        <table name="wp_posts">
+            <column name="ID">2241</column>
+            <column name="post_author">2</column>
+            <column name="post_date">2019-12-16 19:14:54</column>
+            <column name="post_date_gmt">2019-12-16 13:44:54</column>
+            <column name="post_content">&lt;!-- wp:group --&gt;
+&lt;div class=&quot;wp-block-group&quot;&gt;&lt;div class=&quot;wp-block-group__inner-container&quot;&gt;&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;If we look into existing CMS like Drupal, Wordpress, etc there we see that they are still on an old way of delivering the content e.g.; HTML/ CSS to build the page and a content storage which is coupled with the UI. In the new approach, we decouple the content source from UI and use a newer JavaScript framework and API to fetch the data mainly the excellent &lt;a href=&quot;https://graphql.org/&quot;&gt;GraphQL&lt;/a&gt; query. The JavaScript framework to be used like ReactJS, Angular etc. One can use the components to make the dynamic elements as well. &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;!-- /wp:group --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt; In a new way content resides separately and one can use API to fetch the data on-demand. so as a software developer mostly APIs will be developed And GraphQL type of language is used to querying the data. GraphQL is different than REST which takes the get request and fetch full object but with GraphQL can fetch an attribute of the data which helps in reducing client-server transfer of data. &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Before switching to decouple thing one should first explore the follwoing thing:&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;If the API way of working will be beneficial for us?&lt;br&gt;What will be the backend technologies? &lt;br&gt;How this will affect the user interface like Tiny WYSIWYG etc&lt;br&gt;Some of the systems which has implemented that model is gatsby (gas-bee) which uses API based model using reactJS and GraphQL &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;p&gt;&lt;!--EndFragment--&gt;&lt;/p&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</column>
+            <column name="post_title">Decoupled Content Management Systems: Some thoughts</column>
+            <column name="post_excerpt"></column>
+            <column name="post_status">inherit</column>
+            <column name="comment_status">closed</column>
+            <column name="ping_status">closed</column>
+            <column name="post_password"></column>
+            <column name="post_name">2208-revision-v1</column>
+            <column name="to_ping"></column>
+            <column name="pinged"></column>
+            <column name="post_modified">2019-12-16 19:14:54</column>
+            <column name="post_modified_gmt">2019-12-16 13:44:54</column>
+            <column name="post_content_filtered"></column>
+            <column name="post_parent">2208</column>
+            <column name="guid">http://pradeeppant.com/2019/12/16/2208-revision-v1/</column>
+            <column name="menu_order">0</column>
+            <column name="post_type">revision</column>
+            <column name="post_mime_type"></column>
+            <column name="comment_count">0</column>
+        </table>
+        <table name="wp_posts">
+            <column name="ID">2242</column>
+            <column name="post_author">2</column>
+            <column name="post_date">2019-12-17 18:40:25</column>
+            <column name="post_date_gmt">2019-12-17 13:10:25</column>
+            <column name="post_content">&lt;!-- wp:group --&gt;
+&lt;div class=&quot;wp-block-group&quot;&gt;&lt;div class=&quot;wp-block-group__inner-container&quot;&gt;&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;If we look into existing CMS like Drupal, Wordpress, etc there we see that they are still on an old way of delivering the content e.g.; HTML/ CSS to build the page and content storage which is coupled with the UI (maybe they are already in process?). &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;In the new approach, we decouple the content source from UI and use a newer JavaScript framework and API to fetch the data using an excellent &lt;a href=&quot;https://graphql.org/&quot;&gt;GraphQL&lt;/a&gt; query. The JavaScript framework to be used like &lt;a href=&quot;https://reactjs.org/&quot;&gt;ReactJS&lt;/a&gt;, &lt;a href=&quot;https://angularjs.org/&quot;&gt;AngularJS&lt;/a&gt; etc. One can use the components to make the dynamic elements as well. &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;!-- /wp:group --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt; In a decoupled way, content resides separately and one can use API to fetch the data on-demand. so as a software developer mostly APIs will be developed And GraphQL type of language is used to querying the data. If you look into GraphQL, this is different than &lt;a href=&quot;https://en.wikipedia.org/wiki/Representational_state_transfer&quot;&gt;REST&lt;/a&gt; architecture which takes the get request and in response fetches the full object irrespective if used or not whereas with GraphQL one can fetch an attribute of the data/object which helps hugely in reducing the client-server data and speed up things.  &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Though decoupled way looks very promising probably not fits for all types of applications. So it advisable first to check out a few things before trying a switch. Below are a few which I can think of...&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list {&quot;ordered&quot;:true} --&gt;
+&lt;ol&gt;&lt;li&gt;If the API way of working will be beneficial for us?&lt;/li&gt;&lt;li&gt;What will be the backend technologies? &lt;/li&gt;&lt;li&gt;How this will affect the user interface like Tiny WYSIWYG etc &lt;br&gt;&lt;br&gt;&lt;strong&gt;PS:&lt;/strong&gt; I am working on creating a static site using a decoupled implementation &lt;a href=&quot;https://www.gatsbyjs.org/&quot;&gt;gasbyjs&lt;/a&gt;  (gas-bee) which uses API based model using reactJS and GraphQL. &lt;/li&gt;&lt;/ol&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;p&gt;&lt;!--EndFragment--&gt;&lt;/p&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</column>
+            <column name="post_title">Decoupled Content Management Systems: Some thoughts</column>
+            <column name="post_excerpt"></column>
+            <column name="post_status">inherit</column>
+            <column name="comment_status">closed</column>
+            <column name="ping_status">closed</column>
+            <column name="post_password"></column>
+            <column name="post_name">2208-revision-v1</column>
+            <column name="to_ping"></column>
+            <column name="pinged"></column>
+            <column name="post_modified">2019-12-17 18:40:25</column>
+            <column name="post_modified_gmt">2019-12-17 13:10:25</column>
+            <column name="post_content_filtered"></column>
+            <column name="post_parent">2208</column>
+            <column name="guid">http://pradeeppant.com/2019/12/17/2208-revision-v1/</column>
+            <column name="menu_order">0</column>
+            <column name="post_type">revision</column>
+            <column name="post_mime_type"></column>
+            <column name="comment_count">0</column>
+        </table>
+        <table name="wp_posts">
+            <column name="ID">2243</column>
+            <column name="post_author">2</column>
+            <column name="post_date">2019-12-17 18:41:48</column>
+            <column name="post_date_gmt">2019-12-17 13:11:48</column>
+            <column name="post_content">&lt;!-- wp:group --&gt;
+&lt;div class=&quot;wp-block-group&quot;&gt;&lt;div class=&quot;wp-block-group__inner-container&quot;&gt;&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;If we look into existing CMS like Drupal, Wordpress, etc there we see that they are still on an old way of delivering the content e.g.; HTML/ CSS to build the page and content storage which is coupled with the UI (maybe they are already in process?). &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;In the new approach, we decouple the content source from UI and use a newer JavaScript framework and API to fetch the data using an excellent &lt;a href=&quot;https://graphql.org/&quot;&gt;GraphQL&lt;/a&gt; query. The JavaScript framework to be used like &lt;a href=&quot;https://reactjs.org/&quot;&gt;ReactJS&lt;/a&gt;, &lt;a href=&quot;https://angularjs.org/&quot;&gt;AngularJS&lt;/a&gt; etc. One can use the components to make the dynamic elements as well. &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;!-- /wp:group --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt; In a decoupled way, content resides separately and one can use API to fetch the data on-demand. so as a software developer mostly APIs will be developed And GraphQL type of language is used to querying the data. If you look into GraphQL, this is different than &lt;a href=&quot;https://en.wikipedia.org/wiki/Representational_state_transfer&quot;&gt;REST&lt;/a&gt; architecture which takes the get request and in response fetches the full object irrespective if used or not whereas with GraphQL one can fetch an attribute of the data/object which helps hugely in reducing the client-server data and speed up things.  &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Though decoupled way looks very promising probably not fits for all types of applications. So it advisable first to check out a few things before trying a switch. Below are a few which I can think of...&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list {&quot;ordered&quot;:true} --&gt;
+&lt;ol&gt;&lt;li&gt;If the API way of working will be beneficial for us?&lt;/li&gt;&lt;li&gt;What will be the backend technologies? &lt;/li&gt;&lt;li&gt;How this will affect the user interface like Tiny WYSIWYG etc &lt;br&gt;&lt;br&gt;&lt;em&gt;&lt;code&gt;I am working on creating a static site using a decoupled implementation &lt;a href=&quot;https://www.gatsbyjs.org/&quot;&gt;gasbyjs&lt;/a&gt;  (gas-bee) which uses API based model using reactJS and GraphQL&lt;/code&gt;&lt;/em&gt;.&lt;/li&gt;&lt;/ol&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;p&gt;&lt;!--EndFragment--&gt;&lt;/p&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</column>
+            <column name="post_title">Decoupled Content Management Systems: Some thoughts</column>
+            <column name="post_excerpt"></column>
+            <column name="post_status">inherit</column>
+            <column name="comment_status">closed</column>
+            <column name="ping_status">closed</column>
+            <column name="post_password"></column>
+            <column name="post_name">2208-revision-v1</column>
+            <column name="to_ping"></column>
+            <column name="pinged"></column>
+            <column name="post_modified">2019-12-17 18:41:48</column>
+            <column name="post_modified_gmt">2019-12-17 13:11:48</column>
+            <column name="post_content_filtered"></column>
+            <column name="post_parent">2208</column>
+            <column name="guid">http://pradeeppant.com/2019/12/17/2208-revision-v1/</column>
+            <column name="menu_order">0</column>
+            <column name="post_type">revision</column>
+            <column name="post_mime_type"></column>
+            <column name="comment_count">0</column>
+        </table>
+        <table name="wp_posts">
+            <column name="ID">2244</column>
+            <column name="post_author">2</column>
+            <column name="post_date">2019-12-17 18:47:33</column>
+            <column name="post_date_gmt">2019-12-17 13:17:33</column>
+            <column name="post_content">&lt;!-- wp:group --&gt;
+&lt;div class=&quot;wp-block-group&quot;&gt;&lt;div class=&quot;wp-block-group__inner-container&quot;&gt;&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;If we look into existing CMS like Drupal, Wordpress, etc there we see that they are still on an old way of delivering the content e.g.; HTML/ CSS to build the page and content storage which is coupled with the UI (maybe they are already in process?). &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;In the new approach, we decouple the content source from UI and use a newer JavaScript framework and API to fetch the data using an excellent &lt;a href=&quot;https://graphql.org/&quot;&gt;GraphQL&lt;/a&gt; query. The JavaScript framework to be used like &lt;a href=&quot;https://reactjs.org/&quot;&gt;ReactJS&lt;/a&gt;, &lt;a href=&quot;https://angularjs.org/&quot;&gt;AngularJS&lt;/a&gt; etc. One can use the components to make the dynamic elements as well. &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;!-- /wp:group --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt; In a decoupled way, content resides separately and one can use API to fetch the data on-demand. so as a software developer mostly APIs will be developed And GraphQL type of language is used to querying the data. If you look into GraphQL, this is different than &lt;a href=&quot;https://en.wikipedia.org/wiki/Representational_state_transfer&quot;&gt;REST&lt;/a&gt; architecture which takes the get request and in response fetches the full object irrespective if used or not whereas with GraphQL one can fetch an attribute of the data/object which helps hugely in reducing the client-server data and speed up things.  &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Though decoupled way looks very promising probably not fits for all types of applications. So it advisable first to check out a few things before trying a switch. Below are a few which I can think of...&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list {&quot;ordered&quot;:true} --&gt;
+&lt;ol&gt;&lt;li&gt;If the API way of working will be beneficial for your application?&lt;/li&gt;&lt;li&gt;What will be the backend technologies? &lt;/li&gt;&lt;li&gt;How this will affect the user interface like Tiny WYSIWYG etc. for online editing?&lt;/li&gt;&lt;li&gt;The expertise of resources in the team developing the app (If you have good JS developers then a good idea to explore this route)&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;em&gt;&lt;code&gt;I am working on creating a static site using a decoupled implementation &lt;a href=&quot;https://www.gatsbyjs.org/&quot;&gt;gasbyjs&lt;/a&gt;  (gas-bee) which uses API based model using reactJS and GraphQL&lt;/code&gt;&lt;/em&gt;.&lt;/li&gt;&lt;/ol&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;p&gt;&lt;!--EndFragment--&gt;&lt;/p&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</column>
+            <column name="post_title">Decoupled Content Management Systems: Some thoughts</column>
+            <column name="post_excerpt"></column>
+            <column name="post_status">inherit</column>
+            <column name="comment_status">closed</column>
+            <column name="ping_status">closed</column>
+            <column name="post_password"></column>
+            <column name="post_name">2208-revision-v1</column>
+            <column name="to_ping"></column>
+            <column name="pinged"></column>
+            <column name="post_modified">2019-12-17 18:47:33</column>
+            <column name="post_modified_gmt">2019-12-17 13:17:33</column>
+            <column name="post_content_filtered"></column>
+            <column name="post_parent">2208</column>
+            <column name="guid">http://pradeeppant.com/2019/12/17/2208-revision-v1/</column>
+            <column name="menu_order">0</column>
+            <column name="post_type">revision</column>
+            <column name="post_mime_type"></column>
+            <column name="comment_count">0</column>
+        </table>
+        <table name="wp_posts">
+            <column name="ID">2245</column>
+            <column name="post_author">2</column>
+            <column name="post_date">2019-12-18 13:07:13</column>
+            <column name="post_date_gmt">2019-12-18 07:37:13</column>
+            <column name="post_content">{
+    &quot;primer::background_image&quot;: {
+        &quot;value&quot;: &quot;&quot;,
+        &quot;type&quot;: &quot;theme_mod&quot;,
+        &quot;user_id&quot;: 2,
+        &quot;date_modified_gmt&quot;: &quot;2019-12-18 07:37:10&quot;
+    },
+    &quot;primer::background_preset&quot;: {
+        &quot;value&quot;: &quot;custom&quot;,
+        &quot;type&quot;: &quot;theme_mod&quot;,
+        &quot;user_id&quot;: 2,
+        &quot;date_modified_gmt&quot;: &quot;2019-12-18 07:37:10&quot;
+    },
+    &quot;primer::background_position_x&quot;: {
+        &quot;value&quot;: &quot;left&quot;,
+        &quot;type&quot;: &quot;theme_mod&quot;,
+        &quot;user_id&quot;: 2,
+        &quot;date_modified_gmt&quot;: &quot;2019-12-18 07:37:10&quot;
+    },
+    &quot;primer::background_position_y&quot;: {
+        &quot;value&quot;: &quot;top&quot;,
+        &quot;type&quot;: &quot;theme_mod&quot;,
+        &quot;user_id&quot;: 2,
+        &quot;date_modified_gmt&quot;: &quot;2019-12-18 07:37:10&quot;
+    },
+    &quot;primer::background_size&quot;: {
+        &quot;value&quot;: &quot;auto&quot;,
+        &quot;type&quot;: &quot;theme_mod&quot;,
+        &quot;user_id&quot;: 2,
+        &quot;date_modified_gmt&quot;: &quot;2019-12-18 07:37:10&quot;
+    },
+    &quot;primer::background_repeat&quot;: {
+        &quot;value&quot;: &quot;no-repeat&quot;,
+        &quot;type&quot;: &quot;theme_mod&quot;,
+        &quot;user_id&quot;: 2,
+        &quot;date_modified_gmt&quot;: &quot;2019-12-18 07:37:10&quot;
+    }
+}</column>
+            <column name="post_title"></column>
+            <column name="post_excerpt"></column>
+            <column name="post_status">trash</column>
+            <column name="comment_status">closed</column>
+            <column name="ping_status">closed</column>
+            <column name="post_password"></column>
+            <column name="post_name">1f276a49-4d7a-4452-97c4-f550c12e7bfc</column>
+            <column name="to_ping"></column>
+            <column name="pinged"></column>
+            <column name="post_modified">2019-12-18 13:07:13</column>
+            <column name="post_modified_gmt">2019-12-18 07:37:13</column>
+            <column name="post_content_filtered"></column>
+            <column name="post_parent">0</column>
+            <column name="guid">http://pradeeppant.com/?p=2245</column>
+            <column name="menu_order">0</column>
+            <column name="post_type">customize_changeset</column>
+            <column name="post_mime_type"></column>
+            <column name="comment_count">0</column>
+        </table>
+        <table name="wp_posts">
+            <column name="ID">2246</column>
+            <column name="post_author">2</column>
+            <column name="post_date">2019-12-25 12:04:49</column>
+            <column name="post_date_gmt">0000-00-00 00:00:00</column>
+            <column name="post_content">&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;em&gt;Caution: This is not a technical post but based on my working habits mainly the time slots for deep work.&lt;/em&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;I am a huge fan of Dr. CalNewport Deep work. &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.calnewport.com/books/deep-work/&quot;&gt;https://www.calnewport.com/books/deep-work/&lt;/a&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</column>
+            <column name="post_title">My Deep Work Infrastructure</column>
+            <column name="post_excerpt"></column>
+            <column name="post_status">draft</column>
+            <column name="comment_status">open</column>
+            <column name="ping_status">open</column>
+            <column name="post_password"></column>
+            <column name="post_name"></column>
+            <column name="to_ping"></column>
+            <column name="pinged"></column>
+            <column name="post_modified">2019-12-25 12:04:49</column>
+            <column name="post_modified_gmt">2019-12-25 06:34:49</column>
+            <column name="post_content_filtered"></column>
+            <column name="post_parent">0</column>
+            <column name="guid">http://pradeeppant.com/?p=2246</column>
+            <column name="menu_order">0</column>
+            <column name="post_type">post</column>
+            <column name="post_mime_type"></column>
+            <column name="comment_count">0</column>
+        </table>
+        <table name="wp_posts">
+            <column name="ID">2248</column>
+            <column name="post_author">2</column>
+            <column name="post_date">2019-12-23 11:43:52</column>
+            <column name="post_date_gmt">2019-12-23 06:13:52</column>
+            <column name="post_content">&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;em&gt;Caution: This is not a technical post but based on my working habits mainly the time slots for deep work.&lt;/em&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</column>
+            <column name="post_title">My Deep Work Infrastructure</column>
+            <column name="post_excerpt"></column>
+            <column name="post_status">inherit</column>
+            <column name="comment_status">closed</column>
+            <column name="ping_status">closed</column>
+            <column name="post_password"></column>
+            <column name="post_name">2246-revision-v1</column>
+            <column name="to_ping"></column>
+            <column name="pinged"></column>
+            <column name="post_modified">2019-12-23 11:43:52</column>
+            <column name="post_modified_gmt">2019-12-23 06:13:52</column>
+            <column name="post_content_filtered"></column>
+            <column name="post_parent">2246</column>
+            <column name="guid">http://pradeeppant.com/2019/12/23/2246-revision-v1/</column>
+            <column name="menu_order">0</column>
+            <column name="post_type">revision</column>
+            <column name="post_mime_type"></column>
+            <column name="comment_count">0</column>
+        </table>
+        <table name="wp_posts">
+            <column name="ID">2249</column>
+            <column name="post_author">4</column>
+            <column name="post_date">2019-12-23 13:47:33</column>
+            <column name="post_date_gmt">0000-00-00 00:00:00</column>
+            <column name="post_content">&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;I am invited by Pradeep to write this blog by surprise and hence this is a spontaneous attempt to pen down my thoughts, I strongly feel about. We engineers solve problems in our day to day job leveraging technology which make profound impact business and hence  enjoy the value in this knowledge base economy today. But what is the most important  dimension of the solution ? Most of the time we get carried away by the technology used in the solution and try to use the most niche &amp;amp; latest technology to solve the problem. While the real beauty lies in the contextualization of solution in the problem space, most of the time if problem is well understood and appreciated solution could be much simpler. The need is to understand the problem well before solving it. Design thinking is way develop the appreciation of the all dimensions of problem with user point of view and helps to develop the romance between user and problem solver. This romance brings contextualization which is key success factor or the solution.  The second most important dimension is the way implementation of solution is executed.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</column>
+            <column name="post_title">Key to Technology solution -</column>
+            <column name="post_excerpt"></column>
+            <column name="post_status">draft</column>
+            <column name="comment_status">open</column>
+            <column name="ping_status">open</column>
+            <column name="post_password"></column>
+            <column name="post_name"></column>
+            <column name="to_ping"></column>
+            <column name="pinged"></column>
+            <column name="post_modified">2019-12-23 13:47:33</column>
+            <column name="post_modified_gmt">2019-12-23 08:17:33</column>
+            <column name="post_content_filtered"></column>
+            <column name="post_parent">0</column>
+            <column name="guid">http://pradeeppant.com/?p=2249</column>
+            <column name="menu_order">0</column>
+            <column name="post_type">post</column>
+            <column name="post_mime_type"></column>
+            <column name="comment_count">0</column>
+        </table>
+        <table name="wp_posts">
+            <column name="ID">2250</column>
+            <column name="post_author">2</column>
+            <column name="post_date">2019-12-23 12:04:14</column>
+            <column name="post_date_gmt">0000-00-00 00:00:00</column>
+            <column name="post_content">&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;A quick post about my local working env to develop machine learning projects.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;I use the following tools extensively.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Anaconda -&gt; Jupyter notebook&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Github&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Kaggle kernels&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;My toolkit is pretty standard for Kaggle: &lt;strong&gt;pandas&lt;/strong&gt;, &lt;strong&gt;numpy&lt;/strong&gt;, &lt;strong&gt;sklearn&lt;/strong&gt;, &lt;strong&gt;XGBoost&lt;/strong&gt;, &lt;strong&gt;LightGBM&lt;/strong&gt;, &lt;strong&gt;Keras&lt;/strong&gt;. I work in Jupyter notebooks, and I am a big fan of J&lt;strong&gt;upyter Lab&lt;/strong&gt;.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;I think for most of the learning purposes CPU training is sufficient still if you need GPU support then I would recommend using some cloud instances (AWS, Google etc) for a short duration for that specific training.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;I will walk over to a kaggle competition and will show the steps of how I use the Github and other envs.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt; -- CREATE ENVIRONMENT/WORKSPACE FOR PYTHON 3.7 &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;C:\conda create --name neuralnets python=3.7&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;C:\activate neuralnets&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;-- INSTALL EVERYTHING (notice the neuralnets workspace in parenthesis on each line). ACCEPT ANY DEPENDENCIES EACH OF THOSE STEPS WANTS TO INSTALL:&lt;br&gt;(neuralnets) C:\conda install theano&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;(neuralnets) C:\conda install mingw libpython(neuralnets) &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;C:\pip install tensorflow&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;(neuralnets) C:\pip install keras&lt;br&gt;conda install -c conda-forge opencv&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;conda install -c menpo opencv3&lt;br&gt;C:\activate neuralnets&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Remove env&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;conda env remove -n ENV_NAME&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;Make a github repo for titatnic kaggle competetion including readme a&lt;/li&gt;&lt;li&gt;clone github repo to local machine&lt;/li&gt;&lt;li&gt;Add titatnic dataset and notebook&lt;/li&gt;&lt;li&gt;Open anaconda prompt and type &quot;jupyter notebook&quot;&lt;/li&gt;&lt;li&gt;Make the changes in notebook&amp;nbsp;&lt;/li&gt;&lt;li&gt;commit the files to git&amp;nbsp;&lt;/li&gt;&lt;li&gt;push the changes in github (This can be used to send the code and documentation to other data sources like blogs, code repos etc) Jekyll&lt;/li&gt;&lt;li&gt;Open a new kernel in kaggle&lt;/li&gt;&lt;li&gt;Upload the notebook which you have committed to github, change the input files path if needed&amp;nbsp;&lt;/li&gt;&lt;li&gt;commit the kernel&amp;nbsp;&lt;/li&gt;&lt;li&gt;you can further do submission of&amp;nbsp; your predictions using sumit button and can make your kernel public&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</column>
+            <column name="post_title">My Machine learning env (kaggle, Github etc)</column>
+            <column name="post_excerpt"></column>
+            <column name="post_status">draft</column>
+            <column name="comment_status">open</column>
+            <column name="ping_status">open</column>
+            <column name="post_password"></column>
+            <column name="post_name"></column>
+            <column name="to_ping"></column>
+            <column name="pinged"></column>
+            <column name="post_modified">2019-12-23 12:04:14</column>
+            <column name="post_modified_gmt">2019-12-23 06:34:14</column>
+            <column name="post_content_filtered"></column>
+            <column name="post_parent">0</column>
+            <column name="guid">http://pradeeppant.com/?p=2250</column>
+            <column name="menu_order">0</column>
+            <column name="post_type">post</column>
+            <column name="post_mime_type"></column>
+            <column name="comment_count">0</column>
+        </table>
+        <table name="wp_posts">
+            <column name="ID">2251</column>
+            <column name="post_author">2</column>
+            <column name="post_date">2019-12-23 11:57:48</column>
+            <column name="post_date_gmt">2019-12-23 06:27:48</column>
+            <column name="post_content">&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;A quick post about my local working env to develop machine learning projects.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;I use the following tools extensively.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Anaconda -&gt; Jupyter notebook&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Github&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Kaggle kernels&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;I will walk over to a kaggle competition and will show the steps of how I use the Github and other envs.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt; -- CREATE ENVIRONMENT/WORKSPACE FOR PYTHON 3.7 &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;C:\conda create --name neuralnets python=3.7&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;C:\activate neuralnets&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;-- INSTALL EVERYTHING (notice the neuralnets workspace in parenthesis on each line). ACCEPT ANY DEPENDENCIES EACH OF THOSE STEPS WANTS TO INSTALL:&lt;br&gt;(neuralnets) C:\conda install theano&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;(neuralnets) C:\conda install mingw libpython(neuralnets) &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;C:\pip install tensorflow&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;(neuralnets) C:\pip install keras&lt;br&gt;conda install -c conda-forge opencv&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;conda install -c menpo opencv3&lt;br&gt;C:\activate neuralnets&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Remove env&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;conda env remove -n ENV_NAME&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;Make a github repo for titatnic kaggle competetion including readme a&lt;/li&gt;&lt;li&gt;clone github repo to local machine&lt;/li&gt;&lt;li&gt;Add titatnic dataset and notebook&lt;/li&gt;&lt;li&gt;Open anaconda prompt and type &quot;jupyter notebook&quot;&lt;/li&gt;&lt;li&gt;Make the changes in notebook&amp;nbsp;&lt;/li&gt;&lt;li&gt;commit the files to git&amp;nbsp;&lt;/li&gt;&lt;li&gt;push the changes in github (This can be used to send the code and documentation to other data sources like blogs, code repos etc) Jekyll&lt;/li&gt;&lt;li&gt;Open a new kernel in kaggle&lt;/li&gt;&lt;li&gt;Upload the notebook which you have committed to github, change the input files path if needed&amp;nbsp;&lt;/li&gt;&lt;li&gt;commit the kernel&amp;nbsp;&lt;/li&gt;&lt;li&gt;you can further do submission of&amp;nbsp; your predictions using sumit button and can make your kernel public&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</column>
+            <column name="post_title">My Machine learning env (kaggle, Github etc)</column>
+            <column name="post_excerpt"></column>
+            <column name="post_status">inherit</column>
+            <column name="comment_status">closed</column>
+            <column name="ping_status">closed</column>
+            <column name="post_password"></column>
+            <column name="post_name">2250-revision-v1</column>
+            <column name="to_ping"></column>
+            <column name="pinged"></column>
+            <column name="post_modified">2019-12-23 11:57:48</column>
+            <column name="post_modified_gmt">2019-12-23 06:27:48</column>
+            <column name="post_content_filtered"></column>
+            <column name="post_parent">2250</column>
+            <column name="guid">http://pradeeppant.com/2019/12/23/2250-revision-v1/</column>
+            <column name="menu_order">0</column>
+            <column name="post_type">revision</column>
+            <column name="post_mime_type"></column>
+            <column name="comment_count">0</column>
+        </table>
+        <table name="wp_posts">
+            <column name="ID">2252</column>
+            <column name="post_author">2</column>
+            <column name="post_date">2019-12-23 12:03:41</column>
+            <column name="post_date_gmt">2019-12-23 06:33:41</column>
+            <column name="post_content">&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;A quick post about my local working env to develop machine learning projects.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;I use the following tools extensively.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Anaconda -&gt; Jupyter notebook&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Github&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Kaggle kernels&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;My toolkit is pretty standard for Kaggle: &lt;strong&gt;pandas&lt;/strong&gt;, &lt;strong&gt;numpy&lt;/strong&gt;, &lt;strong&gt;sklearn&lt;/strong&gt;, &lt;strong&gt;XGBoost&lt;/strong&gt;, &lt;strong&gt;LightGBM&lt;/strong&gt;, &lt;strong&gt;Keras&lt;/strong&gt;. I work in Jupyter notebooks, and I am a big fan of J&lt;strong&gt;upyter Lab&lt;/strong&gt;.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;I think for most of the learning purposes CPU training is sufficient still if you need GPU support then I would recommend using some cloud instances (AWS, Google etc) for a short duration for that specific training.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;I will walk over to a kaggle competition and will show the steps of how I use the Github and other envs.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt; -- CREATE ENVIRONMENT/WORKSPACE FOR PYTHON 3.7 &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;C:\conda create --name neuralnets python=3.7&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;C:\activate neuralnets&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;-- INSTALL EVERYTHING (notice the neuralnets workspace in parenthesis on each line). ACCEPT ANY DEPENDENCIES EACH OF THOSE STEPS WANTS TO INSTALL:&lt;br&gt;(neuralnets) C:\conda install theano&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;(neuralnets) C:\conda install mingw libpython(neuralnets) &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;C:\pip install tensorflow&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;(neuralnets) C:\pip install keras&lt;br&gt;conda install -c conda-forge opencv&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;conda install -c menpo opencv3&lt;br&gt;C:\activate neuralnets&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Remove env&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;conda env remove -n ENV_NAME&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;Make a github repo for titatnic kaggle competetion including readme a&lt;/li&gt;&lt;li&gt;clone github repo to local machine&lt;/li&gt;&lt;li&gt;Add titatnic dataset and notebook&lt;/li&gt;&lt;li&gt;Open anaconda prompt and type &quot;jupyter notebook&quot;&lt;/li&gt;&lt;li&gt;Make the changes in notebook&amp;nbsp;&lt;/li&gt;&lt;li&gt;commit the files to git&amp;nbsp;&lt;/li&gt;&lt;li&gt;push the changes in github (This can be used to send the code and documentation to other data sources like blogs, code repos etc) Jekyll&lt;/li&gt;&lt;li&gt;Open a new kernel in kaggle&lt;/li&gt;&lt;li&gt;Upload the notebook which you have committed to github, change the input files path if needed&amp;nbsp;&lt;/li&gt;&lt;li&gt;commit the kernel&amp;nbsp;&lt;/li&gt;&lt;li&gt;you can further do submission of&amp;nbsp; your predictions using sumit button and can make your kernel public&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</column>
+            <column name="post_title">My Machine learning env (kaggle, Github etc)</column>
+            <column name="post_excerpt"></column>
+            <column name="post_status">inherit</column>
+            <column name="comment_status">closed</column>
+            <column name="ping_status">closed</column>
+            <column name="post_password"></column>
+            <column name="post_name">2250-revision-v1</column>
+            <column name="to_ping"></column>
+            <column name="pinged"></column>
+            <column name="post_modified">2019-12-23 12:03:41</column>
+            <column name="post_modified_gmt">2019-12-23 06:33:41</column>
+            <column name="post_content_filtered"></column>
+            <column name="post_parent">2250</column>
+            <column name="guid">http://pradeeppant.com/2019/12/23/2250-revision-v1/</column>
+            <column name="menu_order">0</column>
+            <column name="post_type">revision</column>
+            <column name="post_mime_type"></column>
+            <column name="comment_count">0</column>
+        </table>
+        <table name="wp_posts">
+            <column name="ID">2253</column>
+            <column name="post_author">2</column>
+            <column name="post_date">2019-12-23 12:04:47</column>
+            <column name="post_date_gmt">2019-12-23 06:34:47</column>
+            <column name="post_content">&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;em&gt;Caution: This is not a technical post but based on my working habits mainly the time slots for deep work.&lt;/em&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.calnewport.com/books/deep-work/&quot;&gt;https://www.calnewport.com/books/deep-work/&lt;/a&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</column>
+            <column name="post_title">My Deep Work Infrastructure</column>
+            <column name="post_excerpt"></column>
+            <column name="post_status">inherit</column>
+            <column name="comment_status">closed</column>
+            <column name="ping_status">closed</column>
+            <column name="post_password"></column>
+            <column name="post_name">2246-revision-v1</column>
+            <column name="to_ping"></column>
+            <column name="pinged"></column>
+            <column name="post_modified">2019-12-23 12:04:47</column>
+            <column name="post_modified_gmt">2019-12-23 06:34:47</column>
+            <column name="post_content_filtered"></column>
+            <column name="post_parent">2246</column>
+            <column name="guid">http://pradeeppant.com/2019/12/23/2246-revision-v1/</column>
+            <column name="menu_order">0</column>
+            <column name="post_type">revision</column>
+            <column name="post_mime_type"></column>
+            <column name="comment_count">0</column>
+        </table>
+        <table name="wp_posts">
+            <column name="ID">2254</column>
+            <column name="post_author">4</column>
+            <column name="post_date">2019-12-23 13:47:31</column>
+            <column name="post_date_gmt">2019-12-23 08:17:31</column>
+            <column name="post_content">&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;I am invited by Pradeep to write this blog by surprise and hence this is a spontaneous attempt to pen down my thoughts, I strongly feel about. We engineers solve problems in our day to day job leveraging technology which make profound impact business and hence  enjoy the value in this knowledge base economy today. But what is the most important  dimension of the solution ? Most of the time we get carried away by the technology used in the solution and try to use the most niche &amp;amp; latest technology to solve the problem. While the real beauty lies in the contextualization of solution in the problem space, most of the time if problem is well understood and appreciated solution could be much simpler. The need is to understand the problem well before solving it. Design thinking is way develop the appreciation of the all dimensions of problem with user point of view and helps to develop the romance between user and problem solver. This romance brings contextualization which is key success factor or the solution.  The second most important dimension is the way implementation of solution is executed.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</column>
+            <column name="post_title">Key to Technology solution -</column>
+            <column name="post_excerpt"></column>
+            <column name="post_status">inherit</column>
+            <column name="comment_status">closed</column>
+            <column name="ping_status">closed</column>
+            <column name="post_password"></column>
+            <column name="post_name">2249-revision-v1</column>
+            <column name="to_ping"></column>
+            <column name="pinged"></column>
+            <column name="post_modified">2019-12-23 13:47:31</column>
+            <column name="post_modified_gmt">2019-12-23 08:17:31</column>
+            <column name="post_content_filtered"></column>
+            <column name="post_parent">2249</column>
+            <column name="guid">http://pradeeppant.com/2019/12/23/2249-revision-v1/</column>
+            <column name="menu_order">0</column>
+            <column name="post_type">revision</column>
+            <column name="post_mime_type"></column>
+            <column name="comment_count">0</column>
+        </table>
+        <table name="wp_posts">
+            <column name="ID">2258</column>
+            <column name="post_author">2</column>
+            <column name="post_date">2019-12-24 11:53:08</column>
+            <column name="post_date_gmt">2019-12-24 06:23:08</column>
+            <column name="post_content"></column>
+            <column name="post_title">IMG-20160505-WA0008</column>
+            <column name="post_excerpt"></column>
+            <column name="post_status">inherit</column>
+            <column name="comment_status">open</column>
+            <column name="ping_status">closed</column>
+            <column name="post_password"></column>
+            <column name="post_name">img-20160505-wa0008</column>
+            <column name="to_ping"></column>
+            <column name="pinged"></column>
+            <column name="post_modified">2019-12-24 11:53:08</column>
+            <column name="post_modified_gmt">2019-12-24 06:23:08</column>
+            <column name="post_content_filtered"></column>
+            <column name="post_parent">877</column>
+            <column name="guid">http://pradeeppant.com/wp-content/uploads/2019/12/IMG-20160505-WA0008.jpg</column>
+            <column name="menu_order">0</column>
+            <column name="post_type">attachment</column>
+            <column name="post_mime_type">image/jpeg</column>
+            <column name="comment_count">0</column>
+        </table>
+        <table name="wp_posts">
+            <column name="ID">2259</column>
+            <column name="post_author">2</column>
+            <column name="post_date">2019-12-24 11:53:44</column>
+            <column name="post_date_gmt">2019-12-24 06:23:44</column>
+            <column name="post_content">&lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: #993300;&quot;&gt;&lt;a href=&quot;http://pradeeppant.com/wp-content/uploads/2019/12/IMG-20160505-WA0008.jpg&quot;&gt;&lt;img class=&quot;wp-image-2258  aligncenter&quot; src=&quot;http://pradeeppant.com/wp-content/uploads/2019/12/IMG-20160505-WA0008-300x225.jpg&quot; alt=&quot;&quot; width=&quot;181&quot; height=&quot;136&quot; /&gt;&lt;/a&gt;Hello Guest,&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #993300;&quot;&gt;Welcome to my blog. My name is Pradeep Pant.  By profession, I am a Software Engineer, coding for more than 2 decades. I live in the historic city of &lt;a style=&quot;color: #993300;&quot; href=&quot;http://en.wikipedia.org/wiki/New_Delhi&quot;&gt;New Delhi, India,&lt;/a&gt; the capital of India.  I love solving problems and believe that programming has the great power to transform human imagination into reality in a very short time. Well, I might not be the best engineer but I do constantly try my best to learn new things. Apart from this, I have various interests like trekking, hiking in mountains especially &lt;a style=&quot;color: #993300;&quot; href=&quot;http://en.wikipedia.org/wiki/Himalayas&quot;&gt;Himalaya&lt;/a&gt; (probably because I have seen these snowy mountains all through my childhood), running, cycling, meditation, nature photography and reading. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #993300;&quot;&gt;Thanks for visiting.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #993300;&quot;&gt;If you want to say something, pl. send me an &lt;strong&gt;&lt;a style=&quot;color: #993300;&quot; href=&quot;mailto:pantpradeep@gmail.com&quot;&gt;email&lt;/a&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #993300;&quot;&gt;I am also available on below social networks.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://in.linkedin.com/in/ppant&quot;&gt;&lt;img class=&quot;alignleft wp-image-1899&quot; src=&quot;http://pradeeppant.com/wp-content/uploads/2019/03/linkedin-150x150.png&quot; alt=&quot;&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/ppant&quot;&gt;&lt;img class=&quot;alignleft wp-image-1897&quot; src=&quot;http://pradeeppant.com/wp-content/uploads/2019/03/github-logo-150x150.png&quot; alt=&quot;&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.quora.com/profile/Pradeep-K-Pant&quot;&gt;&lt;img class=&quot;alignleft wp-image-1898&quot; src=&quot;http://pradeeppant.com/wp-content/uploads/2019/03/quora-150x150.png&quot; alt=&quot;&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://twitter.com/ppant&quot;&gt;&lt;img class=&quot;alignleft wp-image-1900&quot; src=&quot;http://pradeeppant.com/wp-content/uploads/2019/03/twitter-150x150.png&quot; alt=&quot;&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</column>
+            <column name="post_title"></column>
+            <column name="post_excerpt"></column>
+            <column name="post_status">inherit</column>
+            <column name="comment_status">closed</column>
+            <column name="ping_status">closed</column>
+            <column name="post_password"></column>
+            <column name="post_name">877-revision-v1</column>
+            <column name="to_ping"></column>
+            <column name="pinged"></column>
+            <column name="post_modified">2019-12-24 11:53:44</column>
+            <column name="post_modified_gmt">2019-12-24 06:23:44</column>
+            <column name="post_content_filtered"></column>
+            <column name="post_parent">877</column>
+            <column name="guid">http://pradeeppant.com/2019/12/24/877-revision-v1/</column>
+            <column name="menu_order">0</column>
+            <column name="post_type">revision</column>
+            <column name="post_mime_type"></column>
+            <column name="comment_count">0</column>
+        </table>
+        <table name="wp_posts">
+            <column name="ID">2260</column>
+            <column name="post_author">2</column>
+            <column name="post_date">2019-12-24 11:54:45</column>
+            <column name="post_date_gmt">2019-12-24 06:24:45</column>
+            <column name="post_content">&lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: #993300;&quot;&gt;&lt;a href=&quot;http://pradeeppant.com/wp-content/uploads/2019/12/IMG-20160505-WA0008.jpg&quot;&gt;&lt;img class=&quot;aligncenter wp-image-2258 size-medium&quot; src=&quot;http://pradeeppant.com/wp-content/uploads/2019/12/IMG-20160505-WA0008-300x225.jpg&quot; alt=&quot;&quot; width=&quot;300&quot; height=&quot;225&quot; /&gt;&lt;/a&gt;Hello Guest,&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #993300;&quot;&gt;Welcome to my blog. My name is Pradeep Pant.  By profession, I am a Software Engineer, coding for more than 2 decades. I live in the historic city of &lt;a style=&quot;color: #993300;&quot; href=&quot;http://en.wikipedia.org/wiki/New_Delhi&quot;&gt;New Delhi, India,&lt;/a&gt; the capital of India.  I love solving problems and believe that programming has the great power to transform human imagination into reality in a very short time. Well, I might not be the best engineer but I do constantly try my best to learn new things. Apart from this, I have various interests like trekking, hiking in mountains especially &lt;a style=&quot;color: #993300;&quot; href=&quot;http://en.wikipedia.org/wiki/Himalayas&quot;&gt;Himalaya&lt;/a&gt; (probably because I have seen these snowy mountains all through my childhood), running, cycling, meditation, nature photography and reading. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #993300;&quot;&gt;Thanks for visiting.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #993300;&quot;&gt;If you want to say something, pl. send me an &lt;strong&gt;&lt;a style=&quot;color: #993300;&quot; href=&quot;mailto:pantpradeep@gmail.com&quot;&gt;email&lt;/a&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #993300;&quot;&gt;I am also available on below social networks.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://in.linkedin.com/in/ppant&quot;&gt;&lt;img class=&quot;alignleft wp-image-1899&quot; src=&quot;http://pradeeppant.com/wp-content/uploads/2019/03/linkedin-150x150.png&quot; alt=&quot;&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/ppant&quot;&gt;&lt;img class=&quot;alignleft wp-image-1897&quot; src=&quot;http://pradeeppant.com/wp-content/uploads/2019/03/github-logo-150x150.png&quot; alt=&quot;&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.quora.com/profile/Pradeep-K-Pant&quot;&gt;&lt;img class=&quot;alignleft wp-image-1898&quot; src=&quot;http://pradeeppant.com/wp-content/uploads/2019/03/quora-150x150.png&quot; alt=&quot;&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://twitter.com/ppant&quot;&gt;&lt;img class=&quot;alignleft wp-image-1900&quot; src=&quot;http://pradeeppant.com/wp-content/uploads/2019/03/twitter-150x150.png&quot; alt=&quot;&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</column>
+            <column name="post_title"></column>
+            <column name="post_excerpt"></column>
+            <column name="post_status">inherit</column>
+            <column name="comment_status">closed</column>
+            <column name="ping_status">closed</column>
+            <column name="post_password"></column>
+            <column name="post_name">877-revision-v1</column>
+            <column name="to_ping"></column>
+            <column name="pinged"></column>
+            <column name="post_modified">2019-12-24 11:54:45</column>
+            <column name="post_modified_gmt">2019-12-24 06:24:45</column>
+            <column name="post_content_filtered"></column>
+            <column name="post_parent">877</column>
+            <column name="guid">http://pradeeppant.com/2019/12/24/877-revision-v1/</column>
+            <column name="menu_order">0</column>
+            <column name="post_type">revision</column>
+            <column name="post_mime_type"></column>
+            <column name="comment_count">0</column>
+        </table>
+        <table name="wp_posts">
+            <column name="ID">2262</column>
+            <column name="post_author">2</column>
+            <column name="post_date">2019-12-25 11:45:40</column>
+            <column name="post_date_gmt">2019-12-25 06:15:40</column>
+            <column name="post_content">&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;em&gt;Caution: This is not a technical post but based on my working habits mainly the time slots for deep work.&lt;/em&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;I am huge fan of Dr. CalNewport Deep work book. &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.calnewport.com/books/deep-work/&quot;&gt;https://www.calnewport.com/books/deep-work/&lt;/a&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</column>
+            <column name="post_title">My Deep Work Infrastructure</column>
+            <column name="post_excerpt"></column>
+            <column name="post_status">inherit</column>
+            <column name="comment_status">closed</column>
+            <column name="ping_status">closed</column>
+            <column name="post_password"></column>
+            <column name="post_name">2246-revision-v1</column>
+            <column name="to_ping"></column>
+            <column name="pinged"></column>
+            <column name="post_modified">2019-12-25 11:45:40</column>
+            <column name="post_modified_gmt">2019-12-25 06:15:40</column>
+            <column name="post_content_filtered"></column>
+            <column name="post_parent">2246</column>
+            <column name="guid">http://pradeeppant.com/2019/12/25/2246-revision-v1/</column>
+            <column name="menu_order">0</column>
+            <column name="post_type">revision</column>
+            <column name="post_mime_type"></column>
+            <column name="comment_count">0</column>
+        </table>
+        <table name="wp_posts">
+            <column name="ID">2263</column>
+            <column name="post_author">2</column>
+            <column name="post_date">2019-12-25 12:04:46</column>
+            <column name="post_date_gmt">2019-12-25 06:34:46</column>
+            <column name="post_content">&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;em&gt;Caution: This is not a technical post but based on my working habits mainly the time slots for deep work.&lt;/em&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;I am a huge fan of Dr. CalNewport Deep work. &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.calnewport.com/books/deep-work/&quot;&gt;https://www.calnewport.com/books/deep-work/&lt;/a&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</column>
+            <column name="post_title">My Deep Work Infrastructure</column>
+            <column name="post_excerpt"></column>
+            <column name="post_status">inherit</column>
+            <column name="comment_status">closed</column>
+            <column name="ping_status">closed</column>
+            <column name="post_password"></column>
+            <column name="post_name">2246-revision-v1</column>
+            <column name="to_ping"></column>
+            <column name="pinged"></column>
+            <column name="post_modified">2019-12-25 12:04:46</column>
+            <column name="post_modified_gmt">2019-12-25 06:34:46</column>
+            <column name="post_content_filtered"></column>
+            <column name="post_parent">2246</column>
+            <column name="guid">http://pradeeppant.com/2019/12/25/2246-revision-v1/</column>
+            <column name="menu_order">0</column>
+            <column name="post_type">revision</column>
+            <column name="post_mime_type"></column>
+            <column name="comment_count">0</column>
+        </table>
+        <table name="wp_posts">
+            <column name="ID">2264</column>
+            <column name="post_author">2</column>
+            <column name="post_date">2019-12-31 23:00:00</column>
+            <column name="post_date_gmt">2019-12-31 17:30:00</column>
+            <column name="post_content">&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Apache POI is the set of Java APIs to manipulate MS Office documents. You can read more about Apache POI &lt;a href=&quot;https://poi.apache.org/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;In this post, I am showing a fully working example to push core and custom properties in Microsoft Word (.doc) file.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph {&quot;customTextColor&quot;:&quot;#0477a8&quot;} --&gt;
+&lt;p style=&quot;color:#0477a8&quot; class=&quot;has-text-color&quot;&gt;&lt;strong&gt;Env:&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;CentOS 6x&lt;/li&gt;&lt;li&gt;Java 1.8&lt;/li&gt;&lt;li&gt;POI 3.17&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://metacpan.org/pod/Inline&quot;&gt;Inline&lt;/a&gt; - Write Perl Subroutines in Other Programming Languages  &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://metacpan.org/pod/Inline::Java&quot;&gt;Inline::Java&lt;/a&gt; - Write Perl classes in Java.  &lt;/li&gt;&lt;li&gt;Perl 5.12&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:paragraph {&quot;customTextColor&quot;:&quot;#0375a6&quot;} --&gt;
+&lt;p style=&quot;color:#0375a6&quot; class=&quot;has-text-color&quot;&gt;&lt;strong&gt;Perl script:&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:code --&gt;
+&lt;pre class=&quot;wp-block-code&quot;&gt;&lt;code&gt;#!/usr/local/bin/perl    
+	use POI;
+	# Call to push custom info in word documents	
+	# Handle DOC, XLS  and PPT extension 
+	# Todo
+	#my $content_type;
+    #if (defined($content_type) &amp;amp;&amp;amp; ($content_type eq &quot;application/x-msword&quot; || $content_type eq &quot;application/vnd.ms-excel&quot; || $content_type eq &quot;application/vnd.ms-powerpoint&quot;) ) {
+	# Make sure to give full path of the doc file
+	my $path = &quot;doc_test_file.doc&quot;;
+	# Make a POI object
+	my $alu = POI-&gt;new();
+	# Time to call push properties routine which is inside POI.pm and written in Java
+	my $docname = $alu-&gt;PushProperties($path,&quot;Test_doc_file&quot;,&quot;Test file doc type extension&quot;,&quot;2.0&quot;,&quot;ppant&quot;);	
+	
+	&lt;/code&gt;&lt;/pre&gt;
+&lt;!-- /wp:code --&gt;
+
+&lt;!-- wp:paragraph {&quot;customTextColor&quot;:&quot;#0373a3&quot;} --&gt;
+&lt;p style=&quot;color:#0373a3&quot; class=&quot;has-text-color&quot;&gt;&lt;strong&gt;Perl module with Java code:&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:code --&gt;
+&lt;pre class=&quot;wp-block-code&quot;&gt;&lt;code&gt;package POI;
+use strict; 
+use warnings;
+use Inline Java =&gt; &quot;DATA&quot;, SHARED_JVM =&gt; 1;
+
+### CONSTRUCTOR
+###############################################################
+# new()
+###############################################################     
+sub new {
+        my $class    = shift;
+        my $proto = shift;        
+        return POI::POI-&gt;new();
+    }
+ 1;
+    __DATA__
+    __Java__
+
+//Import POI classes
+import org.apache.poi.hpsf.CustomProperties;
+import org.apache.poi.hpsf.DocumentSummaryInformation;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.InputStream;
+import java.io.OutputStream;
+import java.util.Date;
+import org.apache.poi.hpsf.PropertySet;
+import org.apache.poi.hpsf.PropertySetFactory;
+import org.apache.poi.hpsf.SummaryInformation;
+import org.apache.poi.poifs.filesystem.DirectoryEntry;
+import org.apache.poi.poifs.filesystem.DocumentEntry;
+import org.apache.poi.poifs.filesystem.DocumentInputStream;
+import org.apache.poi.poifs.filesystem.POIFSFileSystem; 
+
+
+class POI {
+    public POI(){
+}
+/* function for pushing custom variables */
+
+public String PushProperties(String filename, String docname, String doctitle, String revision, String author) {
+	  try {
+		File poiFilesystem = new File(filename);
+     /* Open the POI filesystem. */
+        InputStream is = new FileInputStream(poiFilesystem);
+        POIFSFileSystem poifs = new POIFSFileSystem(is);
+        is.close();
+
+     /* Read the summary information. */
+        DirectoryEntry dir = poifs.getRoot();
+		SummaryInformation si;
+            
+        try {
+            DocumentEntry siEntry = (DocumentEntry)
+                dir.getEntry(SummaryInformation.DEFAULT_STREAM_NAME);
+            DocumentInputStream dis = new DocumentInputStream(siEntry);
+            PropertySet ps = new PropertySet(dis);
+            dis.close();
+            si = new SummaryInformation(ps);
+        }
+        catch (FileNotFoundException ex) {
+            /* There is no summary information yet. We have to create a new
+             * one. */
+            si = PropertySetFactory.newSummaryInformation();
+        }
+
+        /* Change the author to &quot;Pradeep Pant&quot;. Any former author value will
+         * be lost. If there has been no author yet, it will be created. */
+        si.setAuthor(&quot;Pradeep Pant&quot;);
+		si.setTitle(doctitle);
+		si.setSubject(&quot;Car parts manual&quot;);
+		si.setComments(&quot;Testing manual for making car parts&quot;);
+		si.setKeywords(&quot;automobiles&quot;);
+		si.setRevNumber(&quot;2.0&quot;);
+		System.out.println(&quot;Author changed to &quot; + si.getAuthor() + &quot;.&quot;);
+		
+        /* Read the document summary information. */
+        DocumentSummaryInformation dsi;
+        try {
+            DocumentEntry dsiEntry = (DocumentEntry)
+			dir.getEntry(DocumentSummaryInformation.DEFAULT_STREAM_NAME);
+            DocumentInputStream dis = new DocumentInputStream(dsiEntry);
+            PropertySet ps = new PropertySet(dis);
+            dis.close();
+            dsi = new DocumentSummaryInformation(ps);
+        }
+        catch (FileNotFoundException ex) {
+            /* There is no document summary information yet. We have to create a
+             * new one. */
+            dsi = PropertySetFactory.newDocumentSummaryInformation();
+        }
+        dsi.setCategory(&quot;Quality Manual&quot;);  
+		dsi.setCompany(&quot;PRADEEPPANT.COM&quot;);
+		dsi.setManager(&quot;PK PANT&quot;);
+		//Pushing Custom properties
+        CustomProperties cp = dsi.getCustomProperties();
+	if (cp == null)        
+		cp = new CustomProperties();
+		cp.put(&quot;Document Name&quot;,docname);
+		cp.put (&quot;Document Title&quot;,doctitle);
+		cp.put(&quot;Revision number&quot;,revision);
+		cp.put(&quot;Author&quot;,author);
+		cp.put(&quot;Date&quot;, new Date());
+    
+     /* Write the custom properties back to the document summary information. */
+		dsi.setCustomProperties(cp);
+		si.write(dir, SummaryInformation.DEFAULT_STREAM_NAME);
+		dsi.write(dir, DocumentSummaryInformation.DEFAULT_STREAM_NAME);
+	/* Write the POI filesystem back to the original file. Please note that
+         * in production code you should never write directly to the origin
+         * file! In case of a writing error everything would be lost. */
+        OutputStream out = new FileOutputStream(poiFilesystem);
+        poifs.writeFilesystem(out);
+        out.close();
+    
+   } // end of try
+   catch( Exception e ) {
+     e.printStackTrace();
+   }   
+   return docname;
+  } // end of PushProperties
+} //end of public POI&lt;/code&gt;&lt;/pre&gt;
+&lt;!-- /wp:code --&gt;
+
+&lt;!-- wp:paragraph {&quot;customTextColor&quot;:&quot;#0373a3&quot;} --&gt;
+&lt;p style=&quot;color:#0373a3&quot; class=&quot;has-text-color&quot;&gt;&lt;strong&gt;Command to run/stop/restart JVM&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;JVM to be run the first time and each time you make changes to module file.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;For more info on POI env setting please check my &lt;a href=&quot;http://pradeeppant.com/2019/12/09/apache-poi-env-setting-in-centos-6-and-perl/&quot;&gt;previous post&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:pullquote --&gt;
+&lt;figure class=&quot;wp-block-pullquote&quot;&gt;&lt;blockquote&gt;&lt;p&gt; % perl -MInline::Java::Server=start&amp;nbsp; &amp;nbsp;&lt;/p&gt;&lt;p&gt; % perl -MInline::Java::Server=stop&amp;nbsp; &amp;nbsp;&lt;/p&gt;&lt;p&gt; % perl -MInline::Java::Server=restart&lt;/p&gt;&lt;cite&gt;Command to start and stop jvm&lt;/cite&gt;&lt;/blockquote&gt;&lt;/figure&gt;
+&lt;!-- /wp:pullquote --&gt;
+
+&lt;!-- wp:paragraph {&quot;customTextColor&quot;:&quot;#0476a6&quot;} --&gt;
+&lt;p style=&quot;color:#0476a6&quot; class=&quot;has-text-color&quot;&gt;&lt;strong&gt;Full code and sample files on my Github: &lt;/strong&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/ppant/apache-poi-examples-in-perl&quot;&gt;https://github.com/ppant/apache-poi-examples-in-perl&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;In case of issues please mention in comments.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Happy coding!&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;In another post, I will share an example with the Microsoft XLS file which also uses similar set of POI APIs. &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:group --&gt;
+&lt;div class=&quot;wp-block-group&quot;&gt;&lt;div class=&quot;wp-block-group__inner-container&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;!-- /wp:group --&gt;
+
+&lt;!-- wp:group --&gt;
+&lt;div class=&quot;wp-block-group&quot;&gt;&lt;div class=&quot;wp-block-group__inner-container&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;!-- /wp:group --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</column>
+            <column name="post_title">example of adding core and custom properties in Microsoft Word (doc) file using Apache POI through Perl wrapper</column>
+            <column name="post_excerpt"></column>
+            <column name="post_status">publish</column>
+            <column name="comment_status">open</column>
+            <column name="ping_status">open</column>
+            <column name="post_password"></column>
+            <column name="post_name">example-of-adding-core-and-custom-properties-in-microsoft-word-doc-file-using-apache-poi-through-perl-wrapper</column>
+            <column name="to_ping"></column>
+            <column name="pinged"></column>
+            <column name="post_modified">2019-12-31 14:56:59</column>
+            <column name="post_modified_gmt">2019-12-31 09:26:59</column>
+            <column name="post_content_filtered"></column>
+            <column name="post_parent">0</column>
+            <column name="guid">http://pradeeppant.com/?p=2264</column>
+            <column name="menu_order">0</column>
+            <column name="post_type">post</column>
+            <column name="post_mime_type"></column>
+            <column name="comment_count">0</column>
+        </table>
+        <table name="wp_posts">
+            <column name="ID">2265</column>
+            <column name="post_author">2</column>
+            <column name="post_date">2019-12-25 15:06:21</column>
+            <column name="post_date_gmt">2019-12-25 09:36:21</column>
+            <column name="post_content">&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Env:&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;CentOS 6x&lt;/li&gt;&lt;li&gt;Java 1.8&lt;/li&gt;&lt;li&gt;POI 3.17&lt;/li&gt;&lt;li&gt;Perl Inline module&lt;/li&gt;&lt;li&gt;Perl Inline::Java module&lt;/li&gt;&lt;li&gt;Perl 5.12&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Perl script:&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Perl module with Java code:&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Command to run/stop/restart JVM&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</column>
+            <column name="post_title">adding custom properties in doc and xls files using Apache POI through Perl wrapper example</column>
+            <column name="post_excerpt"></column>
+            <column name="post_status">inherit</column>
+            <column name="comment_status">closed</column>
+            <column name="ping_status">closed</column>
+            <column name="post_password"></column>
+            <column name="post_name">2264-revision-v1</column>
+            <column name="to_ping"></column>
+            <column name="pinged"></column>
+            <column name="post_modified">2019-12-25 15:06:21</column>
+            <column name="post_modified_gmt">2019-12-25 09:36:21</column>
+            <column name="post_content_filtered"></column>
+            <column name="post_parent">2264</column>
+            <column name="guid">http://pradeeppant.com/2019/12/25/2264-revision-v1/</column>
+            <column name="menu_order">0</column>
+            <column name="post_type">revision</column>
+            <column name="post_mime_type"></column>
+            <column name="comment_count">0</column>
+        </table>
+        <table name="wp_posts">
+            <column name="ID">2266</column>
+            <column name="post_author">2</column>
+            <column name="post_date">2019-12-25 18:05:03</column>
+            <column name="post_date_gmt">2019-12-25 12:35:03</column>
+            <column name="post_content">&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Env:&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;CentOS 6x&lt;/li&gt;&lt;li&gt;Java 1.8&lt;/li&gt;&lt;li&gt;POI 3.17&lt;/li&gt;&lt;li&gt;Perl Inline module&lt;/li&gt;&lt;li&gt;Perl Inline::Java module&lt;/li&gt;&lt;li&gt;Perl 5.12&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Perl script:&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Perl module with Java code:&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Command to run/stop/restart JVM&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:pullquote --&gt;
+&lt;figure class=&quot;wp-block-pullquote&quot;&gt;&lt;blockquote&gt;&lt;p&gt; % perl -MInline::Java::Server=start   &lt;/p&gt;&lt;p&gt; % perl -MInline::Java::Server=stop   &lt;/p&gt;&lt;p&gt; % perl -MInline::Java::Server=restart&lt;/p&gt;&lt;cite&gt;Command to start and stop jvm&lt;/cite&gt;&lt;/blockquote&gt;&lt;/figure&gt;
+&lt;!-- /wp:pullquote --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/ppant/apache-poi-examples-in-perl&quot;&gt;https://github.com/ppant/apache-poi-examples-in-perl&lt;/a&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;a href=&quot;https://poi.apache.org/&quot;&gt;https://poi.apache.org/&lt;/a&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;a href=&quot;https://metacpan.org/pod/Inline&quot;&gt;https://metacpan.org/pod/Inline&lt;/a&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;a href=&quot;https://metacpan.org/pod/Inline::Java&quot;&gt;https://metacpan.org/pod/Inline::Java&lt;/a&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</column>
+            <column name="post_title">adding custom properties in doc and xls files using Apache POI through Perl wrapper example</column>
+            <column name="post_excerpt"></column>
+            <column name="post_status">inherit</column>
+            <column name="comment_status">closed</column>
+            <column name="ping_status">closed</column>
+            <column name="post_password"></column>
+            <column name="post_name">2264-revision-v1</column>
+            <column name="to_ping"></column>
+            <column name="pinged"></column>
+            <column name="post_modified">2019-12-25 18:05:03</column>
+            <column name="post_modified_gmt">2019-12-25 12:35:03</column>
+            <column name="post_content_filtered"></column>
+            <column name="post_parent">2264</column>
+            <column name="guid">http://pradeeppant.com/2019/12/25/2264-revision-v1/</column>
+            <column name="menu_order">0</column>
+            <column name="post_type">revision</column>
+            <column name="post_mime_type"></column>
+            <column name="comment_count">0</column>
+        </table>
+        <table name="wp_posts">
+            <column name="ID">2270</column>
+            <column name="post_author">2</column>
+            <column name="post_date">2019-12-31 13:42:52</column>
+            <column name="post_date_gmt">2019-12-31 08:12:52</column>
+            <column name="post_content">&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Env:&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;CentOS 6x&lt;/li&gt;&lt;li&gt;Java 1.8&lt;/li&gt;&lt;li&gt;POI 3.17&lt;/li&gt;&lt;li&gt;Perl Inline module&lt;/li&gt;&lt;li&gt;Perl Inline::Java module&lt;/li&gt;&lt;li&gt;Perl 5.12&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Perl script:&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:code --&gt;
+&lt;pre class=&quot;wp-block-code&quot;&gt;&lt;code&gt;#!/usr/local/bin/perl    
+	use POI;
+	# Call to push custom info in word documents	
+	# Handle DOC, XLS  and PPT extension 
+	# Todo
+	#my $content_type;
+    #if (defined($content_type) &amp;amp;&amp;amp; ($content_type eq &quot;application/x-msword&quot; || $content_type eq &quot;application/vnd.ms-excel&quot; || $content_type eq &quot;application/vnd.ms-powerpoint&quot;) ) {
+	# Make sure to give full path of the doc file
+	my $path = &quot;doc_test_file.doc&quot;;
+	# Make a POI object
+	my $alu = POI-&gt;new();
+	# Time to call push properties routine which is inside POI.pm and written in Java
+	my $docname = $alu-&gt;PushProperties($path,&quot;Test_doc_file&quot;,&quot;Test file doc type extension&quot;,&quot;2.0&quot;,&quot;ppant&quot;);	
+	
+	
+	
+	
+	
+	
+&lt;/code&gt;&lt;/pre&gt;
+&lt;!-- /wp:code --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Perl module with Java code:&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:code --&gt;
+&lt;pre class=&quot;wp-block-code&quot;&gt;&lt;code&gt;package POI;
+use strict; 
+use warnings;
+use Inline Java =&gt; &quot;DATA&quot;, SHARED_JVM =&gt; 1;
+
+### CONSTRUCTOR
+###############################################################
+# new()
+###############################################################     
+sub new {
+        my $class    = shift;
+        my $proto = shift;        
+        return POI::POI-&gt;new();
+    }
+ 1;
+    __DATA__
+    __Java__
+
+//Import POI classes
+import org.apache.poi.hpsf.CustomProperties;
+import org.apache.poi.hpsf.DocumentSummaryInformation;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.InputStream;
+import java.io.OutputStream;
+import java.util.Date;
+import org.apache.poi.hpsf.PropertySet;
+import org.apache.poi.hpsf.PropertySetFactory;
+import org.apache.poi.hpsf.SummaryInformation;
+import org.apache.poi.poifs.filesystem.DirectoryEntry;
+import org.apache.poi.poifs.filesystem.DocumentEntry;
+import org.apache.poi.poifs.filesystem.DocumentInputStream;
+import org.apache.poi.poifs.filesystem.POIFSFileSystem; 
+
+
+class POI {
+    public POI(){
+}
+/* function for pushing custom variables */
+
+public String PushProperties(String filename, String docname, String doctitle, String revision, String author) {
+	  try {
+		File poiFilesystem = new File(filename);
+     /* Open the POI filesystem. */
+        InputStream is = new FileInputStream(poiFilesystem);
+        POIFSFileSystem poifs = new POIFSFileSystem(is);
+        is.close();
+
+     /* Read the summary information. */
+        DirectoryEntry dir = poifs.getRoot();
+		SummaryInformation si;
+            
+        try {
+            DocumentEntry siEntry = (DocumentEntry)
+                dir.getEntry(SummaryInformation.DEFAULT_STREAM_NAME);
+            DocumentInputStream dis = new DocumentInputStream(siEntry);
+            PropertySet ps = new PropertySet(dis);
+            dis.close();
+            si = new SummaryInformation(ps);
+        }
+        catch (FileNotFoundException ex) {
+            /* There is no summary information yet. We have to create a new
+             * one. */
+            si = PropertySetFactory.newSummaryInformation();
+        }
+
+        /* Change the author to &quot;Pradeep Pant&quot;. Any former author value will
+         * be lost. If there has been no author yet, it will be created. */
+        si.setAuthor(&quot;Pradeep Pant&quot;);
+		si.setTitle(doctitle);
+		si.setSubject(&quot;Car parts manual&quot;);
+		si.setComments(&quot;Testing manual for making car parts&quot;);
+		si.setKeywords(&quot;automobiles&quot;);
+		si.setRevNumber(&quot;2.0&quot;);
+		System.out.println(&quot;Author changed to &quot; + si.getAuthor() + &quot;.&quot;);
+		
+        /* Read the document summary information. */
+        DocumentSummaryInformation dsi;
+        try {
+            DocumentEntry dsiEntry = (DocumentEntry)
+			dir.getEntry(DocumentSummaryInformation.DEFAULT_STREAM_NAME);
+            DocumentInputStream dis = new DocumentInputStream(dsiEntry);
+            PropertySet ps = new PropertySet(dis);
+            dis.close();
+            dsi = new DocumentSummaryInformation(ps);
+        }
+        catch (FileNotFoundException ex) {
+            /* There is no document summary information yet. We have to create a
+             * new one. */
+            dsi = PropertySetFactory.newDocumentSummaryInformation();
+        }
+        dsi.setCategory(&quot;Quality Manual&quot;);  
+		dsi.setCompany(&quot;PRADEEPPANT.COM&quot;);
+		dsi.setManager(&quot;PK PANT&quot;);
+		//Pushing Custom properties
+        CustomProperties cp = dsi.getCustomProperties();
+	if (cp == null)        
+		cp = new CustomProperties();
+		cp.put(&quot;Document Name&quot;,docname);
+		cp.put (&quot;Document Title&quot;,doctitle);
+		cp.put(&quot;Revision number&quot;,revision);
+		cp.put(&quot;Author&quot;,author);
+		cp.put(&quot;Date&quot;, new Date());
+    
+     /* Write the custom properties back to the document summary information. */
+		dsi.setCustomProperties(cp);
+		si.write(dir, SummaryInformation.DEFAULT_STREAM_NAME);
+		dsi.write(dir, DocumentSummaryInformation.DEFAULT_STREAM_NAME);
+	/* Write the POI filesystem back to the original file. Please note that
+         * in production code you should never write directly to the origin
+         * file! In case of a writing error everything would be lost. */
+        OutputStream out = new FileOutputStream(poiFilesystem);
+        poifs.writeFilesystem(out);
+        out.close();
+    
+   } // end of try
+   catch( Exception e ) {
+     e.printStackTrace();
+   }   
+   return docname;
+  } // end of PushProperties
+} //end of public POI&lt;/code&gt;&lt;/pre&gt;
+&lt;!-- /wp:code --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Command to run/stop/restart JVM&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:pullquote --&gt;
+&lt;figure class=&quot;wp-block-pullquote&quot;&gt;&lt;blockquote&gt;&lt;p&gt; % perl -MInline::Java::Server=start&amp;nbsp; &amp;nbsp;&lt;/p&gt;&lt;p&gt; % perl -MInline::Java::Server=stop&amp;nbsp; &amp;nbsp;&lt;/p&gt;&lt;p&gt; % perl -MInline::Java::Server=restart&lt;/p&gt;&lt;cite&gt;Command to start and stop jvm&lt;/cite&gt;&lt;/blockquote&gt;&lt;/figure&gt;
+&lt;!-- /wp:pullquote --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Full code and sample files: &lt;a href=&quot;https://github.com/ppant/apache-poi-examples-in-perl&quot;&gt;https://github.com/ppant/apache-poi-examples-in-perl&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:group --&gt;
+&lt;div class=&quot;wp-block-group&quot;&gt;&lt;div class=&quot;wp-block-group__inner-container&quot;&gt;&lt;!-- wp:group --&gt;
+&lt;div class=&quot;wp-block-group&quot;&gt;&lt;div class=&quot;wp-block-group__inner-container&quot;&gt;&lt;!-- wp:paragraph {&quot;customTextColor&quot;:&quot;#0099a3&quot;} --&gt;
+&lt;p style=&quot;color:#0099a3&quot; class=&quot;has-text-color&quot;&gt;&lt;strong&gt;References:&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;!-- /wp:group --&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;!-- /wp:group --&gt;
+
+&lt;!-- wp:group --&gt;
+&lt;div class=&quot;wp-block-group&quot;&gt;&lt;div class=&quot;wp-block-group__inner-container&quot;&gt;&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Apache POI &lt;a href=&quot;https://poi.apache.org/&quot;&gt;https://poi.apache.org/&lt;/a&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Perl Inline module: &lt;a href=&quot;https://metacpan.org/pod/Inline&quot;&gt;https://metacpan.org/pod/Inline&lt;/a&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Perl Inline::Java module: &lt;a href=&quot;https://metacpan.org/pod/Inline::Java&quot;&gt;https://metacpan.org/pod/Inline::Java&lt;/a&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;!-- /wp:group --&gt;</column>
+            <column name="post_title">adding custom properties in doc and xls files using Apache POI through Perl wrapper example</column>
+            <column name="post_excerpt"></column>
+            <column name="post_status">inherit</column>
+            <column name="comment_status">closed</column>
+            <column name="ping_status">closed</column>
+            <column name="post_password"></column>
+            <column name="post_name">2264-revision-v1</column>
+            <column name="to_ping"></column>
+            <column name="pinged"></column>
+            <column name="post_modified">2019-12-31 13:42:52</column>
+            <column name="post_modified_gmt">2019-12-31 08:12:52</column>
+            <column name="post_content_filtered"></column>
+            <column name="post_parent">2264</column>
+            <column name="guid">http://pradeeppant.com/2019/12/31/2264-revision-v1/</column>
+            <column name="menu_order">0</column>
+            <column name="post_type">revision</column>
+            <column name="post_mime_type"></column>
+            <column name="comment_count">0</column>
+        </table>
+        <table name="wp_posts">
+            <column name="ID">2271</column>
+            <column name="post_author">2</column>
+            <column name="post_date">2019-12-31 13:48:07</column>
+            <column name="post_date_gmt">2019-12-31 08:18:07</column>
+            <column name="post_content">&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Apache POI are the set of Java API's to manipulate MS Office documents. You can read more about Apache POI &lt;a href=&quot;https://poi.apache.org/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;In this post, I am showing a fully working example to push core and custom properties in Microsoft Word (.doc) file.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph {&quot;customTextColor&quot;:&quot;#0477a8&quot;} --&gt;
+&lt;p style=&quot;color:#0477a8&quot; class=&quot;has-text-color&quot;&gt;&lt;strong&gt;Env:&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;CentOS 6x&lt;/li&gt;&lt;li&gt;Java 1.8&lt;/li&gt;&lt;li&gt;POI 3.17&lt;/li&gt;&lt;li&gt;Perl Inline module&lt;/li&gt;&lt;li&gt;Perl Inline::Java module&lt;/li&gt;&lt;li&gt;Perl 5.12&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:paragraph {&quot;customTextColor&quot;:&quot;#0375a6&quot;} --&gt;
+&lt;p style=&quot;color:#0375a6&quot; class=&quot;has-text-color&quot;&gt;&lt;strong&gt;Perl script:&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:code --&gt;
+&lt;pre class=&quot;wp-block-code&quot;&gt;&lt;code&gt;#!/usr/local/bin/perl    
+	use POI;
+	# Call to push custom info in word documents	
+	# Handle DOC, XLS  and PPT extension 
+	# Todo
+	#my $content_type;
+    #if (defined($content_type) &amp;amp;&amp;amp; ($content_type eq &quot;application/x-msword&quot; || $content_type eq &quot;application/vnd.ms-excel&quot; || $content_type eq &quot;application/vnd.ms-powerpoint&quot;) ) {
+	# Make sure to give full path of the doc file
+	my $path = &quot;doc_test_file.doc&quot;;
+	# Make a POI object
+	my $alu = POI-&gt;new();
+	# Time to call push properties routine which is inside POI.pm and written in Java
+	my $docname = $alu-&gt;PushProperties($path,&quot;Test_doc_file&quot;,&quot;Test file doc type extension&quot;,&quot;2.0&quot;,&quot;ppant&quot;);	
+	
+	
+	
+	
+	
+	
+&lt;/code&gt;&lt;/pre&gt;
+&lt;!-- /wp:code --&gt;
+
+&lt;!-- wp:paragraph {&quot;customTextColor&quot;:&quot;#0373a3&quot;} --&gt;
+&lt;p style=&quot;color:#0373a3&quot; class=&quot;has-text-color&quot;&gt;&lt;strong&gt;Perl module with Java code:&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:code --&gt;
+&lt;pre class=&quot;wp-block-code&quot;&gt;&lt;code&gt;package POI;
+use strict; 
+use warnings;
+use Inline Java =&gt; &quot;DATA&quot;, SHARED_JVM =&gt; 1;
+
+### CONSTRUCTOR
+###############################################################
+# new()
+###############################################################     
+sub new {
+        my $class    = shift;
+        my $proto = shift;        
+        return POI::POI-&gt;new();
+    }
+ 1;
+    __DATA__
+    __Java__
+
+//Import POI classes
+import org.apache.poi.hpsf.CustomProperties;
+import org.apache.poi.hpsf.DocumentSummaryInformation;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.InputStream;
+import java.io.OutputStream;
+import java.util.Date;
+import org.apache.poi.hpsf.PropertySet;
+import org.apache.poi.hpsf.PropertySetFactory;
+import org.apache.poi.hpsf.SummaryInformation;
+import org.apache.poi.poifs.filesystem.DirectoryEntry;
+import org.apache.poi.poifs.filesystem.DocumentEntry;
+import org.apache.poi.poifs.filesystem.DocumentInputStream;
+import org.apache.poi.poifs.filesystem.POIFSFileSystem; 
+
+
+class POI {
+    public POI(){
+}
+/* function for pushing custom variables */
+
+public String PushProperties(String filename, String docname, String doctitle, String revision, String author) {
+	  try {
+		File poiFilesystem = new File(filename);
+     /* Open the POI filesystem. */
+        InputStream is = new FileInputStream(poiFilesystem);
+        POIFSFileSystem poifs = new POIFSFileSystem(is);
+        is.close();
+
+     /* Read the summary information. */
+        DirectoryEntry dir = poifs.getRoot();
+		SummaryInformation si;
+            
+        try {
+            DocumentEntry siEntry = (DocumentEntry)
+                dir.getEntry(SummaryInformation.DEFAULT_STREAM_NAME);
+            DocumentInputStream dis = new DocumentInputStream(siEntry);
+            PropertySet ps = new PropertySet(dis);
+            dis.close();
+            si = new SummaryInformation(ps);
+        }
+        catch (FileNotFoundException ex) {
+            /* There is no summary information yet. We have to create a new
+             * one. */
+            si = PropertySetFactory.newSummaryInformation();
+        }
+
+        /* Change the author to &quot;Pradeep Pant&quot;. Any former author value will
+         * be lost. If there has been no author yet, it will be created. */
+        si.setAuthor(&quot;Pradeep Pant&quot;);
+		si.setTitle(doctitle);
+		si.setSubject(&quot;Car parts manual&quot;);
+		si.setComments(&quot;Testing manual for making car parts&quot;);
+		si.setKeywords(&quot;automobiles&quot;);
+		si.setRevNumber(&quot;2.0&quot;);
+		System.out.println(&quot;Author changed to &quot; + si.getAuthor() + &quot;.&quot;);
+		
+        /* Read the document summary information. */
+        DocumentSummaryInformation dsi;
+        try {
+            DocumentEntry dsiEntry = (DocumentEntry)
+			dir.getEntry(DocumentSummaryInformation.DEFAULT_STREAM_NAME);
+            DocumentInputStream dis = new DocumentInputStream(dsiEntry);
+            PropertySet ps = new PropertySet(dis);
+            dis.close();
+            dsi = new DocumentSummaryInformation(ps);
+        }
+        catch (FileNotFoundException ex) {
+            /* There is no document summary information yet. We have to create a
+             * new one. */
+            dsi = PropertySetFactory.newDocumentSummaryInformation();
+        }
+        dsi.setCategory(&quot;Quality Manual&quot;);  
+		dsi.setCompany(&quot;PRADEEPPANT.COM&quot;);
+		dsi.setManager(&quot;PK PANT&quot;);
+		//Pushing Custom properties
+        CustomProperties cp = dsi.getCustomProperties();
+	if (cp == null)        
+		cp = new CustomProperties();
+		cp.put(&quot;Document Name&quot;,docname);
+		cp.put (&quot;Document Title&quot;,doctitle);
+		cp.put(&quot;Revision number&quot;,revision);
+		cp.put(&quot;Author&quot;,author);
+		cp.put(&quot;Date&quot;, new Date());
+    
+     /* Write the custom properties back to the document summary information. */
+		dsi.setCustomProperties(cp);
+		si.write(dir, SummaryInformation.DEFAULT_STREAM_NAME);
+		dsi.write(dir, DocumentSummaryInformation.DEFAULT_STREAM_NAME);
+	/* Write the POI filesystem back to the original file. Please note that
+         * in production code you should never write directly to the origin
+         * file! In case of a writing error everything would be lost. */
+        OutputStream out = new FileOutputStream(poiFilesystem);
+        poifs.writeFilesystem(out);
+        out.close();
+    
+   } // end of try
+   catch( Exception e ) {
+     e.printStackTrace();
+   }   
+   return docname;
+  } // end of PushProperties
+} //end of public POI&lt;/code&gt;&lt;/pre&gt;
+&lt;!-- /wp:code --&gt;
+
+&lt;!-- wp:paragraph {&quot;customTextColor&quot;:&quot;#0373a3&quot;} --&gt;
+&lt;p style=&quot;color:#0373a3&quot; class=&quot;has-text-color&quot;&gt;&lt;strong&gt;Command to run/stop/restart JVM&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:pullquote --&gt;
+&lt;figure class=&quot;wp-block-pullquote&quot;&gt;&lt;blockquote&gt;&lt;p&gt; % perl -MInline::Java::Server=start&amp;nbsp; &amp;nbsp;&lt;/p&gt;&lt;p&gt; % perl -MInline::Java::Server=stop&amp;nbsp; &amp;nbsp;&lt;/p&gt;&lt;p&gt; % perl -MInline::Java::Server=restart&lt;/p&gt;&lt;cite&gt;Command to start and stop jvm&lt;/cite&gt;&lt;/blockquote&gt;&lt;/figure&gt;
+&lt;!-- /wp:pullquote --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Full code and sample files: &lt;a href=&quot;https://github.com/ppant/apache-poi-examples-in-perl&quot;&gt;https://github.com/ppant/apache-poi-examples-in-perl&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:group --&gt;
+&lt;div class=&quot;wp-block-group&quot;&gt;&lt;div class=&quot;wp-block-group__inner-container&quot;&gt;&lt;!-- wp:group --&gt;
+&lt;div class=&quot;wp-block-group&quot;&gt;&lt;div class=&quot;wp-block-group__inner-container&quot;&gt;&lt;!-- wp:paragraph {&quot;customTextColor&quot;:&quot;#03868f&quot;} --&gt;
+&lt;p style=&quot;color:#03868f&quot; class=&quot;has-text-color&quot;&gt;&lt;strong&gt;References:&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;!-- /wp:group --&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;!-- /wp:group --&gt;
+
+&lt;!-- wp:group --&gt;
+&lt;div class=&quot;wp-block-group&quot;&gt;&lt;div class=&quot;wp-block-group__inner-container&quot;&gt;&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Apache POI &lt;a href=&quot;https://poi.apache.org/&quot;&gt;https://poi.apache.org/&lt;/a&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Perl Inline module: &lt;a href=&quot;https://metacpan.org/pod/Inline&quot;&gt;https://metacpan.org/pod/Inline&lt;/a&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Perl Inline::Java module: &lt;a href=&quot;https://metacpan.org/pod/Inline::Java&quot;&gt;https://metacpan.org/pod/Inline::Java&lt;/a&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;!-- /wp:group --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</column>
+            <column name="post_title">adding custom properties in doc and xls files using Apache POI through Perl wrapper example</column>
+            <column name="post_excerpt"></column>
+            <column name="post_status">inherit</column>
+            <column name="comment_status">closed</column>
+            <column name="ping_status">closed</column>
+            <column name="post_password"></column>
+            <column name="post_name">2264-revision-v1</column>
+            <column name="to_ping"></column>
+            <column name="pinged"></column>
+            <column name="post_modified">2019-12-31 13:48:07</column>
+            <column name="post_modified_gmt">2019-12-31 08:18:07</column>
+            <column name="post_content_filtered"></column>
+            <column name="post_parent">2264</column>
+            <column name="guid">http://pradeeppant.com/2019/12/31/2264-revision-v1/</column>
+            <column name="menu_order">0</column>
+            <column name="post_type">revision</column>
+            <column name="post_mime_type"></column>
+            <column name="comment_count">0</column>
+        </table>
+        <table name="wp_posts">
+            <column name="ID">2272</column>
+            <column name="post_author">2</column>
+            <column name="post_date">2019-12-31 13:56:15</column>
+            <column name="post_date_gmt">2019-12-31 08:26:15</column>
+            <column name="post_content">&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Apache POI is the set of Java APIs to manipulate MS Office documents. You can read more about Apache POI &lt;a href=&quot;https://poi.apache.org/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;In this post, I am showing a fully working example to push core and custom properties in Microsoft Word (.doc) file.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph {&quot;customTextColor&quot;:&quot;#0477a8&quot;} --&gt;
+&lt;p style=&quot;color:#0477a8&quot; class=&quot;has-text-color&quot;&gt;&lt;strong&gt;Env:&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;CentOS 6x&lt;/li&gt;&lt;li&gt;Java 1.8&lt;/li&gt;&lt;li&gt;POI 3.17&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://metacpan.org/pod/Inline&quot;&gt;Inline&lt;/a&gt; - Write Perl Subroutines in Other Programming Languages  &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://metacpan.org/pod/Inline::Java&quot;&gt;Inline::Java&lt;/a&gt; - Write Perl classes in Java.  &lt;/li&gt;&lt;li&gt;Perl 5.12&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:paragraph {&quot;customTextColor&quot;:&quot;#0375a6&quot;} --&gt;
+&lt;p style=&quot;color:#0375a6&quot; class=&quot;has-text-color&quot;&gt;&lt;strong&gt;Perl script:&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:code --&gt;
+&lt;pre class=&quot;wp-block-code&quot;&gt;&lt;code&gt;#!/usr/local/bin/perl    
+	use POI;
+	# Call to push custom info in word documents	
+	# Handle DOC, XLS  and PPT extension 
+	# Todo
+	#my $content_type;
+    #if (defined($content_type) &amp;amp;&amp;amp; ($content_type eq &quot;application/x-msword&quot; || $content_type eq &quot;application/vnd.ms-excel&quot; || $content_type eq &quot;application/vnd.ms-powerpoint&quot;) ) {
+	# Make sure to give full path of the doc file
+	my $path = &quot;doc_test_file.doc&quot;;
+	# Make a POI object
+	my $alu = POI-&gt;new();
+	# Time to call push properties routine which is inside POI.pm and written in Java
+	my $docname = $alu-&gt;PushProperties($path,&quot;Test_doc_file&quot;,&quot;Test file doc type extension&quot;,&quot;2.0&quot;,&quot;ppant&quot;);	
+	
+	
+	
+	
+	
+	
+&lt;/code&gt;&lt;/pre&gt;
+&lt;!-- /wp:code --&gt;
+
+&lt;!-- wp:paragraph {&quot;customTextColor&quot;:&quot;#0373a3&quot;} --&gt;
+&lt;p style=&quot;color:#0373a3&quot; class=&quot;has-text-color&quot;&gt;&lt;strong&gt;Perl module with Java code:&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:code --&gt;
+&lt;pre class=&quot;wp-block-code&quot;&gt;&lt;code&gt;package POI;
+use strict; 
+use warnings;
+use Inline Java =&gt; &quot;DATA&quot;, SHARED_JVM =&gt; 1;
+
+### CONSTRUCTOR
+###############################################################
+# new()
+###############################################################     
+sub new {
+        my $class    = shift;
+        my $proto = shift;        
+        return POI::POI-&gt;new();
+    }
+ 1;
+    __DATA__
+    __Java__
+
+//Import POI classes
+import org.apache.poi.hpsf.CustomProperties;
+import org.apache.poi.hpsf.DocumentSummaryInformation;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.InputStream;
+import java.io.OutputStream;
+import java.util.Date;
+import org.apache.poi.hpsf.PropertySet;
+import org.apache.poi.hpsf.PropertySetFactory;
+import org.apache.poi.hpsf.SummaryInformation;
+import org.apache.poi.poifs.filesystem.DirectoryEntry;
+import org.apache.poi.poifs.filesystem.DocumentEntry;
+import org.apache.poi.poifs.filesystem.DocumentInputStream;
+import org.apache.poi.poifs.filesystem.POIFSFileSystem; 
+
+
+class POI {
+    public POI(){
+}
+/* function for pushing custom variables */
+
+public String PushProperties(String filename, String docname, String doctitle, String revision, String author) {
+	  try {
+		File poiFilesystem = new File(filename);
+     /* Open the POI filesystem. */
+        InputStream is = new FileInputStream(poiFilesystem);
+        POIFSFileSystem poifs = new POIFSFileSystem(is);
+        is.close();
+
+     /* Read the summary information. */
+        DirectoryEntry dir = poifs.getRoot();
+		SummaryInformation si;
+            
+        try {
+            DocumentEntry siEntry = (DocumentEntry)
+                dir.getEntry(SummaryInformation.DEFAULT_STREAM_NAME);
+            DocumentInputStream dis = new DocumentInputStream(siEntry);
+            PropertySet ps = new PropertySet(dis);
+            dis.close();
+            si = new SummaryInformation(ps);
+        }
+        catch (FileNotFoundException ex) {
+            /* There is no summary information yet. We have to create a new
+             * one. */
+            si = PropertySetFactory.newSummaryInformation();
+        }
+
+        /* Change the author to &quot;Pradeep Pant&quot;. Any former author value will
+         * be lost. If there has been no author yet, it will be created. */
+        si.setAuthor(&quot;Pradeep Pant&quot;);
+		si.setTitle(doctitle);
+		si.setSubject(&quot;Car parts manual&quot;);
+		si.setComments(&quot;Testing manual for making car parts&quot;);
+		si.setKeywords(&quot;automobiles&quot;);
+		si.setRevNumber(&quot;2.0&quot;);
+		System.out.println(&quot;Author changed to &quot; + si.getAuthor() + &quot;.&quot;);
+		
+        /* Read the document summary information. */
+        DocumentSummaryInformation dsi;
+        try {
+            DocumentEntry dsiEntry = (DocumentEntry)
+			dir.getEntry(DocumentSummaryInformation.DEFAULT_STREAM_NAME);
+            DocumentInputStream dis = new DocumentInputStream(dsiEntry);
+            PropertySet ps = new PropertySet(dis);
+            dis.close();
+            dsi = new DocumentSummaryInformation(ps);
+        }
+        catch (FileNotFoundException ex) {
+            /* There is no document summary information yet. We have to create a
+             * new one. */
+            dsi = PropertySetFactory.newDocumentSummaryInformation();
+        }
+        dsi.setCategory(&quot;Quality Manual&quot;);  
+		dsi.setCompany(&quot;PRADEEPPANT.COM&quot;);
+		dsi.setManager(&quot;PK PANT&quot;);
+		//Pushing Custom properties
+        CustomProperties cp = dsi.getCustomProperties();
+	if (cp == null)        
+		cp = new CustomProperties();
+		cp.put(&quot;Document Name&quot;,docname);
+		cp.put (&quot;Document Title&quot;,doctitle);
+		cp.put(&quot;Revision number&quot;,revision);
+		cp.put(&quot;Author&quot;,author);
+		cp.put(&quot;Date&quot;, new Date());
+    
+     /* Write the custom properties back to the document summary information. */
+		dsi.setCustomProperties(cp);
+		si.write(dir, SummaryInformation.DEFAULT_STREAM_NAME);
+		dsi.write(dir, DocumentSummaryInformation.DEFAULT_STREAM_NAME);
+	/* Write the POI filesystem back to the original file. Please note that
+         * in production code you should never write directly to the origin
+         * file! In case of a writing error everything would be lost. */
+        OutputStream out = new FileOutputStream(poiFilesystem);
+        poifs.writeFilesystem(out);
+        out.close();
+    
+   } // end of try
+   catch( Exception e ) {
+     e.printStackTrace();
+   }   
+   return docname;
+  } // end of PushProperties
+} //end of public POI&lt;/code&gt;&lt;/pre&gt;
+&lt;!-- /wp:code --&gt;
+
+&lt;!-- wp:paragraph {&quot;customTextColor&quot;:&quot;#0373a3&quot;} --&gt;
+&lt;p style=&quot;color:#0373a3&quot; class=&quot;has-text-color&quot;&gt;&lt;strong&gt;Command to run/stop/restart JVM&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:pullquote --&gt;
+&lt;figure class=&quot;wp-block-pullquote&quot;&gt;&lt;blockquote&gt;&lt;p&gt; % perl -MInline::Java::Server=start&amp;nbsp; &amp;nbsp;&lt;/p&gt;&lt;p&gt; % perl -MInline::Java::Server=stop&amp;nbsp; &amp;nbsp;&lt;/p&gt;&lt;p&gt; % perl -MInline::Java::Server=restart&lt;/p&gt;&lt;cite&gt;Command to start and stop jvm&lt;/cite&gt;&lt;/blockquote&gt;&lt;/figure&gt;
+&lt;!-- /wp:pullquote --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Full code and sample files: &lt;a href=&quot;https://github.com/ppant/apache-poi-examples-in-perl&quot;&gt;https://github.com/ppant/apache-poi-examples-in-perl&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:group --&gt;
+&lt;div class=&quot;wp-block-group&quot;&gt;&lt;div class=&quot;wp-block-group__inner-container&quot;&gt;&lt;!-- wp:group --&gt;
+&lt;div class=&quot;wp-block-group&quot;&gt;&lt;div class=&quot;wp-block-group__inner-container&quot;&gt;&lt;!-- wp:paragraph {&quot;customTextColor&quot;:&quot;#03868f&quot;} --&gt;
+&lt;p style=&quot;color:#03868f&quot; class=&quot;has-text-color&quot;&gt;&lt;strong&gt;References:&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;!-- /wp:group --&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;!-- /wp:group --&gt;
+
+&lt;!-- wp:group --&gt;
+&lt;div class=&quot;wp-block-group&quot;&gt;&lt;div class=&quot;wp-block-group__inner-container&quot;&gt;&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Apache POI &lt;a href=&quot;https://poi.apache.org/&quot;&gt;https://poi.apache.org/&lt;/a&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Perl Inline module: &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Perl Inline::Java module:&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;!-- /wp:group --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</column>
+            <column name="post_title">example of adding core and custom properties in Microsoft Word (doc) file using Apache POI through Perl wrapper</column>
+            <column name="post_excerpt"></column>
+            <column name="post_status">inherit</column>
+            <column name="comment_status">closed</column>
+            <column name="ping_status">closed</column>
+            <column name="post_password"></column>
+            <column name="post_name">2264-revision-v1</column>
+            <column name="to_ping"></column>
+            <column name="pinged"></column>
+            <column name="post_modified">2019-12-31 13:56:15</column>
+            <column name="post_modified_gmt">2019-12-31 08:26:15</column>
+            <column name="post_content_filtered"></column>
+            <column name="post_parent">2264</column>
+            <column name="guid">http://pradeeppant.com/2019/12/31/2264-revision-v1/</column>
+            <column name="menu_order">0</column>
+            <column name="post_type">revision</column>
+            <column name="post_mime_type"></column>
+            <column name="comment_count">0</column>
+        </table>
+        <table name="wp_posts">
+            <column name="ID">2273</column>
+            <column name="post_author">2</column>
+            <column name="post_date">2019-12-31 13:57:12</column>
+            <column name="post_date_gmt">2019-12-31 08:27:12</column>
+            <column name="post_content">&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Apache POI is the set of Java APIs to manipulate MS Office documents. You can read more about Apache POI &lt;a href=&quot;https://poi.apache.org/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;In this post, I am showing a fully working example to push core and custom properties in Microsoft Word (.doc) file.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph {&quot;customTextColor&quot;:&quot;#0477a8&quot;} --&gt;
+&lt;p style=&quot;color:#0477a8&quot; class=&quot;has-text-color&quot;&gt;&lt;strong&gt;Env:&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;CentOS 6x&lt;/li&gt;&lt;li&gt;Java 1.8&lt;/li&gt;&lt;li&gt;POI 3.17&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://metacpan.org/pod/Inline&quot;&gt;Inline&lt;/a&gt; - Write Perl Subroutines in Other Programming Languages  &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://metacpan.org/pod/Inline::Java&quot;&gt;Inline::Java&lt;/a&gt; - Write Perl classes in Java.  &lt;/li&gt;&lt;li&gt;Perl 5.12&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:paragraph {&quot;customTextColor&quot;:&quot;#0375a6&quot;} --&gt;
+&lt;p style=&quot;color:#0375a6&quot; class=&quot;has-text-color&quot;&gt;&lt;strong&gt;Perl script:&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:code --&gt;
+&lt;pre class=&quot;wp-block-code&quot;&gt;&lt;code&gt;#!/usr/local/bin/perl    
+	use POI;
+	# Call to push custom info in word documents	
+	# Handle DOC, XLS  and PPT extension 
+	# Todo
+	#my $content_type;
+    #if (defined($content_type) &amp;amp;&amp;amp; ($content_type eq &quot;application/x-msword&quot; || $content_type eq &quot;application/vnd.ms-excel&quot; || $content_type eq &quot;application/vnd.ms-powerpoint&quot;) ) {
+	# Make sure to give full path of the doc file
+	my $path = &quot;doc_test_file.doc&quot;;
+	# Make a POI object
+	my $alu = POI-&gt;new();
+	# Time to call push properties routine which is inside POI.pm and written in Java
+	my $docname = $alu-&gt;PushProperties($path,&quot;Test_doc_file&quot;,&quot;Test file doc type extension&quot;,&quot;2.0&quot;,&quot;ppant&quot;);	
+	
+	
+	
+	
+	
+	
+&lt;/code&gt;&lt;/pre&gt;
+&lt;!-- /wp:code --&gt;
+
+&lt;!-- wp:paragraph {&quot;customTextColor&quot;:&quot;#0373a3&quot;} --&gt;
+&lt;p style=&quot;color:#0373a3&quot; class=&quot;has-text-color&quot;&gt;&lt;strong&gt;Perl module with Java code:&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:code --&gt;
+&lt;pre class=&quot;wp-block-code&quot;&gt;&lt;code&gt;package POI;
+use strict; 
+use warnings;
+use Inline Java =&gt; &quot;DATA&quot;, SHARED_JVM =&gt; 1;
+
+### CONSTRUCTOR
+###############################################################
+# new()
+###############################################################     
+sub new {
+        my $class    = shift;
+        my $proto = shift;        
+        return POI::POI-&gt;new();
+    }
+ 1;
+    __DATA__
+    __Java__
+
+//Import POI classes
+import org.apache.poi.hpsf.CustomProperties;
+import org.apache.poi.hpsf.DocumentSummaryInformation;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.InputStream;
+import java.io.OutputStream;
+import java.util.Date;
+import org.apache.poi.hpsf.PropertySet;
+import org.apache.poi.hpsf.PropertySetFactory;
+import org.apache.poi.hpsf.SummaryInformation;
+import org.apache.poi.poifs.filesystem.DirectoryEntry;
+import org.apache.poi.poifs.filesystem.DocumentEntry;
+import org.apache.poi.poifs.filesystem.DocumentInputStream;
+import org.apache.poi.poifs.filesystem.POIFSFileSystem; 
+
+
+class POI {
+    public POI(){
+}
+/* function for pushing custom variables */
+
+public String PushProperties(String filename, String docname, String doctitle, String revision, String author) {
+	  try {
+		File poiFilesystem = new File(filename);
+     /* Open the POI filesystem. */
+        InputStream is = new FileInputStream(poiFilesystem);
+        POIFSFileSystem poifs = new POIFSFileSystem(is);
+        is.close();
+
+     /* Read the summary information. */
+        DirectoryEntry dir = poifs.getRoot();
+		SummaryInformation si;
+            
+        try {
+            DocumentEntry siEntry = (DocumentEntry)
+                dir.getEntry(SummaryInformation.DEFAULT_STREAM_NAME);
+            DocumentInputStream dis = new DocumentInputStream(siEntry);
+            PropertySet ps = new PropertySet(dis);
+            dis.close();
+            si = new SummaryInformation(ps);
+        }
+        catch (FileNotFoundException ex) {
+            /* There is no summary information yet. We have to create a new
+             * one. */
+            si = PropertySetFactory.newSummaryInformation();
+        }
+
+        /* Change the author to &quot;Pradeep Pant&quot;. Any former author value will
+         * be lost. If there has been no author yet, it will be created. */
+        si.setAuthor(&quot;Pradeep Pant&quot;);
+		si.setTitle(doctitle);
+		si.setSubject(&quot;Car parts manual&quot;);
+		si.setComments(&quot;Testing manual for making car parts&quot;);
+		si.setKeywords(&quot;automobiles&quot;);
+		si.setRevNumber(&quot;2.0&quot;);
+		System.out.println(&quot;Author changed to &quot; + si.getAuthor() + &quot;.&quot;);
+		
+        /* Read the document summary information. */
+        DocumentSummaryInformation dsi;
+        try {
+            DocumentEntry dsiEntry = (DocumentEntry)
+			dir.getEntry(DocumentSummaryInformation.DEFAULT_STREAM_NAME);
+            DocumentInputStream dis = new DocumentInputStream(dsiEntry);
+            PropertySet ps = new PropertySet(dis);
+            dis.close();
+            dsi = new DocumentSummaryInformation(ps);
+        }
+        catch (FileNotFoundException ex) {
+            /* There is no document summary information yet. We have to create a
+             * new one. */
+            dsi = PropertySetFactory.newDocumentSummaryInformation();
+        }
+        dsi.setCategory(&quot;Quality Manual&quot;);  
+		dsi.setCompany(&quot;PRADEEPPANT.COM&quot;);
+		dsi.setManager(&quot;PK PANT&quot;);
+		//Pushing Custom properties
+        CustomProperties cp = dsi.getCustomProperties();
+	if (cp == null)        
+		cp = new CustomProperties();
+		cp.put(&quot;Document Name&quot;,docname);
+		cp.put (&quot;Document Title&quot;,doctitle);
+		cp.put(&quot;Revision number&quot;,revision);
+		cp.put(&quot;Author&quot;,author);
+		cp.put(&quot;Date&quot;, new Date());
+    
+     /* Write the custom properties back to the document summary information. */
+		dsi.setCustomProperties(cp);
+		si.write(dir, SummaryInformation.DEFAULT_STREAM_NAME);
+		dsi.write(dir, DocumentSummaryInformation.DEFAULT_STREAM_NAME);
+	/* Write the POI filesystem back to the original file. Please note that
+         * in production code you should never write directly to the origin
+         * file! In case of a writing error everything would be lost. */
+        OutputStream out = new FileOutputStream(poiFilesystem);
+        poifs.writeFilesystem(out);
+        out.close();
+    
+   } // end of try
+   catch( Exception e ) {
+     e.printStackTrace();
+   }   
+   return docname;
+  } // end of PushProperties
+} //end of public POI&lt;/code&gt;&lt;/pre&gt;
+&lt;!-- /wp:code --&gt;
+
+&lt;!-- wp:paragraph {&quot;customTextColor&quot;:&quot;#0373a3&quot;} --&gt;
+&lt;p style=&quot;color:#0373a3&quot; class=&quot;has-text-color&quot;&gt;&lt;strong&gt;Command to run/stop/restart JVM&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:pullquote --&gt;
+&lt;figure class=&quot;wp-block-pullquote&quot;&gt;&lt;blockquote&gt;&lt;p&gt; % perl -MInline::Java::Server=start&amp;nbsp; &amp;nbsp;&lt;/p&gt;&lt;p&gt; % perl -MInline::Java::Server=stop&amp;nbsp; &amp;nbsp;&lt;/p&gt;&lt;p&gt; % perl -MInline::Java::Server=restart&lt;/p&gt;&lt;cite&gt;Command to start and stop jvm&lt;/cite&gt;&lt;/blockquote&gt;&lt;/figure&gt;
+&lt;!-- /wp:pullquote --&gt;
+
+&lt;!-- wp:paragraph {&quot;customTextColor&quot;:&quot;#0476a6&quot;} --&gt;
+&lt;p style=&quot;color:#0476a6&quot; class=&quot;has-text-color&quot;&gt;&lt;strong&gt;Full code and sample files: &lt;/strong&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/ppant/apache-poi-examples-in-perl&quot;&gt;https://github.com/ppant/apache-poi-examples-in-perl&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:group --&gt;
+&lt;div class=&quot;wp-block-group&quot;&gt;&lt;div class=&quot;wp-block-group__inner-container&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;!-- /wp:group --&gt;
+
+&lt;!-- wp:group --&gt;
+&lt;div class=&quot;wp-block-group&quot;&gt;&lt;div class=&quot;wp-block-group__inner-container&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;!-- /wp:group --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</column>
+            <column name="post_title">example of adding core and custom properties in Microsoft Word (doc) file using Apache POI through Perl wrapper</column>
+            <column name="post_excerpt"></column>
+            <column name="post_status">inherit</column>
+            <column name="comment_status">closed</column>
+            <column name="ping_status">closed</column>
+            <column name="post_password"></column>
+            <column name="post_name">2264-revision-v1</column>
+            <column name="to_ping"></column>
+            <column name="pinged"></column>
+            <column name="post_modified">2019-12-31 13:57:12</column>
+            <column name="post_modified_gmt">2019-12-31 08:27:12</column>
+            <column name="post_content_filtered"></column>
+            <column name="post_parent">2264</column>
+            <column name="guid">http://pradeeppant.com/2019/12/31/2264-revision-v1/</column>
+            <column name="menu_order">0</column>
+            <column name="post_type">revision</column>
+            <column name="post_mime_type"></column>
+            <column name="comment_count">0</column>
+        </table>
+        <table name="wp_posts">
+            <column name="ID">2274</column>
+            <column name="post_author">2</column>
+            <column name="post_date">2019-12-31 14:07:33</column>
+            <column name="post_date_gmt">2019-12-31 08:37:33</column>
+            <column name="post_content">&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Apache POI is the set of Java APIs to manipulate MS Office documents. You can read more about Apache POI &lt;a href=&quot;https://poi.apache.org/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;In this post, I am showing a fully working example to push core and custom properties in Microsoft Word (.doc) file.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph {&quot;customTextColor&quot;:&quot;#0477a8&quot;} --&gt;
+&lt;p style=&quot;color:#0477a8&quot; class=&quot;has-text-color&quot;&gt;&lt;strong&gt;Env:&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;CentOS 6x&lt;/li&gt;&lt;li&gt;Java 1.8&lt;/li&gt;&lt;li&gt;POI 3.17&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://metacpan.org/pod/Inline&quot;&gt;Inline&lt;/a&gt; - Write Perl Subroutines in Other Programming Languages  &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://metacpan.org/pod/Inline::Java&quot;&gt;Inline::Java&lt;/a&gt; - Write Perl classes in Java.  &lt;/li&gt;&lt;li&gt;Perl 5.12&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:paragraph {&quot;customTextColor&quot;:&quot;#0375a6&quot;} --&gt;
+&lt;p style=&quot;color:#0375a6&quot; class=&quot;has-text-color&quot;&gt;&lt;strong&gt;Perl script:&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:code --&gt;
+&lt;pre class=&quot;wp-block-code&quot;&gt;&lt;code&gt;#!/usr/local/bin/perl    
+	use POI;
+	# Call to push custom info in word documents	
+	# Handle DOC, XLS  and PPT extension 
+	# Todo
+	#my $content_type;
+    #if (defined($content_type) &amp;amp;&amp;amp; ($content_type eq &quot;application/x-msword&quot; || $content_type eq &quot;application/vnd.ms-excel&quot; || $content_type eq &quot;application/vnd.ms-powerpoint&quot;) ) {
+	# Make sure to give full path of the doc file
+	my $path = &quot;doc_test_file.doc&quot;;
+	# Make a POI object
+	my $alu = POI-&gt;new();
+	# Time to call push properties routine which is inside POI.pm and written in Java
+	my $docname = $alu-&gt;PushProperties($path,&quot;Test_doc_file&quot;,&quot;Test file doc type extension&quot;,&quot;2.0&quot;,&quot;ppant&quot;);	
+	
+	&lt;/code&gt;&lt;/pre&gt;
+&lt;!-- /wp:code --&gt;
+
+&lt;!-- wp:paragraph {&quot;customTextColor&quot;:&quot;#0373a3&quot;} --&gt;
+&lt;p style=&quot;color:#0373a3&quot; class=&quot;has-text-color&quot;&gt;&lt;strong&gt;Perl module with Java code:&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:code --&gt;
+&lt;pre class=&quot;wp-block-code&quot;&gt;&lt;code&gt;package POI;
+use strict; 
+use warnings;
+use Inline Java =&gt; &quot;DATA&quot;, SHARED_JVM =&gt; 1;
+
+### CONSTRUCTOR
+###############################################################
+# new()
+###############################################################     
+sub new {
+        my $class    = shift;
+        my $proto = shift;        
+        return POI::POI-&gt;new();
+    }
+ 1;
+    __DATA__
+    __Java__
+
+//Import POI classes
+import org.apache.poi.hpsf.CustomProperties;
+import org.apache.poi.hpsf.DocumentSummaryInformation;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.InputStream;
+import java.io.OutputStream;
+import java.util.Date;
+import org.apache.poi.hpsf.PropertySet;
+import org.apache.poi.hpsf.PropertySetFactory;
+import org.apache.poi.hpsf.SummaryInformation;
+import org.apache.poi.poifs.filesystem.DirectoryEntry;
+import org.apache.poi.poifs.filesystem.DocumentEntry;
+import org.apache.poi.poifs.filesystem.DocumentInputStream;
+import org.apache.poi.poifs.filesystem.POIFSFileSystem; 
+
+
+class POI {
+    public POI(){
+}
+/* function for pushing custom variables */
+
+public String PushProperties(String filename, String docname, String doctitle, String revision, String author) {
+	  try {
+		File poiFilesystem = new File(filename);
+     /* Open the POI filesystem. */
+        InputStream is = new FileInputStream(poiFilesystem);
+        POIFSFileSystem poifs = new POIFSFileSystem(is);
+        is.close();
+
+     /* Read the summary information. */
+        DirectoryEntry dir = poifs.getRoot();
+		SummaryInformation si;
+            
+        try {
+            DocumentEntry siEntry = (DocumentEntry)
+                dir.getEntry(SummaryInformation.DEFAULT_STREAM_NAME);
+            DocumentInputStream dis = new DocumentInputStream(siEntry);
+            PropertySet ps = new PropertySet(dis);
+            dis.close();
+            si = new SummaryInformation(ps);
+        }
+        catch (FileNotFoundException ex) {
+            /* There is no summary information yet. We have to create a new
+             * one. */
+            si = PropertySetFactory.newSummaryInformation();
+        }
+
+        /* Change the author to &quot;Pradeep Pant&quot;. Any former author value will
+         * be lost. If there has been no author yet, it will be created. */
+        si.setAuthor(&quot;Pradeep Pant&quot;);
+		si.setTitle(doctitle);
+		si.setSubject(&quot;Car parts manual&quot;);
+		si.setComments(&quot;Testing manual for making car parts&quot;);
+		si.setKeywords(&quot;automobiles&quot;);
+		si.setRevNumber(&quot;2.0&quot;);
+		System.out.println(&quot;Author changed to &quot; + si.getAuthor() + &quot;.&quot;);
+		
+        /* Read the document summary information. */
+        DocumentSummaryInformation dsi;
+        try {
+            DocumentEntry dsiEntry = (DocumentEntry)
+			dir.getEntry(DocumentSummaryInformation.DEFAULT_STREAM_NAME);
+            DocumentInputStream dis = new DocumentInputStream(dsiEntry);
+            PropertySet ps = new PropertySet(dis);
+            dis.close();
+            dsi = new DocumentSummaryInformation(ps);
+        }
+        catch (FileNotFoundException ex) {
+            /* There is no document summary information yet. We have to create a
+             * new one. */
+            dsi = PropertySetFactory.newDocumentSummaryInformation();
+        }
+        dsi.setCategory(&quot;Quality Manual&quot;);  
+		dsi.setCompany(&quot;PRADEEPPANT.COM&quot;);
+		dsi.setManager(&quot;PK PANT&quot;);
+		//Pushing Custom properties
+        CustomProperties cp = dsi.getCustomProperties();
+	if (cp == null)        
+		cp = new CustomProperties();
+		cp.put(&quot;Document Name&quot;,docname);
+		cp.put (&quot;Document Title&quot;,doctitle);
+		cp.put(&quot;Revision number&quot;,revision);
+		cp.put(&quot;Author&quot;,author);
+		cp.put(&quot;Date&quot;, new Date());
+    
+     /* Write the custom properties back to the document summary information. */
+		dsi.setCustomProperties(cp);
+		si.write(dir, SummaryInformation.DEFAULT_STREAM_NAME);
+		dsi.write(dir, DocumentSummaryInformation.DEFAULT_STREAM_NAME);
+	/* Write the POI filesystem back to the original file. Please note that
+         * in production code you should never write directly to the origin
+         * file! In case of a writing error everything would be lost. */
+        OutputStream out = new FileOutputStream(poiFilesystem);
+        poifs.writeFilesystem(out);
+        out.close();
+    
+   } // end of try
+   catch( Exception e ) {
+     e.printStackTrace();
+   }   
+   return docname;
+  } // end of PushProperties
+} //end of public POI&lt;/code&gt;&lt;/pre&gt;
+&lt;!-- /wp:code --&gt;
+
+&lt;!-- wp:paragraph {&quot;customTextColor&quot;:&quot;#0373a3&quot;} --&gt;
+&lt;p style=&quot;color:#0373a3&quot; class=&quot;has-text-color&quot;&gt;&lt;strong&gt;Command to run/stop/restart JVM&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;JVM to be run first time and after each time you make changes to module file.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;For more info on POI env setting please check my &lt;a href=&quot;http://pradeeppant.com/2019/12/09/apache-poi-env-setting-in-centos-6-and-perl/&quot;&gt;previous post&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:pullquote --&gt;
+&lt;figure class=&quot;wp-block-pullquote&quot;&gt;&lt;blockquote&gt;&lt;p&gt; % perl -MInline::Java::Server=start&amp;nbsp; &amp;nbsp;&lt;/p&gt;&lt;p&gt; % perl -MInline::Java::Server=stop&amp;nbsp; &amp;nbsp;&lt;/p&gt;&lt;p&gt; % perl -MInline::Java::Server=restart&lt;/p&gt;&lt;cite&gt;Command to start and stop jvm&lt;/cite&gt;&lt;/blockquote&gt;&lt;/figure&gt;
+&lt;!-- /wp:pullquote --&gt;
+
+&lt;!-- wp:paragraph {&quot;customTextColor&quot;:&quot;#0476a6&quot;} --&gt;
+&lt;p style=&quot;color:#0476a6&quot; class=&quot;has-text-color&quot;&gt;&lt;strong&gt;Full code and sample files: &lt;/strong&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/ppant/apache-poi-examples-in-perl&quot;&gt;https://github.com/ppant/apache-poi-examples-in-perl&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;In case of issues please mention in comments.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Happy coding!&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;In another post, I will share an example with the Microsoft XLS file which also uses similar set of POI APIs. &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:group --&gt;
+&lt;div class=&quot;wp-block-group&quot;&gt;&lt;div class=&quot;wp-block-group__inner-container&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;!-- /wp:group --&gt;
+
+&lt;!-- wp:group --&gt;
+&lt;div class=&quot;wp-block-group&quot;&gt;&lt;div class=&quot;wp-block-group__inner-container&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;!-- /wp:group --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</column>
+            <column name="post_title">example of adding core and custom properties in Microsoft Word (doc) file using Apache POI through Perl wrapper</column>
+            <column name="post_excerpt"></column>
+            <column name="post_status">inherit</column>
+            <column name="comment_status">closed</column>
+            <column name="ping_status">closed</column>
+            <column name="post_password"></column>
+            <column name="post_name">2264-revision-v1</column>
+            <column name="to_ping"></column>
+            <column name="pinged"></column>
+            <column name="post_modified">2019-12-31 14:07:33</column>
+            <column name="post_modified_gmt">2019-12-31 08:37:33</column>
+            <column name="post_content_filtered"></column>
+            <column name="post_parent">2264</column>
+            <column name="guid">http://pradeeppant.com/2019/12/31/2264-revision-v1/</column>
+            <column name="menu_order">0</column>
+            <column name="post_type">revision</column>
+            <column name="post_mime_type"></column>
+            <column name="comment_count">0</column>
+        </table>
+        <table name="wp_posts">
+            <column name="ID">2275</column>
+            <column name="post_author">2</column>
+            <column name="post_date">2019-12-31 14:09:14</column>
+            <column name="post_date_gmt">2019-12-31 08:39:14</column>
+            <column name="post_content">&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Apache POI is the set of Java APIs to manipulate MS Office documents. You can read more about Apache POI &lt;a href=&quot;https://poi.apache.org/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;In this post, I am showing a fully working example to push core and custom properties in Microsoft Word (.doc) file.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph {&quot;customTextColor&quot;:&quot;#0477a8&quot;} --&gt;
+&lt;p style=&quot;color:#0477a8&quot; class=&quot;has-text-color&quot;&gt;&lt;strong&gt;Env:&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;CentOS 6x&lt;/li&gt;&lt;li&gt;Java 1.8&lt;/li&gt;&lt;li&gt;POI 3.17&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://metacpan.org/pod/Inline&quot;&gt;Inline&lt;/a&gt; - Write Perl Subroutines in Other Programming Languages  &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://metacpan.org/pod/Inline::Java&quot;&gt;Inline::Java&lt;/a&gt; - Write Perl classes in Java.  &lt;/li&gt;&lt;li&gt;Perl 5.12&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:paragraph {&quot;customTextColor&quot;:&quot;#0375a6&quot;} --&gt;
+&lt;p style=&quot;color:#0375a6&quot; class=&quot;has-text-color&quot;&gt;&lt;strong&gt;Perl script:&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:code --&gt;
+&lt;pre class=&quot;wp-block-code&quot;&gt;&lt;code&gt;#!/usr/local/bin/perl    
+	use POI;
+	# Call to push custom info in word documents	
+	# Handle DOC, XLS  and PPT extension 
+	# Todo
+	#my $content_type;
+    #if (defined($content_type) &amp;amp;&amp;amp; ($content_type eq &quot;application/x-msword&quot; || $content_type eq &quot;application/vnd.ms-excel&quot; || $content_type eq &quot;application/vnd.ms-powerpoint&quot;) ) {
+	# Make sure to give full path of the doc file
+	my $path = &quot;doc_test_file.doc&quot;;
+	# Make a POI object
+	my $alu = POI-&gt;new();
+	# Time to call push properties routine which is inside POI.pm and written in Java
+	my $docname = $alu-&gt;PushProperties($path,&quot;Test_doc_file&quot;,&quot;Test file doc type extension&quot;,&quot;2.0&quot;,&quot;ppant&quot;);	
+	
+	&lt;/code&gt;&lt;/pre&gt;
+&lt;!-- /wp:code --&gt;
+
+&lt;!-- wp:paragraph {&quot;customTextColor&quot;:&quot;#0373a3&quot;} --&gt;
+&lt;p style=&quot;color:#0373a3&quot; class=&quot;has-text-color&quot;&gt;&lt;strong&gt;Perl module with Java code:&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:code --&gt;
+&lt;pre class=&quot;wp-block-code&quot;&gt;&lt;code&gt;package POI;
+use strict; 
+use warnings;
+use Inline Java =&gt; &quot;DATA&quot;, SHARED_JVM =&gt; 1;
+
+### CONSTRUCTOR
+###############################################################
+# new()
+###############################################################     
+sub new {
+        my $class    = shift;
+        my $proto = shift;        
+        return POI::POI-&gt;new();
+    }
+ 1;
+    __DATA__
+    __Java__
+
+//Import POI classes
+import org.apache.poi.hpsf.CustomProperties;
+import org.apache.poi.hpsf.DocumentSummaryInformation;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.InputStream;
+import java.io.OutputStream;
+import java.util.Date;
+import org.apache.poi.hpsf.PropertySet;
+import org.apache.poi.hpsf.PropertySetFactory;
+import org.apache.poi.hpsf.SummaryInformation;
+import org.apache.poi.poifs.filesystem.DirectoryEntry;
+import org.apache.poi.poifs.filesystem.DocumentEntry;
+import org.apache.poi.poifs.filesystem.DocumentInputStream;
+import org.apache.poi.poifs.filesystem.POIFSFileSystem; 
+
+
+class POI {
+    public POI(){
+}
+/* function for pushing custom variables */
+
+public String PushProperties(String filename, String docname, String doctitle, String revision, String author) {
+	  try {
+		File poiFilesystem = new File(filename);
+     /* Open the POI filesystem. */
+        InputStream is = new FileInputStream(poiFilesystem);
+        POIFSFileSystem poifs = new POIFSFileSystem(is);
+        is.close();
+
+     /* Read the summary information. */
+        DirectoryEntry dir = poifs.getRoot();
+		SummaryInformation si;
+            
+        try {
+            DocumentEntry siEntry = (DocumentEntry)
+                dir.getEntry(SummaryInformation.DEFAULT_STREAM_NAME);
+            DocumentInputStream dis = new DocumentInputStream(siEntry);
+            PropertySet ps = new PropertySet(dis);
+            dis.close();
+            si = new SummaryInformation(ps);
+        }
+        catch (FileNotFoundException ex) {
+            /* There is no summary information yet. We have to create a new
+             * one. */
+            si = PropertySetFactory.newSummaryInformation();
+        }
+
+        /* Change the author to &quot;Pradeep Pant&quot;. Any former author value will
+         * be lost. If there has been no author yet, it will be created. */
+        si.setAuthor(&quot;Pradeep Pant&quot;);
+		si.setTitle(doctitle);
+		si.setSubject(&quot;Car parts manual&quot;);
+		si.setComments(&quot;Testing manual for making car parts&quot;);
+		si.setKeywords(&quot;automobiles&quot;);
+		si.setRevNumber(&quot;2.0&quot;);
+		System.out.println(&quot;Author changed to &quot; + si.getAuthor() + &quot;.&quot;);
+		
+        /* Read the document summary information. */
+        DocumentSummaryInformation dsi;
+        try {
+            DocumentEntry dsiEntry = (DocumentEntry)
+			dir.getEntry(DocumentSummaryInformation.DEFAULT_STREAM_NAME);
+            DocumentInputStream dis = new DocumentInputStream(dsiEntry);
+            PropertySet ps = new PropertySet(dis);
+            dis.close();
+            dsi = new DocumentSummaryInformation(ps);
+        }
+        catch (FileNotFoundException ex) {
+            /* There is no document summary information yet. We have to create a
+             * new one. */
+            dsi = PropertySetFactory.newDocumentSummaryInformation();
+        }
+        dsi.setCategory(&quot;Quality Manual&quot;);  
+		dsi.setCompany(&quot;PRADEEPPANT.COM&quot;);
+		dsi.setManager(&quot;PK PANT&quot;);
+		//Pushing Custom properties
+        CustomProperties cp = dsi.getCustomProperties();
+	if (cp == null)        
+		cp = new CustomProperties();
+		cp.put(&quot;Document Name&quot;,docname);
+		cp.put (&quot;Document Title&quot;,doctitle);
+		cp.put(&quot;Revision number&quot;,revision);
+		cp.put(&quot;Author&quot;,author);
+		cp.put(&quot;Date&quot;, new Date());
+    
+     /* Write the custom properties back to the document summary information. */
+		dsi.setCustomProperties(cp);
+		si.write(dir, SummaryInformation.DEFAULT_STREAM_NAME);
+		dsi.write(dir, DocumentSummaryInformation.DEFAULT_STREAM_NAME);
+	/* Write the POI filesystem back to the original file. Please note that
+         * in production code you should never write directly to the origin
+         * file! In case of a writing error everything would be lost. */
+        OutputStream out = new FileOutputStream(poiFilesystem);
+        poifs.writeFilesystem(out);
+        out.close();
+    
+   } // end of try
+   catch( Exception e ) {
+     e.printStackTrace();
+   }   
+   return docname;
+  } // end of PushProperties
+} //end of public POI&lt;/code&gt;&lt;/pre&gt;
+&lt;!-- /wp:code --&gt;
+
+&lt;!-- wp:paragraph {&quot;customTextColor&quot;:&quot;#0373a3&quot;} --&gt;
+&lt;p style=&quot;color:#0373a3&quot; class=&quot;has-text-color&quot;&gt;&lt;strong&gt;Command to run/stop/restart JVM&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;JVM to be run the first time and each time you make changes to module file.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;For more info on POI env setting please check my &lt;a href=&quot;http://pradeeppant.com/2019/12/09/apache-poi-env-setting-in-centos-6-and-perl/&quot;&gt;previous post&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:pullquote --&gt;
+&lt;figure class=&quot;wp-block-pullquote&quot;&gt;&lt;blockquote&gt;&lt;p&gt; % perl -MInline::Java::Server=start&amp;nbsp; &amp;nbsp;&lt;/p&gt;&lt;p&gt; % perl -MInline::Java::Server=stop&amp;nbsp; &amp;nbsp;&lt;/p&gt;&lt;p&gt; % perl -MInline::Java::Server=restart&lt;/p&gt;&lt;cite&gt;Command to start and stop jvm&lt;/cite&gt;&lt;/blockquote&gt;&lt;/figure&gt;
+&lt;!-- /wp:pullquote --&gt;
+
+&lt;!-- wp:paragraph {&quot;customTextColor&quot;:&quot;#0476a6&quot;} --&gt;
+&lt;p style=&quot;color:#0476a6&quot; class=&quot;has-text-color&quot;&gt;&lt;strong&gt;Full code and sample files on my Github: &lt;/strong&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/ppant/apache-poi-examples-in-perl&quot;&gt;https://github.com/ppant/apache-poi-examples-in-perl&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;In case of issues please mention in comments.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Happy coding!&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;In another post, I will share an example with the Microsoft XLS file which also uses similar set of POI APIs. &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:group --&gt;
+&lt;div class=&quot;wp-block-group&quot;&gt;&lt;div class=&quot;wp-block-group__inner-container&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;!-- /wp:group --&gt;
+
+&lt;!-- wp:group --&gt;
+&lt;div class=&quot;wp-block-group&quot;&gt;&lt;div class=&quot;wp-block-group__inner-container&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;!-- /wp:group --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</column>
+            <column name="post_title">example of adding core and custom properties in Microsoft Word (doc) file using Apache POI through Perl wrapper</column>
+            <column name="post_excerpt"></column>
+            <column name="post_status">inherit</column>
+            <column name="comment_status">closed</column>
+            <column name="ping_status">closed</column>
+            <column name="post_password"></column>
+            <column name="post_name">2264-revision-v1</column>
+            <column name="to_ping"></column>
+            <column name="pinged"></column>
+            <column name="post_modified">2019-12-31 14:09:14</column>
+            <column name="post_modified_gmt">2019-12-31 08:39:14</column>
+            <column name="post_content_filtered"></column>
+            <column name="post_parent">2264</column>
+            <column name="guid">http://pradeeppant.com/2019/12/31/2264-revision-v1/</column>
+            <column name="menu_order">0</column>
+            <column name="post_type">revision</column>
+            <column name="post_mime_type"></column>
+            <column name="comment_count">0</column>
+        </table>
+    </database>
+</pma_xml_export>

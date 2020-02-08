@@ -23,24 +23,32 @@ email: pppant@cpan.org
 description: >- 
   My notes on Programming, Software Systems Design, Data Science,
   AI/ML and Technology in general
-baseurl: "" # the subpath of your site, e.g. /blog
+#baseurl: "/blog" # the subpath of your site, e.g. /blog
 #url: http://pradeeppant.com
 url: "http://ppantdev:80" # the base hostname & protocol for your site, e.g. http://example.com
 #url: "http://192.168.1.100" # the base hostname & protocol for your site, e.g. http://example.com
 #url: "0.0.0.0" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ppant
-github_username:  ppant
-linkedin_username: ppant 
+#twitter_username: ppant
+#github_username:  ppant
+#linkedin_username: ppant 
 # Build settings
 #theme: jekyll-theme-minimal
 theme: minima
-#paginate: 8
+skin: sunrise
+paginate: 8
+show_excerpts: true
+disqus:
+    shortname: ppant
 #theme: Emerald
 #theme: jekyll-theme-hacker
+social_links:
+    twitter: ppant
+    github:  ppant
+    rss: rss
 plugins:
   - jekyll-feed
- # - jekyll-paginate
-
+  - jekyll-paginate
+  - jekyll-seo-tag
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

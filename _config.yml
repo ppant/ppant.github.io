@@ -28,9 +28,9 @@ description: >-
 url: "http://ppantdev:80" # the base hostname & protocol for your site, e.g. http://example.com
 #url: "http://192.168.1.100" # the base hostname & protocol for your site, e.g. http://example.com
 #url: "0.0.0.0" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: ppant
-#github_username:  ppant
-#linkedin_username: ppant 
+twitter_username: ppant
+github_username:  ppant
+linkedin_username: ppant 
 # Build settings
 #theme: jekyll-theme-minimal
 theme: minima

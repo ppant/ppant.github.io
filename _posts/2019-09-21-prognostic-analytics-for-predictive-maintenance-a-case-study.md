@@ -5,6 +5,7 @@ date: 2019-09-21T17:53:12+05:30
 author: Pradeep Pant
 layout: post
 guid: http://pradeeppant.com/?p=2090
+comments: true
 permalink: /2019/09/21/prognostic-analytics-for-predictive-maintenance-a-case-study/
 twitter_share:
   - 'a:1:{s:8:"hashtags";a:1:{i:0;s:70:"DataScience #PreventiveAnalytics #PrognosticAnalytics #MachineLearning";}}'

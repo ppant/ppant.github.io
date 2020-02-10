@@ -47,7 +47,7 @@ social_links:
     rss: rss
 plugins:
   - jekyll-feed
-  - jekyll-paginate
+  #- jekyll-paginate
   - jekyll-seo-tag
 # Exclude from processing.
 # The following items will not be processed, by default.

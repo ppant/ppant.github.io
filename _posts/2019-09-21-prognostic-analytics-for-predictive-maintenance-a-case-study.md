@@ -21,3 +21,7 @@ Technically, ML team can make a pipeline and stream the data which is coming out
 Just to summarise, we can use the old data of the system/putting new data to the cloud and make preventive/prognostic analysis which can save money, resources and time. 
 
 **References-Thanks:** [Dr. Harpreet Singh](https://www.linkedin.com/in/hsingh1), I heard him on a podcast and highly impressed by his vision on data science and different use cases.
+
+<div id="disqus_thread"></div>
+<script>
+

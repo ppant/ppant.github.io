@@ -35,8 +35,8 @@ linkedin_username: ppant
 #theme: jekyll-theme-minimal
 theme: minima
 skin: sunrise
-paginate: 8
-show_excerpts: true
+#paginate: 8
+#show_excerpts: true
 disqus:
     shortname: ppant
 #theme: Emerald

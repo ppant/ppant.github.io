@@ -1,13 +1,9 @@
 ---
 id: 1957
-title: 'IE11 issue with &#8220;arrow&#8221;  and &#8220;includes&#8221; Javascript method and an alternate solution'
+title: 'IE11 issue with arrow and includes JavaScript method and an alternate solution'
 date: 2019-04-15T21:46:03+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=1957
-permalink: /2019/04/15/ie11-issue-with-arrow-operator-and-include-an-alternate-solution/
-twitter_share:
-  - 'a:2:{s:8:"hashtags";a:1:{i:0;s:9:"IE11Issue";}s:4:"text";s:118:"I have made small demo of #IE11 issue with arrow and include #JavaScript methods and a alternate solution #programming";}'
 ---
 Again one more Microsoft problem <span style="font-size: 1.375rem;">😢 </span>😢
 

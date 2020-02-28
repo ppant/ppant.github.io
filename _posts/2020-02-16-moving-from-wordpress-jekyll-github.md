@@ -5,7 +5,7 @@ author: Pradeep Pant
 layout: post
 ---
 
-So finally, I am able to move from WordPress to Jekyll GitHub. So, now onwards no more hosting dependency, no more unnecessary WordPress plugins loading. Now my site loads much faster, no db connection to be made, no PHP or any server side script needed and top of that all the data is with me as a GitHub repo. how cool is this... 
+So finally, I am able to move from WordPress to Jekyll GitHub. So, now onwards no more hosting dependency, no more unnecessary WordPress plugins loading. Now my site loads much faster, no db connection to be made, no PHP or any server side script needed and top of that all the data is with me as a [GitHub repo](https://github.com/ppant/ppant.github.io). how cool is this... 
 
 having said that I admire WordPress it has done great job in helping me in starting a blog way back in 2007 at time I started with [wordpress.com](http://wordpress.com) and later switched to self hosted blog. Initially I planned to use static generators like Gatsby, ReactJS, GraphQL but finally decided on Jekyll based static site generator. May be in future I will explore other tools as well but for now it Jekyll + GitHub which will remain I pre-assume even if I decide to change the engine. The main reason for me to move from WordPress to GitHub was that I don't need dynamic elements in my page, there is not database operations and server side logic is needed so for me WordPress is just an overkill. 
 

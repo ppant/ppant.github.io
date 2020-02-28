@@ -23,6 +23,6 @@ The following resources below helped me migrating:
 
 
 
-This post I am writing using markdown and published through Jekyll and pushed on GitHub repo though I still have to work on a better layout and CSS scheme.
+This post I am writing using markdown and published through Jekyll and pushed on GitHub repo though I still have to work on a better layout, CSS scheme and clearing the wordpress html garbage from posts.
 
 Thanks for reading! 

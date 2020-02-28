@@ -4,7 +4,7 @@ title: 'List.js: Cross browser native JavaScript'
 date: 2011-10-25T20:54:41+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=757
+guid: /?p=757
 permalink: /2011/10/25/javascript-list-js/
 jabber_published:
   - "1319557093"

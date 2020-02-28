@@ -4,7 +4,7 @@ title: 'Cracking the Primes &#8211; a primality-proving algorithm'
 date: 2014-04-29T19:30:49+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=1260
+guid: /?p=1260
 permalink: /2014/04/29/cracking-the-primes-a-primality-proving-algorithm/
 dsq_thread_id:
   - "2647725184"

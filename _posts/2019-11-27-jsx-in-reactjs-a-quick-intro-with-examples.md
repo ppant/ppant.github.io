@@ -4,7 +4,7 @@ title: 'JSX in ReactJS: a quick intro with examples'
 date: 2019-11-27T21:55:47+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=2179
+guid: /?p=2179
 permalink: /2019/11/27/jsx-in-reactjs-a-quick-intro-with-examples/
 ---
 **What is JSX file **

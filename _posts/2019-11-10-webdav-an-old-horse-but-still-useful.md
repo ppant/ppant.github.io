@@ -4,7 +4,7 @@ title: 'WebDAV: an old horse but still useful!'
 date: 2019-11-10T20:17:06+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=2155
+guid: /?p=2155
 permalink: /2019/11/10/webdav-an-old-horse-but-still-useful/
 ---
 My first encounter with [WebDav](https://en.wikipedia.org/wiki/WebDAV) protocol back in 2004-05 when I was writing the web part for SharePoint. WebDav is an old protocol of the &#8217;90s but still very useful in certain scenarios.

@@ -4,7 +4,7 @@ title: Programming Language Popularity
 date: 2011-06-22T06:05:20+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=597
+guid: /?p=597
 permalink: /2011/06/22/programming-language-popularity/
 jabber_published:
   - "1308705159"

@@ -4,7 +4,7 @@ title: Choropleth Maps in Python
 date: 2017-02-03T22:57:35+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=1629
+guid: /?p=1629
 permalink: /2017/02/03/choropleth-maps-in-python/
 ---
 Choropleth maps are a great way to represent geographical data. I have done a basic implementation of two different data sets. I have used [jupyter notebook](http://jupyter.org/) to show the plots.
@@ -59,7 +59,7 @@ iplot(choromap,validate=False)
   </p>
   
   <p style="padding-left: 30px;">
-    <a href="http://pradeeppant.com/wp-content/uploads/2017/02/2014_world_power_consumption_chorlopleth_plot.png"><img class="aligncenter wp-image-1639" src="http://pradeeppant.com/wp-content/uploads/2017/02/2014_world_power_consumption_chorlopleth_plot-300x193.png" alt="" width="404" height="260" srcset="http://pradeeppant.com/wp-content/uploads/2017/02/2014_world_power_consumption_chorlopleth_plot-300x193.png 300w, http://pradeeppant.com/wp-content/uploads/2017/02/2014_world_power_consumption_chorlopleth_plot.png 700w" sizes="(max-width: 404px) 100vw, 404px" /></a>
+    <a href="/wp-content/uploads/2017/02/2014_world_power_consumption_chorlopleth_plot.png"><img class="aligncenter wp-image-1639" src="/wp-content/uploads/2017/02/2014_world_power_consumption_chorlopleth_plot-300x193.png" alt="" width="404" height="260" srcset="/wp-content/uploads/2017/02/2014_world_power_consumption_chorlopleth_plot-300x193.png 300w, /wp-content/uploads/2017/02/2014_world_power_consumption_chorlopleth_plot.png 700w" sizes="(max-width: 404px) 100vw, 404px" /></a>
   </p>
   
   <p style="padding-left: 30px;">

@@ -4,7 +4,7 @@ title: 'Algorithms performance: big O notation: simplified short notes'
 date: 2019-05-03T21:58:49+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=2022
+guid: /?p=2022
 permalink: /2019/05/03/algorithms-performance-big-oh-notation-simplified-short-notes/
 ---
  The big O notation is used to analyze runtime time complexity. big O notation provides an abstract measurement by which we can judge the performance of algorithms without using mathematical proofs. Some of the most common big O notations are:

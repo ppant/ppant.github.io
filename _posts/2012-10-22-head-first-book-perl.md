@@ -4,7 +4,7 @@ title: Head First book Perl
 date: 2012-10-22T19:53:43+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=909
+guid: /?p=909
 permalink: /2012/10/22/head-first-book-perl/
 gr_overridden:
   - "0"

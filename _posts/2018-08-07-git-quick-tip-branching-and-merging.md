@@ -4,7 +4,7 @@ title: 'git quick tip &#8211; branching and merging'
 date: 2018-08-07T20:13:17+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=1784
+guid: /?p=1784
 permalink: /2018/08/07/git-quick-tip-branching-and-merging/
 twitter_share:
   - 'a:2:{s:8:"hashtags";a:1:{i:0;s:16:"git #programming";}s:4:"text";s:37:"git quick tip - branching and merging";}'

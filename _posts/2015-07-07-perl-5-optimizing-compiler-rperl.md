@@ -4,7 +4,7 @@ title: Perl 5 Optimizing Compiler, RPerl
 date: 2015-07-07T10:19:27+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=1443
+guid: /?p=1443
 permalink: /2015/07/07/perl-5-optimizing-compiler-rperl/
 dsq_thread_id:
   - "3911324407"

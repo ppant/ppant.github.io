@@ -4,7 +4,7 @@ title: Stanford DB class
 date: 2011-10-19T22:01:17+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=747
+guid: /?p=747
 permalink: /2011/10/19/stanford-db-class/
 jabber_published:
   - "1319041877"
@@ -15,7 +15,7 @@ reddit:
 dsq_thread_id:
   - "782797887"
 ---
-Along with my [AI class](http://pradeeppant.com/2011/10/17/ai-class-unit-2/ "AI Class Unit 2 Problem Solving") course,  I have also started [DB class](http://db-class.org/) (Oct-Dec session) from [Standford online courses series](http://pradeeppant.com/2011/10/10/online-ai-course-at-standford/ "Online AI course at Standford"). Actually, learning DB was long due and this seems to be perfect opportunity. In my professional life I write SQL queries and sometime modify the database schema but that is all job requirement, going through full course content again (after my degree) is really an opportunity and I don&#8217;t want to miss it.  Course instructor for this class is [Jennifer Widom](http://infolab.stanford.edu/~widom/) and I am really liking her teaching style so I am bit excited. Well, I have almost completed first part and some of the points covered in this part are:
+Along with my [AI class](/2011/10/17/ai-class-unit-2/ "AI Class Unit 2 Problem Solving") course,  I have also started [DB class](http://db-class.org/) (Oct-Dec session) from [Standford online courses series](/2011/10/10/online-ai-course-at-standford/ "Online AI course at Standford"). Actually, learning DB was long due and this seems to be perfect opportunity. In my professional life I write SQL queries and sometime modify the database schema but that is all job requirement, going through full course content again (after my degree) is really an opportunity and I don&#8217;t want to miss it.  Course instructor for this class is [Jennifer Widom](http://infolab.stanford.edu/~widom/) and I am really liking her teaching style so I am bit excited. Well, I have almost completed first part and some of the points covered in this part are:
 
 &nbsp;
 

@@ -4,7 +4,7 @@ title: jQuery accordion with fontawsome icons
 date: 2019-03-08T20:12:09+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=1835
+guid: /?p=1835
 permalink: /2019/03/08/jquery-accordion/
 ---
 a small imple of jQuery accordion (show/hide blocks)

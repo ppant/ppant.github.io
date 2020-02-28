@@ -4,7 +4,7 @@ title: AI Class Unit 2 Problem Solving
 date: 2011-10-17T20:34:56+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=738
+guid: /?p=738
 permalink: /2011/10/17/ai-class-unit-2/
 jabber_published:
   - "1318864364"

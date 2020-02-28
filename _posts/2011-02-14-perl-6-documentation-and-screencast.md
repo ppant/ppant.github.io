@@ -4,7 +4,7 @@ title: Perl 6 documentation and screencast
 date: 2011-02-14T19:37:17+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=379
+guid: /?p=379
 permalink: /2011/02/14/perl-6-documentation-and-screencast/
 jabber_published:
   - "1297692437"

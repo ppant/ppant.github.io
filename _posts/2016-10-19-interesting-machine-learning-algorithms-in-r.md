@@ -4,7 +4,7 @@ title: Interesting Machine learning algorithms in R
 date: 2016-10-19T19:30:01+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=1596
+guid: /?p=1596
 permalink: /2016/10/19/interesting-machine-learning-algorithms-in-r/
 ---
 ## Widely used Machine learning algorithms in R

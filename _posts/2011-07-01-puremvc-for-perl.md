@@ -4,7 +4,7 @@ title: PureMVC for Perl
 date: 2011-07-01T14:37:09+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=602
+guid: /?p=602
 permalink: /2011/07/01/puremvc-for-perl/
 jabber_published:
   - "1309511230"

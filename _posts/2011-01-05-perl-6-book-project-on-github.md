@@ -18,4 +18,4 @@ PDF versions of this book can be found at
 <http://puffin.ch/perl/6/> and <http://github.com/perl6/book/downloads>
 
 [](http://github.com/perl6/book/downloads)  
-Enjoy learning  [<img class="alignnone size-thumbnail wp-image-159" title="http://perl6.org/" src="http://pradeeppant.com/wp-content/uploads/2010/08/800px-camelia-svg.png?w=150" alt="Perl6 logo" width="150" height="109" srcset="http://pradeeppant.com/wp-content/uploads/2010/08/800px-camelia-svg.png 800w, http://pradeeppant.com/wp-content/uploads/2010/08/800px-camelia-svg-300x219.png 300w, http://pradeeppant.com/wp-content/uploads/2010/08/800px-camelia-svg-410x300.png 410w" sizes="(max-width: 150px) 100vw, 150px" />](http://perl6.org/)
+Enjoy learning  [<img class="alignnone size-thumbnail wp-image-159" title="http://perl6.org/" src="/wp-content/uploads/2010/08/800px-camelia-svg.png?w=150" alt="Perl6 logo" width="150" height="109" srcset="/wp-content/uploads/2010/08/800px-camelia-svg.png 800w, /wp-content/uploads/2010/08/800px-camelia-svg-300x219.png 300w, /wp-content/uploads/2010/08/800px-camelia-svg-410x300.png 410w" sizes="(max-width: 150px) 100vw, 150px" />](http://perl6.org/)

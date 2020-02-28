@@ -4,7 +4,7 @@ title: 'MOOCs alert: Practical Machine Learning with Tensorflow at NPTEL'
 date: 2019-08-30T19:55:22+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=2074
+guid: /?p=2074
 permalink: /2019/08/30/moocs-alert-practical-machine-learning-with-tensorflow-at-nptel/
 twitter_share:
   - 'a:2:{s:8:"hashtags";a:1:{i:0;s:42:"Machine-learning #Programming #MOOC #NPTEL";}s:4:"text";s:65:"MOOCs alert: Practical Machine Learning with Tensor flow at NPTEL";}'

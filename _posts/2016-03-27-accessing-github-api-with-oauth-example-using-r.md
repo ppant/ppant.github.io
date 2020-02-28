@@ -4,7 +4,7 @@ title: Accessing Github API with OAuth example using R
 date: 2016-03-27T08:53:20+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=1523
+guid: /?p=1523
 permalink: /2016/03/27/accessing-github-api-with-oauth-example-using-r/
 ---
 Modern API provided by Google, Twitter, Facebook, Github etc uses [OAuth](http://oauth.net/) for authentication and authorization. In this example, I am using GitHub API. We get a JSON response which can be used to fetch specific information. In this code I have used my [Github account.](https://api.github.com/users/ppant/repos)Code is written R programming languages.

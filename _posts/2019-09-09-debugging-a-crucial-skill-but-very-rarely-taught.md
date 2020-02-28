@@ -4,7 +4,7 @@ title: Debugging a crucial skill but very rarely taught
 date: 2019-09-09T20:22:08+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=2086
+guid: /?p=2086
 permalink: /2019/09/09/debugging-a-crucial-skill-but-very-rarely-taught/
 ---
 Listening on software engineering radio podcast Diomidis Spinellis mentions how debugging is so much important in software development but still, we don&#8217;t teach much in-depth this skill in our universities. I and believe any other programmer will agree that debugging tools are the key arsenal in fixing bugs and even understanding the system. 

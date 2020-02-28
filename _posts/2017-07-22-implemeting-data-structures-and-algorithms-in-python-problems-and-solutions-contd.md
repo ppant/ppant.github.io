@@ -4,7 +4,7 @@ title: 'Implemeting Data Structures and Algorithms in Python: Problems and solut
 date: 2017-07-22T13:25:22+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=1688
+guid: /?p=1688
 permalink: /2017/07/22/implemeting-data-structures-and-algorithms-in-python-problems-and-solutions-contd/
 ---
 # Contd.. from last post

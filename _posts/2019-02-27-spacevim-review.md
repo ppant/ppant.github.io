@@ -4,7 +4,7 @@ title: SpaceVim review
 date: 2019-02-27T07:50:56+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=1828
+guid: /?p=1828
 permalink: /2019/02/27/spacevim-review/
 ---
 As a Vim user for nearly 2 decades, recently I got an opportunity to explore  

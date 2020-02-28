@@ -4,7 +4,7 @@ title: 'Books recommendation series: Predictive analytics'
 date: 2019-03-22T20:47:50+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=1946
+guid: /?p=1946
 permalink: /2019/03/22/books-recommendation-series-predictive-analytics/
 ---
 ## Book 
@@ -16,7 +16,7 @@ Eric Segel
 
 <ul class="wp-block-gallery columns-1 is-cropped">
   <li class="blocks-gallery-item">
-    <figure><img src="http://pradeeppant.com/wp-content/uploads/2019/03/WhatsApp-Image-2019-03-22-at-1.54.58-PM-674x1024.jpeg" alt="" data-id="1947" data-link="http://pradeeppant.com/?attachment_id=1947" class="wp-image-1947" srcset="http://pradeeppant.com/wp-content/uploads/2019/03/WhatsApp-Image-2019-03-22-at-1.54.58-PM-674x1024.jpeg 674w, http://pradeeppant.com/wp-content/uploads/2019/03/WhatsApp-Image-2019-03-22-at-1.54.58-PM-198x300.jpeg 198w, http://pradeeppant.com/wp-content/uploads/2019/03/WhatsApp-Image-2019-03-22-at-1.54.58-PM-768x1166.jpeg 768w, http://pradeeppant.com/wp-content/uploads/2019/03/WhatsApp-Image-2019-03-22-at-1.54.58-PM.jpeg 843w" sizes="(max-width: 674px) 100vw, 674px" /></figure>
+    <figure><img src="/wp-content/uploads/2019/03/WhatsApp-Image-2019-03-22-at-1.54.58-PM-674x1024.jpeg" alt="" data-id="1947" data-link="/?attachment_id=1947" class="wp-image-1947" srcset="/wp-content/uploads/2019/03/WhatsApp-Image-2019-03-22-at-1.54.58-PM-674x1024.jpeg 674w, /wp-content/uploads/2019/03/WhatsApp-Image-2019-03-22-at-1.54.58-PM-198x300.jpeg 198w, /wp-content/uploads/2019/03/WhatsApp-Image-2019-03-22-at-1.54.58-PM-768x1166.jpeg 768w, /wp-content/uploads/2019/03/WhatsApp-Image-2019-03-22-at-1.54.58-PM.jpeg 843w" sizes="(max-width: 674px) 100vw, 674px" /></figure>
   </li>
 </ul>
 

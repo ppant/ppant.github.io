@@ -4,7 +4,7 @@ title: 'Books recommendation series: Elements of statistical learning'
 date: 2019-03-01T16:16:08+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=1918
+guid: /?p=1918
 permalink: /2019/03/01/books-recommendation-series/
 ---
 Since long I was thinking to write down my recommendation of the books I have read recently or in <g class="gr_ gr\_38 gr-alert gr\_gramm gr\_inline\_cards gr\_run\_anim Grammar only-ins replaceWithoutSep" id="38" data-gr-id="38">past</g> as well. The plan is to post <g class="gr_ gr\_5 gr-alert gr\_spell gr\_inline\_cards gr\_run\_anim ContextualSpelling ins-del multiReplace" id="5" data-gr-id="5"><g class="gr_ gr\_17 gr-alert gr\_spell gr\_inline\_cards gr\_disable\_anim_appear ContextualSpelling ins-del multiReplace" id="17" data-gr-id="17">atleast</g></g> one book recommendation weekly.  
@@ -20,7 +20,7 @@ Hastie, Tibshirani, and Friedman (2009 )
 
 <ul class="wp-block-gallery columns-1 is-cropped">
   <li class="blocks-gallery-item">
-    <figure><img src="http://pradeeppant.com/wp-content/uploads/2019/03/ESLR_book_front_page.png" alt="" data-id="1942" data-link="http://pradeeppant.com/eslr_book_front_page/" class="wp-image-1942" srcset="http://pradeeppant.com/wp-content/uploads/2019/03/ESLR_book_front_page.png 631w, http://pradeeppant.com/wp-content/uploads/2019/03/ESLR_book_front_page-264x300.png 264w" sizes="(max-width: 631px) 100vw, 631px" /></figure>
+    <figure><img src="/wp-content/uploads/2019/03/ESLR_book_front_page.png" alt="" data-id="1942" data-link="/eslr_book_front_page/" class="wp-image-1942" srcset="/wp-content/uploads/2019/03/ESLR_book_front_page.png 631w, /wp-content/uploads/2019/03/ESLR_book_front_page-264x300.png 264w" sizes="(max-width: 631px) 100vw, 631px" /></figure>
   </li>
 </ul>
 

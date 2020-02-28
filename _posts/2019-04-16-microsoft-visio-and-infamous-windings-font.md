@@ -4,7 +4,7 @@ title: Microsoft Visio and infamous Windings font
 date: 2019-04-16T21:37:05+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=1959
+guid: /?p=1959
 permalink: /2019/04/16/microsoft-visio-and-infamous-windings-font/
 ---
 Another Microsoft misery<img class="emoji" draggable="false" src="https://s.w.org/images/core/emoji/11.2.0/svg/1f622.svg" alt="😢" />  <img class="emoji" draggable="false" src="https://s.w.org/images/core/emoji/11.2.0/svg/1f622.svg" alt="😢" />

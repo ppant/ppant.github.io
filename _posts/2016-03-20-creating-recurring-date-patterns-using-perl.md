@@ -4,7 +4,7 @@ title: Creating recurring date patterns using Perl
 date: 2016-03-20T16:47:53+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=1517
+guid: /?p=1517
 permalink: /2016/03/20/creating-recurring-date-patterns-using-perl/
 ---
 This program will be helpful if someone want to create recur date patterns based on criteria (yearly, monthly,weekly and daily). Program is written in Perl using old version of [Date::Manip](http://search.cpan.org/~sbeck/Date-Manip-6.53/) CPAN module.

@@ -4,7 +4,7 @@ title: Online AI course at Standford
 date: 2011-10-10T17:03:19+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=730
+guid: /?p=730
 permalink: /2011/10/10/online-ai-course-at-standford/
 jabber_published:
   - "1318246399"

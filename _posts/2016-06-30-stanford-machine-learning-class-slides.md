@@ -4,7 +4,7 @@ title: Stanford Machine learning class slides
 date: 2016-06-30T17:33:51+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=1566
+guid: /?p=1566
 permalink: /2016/06/30/stanford-machine-learning-class-slides/
 ---
 [Andrew NG](http://www.andrewng.org/) Machine learning [class](https://www.coursera.org/learn/machine-learning) is the best class so far which I took online.

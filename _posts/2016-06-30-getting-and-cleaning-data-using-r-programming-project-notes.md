@@ -4,7 +4,7 @@ title: Getting and cleaning data using R programming project notes
 date: 2016-06-30T14:25:31+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=1542
+guid: /?p=1542
 permalink: /2016/06/30/getting-and-cleaning-data-using-r-programming-project-notes/
 ---
 Brief notes of my learning from course project of[ getting and cleaning data](https://www.coursera.org/learn/data-cleaning) course from [John Hopkins University](https://www.jhu.edu/).

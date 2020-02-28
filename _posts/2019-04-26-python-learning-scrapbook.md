@@ -4,7 +4,7 @@ title: 'Python learning: scrapbook'
 date: 2019-04-26T21:17:57+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=2007
+guid: /?p=2007
 permalink: /2019/04/26/python-learning-scrapbook/
 ---
 While browsing my Evernote I found a scrapbook which I have made while learning Python some years back. Thought to share if this helps someone. I am pasting directly (<g class="gr_ gr\_351 gr-alert gr\_spell gr\_inline\_cards gr\_run\_anim ContextualSpelling ins-del multiReplace" id="351" data-gr-id="351">no</g> editing so there might be some <g class="gr_ gr\_346 gr-alert gr\_gramm gr\_inline\_cards gr\_run\_anim Grammar only-ins replaceWithoutSep" id="346" data-gr-id="346">spell</g> and grammar mistake). 

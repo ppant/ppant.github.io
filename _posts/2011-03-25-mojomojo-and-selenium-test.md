@@ -4,7 +4,7 @@ title: MojoMojo and Selenium test
 date: 2011-03-25T09:50:24+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=429
+guid: /?p=429
 permalink: /2011/03/25/mojomojo-and-selenium-test/
 jabber_published:
   - "1301027052"

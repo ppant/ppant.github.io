@@ -4,7 +4,7 @@ title: Developing data products course project
 date: 2016-12-21T20:35:57+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=1585
+guid: /?p=1585
 permalink: /2016/12/21/developing-data-products-course-project/
 ---
 I have made a small project which demonstrate Water Quality of River Ganga (India) in various places on-route (Year 2012) as a part of JHU Coursera Data Science specialization.

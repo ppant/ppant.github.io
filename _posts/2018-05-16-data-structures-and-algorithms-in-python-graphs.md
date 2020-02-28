@@ -4,7 +4,7 @@ title: Data Structures and Algorithms in Python – Graphs
 date: 2018-05-16T22:10:06+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=1734
+guid: /?p=1734
 permalink: /2018/05/16/data-structures-and-algorithms-in-python-graphs/
 ---
 ### Graph Implementation &#8211; Adjacency list

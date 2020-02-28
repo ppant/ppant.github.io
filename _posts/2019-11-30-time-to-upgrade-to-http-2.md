@@ -4,7 +4,7 @@ title: High time to upgrade to HTTP/2
 date: 2019-11-30T22:03:16+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=2216
+guid: /?p=2216
 permalink: /2019/11/30/time-to-upgrade-to-http-2/
 ---
 <blockquote class="wp-block-quote">

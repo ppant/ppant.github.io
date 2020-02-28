@@ -4,7 +4,7 @@ title: Citrus Perl Raspberry Pi dev
 date: 2014-09-01T06:37:48+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=1299
+guid: /?p=1299
 permalink: /2014/09/01/citrus-perl-raspberry-pi-dev/
 dsq_thread_id:
   - "2977040432"

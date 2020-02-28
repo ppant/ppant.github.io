@@ -4,7 +4,7 @@ title: The history of programming languages
 date: 2011-09-08T09:31:15+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=636
+guid: /?p=636
 permalink: /2011/09/08/the-history-of-programming-languages/
 jabber_published:
   - "1315472526"
@@ -19,7 +19,7 @@ dsq_thread_id:
 ---
 I found the pasted image on referred link  Have to share  &#8230;.****
 
-<a href="http://pradeeppant.com/2011/09/08/the-history-of-programming-languages/infographic_programming_rackspace_final_version/" rel="attachment wp-att-640"><img class="alignnone size-full wp-image-640" title="history of programming lanuages" src="http://pradeeppant.com/wp-content/uploads/2011/09/infographic_programming_rackspace_final_version.png" alt="" width="600" height="6300" /></a>
+<a href="/2011/09/08/the-history-of-programming-languages/infographic_programming_rackspace_final_version/" rel="attachment wp-att-640"><img class="alignnone size-full wp-image-640" title="history of programming lanuages" src="/wp-content/uploads/2011/09/infographic_programming_rackspace_final_version.png" alt="" width="600" height="6300" /></a>
 
 Ref: <http://caseytinsley.wordpress.com/2011/09/05/the-history-of-programming-languages/>
 

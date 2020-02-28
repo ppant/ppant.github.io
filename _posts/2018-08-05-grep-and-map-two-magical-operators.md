@@ -4,7 +4,7 @@ title: grep and map-Two magical operators
 date: 2018-08-05T18:07:37+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=791
+guid: /?p=791
 permalink: /2018/08/05/grep-and-map-two-magical-operators/
 ---
 Over the years I have extensively used `map` and `grep` in Perl, JavaScript, Python, Linux. I am sure most of the programmers love using these two operators. Read below some of my personal notes gathered from several resources and own understanding. 

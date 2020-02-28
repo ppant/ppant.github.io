@@ -4,7 +4,7 @@ title: JHU Data Science Specialization Capstone
 date: 2016-10-10T15:47:47+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=1589
+guid: /?p=1589
 permalink: /2016/10/10/jhu-data-science-specialization-capstone/
 ---
 I have created a text prediction application as a part of Coursera Johns Hopkins University Capstone project.

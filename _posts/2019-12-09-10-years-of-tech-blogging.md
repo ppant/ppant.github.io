@@ -4,7 +4,7 @@ title: Apache POI env setting in CentOS 6+, Java 8 and Perl 5
 date: 2019-12-09T16:57:13+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=2210
+guid: /?p=2210
 permalink: /2019/12/09/10-years-of-tech-blogging/
 ---
 Apache POI is the set of [**Java APIs**](http://poi.apache.org/apidocs/4.1/) that can be used to manipulate MS Office and other types of documents. This post will give quick info on how to make a [Perl](https://www.perl.org/) based dev environment for Java POI interface.

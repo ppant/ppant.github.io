@@ -4,7 +4,7 @@ title: YAPC::EU 2013 Slides
 date: 2013-08-18T09:34:29+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=1141
+guid: /?p=1141
 permalink: /2013/08/18/yapceu-2013-slides-6guts/
 dsq_thread_id:
   - "1614310996"

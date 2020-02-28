@@ -4,7 +4,7 @@ title: Rakudo Star Jan 2012 Released
 date: 2012-01-31T20:55:49+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=849
+guid: /?p=849
 permalink: /2012/01/31/rakudo-star-jan-2012-released/
 jabber_published:
   - "1328024113"

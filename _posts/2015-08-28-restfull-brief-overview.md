@@ -4,7 +4,7 @@ title: RESTfull brief overview
 date: 2015-08-28T22:10:35+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=1455
+guid: /?p=1455
 permalink: /2015/08/28/restfull-brief-overview/
 dsq_thread_id:
   - "4075775761"

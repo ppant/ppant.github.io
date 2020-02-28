@@ -4,7 +4,7 @@ title: 'Delhi.pm Perl Monger user group: Need suggestions'
 date: 2012-02-20T20:13:39+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=877
+guid: /?p=877
 permalink: /2012/02/20/delhi-pm-perl-monger-user-group-need-suggestions/
 jabber_published:
   - "1329749022"

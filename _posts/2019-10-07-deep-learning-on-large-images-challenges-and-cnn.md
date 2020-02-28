@@ -4,7 +4,7 @@ title: 'Deep learning on large images: challenges and CNN'
 date: 2019-10-07T20:13:25+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=2096
+guid: /?p=2096
 permalink: /2019/10/07/deep-learning-on-large-images-challenges-and-cnn/
 ---
 Applying deep learning on large images is always a challenge but there a solution using convolutional but first, let&#8217;s understand in brief where is the challenge? So one of the challenges in computer vision is that inputs become very big as we increase image size. 
@@ -19,7 +19,7 @@ so if you put in a deep network then x will be 3M, and suppose if first hidden l
 
 This is just for a 1MB image but in computer vision problem you don&#8217;t want to stick with using just tiny images using bigger images results in overfitting and huge input feature vector so here comes convolution operation which is the basic building block of Convolutional Neural Network (CNN).<figure class="wp-block-image">
 
-<img src="http://pradeeppant.com/wp-content/uploads/2019/10/deep_learning_on_large_images-1024x580.png" alt="" class="wp-image-2106" srcset="http://pradeeppant.com/wp-content/uploads/2019/10/deep_learning_on_large_images-1024x580.png 1024w, http://pradeeppant.com/wp-content/uploads/2019/10/deep_learning_on_large_images-300x170.png 300w, http://pradeeppant.com/wp-content/uploads/2019/10/deep_learning_on_large_images-768x435.png 768w, http://pradeeppant.com/wp-content/uploads/2019/10/deep_learning_on_large_images.png 1145w" sizes="(max-width: 1024px) 100vw, 1024px" /> <figcaption>Image Source: Andrew Ng Deep Learning Course</figcaption></figure> 
+<img src="/wp-content/uploads/2019/10/deep_learning_on_large_images-1024x580.png" alt="" class="wp-image-2106" srcset="/wp-content/uploads/2019/10/deep_learning_on_large_images-1024x580.png 1024w, /wp-content/uploads/2019/10/deep_learning_on_large_images-300x170.png 300w, /wp-content/uploads/2019/10/deep_learning_on_large_images-768x435.png 768w, /wp-content/uploads/2019/10/deep_learning_on_large_images.png 1145w" sizes="(max-width: 1024px) 100vw, 1024px" /> <figcaption>Image Source: Andrew Ng Deep Learning Course</figcaption></figure> 
 
   
   

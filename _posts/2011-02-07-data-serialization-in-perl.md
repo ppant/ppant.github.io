@@ -4,7 +4,7 @@ title: Data Serialization in Perl
 date: 2011-02-07T13:34:42+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=297
+guid: /?p=297
 permalink: /2011/02/07/data-serialization-in-perl/
 jabber_published:
   - "1297066413"

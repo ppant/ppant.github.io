@@ -4,7 +4,7 @@ title: git amend scenerios
 date: 2019-03-12T21:16:50+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=1847
+guid: /?p=1847
 permalink: /2019/03/12/git-amend-scenerio/
 ---
 Sometimes we need to change the commit message of already committed/committed-pushed files. See below some of the scenarios might arise<g class="gr_ gr\_4 gr-alert gr\_gramm gr\_inline\_cards gr\_run\_anim Punctuation multiReplace" id="4" data-gr-id="4">..</g> 

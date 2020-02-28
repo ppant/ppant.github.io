@@ -4,7 +4,7 @@ title: Import RDBMS table to HDFS with sqoop from postgreSQL
 date: 2014-11-14T20:39:44+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=1351
+guid: /?p=1351
 permalink: /2014/11/14/hadoop-data-loading-with-sqoop-using-pgsql/
 dsq_thread_id:
   - "3223140421"

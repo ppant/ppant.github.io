@@ -4,7 +4,7 @@ title: Resource on debugging, profiling and benchmarking in Perl
 date: 2012-02-18T22:04:26+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=862
+guid: /?p=862
 permalink: /2012/02/18/resource-on-debugging-profiling-and-benchmarking-in-perl/
 jabber_published:
   - "1329582869"

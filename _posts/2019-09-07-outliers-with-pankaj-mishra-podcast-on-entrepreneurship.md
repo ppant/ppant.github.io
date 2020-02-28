@@ -4,7 +4,7 @@ title: 'Outliers with Pankaj Mishra: podcast on entrepreneurship'
 date: 2019-09-07T17:57:17+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=2082
+guid: /?p=2082
 permalink: /2019/09/07/outliers-with-pankaj-mishra-podcast-on-entrepreneurship/
 twitter_share:
   - 'a:2:{s:8:"hashtags";a:1:{i:0;s:31:"podcast entrepreneurship #india";}s:4:"text";s:56:"Outliers with Pankaj Mishra: podcast on entrepreneurship";}'

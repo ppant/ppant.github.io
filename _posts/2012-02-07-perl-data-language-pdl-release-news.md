@@ -4,7 +4,7 @@ title: Perl Data Language (PDL) Release News
 date: 2012-02-07T19:30:03+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=851
+guid: /?p=851
 permalink: /2012/02/07/perl-data-language-pdl-release-news/
 jabber_published:
   - "1328623372"

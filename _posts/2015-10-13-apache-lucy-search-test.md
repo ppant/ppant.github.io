@@ -4,12 +4,12 @@ title: apache lucy search examples
 date: 2015-10-13T20:46:38+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=1477
+guid: /?p=1477
 permalink: /2015/10/13/apache-lucy-search-test/
 dsq_thread_id:
   - "4221391787"
 ---
-Investigating search engines and this time [apache Lucy](http://pradeeppant.com/2011/10/apache-lucy-search-engine/) 0.4.2. I am showing a basic indexer and a small search application. See below code for indexer (This will take documents one by one and then index them). Search module will take arugument as STDIN and then will show the search result.
+Investigating search engines and this time [apache Lucy](/2011/10/apache-lucy-search-engine/) 0.4.2. I am showing a basic indexer and a small search application. See below code for indexer (This will take documents one by one and then index them). Search module will take arugument as STDIN and then will show the search result.
 
 This is pure command line utility just to show how basic indexing and searching works using apache lucy.
 

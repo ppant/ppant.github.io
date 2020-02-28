@@ -4,7 +4,7 @@ title: Reinforcement Learning Explained in brief for a layperson
 date: 2019-11-06T20:38:46+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=2161
+guid: /?p=2161
 permalink: /2019/11/06/reinforcement-learning-explained-in-brief-for-a-layperson/
 ---
 As we know, Machine Learning algorithms can broadly be divided into 3 main categories: 

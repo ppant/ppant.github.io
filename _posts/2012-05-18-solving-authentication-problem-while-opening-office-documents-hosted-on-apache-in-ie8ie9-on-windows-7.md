@@ -4,7 +4,7 @@ title: Solving the authentication problem while opening Office documents hosted 
 date: 2012-05-18T23:47:58+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=903
+guid: /?p=903
 permalink: /2012/05/18/solving-authentication-problem-while-opening-office-documents-hosted-on-apache-in-ie8ie9-on-windows-7/
 jabber_published:
   - "1337365081"

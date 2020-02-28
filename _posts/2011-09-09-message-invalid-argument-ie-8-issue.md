@@ -4,7 +4,7 @@ title: 'Message: Invalid argument: IE 8 Issue'
 date: 2011-09-09T21:00:57+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=634
+guid: /?p=634
 permalink: /2011/09/09/message-invalid-argument-ie-8-issue/
 jabber_published:
   - "1315582349"

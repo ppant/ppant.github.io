@@ -4,7 +4,7 @@ title: Perl Weekly newsletter
 date: 2011-08-03T20:23:37+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=610
+guid: /?p=610
 permalink: /2011/08/03/perl-weekly-newsletter/
 jabber_published:
   - "1312383724"

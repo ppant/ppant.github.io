@@ -4,7 +4,7 @@ title: Philosophy and Software Design patterns
 date: 2012-01-18T22:07:39+05:30
 author: Pradeep Pant
 layout: post
-guid: http://pradeeppant.com/?p=586
+guid: /?p=586
 permalink: /2012/01/18/philosophy-and-software-design-patterns/
 jabber_published:
   - "1326904660"

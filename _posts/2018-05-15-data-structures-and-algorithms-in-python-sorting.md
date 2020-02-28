@@ -1,6 +1,6 @@
 ---
 id: 1718
-title: 'Data Structures and Algorithms in Python: Sorting'
+title: 'Data Structures and Algorithms in Python Sorting'
 date: 2018-05-15T22:01:48+05:30
 author: Pradeep Pant
 layout: post
@@ -111,11 +111,10 @@ print (arr)
 
 ------
 
-Check [GitHub](https://github.com/ppant/DS-Algos-Python) for the full working code.
+Check **[GitHub](https://github.com/ppant/DS-Algos-Python)** for the full working code.
 
 I will keep adding more problems/solutions.
 Stay tuned!
 
-## References: 
-The inspiration of implementing DS in Python is from [this](http://interactivepython.org/runestone/static/pythonds/index.html) course.
+**Reference:** The inspiration of implementing DS in Python is from **[this](http://interactivepython.org/runestone/static/pythonds/index.html)** course.
     

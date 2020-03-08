@@ -4,33 +4,21 @@ title: 'Adding core and custom properties in Microsoft Word (doc), XLS, PPT file
 date: 2019-12-31T23:00:00+05:30
 author: Pradeep Pant
 layout: post
-guid: /?p=2264
-permalink: /2019/12/31/example-of-adding-core-and-custom-properties-in-microsoft-word-doc-file-using-apache-poi-through-perl-wrapper/
 ---
 Apache POI is the set of Java APIs to manipulate MS Office documents. You can read more about Apache POI [here](https://poi.apache.org/).
-
-
-
-
-
 In this post, I am showing a fully working example to push core and custom properties in Microsoft Word (.doc) file.
 
-<p style="color:#0477a8" class="has-text-color">
-  <strong>Env:</strong>
-</p>
+**Env:**
+ *  *CentOS 6x*
+ *  *Java 1.8*
+ *  *POI 3.17*
+ *  *[Inline](https://metacpan.org/pod/Inline) - Write Perl Subroutines in Other Programming Languages* 
+ *  *[Inline::Java](https://metacpan.org/pod/Inline::Java) - Write Perl classes in Java.*
+ *  *Perl 5.12*
 
-  * CentOS 6x
-  * Java 1.8
-  * POI 3.17
-  * [Inline](https://metacpan.org/pod/Inline) &#8211; Write Perl Subroutines in Other Programming Languages 
-  * [Inline::Java](https://metacpan.org/pod/Inline::Java) &#8211; Write Perl classes in Java. 
-  * Perl 5.12
+**Perl script:**
 
-<p style="color:#0375a6" class="has-text-color">
-  <strong>Perl script:</strong>
-</p>
-
-{% highlight perl %}
+````perl
 #!/usr/local/bin/perl    
 	use POI;	
 	# Make sure to give full path of the doc file
@@ -39,12 +27,11 @@ In this post, I am showing a fully working example to push core and custom prope
 	my $poi_obj = POI->new();
 	# Call push properties routine which is inside POI.pm and written in Java
 	my $docname = $poi_obj->PushProperties($path,"Test_doc_file","Test file doc type extension","2.0","ppant");	
-	{% endhighlight %}
+````
 
-<p style="color:#0373a3" class="has-text-color">
-  <strong>Perl module with Java code:</strong>
-</p>
-{% highlight perl %}
+**Perl module with Java code:**
+
+````perl
 package POI;
 use strict; 
 use warnings;
@@ -60,6 +47,8 @@ sub new {
         return POI::POI->new();
     }
  1;
+ ````
+ ````java
     __DATA__
     __Java__
 
@@ -168,27 +157,24 @@ public String PushProperties(String filename, String docname, String doctitle, S
    }   
    return docname;
   } // end of PushProperties
-} //end of public POI</code></pre>
-{% endhighlight %}
-<p style="color:#0373a3" class="has-text-color">
-  <strong>Command to run/stop/restart JVM</strong>
-</p>
+} //end of public POI
+````
+
+**Command to run/stop/restart JVM**
 
 JVM to be run the first time and each time you make changes to module file.
 
-For more info on POI env setting please check my [previous post](/2019/12/09/apache-poi-env-setting-in-centos-6-and-perl/).<figure class="wp-block-pullquote">
+For more info on POI env setting please check my [previous post](/2019/12/07/apache-poi-env-setting-in-centos-6-and-perl/)
 
-> % perl -MInline::Java::Server=start&nbsp; &nbsp;
-> 
-> % perl -MInline::Java::Server=stop&nbsp; &nbsp;
-> 
-> % perl -MInline::Java::Server=restart
-> 
-> <cite>Command to start and stop jvm</cite></figure> 
+* % perl -MInline::Java::Server=start
+ 
+* % perl -MInline::Java::Server=stop
+ 
+* % perl -MInline::Java::Server=restart
+ 
 
-<p style="color:#0476a6" class="has-text-color">
-  <strong>Full code and sample files on my Github: </strong>
-</p>
+**Full code and sample files on my Github:**
+
 
 <https://github.com/ppant/apache-poi-examples-in-perl>  
 
@@ -199,13 +185,3 @@ Happy coding!
 
 **Note:** The same routine can be used to push variables in XLS and PPT type.  
 In another post, I will share an example with the Microsoft Word DOCX file which also uses different sets of POI APIs. 
-
-<div class="wp-block-group">
-  <div class="wp-block-group__inner-container">
-  </div>
-</div>
-
-<div class="wp-block-group">
-  <div class="wp-block-group__inner-container">
-  </div>
-</div>

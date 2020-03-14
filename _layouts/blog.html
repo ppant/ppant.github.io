@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}    
+  <body>
+  {% include header.html %}
+  <main>
+<!-- This loops through the paginated posts -->
+{% for post in paginator.posts %}
+  <h3>
+  <p><time>{{ post.date | date: "%b %-d, %Y" }}</time></p>
+  <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+    
+    </p></h3>
+{% endfor %}
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">
+      Previous
+    </a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">
+    Page: {{ paginator.page }} of {{ paginator.total_pages }}
+  </span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>
+ {% include disqus_comments.html %}
+ {% include footer.html %}
+ </main>
+  </body>
+</html>

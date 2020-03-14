@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: about
 title: About
+permalink: /about/
 ---
 
 ![IMG_1573_small.jpg](\data\images\IMG_1573_small.jpg)
@@ -10,4 +11,9 @@ Welcome to my blog. My name is Pradeep Pant. By profession, I am a Software Engi
 
 Thanks for visiting.
 
+You can reach me at:
 
+<span><a href=""></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ppant"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg></a>
+&nbsp;&nbsp;<a href="https://github.com/ppant"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg></a>
+&nbsp;&nbsp;<a href="https://www.twitter.com/ppant"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg></a></span>

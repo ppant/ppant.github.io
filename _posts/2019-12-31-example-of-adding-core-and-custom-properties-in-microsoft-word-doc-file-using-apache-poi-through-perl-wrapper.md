@@ -164,7 +164,7 @@ public String PushProperties(String filename, String docname, String doctitle, S
 
 JVM to be run the first time and each time you make changes to module file.
 
-For more info on POI env setting please check my [previous post](/2019/12/07/apache-poi-env-setting-in-centos-6-and-perl/)
+For more info on POI env setting please check my [previous post](/2019/12/07/apache-poi-env-setting-in-centos-6-and-perl.html)
 
 * % perl -MInline::Java::Server=start
  

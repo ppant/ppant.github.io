@@ -19,10 +19,12 @@ Praying for all human beings all over the world.
 
 Take care!
 
+___
+
 ***Update March 25, 2020:*** *Indian Pm has announced 21 day full lockdown -  [clip](https://www.youtube.com/watch?v=4yYoR6KmNEU). This is unprecendted. Imagine 1.3bn people staying in home, one of the biggest isloation exercise. Nobody knows what will be the outcome of this hope we succeed in slowing down the spread of virus? This step will have huge impact on economy for sure but as PM says that first priority is to save the lives. Let's pray and hope for the best and stay indoor.*
 
+___
 
-
-***PP***
+**PP**
  
-*New Delhi, India*
+New Delhi, India

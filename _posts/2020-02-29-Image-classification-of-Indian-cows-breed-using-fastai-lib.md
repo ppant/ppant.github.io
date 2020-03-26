@@ -109,7 +109,7 @@ data.classes, data.c, len(data.train_ds), len(data.valid_ds)
 (['bargur', 'hallikar', 'sindhi'], 3, 432, 108)
 ````
 
-![indian_cows_breed_preview.png](\data\images\indian_cows_breed_preview.png)
+![Indian Cows Breed Preview](\data\images\indian_cows_breed_preview.png)
 
 So now we have images in each category, in next post we'll see how to train the model to make a Indian Cows breed classifier.
 

@@ -24,7 +24,10 @@ ___
 ***Update March 25, 2020:*** *Indian Pm has announced 21 day full lockdown -  [clip](https://www.youtube.com/watch?v=4yYoR6KmNEU). This is unprecendted. Imagine 1.3bn people staying in home, one of the biggest isloation exercise. Nobody knows what will be the outcome of this hope we succeed in slowing down the spread of virus? This step will have huge impact on economy for sure but as PM says that first priority is to save the lives. Let's pray and hope for the best and stay indoor.*
 
 ***Update March 28, 2020:*** *We are in lockdown for last 4 days. Such a nice weather outside, it rained yesterday, clear sky first time pollution level is so low < 50. 
-![Clear sky March 28 2020.png](\data\images\clear_sky_delhi_march_2020.jpeg)This is the best time to be outdoors just before summer sets in but in this challenging time we are follwoing the instructions and staying at home so that our front warriers can do their job. I think one of the aspect we miss at this time is the mental health, I was Listning to this lady , very balanced talk [clip](https://youtu.be/a3MsgIo0w54). She talks about how to keep mind in control in this crisis time and get over your fear. .*
+
+![Clear sky March 28 2020.png](\data\images\clear_sky_delhi_march_2020.jpeg)
+
+This is the best time to be outdoors just before summer sets in but in this challenging time we are follwoing the instructions and staying at home so that our front warriers can do their job. I think one of the aspect we miss at this time is the mental health, I was Listning to this lady , very balanced talk [clip](https://youtu.be/a3MsgIo0w54). She talks about how to keep mind in control in this crisis time and get over your fear. .*
 
 ___
 

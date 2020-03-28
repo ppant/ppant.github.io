@@ -27,7 +27,7 @@ ___
 
 ![Clear sky March 28 2020.png](\data\images\clear_sky_delhi_march_2020.png)
 
-This is the best time to be outdoors before trainstion to summer but in this challenging time we are following the instructions and staying at home so that our front warriors can do their job. I think one of the aspect we miss at this time is the mental health btw I was Listning to this lady, very balanced talk [clip](https://youtu.be/a3MsgIo0w54). She was talking about how to keep mind in control in this crisis time and get over your fear.
+This is the best time to be outdoors before trainstion to summer but in this challenging time we are following the instructions and staying at home so that our front warriors can do their job. I think one of the aspect we miss at this time is the mental health btw I was Listning to this lady, very balanced talk [clip](https://youtu.be/a3MsgIo0w54). She was talking about how to keep mind in control in this crisis time and get over your fear.*
 
 ___
 

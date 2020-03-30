@@ -47,7 +47,7 @@ ___
 
 *Bike trainer purchase been one of the best investment of 2019 this is helping a lot during lockdown at the time when you can't go out for a run/ride. Thanks to my friend [Rishi](https://jigyasu.com/) for introducing to indoor biking*
 
-*Let's continue to stay home and practice social distancing. We all should support govt in our own capacity through [PM Releif fund](https://www.pmindia.gov.in/en/#)*
+*Let's continue to stay home and practice social distancing. We all should support anyone in need and govt in our own capacity through [PM Relief fund](https://www.pmindia.gov.in/en/#)*
 
 ___
 

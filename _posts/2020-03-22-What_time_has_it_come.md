@@ -43,7 +43,7 @@ ___
 
 ![Indoor Ride during lockdown COVID19](\data\images\Ride_20200329.png){:height="700px"}.
 
-*On the side lines Bike trainer purchase been one of the best investment of 2019 now this is helping a lot during lockdown at the time when you can't go out for a run/ride*
+*Bike trainer purchase been one of the best investment of 2019 now this is helping a lot during lockdown at the time when you can't go out for a run/ride*
 
 ___
 

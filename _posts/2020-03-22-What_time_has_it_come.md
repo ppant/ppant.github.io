@@ -41,7 +41,7 @@ ___
 
 *We are towards the end of March, the financial year ending here in India a very busy time for accountants, CA's, companies actually for everyone. Being in IT and doing Work From Home for almost 5 years my WFH eco-system is already in place (maybe a separate post on do's and don't of WFH) so for me, the lockdown has not changed much, the only major thing I am missing is my morning time when I go in the park. Some more household activity is added due to the non-availability of domestic help which is fine. I am trying to continue my workout regime through Yoga/Pranayam practices and indoor cycling.*
 
-![Indoor Ride during lockdown COVID19](\data\images\Ride_20200329.png){:height="700px"}.
+![Indoor Ride during lockdown COVID19](\data\images\Ride_20200329.png){:height="700px"}
 
 *Bike trainer purchase been one of the best investment of 2019 now this is helping a lot during lockdown at the time when you can't go out for a run/ride*
 

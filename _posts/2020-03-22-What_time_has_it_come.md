@@ -29,7 +29,7 @@ ___
 
 *This is the best time to be outdoors before transition to summer but in this challenging time we are following the instructions and staying at home so that our front warriors can do their job. I think one of the aspect we miss at this time is the mental health btw I was Listning to this lady, very balanced talk [clip](https://youtu.be/a3MsgIo0w54). She was talking about how to keep mind in control in this crisis time and get over your fear. I am trying to continue my workout through Yoga, Indoor Cycling and helping in household work*
 
-**Update March 30, 2020:** *We are in 6th day of lockdown. Cases in India are rising but still not oit of control which we do not wnat.. I think some state govt's are doing good job. My home state Uttrkhand is doing good in isolating the remote regions and entry of outside people. Many of the Indian spiritual guru's are also trying to help in their own way so that people remains calm and mentally fit. Below some of the link which you may check* 
+**Update March 30, 2020:** *We are on the 6th day of lockdown. Cases in India are rising but still not out of control which we do not want.. I think some state governments are doing well in containing. My home state Uttrakhand is doing pretty well in isolating the remote regions. These parts almost have none of the medical facilities. A couple of the Indian spiritual leaders are also trying to help in their own way to help the population to remain calm and mentally fit. One of the widely watched TV program Ramayana restarted on National Television to keep people engaged. Below some of the link which you may check..* 
 
 [With Sadhguru in Challenging Times](https://www.youtube.com/channel/UCcYzLCs3zrQIBVHYA1sK2sw)
 
@@ -39,7 +39,7 @@ ___
 
 [Baba Ramdev Yoga](https://www.youtube.com/user/TheBHARATSWABHIMAN)
 
-*We are towrads Match end, work wise last week was busy being in IT and doing WFH for almost 5 years now my WFH eco-system is already in place so for me lockdown is mainly my morning time when I go for a run in the park rest eveything is same except some extra house-hold activity, I am trying to continue my workout regime through Yoga/Pranayam practices and indoor cycling*
+*We are towards the end of March, the financial year ending here in India a very busy time for accountants, CA's, companies actually for everyone. Being in IT and doing Work From Home for almost 5 years my WFH eco-system is already in place (maybe a separate post on do's and don't of WFH) so for me, the lockdown has not changed much, the only major thing I am missing is my morning time when I go in the park. Some more household activity is added due to the non-availability of domestic help which is fine. I am trying to continue my workout regime through Yoga/Pranayam practices and indoor cycling.*
 
 ![Indoor Ride during lockdown COVID19](\data\images\Ride_20200329.png){:height="700px"}.
 

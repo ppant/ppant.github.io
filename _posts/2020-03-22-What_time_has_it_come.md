@@ -25,15 +25,26 @@ ___
 
 **Update March 28, 2020:** *We are in lockdown for last 4 days. Such a nice weather outside, it rained yesterday, clear sky first time pollution level is so low < 50.*
 
-![Clear sky March 28 2020.png](\data\images\clear_sky_delhi_march_2020.jpeg)
+![Clear sky March 28 2020.png](\data\images\clear_sky_delhi_march_2020.jpeg){:height="700px"}
 
 *This is the best time to be outdoors before transition to summer but in this challenging time we are following the instructions and staying at home so that our front warriors can do their job. I think one of the aspect we miss at this time is the mental health btw I was Listning to this lady, very balanced talk [clip](https://youtu.be/a3MsgIo0w54). She was talking about how to keep mind in control in this crisis time and get over your fear. I am trying to continue my workout through Yoga, Indoor Cycling and helping in household work*
 
-**Update March 30, 2020:** *Trying to keep fit with Yoga, indoor cycling and Yoga*
+**Update March 30, 2020:** *We are in 6th day of lockdown. Cases in India are rising but still not oit of control which we do not wnat.. I think some state govt's are doing good job. My home state Uttrkhand is doing good in isolating the remote regions and entry of outside people. Many of the Indian spiritual guru's are also trying to help in their own way so that people remains calm and mentally fit. Below some of the link which you may check* 
 
-![Indoor Ride during lockdown COVID19](\data\images\Ride_20200329.png)
+[With Sadhguru in Challenging Times](https://www.youtube.com/channel/UCcYzLCs3zrQIBVHYA1sK2sw)
 
-*Bike trainer been one of the best investment*
+[Siddha Yoga](https://www.siddhayoga.org/)     _**Disclosure** I follow this path for last 2_ decades 
+
+[World Meditates with Gurudev Sri Sri Ravi Shankar](https://www.youtube.com/watch?v=gSTZZzPFW20)
+
+[Baba Ramdev Yoga](https://www.youtube.com/user/TheBHARATSWABHIMAN)
+
+*We are towrads Match end, work wise last week was busy being in IT and doing WFH for almost 5 years now my WFH eco-system is already in place so for me lockdown is mainly my morning time when I go for a run in the park rest eveything is same except some extra house-hold activity, I am trying to continue my workout regime through Yoga/Pranayam practices and indoor cycling*
+
+![Indoor Ride during lockdown COVID19](\data\images\Ride_20200329.png){:height="700px"}.
+
+*btw Bike trainer has been one of the best investment which is helping a lot at this duration when you can't go out for a run/ride*
+
 ___
 
 **PP**

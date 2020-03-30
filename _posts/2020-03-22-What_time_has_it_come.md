@@ -45,7 +45,9 @@ ___
 ![Indoor Ride during lockdown COVID19](\data\images\Ride_20200329.PNG){:height="700px"}
 
 
-*Bike trainer purchase been one of the best investment of 2019 now this is helping a lot during lockdown at the time when you can't go out for a run/ride*
+*Bike trainer purchase been one of the best investment of 2019 this is helping a lot during lockdown at the time when you can't go out for a run/ride.*
+
+*Let's continue to stay home and practice social distancing. We all should support govt in our own capacity through [PM Releif fund](https://www.pmindia.gov.in/en/#)*
 
 ___
 

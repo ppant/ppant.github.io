@@ -29,6 +29,11 @@ ___
 
 *This is the best time to be outdoors before transition to summer but in this challenging time we are following the instructions and staying at home so that our front warriors can do their job. I think one of the aspect we miss at this time is the mental health btw I was Listning to this lady, very balanced talk [clip](https://youtu.be/a3MsgIo0w54). She was talking about how to keep mind in control in this crisis time and get over your fear. I am trying to continue my workout through Yoga, Indoor Cycling and helping in household work*
 
+**Update March 30, 2020:** *Trying to keep fit with Yoga, indoor cycling and Yoga*
+
+![Indoor Ride during lockdown COVID19](\data\images\Ride_20200329.png)
+
+*Bike trainer been one of the best investment*
 ___
 
 **PP**

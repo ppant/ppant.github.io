@@ -39,7 +39,7 @@ Perl code:
 	} # end of detect_browser
 ````
 
-I will write a elaoborated post on IE/Edge issues which I have faced recently.
+I will write a elaborated post on IE/Edge issues which I have faced recently.
 
 Cheers!
 

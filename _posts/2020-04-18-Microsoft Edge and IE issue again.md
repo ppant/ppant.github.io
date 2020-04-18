@@ -1,6 +1,6 @@
 ---
 title: 'Microsoft Edge and IE issue again and workaround'
-date: 2020-04-15T5:34:03+05:30
+date: 2020-04-18T5:34:03+05:30
 author: Pradeep Pant
 layout: post
 ---
@@ -40,3 +40,8 @@ Example code:
 	win_name.focus();
 ````
 
+btw I don't use and recommend IE, edge but we have to use for testing our product because some of the IT managers still advice IE to their organization and as a product we have to fix silly Microsoft bugs and sometimes customer thinks our software is buggy 😭
+
+Cheers!
+
+Stay Safe.

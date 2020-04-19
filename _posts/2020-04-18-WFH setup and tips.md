@@ -21,6 +21,7 @@ Hardware:
 - Medion Akoya Laptop 16GB RAM + SSD + which I use to run my Linux + VMWare VM + Outlook
 - Medion desktop + 16GB RAM 
 - NAS server
+- 12 port USB hub
 
 Software for managing multiple screens:
 
@@ -30,11 +31,16 @@ Software for managing multiple screens:
 - TeamViewer
 - Skype
 
-Start you work day at the same time
+I am follwing WFH for alomst 5 years for now. Here are some of my suggestions:
 
-Follow routine including lunch time
+- Start you work day at the same time as per your time zone.
+- Follow routine including lunch time, try to utlize this time if possible help in preparing some  
+  heathly food.
+- Try to make todo for the next day by the end of current day 
+    I generally have datewise todo list which I prepare in advance so next morning when I start work I already know which tasks to be picked first, I generally pick the most difficult tasks first which requires deep work, most of the time I assign a time slot mostly of 40mins to that task in that duration I put my phone on silient mode, no browser tab opened or onyl opened opened which are really necssary for that task. Idea is to focus fully on task in hand. 
 
-Try to make todo for the next day by the end of current day, I generally have datewise todo list which I prepare in advance so next morning when I start work I already know which tasks to be picked first, I generally pick the most difficult tasks first which requires deep work, most of the time I assign a time slot mostly of 40mins to that task in that duration I put my phone on silient mode, no browser tab opened or onyl opened opened which are really necssary for that task. Idea is to focus fully on task in hand. 
+- Trying to pick a activity during conf call 
+    A lot of time spent during long conference calls so its better to use that time to stretch a bit and do some deep breathing exercises. Wiresless headphone are of great help. Make sure you charged them well each morning.
 
 ![My WFH Setup](\data\images\wfh_pic_20200418.jpg){:height="700px"}
 

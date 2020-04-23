@@ -11,22 +11,46 @@ Sometimes we need to change the commit message of already committed/committed-pu
 
 **Scenerio 1-> Committed but not pushed**
 
-<pre class="wp-block-preformatted"><em>$ git commit --amend</em></pre>
+````bash 
+$ git commit --amend 
+````
 
-This will open an editor with the commit message. If you are using vi editor edit the commit message and save using _<g class="gr_ gr\_8 gr-alert gr\_gramm gr\_inline\_cards gr\_run\_anim Style replaceWithoutSep" id="8" data-gr-id="8">!<g class="gr_ gr\_5 gr-alert gr\_spell gr\_inline\_cards gr\_disable\_anim_appear ContextualSpelling" id="5" data-gr-id="5">wq</g></g>:_ Check with _$git log_ if the message has been amended correctly.
+This will open an editor with the commit message. If you are using vi editor edit the commit message and save using ````!wq:```` 
+You can check with ````$git log```` 
+if the commit message is amended correctly.
 
 **Scenerio 2-> Already pushed + most recent commit**
 
-It might be the case that if a user has already pushed the changes to git central repository, in this type of scenario we need to first amend the most recent local commit and afterward apply _&#8211;force push_ which will forcefully push the changes to the server. In this process, one thing to keep in mind is that if in between any other user who has already synced local copy with the central repository needs to re-pull.
+It might be the case that if a user has already pushed the changes to git central repository, in this type of scenario we need to first amend the most recent local commit and afterward apply ````-force push```` 
+which will forcefully push the changes to the server. In this process, one thing to keep in mind is that if in between any other user who has already synced local copy with the central repository needs to re-pull.
 
-<pre class="wp-block-preformatted"><em>$ git commit --amend</em><br /> Edit the message in vi and save and exit<br /><em> $ git push origin &lt;branch_name&gt; --force</em></pre>
+````bash
+$ git commit --amend
+````
+Edit the message in vi and save and exit
+
+````bash 
+$ git push origin <branch_name> --force 
+````
 
   
 **Scenerio 3-> Not pushed + old commit** 
 
-<pre class="wp-block-preformatted">$ git rebase -&lt;g class="gr_ gr_5 gr-alert gr_tiny gr_spell gr_inline_cards gr_run_anim ContextualSpelling multiReplace" id="5" data-gr-id="5">i&lt;/g> HEAD~X</pre>
+````bash 
+$ git rebase -i HEAD~X
+````
 
-where X is the number of commits to <g class="gr_ gr\_3 gr-alert gr\_gramm gr\_inline\_cards gr\_run\_anim Grammar multiReplace" id="3" data-gr-id="3">go</g> back then move to the line of your commit, change pick and edit then change your commit message
+where X is the number of commits to go back then move to the line of your commit, change pick and edit then change your commit message.
+e.g.; Go back to previous 2 commits
+
+````bash 
+$ git rebase -i HEAD~2
+````
+**Note:** *It's always good idea to use* ````bash 
+$ git log 
+````
+*to check the commit history to avoid the mistake in rebase.*
+
 
 <pre class="wp-block-preformatted"><em>$ git commit --amend </em></pre>
 

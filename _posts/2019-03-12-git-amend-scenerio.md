@@ -46,36 +46,54 @@ e.g.; Go back to previous 2 commits
 ````bash 
 $ git rebase -i HEAD~2
 ````
-**Note:** *It's always good idea to use* ````bash 
+**Note:** *It's always good idea to use* 
+````bash 
 $ git log 
 ````
 *to check the commit history to avoid the mistake in rebase.*
 
+Use amend 
 
-<pre class="wp-block-preformatted"><em>$ git commit --amend </em></pre>
+````bash 
+$ git commit --amend 
+````
+and finish the rebase with:
 
-Finish the rebase with:
+````bash 
+$ git rebase --continue
+````
 
-<pre class="wp-block-preformatted"><em>$ git rebase --continue</em></pre>
+Rebase opened your history and let you pick what to change. With edit, you can change the message. Git moves you to a new branch to let you amend the message. 
+````bash $ git rebase --continue
+```` 
+puts you back in your previous branch with the changed message. 
 
-Rebase opened your history and let you pick what to change. With edit, you tell that you <g class="gr_ gr\_9 gr-alert gr\_gramm gr\_inline\_cards gr\_run\_anim Grammar only-ins replaceWithoutSep" id="9" data-gr-id="9">want</g> to change the message. Git moves you to a new branch to let you &#8211;amend the message. _git rebase &#8212;_ continue puts you back in your previous branch with the message changes. 
+alternatively, you can choose 
+````bash 
+reword
+```` 
+instead of edit when rebasing to change the commit directly. Then you can skip the amend and rebase continue. You may check [this](https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History) link from git book for more on this.
 
-alternatively, you can <g class="gr_ gr\_4 gr-alert gr\_gramm gr\_inline\_cards gr\_run\_anim Grammar only-ins replaceWithoutSep" id="4" data-gr-id="4">choose</g> r_eword_ instead of edit when rebasing to change the commit directly. Then you can skip the amend and rebase continue. You may check [this](https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History) link from git book for more on this.
+**Scenerio 4-> Already Pushed + Old Commit**  
+Edit your message with the same 3 steps process as we saw in scenerios 2 
+````bash 
+rebase -i, commit --amend, rebase --continue
+````
+Then force push the commit.
 
-**<g class="gr_ gr\_6 gr-alert gr\_spell gr\_inline\_cards gr\_run\_anim ContextualSpelling ins-del multiReplace" id="6" data-gr-id="6">Scenerio</g> 4-> Already pushed <g class="gr_ gr\_12 gr-alert gr\_tiny gr\_gramm gr\_inline\_cards gr\_run_anim Grammar only-ins doubleReplace replaceWithoutSep" id="12" data-gr-id="12">+</g> old commit**  
-Edit your message with the same 3 steps process as <g class="gr_ gr\_25 gr-alert gr\_spell gr\_inline\_cards gr\_run\_anim ContextualSpelling ins-del multiReplace" id="25" data-gr-id="25">menined</g> in scenerios 2 ( r_ebase &#8211;_<g class="gr_ gr\_7 gr-alert gr\_tiny gr\_spell gr\_inline\_cards gr\_run_anim ContextualSpelling multiReplace" id="7" data-gr-id="7">_i_</g>_, commit &#8211;amend, rebase &#8211;continue)_. Then force push the commit
+````bash 
+$git push <branch_name> master --force
+````
 
-<pre class="wp-block-preformatted">$<em>git push </em>&lt;branch_name&gt;<em> </em>m<em>aster --force</em></pre>
+Please so remember re-pushing your commit after changing, it will be very likely to prevent others to sync with the repo if they already pulled a copy. You should first check with them.
 
-But! please remember re-pushing your commit after changing it will very likely to prevent others to sync with the <g class="gr_ gr\_7 gr-alert gr\_gramm gr\_inline\_cards gr\_run\_anim Punctuation only-del replaceWithoutSep" id="7" data-gr-id="7">repo,</g> if they already pulled a copy. You should first check with them.
 
-<p style="text-align:left" class="has-text-color has-small-font-size has-vivid-cyan-blue-color">
-  <br /><strong>References: <br /></strong><a href="https://gist.github.com/nepsilon/156387acf9e1e72d48fa35c4fabef0b4">https://gist.github.com/nepsilon/156387acf9e1e72d48fa35c4fabef0b4</a>
-</p>
+**References:** 
 
-<p class="has-text-color has-small-font-size has-vivid-cyan-blue-color">
-  <a href="https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History">https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History</a>
-</p>
+[https://gist.github.com/nepsilon/156387acf9e1e72d48fa35c4fabef0b4](https://gist.github.com/nepsilon/156387acf9e1e72d48fa35c4fabef0b4)
+
+[git-scm](https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History)
+
 
 
 

@@ -64,7 +64,8 @@ $ git rebase --continue
 ````
 
 Rebase opened your history and let you pick what to change. With edit, you can change the message. Git moves you to a new branch to let you amend the message. 
-````bash $ git rebase --continue
+````bash 
+$ git rebase --continue
 ```` 
 puts you back in your previous branch with the changed message. 
 

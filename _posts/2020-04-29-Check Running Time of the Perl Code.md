@@ -5,7 +5,7 @@ author: Pradeep Pant
 layout: post
 ---
 
-Timing functions during a program run is really helpful and crucial in debugging. Below is the quick intro on ````timediff()```` using Perl's Benchmark module. 
+As a coder debugging is an important and crucial part. Timing functions during a program run is really helpful and crucial in debugging. Below is the quick intro on ````timediff()```` using Perl's Benchmark module. 
 
 ````perl
 use Benchmark;

@@ -55,6 +55,11 @@ ___
 
 **Update April 23, 2020:** *We are in the second lockdown till May 3rd 2020 (hopefully?) which started immediately after the first lockdown ended on 14th April. As far as the disease spread is concerning cases are rising crossed 20K and doubling in approx 7 days which is not bad. So far, the situation seems under control. One of the main concerns is asymptomatic cases which are rising at a very faster rate. In the thinking center and most of the state Govt's are doing good mainly the state like Orrisa, Kerela, Uttrakhand also being a big state UP is doing good in taking fast action. Unlike Western countries, the major part of the public is supporting lockdown which is good. The economy is getting hit very hard, right now we can't even think how much damage this disease is doing and will do in the future? Students who are in their critical junction of studies will face huge issues but one has to keep the calm. Things will change but it will be gradual and slow. So patience is the key which is not easy of course.* 
 
+**Update May 10, 2020:** *So here we are in lockdown 3.0. Infections are still rising rapidly but not exponetial rate. Long way to go.. I think we'll have to live with this new setp for longer durarion. On other day I was talking to my boss in Europe about how The experts/researchers from biggies like MITs, Standfords, Havards, Oxfords, WHO miss any warning signs of pandemic of this scale. This really amaze me and now if you see there are lots of analysis, when the flatten the curve, pandemic peak date blah blah .. similarly we missed the 2008 financial crisis completely.  No one saw it was coming.* 
+*Look at this man ([Video](https://www.facebook.com/vinay.k.jha/videos/10219945625963737/)) in this lockdown, taking his 90-year-old mother on a bicycle along with wife and kids from Bangalore to Rajasthan ~ 2000 km. Has been cycling for more than a month.*
+
+*This a video from a friend stream on fb. there are many cases like this.. sometimes I feel very sorry that this family and many more has to go through such hardships, on the other hand it also gives you power that *
+
 ___
 
 **PP**

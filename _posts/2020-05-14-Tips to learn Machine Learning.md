@@ -21,7 +21,7 @@ I have written couple of post from this course. see below:
 *   [Image classification of Indian cows breed using fastai lib](/2020/03/28/Image-classification-of-Indian-cows-breed-using-fastai-lib_model_training)
 
 Now, One of the basic question might come that in which sequence these two couses should be taken, my advice whould be that if you are a hands on coder and the you can start with fast.ai course but should checkout andrew's course for concepts and Maths.
-Apart from taking these 2 course, I would also suggest to listen to Data Sceince podcasts (I have shared my list in one of my previous posts). One of the tip is to just listen to these podcasts not anything else idea is to keep your mind always thinking about ML nothing else, that way you can learn faster and make deep understanding of concepts. 
+Apart from taking these 2 course, I would also suggest to listen to [Data Science Podcasts](https://www.kaggle.com/) (I have shared my list in one of my previous posts). One of the tip is to just listen to these podcasts not anything else idea is to keep your mind always thinking about ML nothing else, that way you can learn faster and make deep understanding of concepts. 
 
 You can also checkout [Kaggle](https://www.kaggle.com/) for real-world problems but I would suggest to hold a bit and do not participate in competitions till the time you are majorly done with the courses. 
 

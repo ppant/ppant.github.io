@@ -63,6 +63,10 @@ ___
 
 *Take care of yourself and your loved ones*
 
+**Update May 31, 2020:** *Lockdown 4.0 is ending today. The number of cases are increasing at a very fast pace which was expected as many places are now open though the recovery rate is also improving. Job cuts are everywhere and more are expected in the future which is really sad. Masks business is on full swing even grocery store, vegetable vendors are selling masks not sure what will be the quality of these masks, same with sanitizers as we are using them like water not sure what kind of effect will it have on skin and immunity as the main focus is on killing the COVID-19 virus, in future many others diseases might pop-up due to less focus on health and precautionary measures of other diseases. Hope not..*
+
+*Take care of yourself and your loved ones*
+
 ___
 
 **PP**

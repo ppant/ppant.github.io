@@ -25,7 +25,7 @@ ___
 
 **Update March 28, 2020:** *We are in lockdown for last 4 days. Such a nice weather outside, it rained yesterday, clear sky first time pollution level is so low < 50.*
 
-![Clear sky March 28 2020.png](\data\images\clear_sky_delhi_march_2020.jpeg){:height="700px"}
+![Clear sky March 28 2020](\data\images\clear_sky_delhi_march_2020.jpeg){:height="700px"}
 
 *This is the best time to be outdoors before transition to summer but in this challenging time we are following the instructions and staying at home so that our front warriors can do their job. I think one of the aspect we miss at this time is the mental health btw I was Listning to this lady, very balanced talk [clip](https://youtu.be/a3MsgIo0w54). She was talking about how to keep mind in control in this crisis time and get over your fear. I am trying to continue my workout through Yoga, Indoor Cycling and helping in household work*
 
@@ -33,7 +33,7 @@ ___
 
 [With Sadhguru in Challenging Times](https://www.youtube.com/channel/UCcYzLCs3zrQIBVHYA1sK2sw)
 
-[Siddha Yoga](https://www.siddhayoga.org/)     _**Disclosure** I follow this path for last 2_ decades 
+[Siddha Yoga](https://www.siddhayoga.org/)     **Disclosure** I follow this path for last 2 decades 
 
 [World Meditates with Gurudev Sri Sri Ravi Shankar](https://www.youtube.com/watch?v=gSTZZzPFW20)
 

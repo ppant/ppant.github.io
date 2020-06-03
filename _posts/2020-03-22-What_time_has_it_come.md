@@ -67,7 +67,11 @@ ___
 
 *Take care of yourself and your loved ones*
 
-___
+**Update June 3, 2020:** *Today I was reading an article by my fav Dr. Phill Maffestone, as he writes and gives some pointers on how being an overfat and low level of Vitamin-D can increase your risk of having COVID-19. This is the wonderful chart that shows the correlation between overfat and low level of vitamin-D, fewer sunlight areas.*
+
+![Chart Overfat Sunlight COVID19](\data\images\MAF_Chart_COVID19.jpg){:height="700px"}
+
+*You can check full article [here](https://philmaffetone.com/covid-19-whos-most-at-risk/)*
 
 **PP**
  

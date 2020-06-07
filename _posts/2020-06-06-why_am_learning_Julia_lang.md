@@ -1,5 +1,5 @@
 ---
-title: 'Why I have decided to explore Julia, the Programming language'
+title: 'Why am learning Julia, the Programming language'
 
 date: 2020-06-06T1:46:03+05:30
 author: Pradeep Pant

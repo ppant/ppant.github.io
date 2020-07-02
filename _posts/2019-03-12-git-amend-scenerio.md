@@ -83,7 +83,7 @@ rebase -i, commit --amend, rebase --continue
 Then force push the commit.
 
 ````bash 
-$git push <branch_name> master --force
+$git push origin <branch_name> --force
 ````
 
 Please so remember re-pushing your commit after changing, it will be very likely to prevent others to sync with the repo if they already pulled a copy. You should first check with them.

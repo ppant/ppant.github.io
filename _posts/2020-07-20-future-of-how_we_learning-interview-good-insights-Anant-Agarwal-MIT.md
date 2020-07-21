@@ -21,7 +21,7 @@ Overall, great insight into how the future of education will look.
 
 
 
-***Just a small note about my on-line learning journey:*** *I first registered in an online course from Stanford -online on Machine Learning by Andrew ng in 2011 but was only able to finally complete in 2016. My online learning journey in a true sense started with my Coursera Data Science Specialization Certification in 2016 and after that Deep learning Specialization Certification which I completed in 2018. It was a great experience and a lot of fun, though was not easy with a full-time job. Funny thing is that as I am writing here about edx but so far I have not taken a single course from edx :-).* 
+***Just a small note about my on-line learning journey:*** *I first registered in an online course from Stanford -online on Machine Learning by Andrew ng in 2011 but was only able to finally complete in 2016. My online learning journey in a true sense started with my Coursera [Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/BRSB8LT92PK6) Certification in 2016 and after that [Deep learning Specialization](https://www.coursera.org/account/accomplishments/specialization/WVPVCUMH94YS) Certification which I completed in 2018. I have also written a detailed [post](2020-05-14-Tips%20to%20learn%20Machine%20Learning.md) on some tips to learn ML online. It was a great experience and a lot of fun, though was not easy with a full-time job. Funny thing is that as I am writing here about edx but so far I have not taken a single course from edx :-).* 
 *Maybe time to explore.*
 
 Enjoy & Happy learning.

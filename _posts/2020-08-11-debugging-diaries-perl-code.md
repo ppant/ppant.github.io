@@ -1,6 +1,6 @@
 ---
 title: 'Debugging diaries - Perl code'
-date: 2020-08-11T1:46:03+05:30
+date: 2020-08-11
 author: Pradeep Pant
 layout: post
 ---

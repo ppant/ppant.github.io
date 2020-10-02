@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: programming pointers
-email: pppant@cpan.org
+email: ppant@cpan.org
 description: >- 
   My notes on Programming, Software Design, Data Science,
   AI/ML and Technology in general

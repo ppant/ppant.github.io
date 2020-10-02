@@ -4,10 +4,13 @@ date: 2020-10-02
 author: Pradeep Pant
 layout: post
 ---
-I randomly found a small video on youtube 
-This was from Jan 2018 when I along with KK Sir (BE 79 batch) and Ajay Sir (BE 81 batch) had gone to Jaipur to attend the Global [BITOSA](https://www.bitosaglobal.org/) Conclave. It was a fun and memorable trip, We three drove from Delhi to Jaipur. Meeting with old BITians was a great experience!! 
+I randomly found a small video on youtube ...
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YGBNdapddXw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+This was from Jan 2018 when I along with KK Sir (BE 79 batch) and Ajay Sir (BE 81 batch) had gone to Jaipur to attend the Global [BITOSA](https://www.bitosaglobal.org/) Conclave, an anuual alumini meet of our Alma Mater, [BIT, Mesra](https://www.bitmesra.ac.in/). 
+
+It was a fun and memorable trip, Meeting with old BITians was a great experience. We three drove to Jaipur from Delhi ~ 300KM by Car, it was nice sunny winter day, really enjoyed the drive and company. 
 
 Here are some pics from our trip:
 
@@ -29,6 +32,9 @@ KK Sir and Ajay Sir chatting with CK Birla Industrialist, Philanthropist and Cha
 
 
 ![](/data/images/bitosa_solo.jpg){:height="700px"}
+
+
+![](/data/images/bitsoa_mid_way_halt.jpg){:height="700px"}
 
 
 Cheers!

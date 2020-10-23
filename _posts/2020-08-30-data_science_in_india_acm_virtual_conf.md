@@ -7,7 +7,7 @@ layout: post
 
 Some days back I have attended a virtual conference in Data Science organized by [ACM SIGKDD](https://ikdd.acm.org/kdd2020/) and [IIT Madras](https://www.iitm.ac.in/) 
 
-This year I have started to attend a few of the conferences to get the latest research trends in Data Science/AI research. As I have recently started my Ph.D. from [IIIT, Allahabad](https://www.iiita.ac.in/), so this is needed. Check my post [Why I have started Ph.D. after working 15+ in Software Industry?](2020-08-29-why_am_I_doing_phd.md)).
+This year I have started to attend a few of the conferences to get the latest research trends in Data Science/AI research. As I have recently started my Ph.D. from [IIIT, Allahabad](https://www.iiita.ac.in/), so this is needed. Check my post [Why I have started Ph.D. after working 15+ in Software Industry?](/2020/08/29/why_am_I_doing_phd)).
 
 Here I am listing a brief about the talk. I would strong spare time and listen to all of them. You can see my personal recommendation below as well. 
  

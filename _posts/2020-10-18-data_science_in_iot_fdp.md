@@ -4,11 +4,10 @@ date: 2020-10-15
 author: Pradeep Pant
 layout: post
 ---
-  I have atteneded this online 3-days Faculty Developement Program on [Data Scienece for IoT](https://diot.iiita.ac.in/). 
+I have atteneded this online 3-days Faculty Developement Program on [Data Scienece for IoT](https://diot.iiita.ac.in/). 
 
 I have attended to get some research idea for my own PhD in ML and IOT.
 
-1: Inauguration by Director IIITA
 Session 1: IoT and smart cities: Dr. Vishal Singh, IIIT Lucknow
 Session 2: Probability and Statistics: Dr. MK Gandhi, MDI
 Session 3: Getting Data Ready for ML: Dr. Ashutosh Mishra, IIITA

@@ -28,7 +28,7 @@ Apache 2.2.x
   ````LoadModule headers_module modules/mod_headers.so````
 
 * Add Header fix. I have added ````Http```` with secure settings in
-  ````Set_Cookie````
+  ````Set_Cookie```` to make sure that ````SameSite```` attribute have secure value.
 
     
     ````<ifmodule mod_headers.c>````

@@ -29,8 +29,7 @@ h2 {
 a,
 a:visited {
   color: $link-color;
-  text-decoration: underline;
-  font-weight: bold;
+  text-decoration: underline;    
 }
 a:hover {
   color: $link-hover-color;
@@ -112,4 +111,12 @@ aside {
 footer {
   text-align: center;
   padding: 40px;
+}
+#results-container{  
+  float: right;
+  width: 250px;
+}
+#search-input{
+  float: right;
+  width: 250px
 }

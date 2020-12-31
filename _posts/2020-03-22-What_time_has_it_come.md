@@ -73,6 +73,15 @@ ___
 
 *You can check full article [here](https://philmaffetone.com/covid-19-whos-most-at-risk/)*
 
+
+**Update Dec 31, 2020:** *So, we have already reached to the end of the year with Covid-19 still around. Though, there are already some good developments at the vaccine front. India is overall doing good at this point of time since Mid Sept cases are on decresing trend despite almost eveything is open noew which is good. One of the biggest worry at this point is a new strain of virus from UK which is already roaming here in India as well. Hope we get control over it!*
+
+*btw I was checking the front page of time magzine this year and a bit disappoited with the negatism, we foget the positive demepment happned in this year, mainlt to people from medical professionals and support they have shown enourmous humanity putting their life on risk. Sceintists who are doing day-night work to keep up the hope for a vaccine in a record time, we shouldn't forget all these copntributions. just striking off 2020 in your cover page is proably not doing justice with the postive things happened in 2020*
+
+*Take care of yourself and your loved ones.*
+
+**Happy New Year 2021**
+
 **PP**
  
-New Delhi, India
+

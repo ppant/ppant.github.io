@@ -74,9 +74,17 @@ ___
 *You can check full article [here](https://philmaffetone.com/covid-19-whos-most-at-risk/)*
 
 
-**Update Dec 31, 2020:** *So, we have already reached to the end of the year with Covid-19 still around. Though, there are already some good developments at the vaccine front. India is overall doing good at this point of time since Mid Sept cases are on decresing trend despite almost eveything is open noew which is good. One of the biggest worry at this point is a new strain of virus from UK which is already roaming here in India as well. Hope we get control over it!*
+**Update Dec 31, 2020:** *So, we have already reached the end of the year with Covid-19 still around. Though, there are already some good developments on the vaccine front. India is overall doing good at this point of time since Mid Sept cases are on a decreasing trend, despite of almost everything is open and we have already passed festival season spikes? hopefully, Pray ..* 
 
-*btw I was checking the front page of time magzine this year and a bit disappoited with the negatism, we foget the positive demepment happned in this year, mainlt to people from medical professionals and support they have shown enourmous humanity putting their life on risk. Sceintists who are doing day-night work to keep up the hope for a vaccine in a record time, we shouldn't forget all these copntributions. just striking off 2020 in your cover page is proably not doing justice with the postive things happened in 2020*
+![COVID Cases Trend India Dec 30 2020](\data\images\covid_cases_in_india_dec_2020.png)
+
+*But, one of the big worries at this point is a new strain of virus from the UK which is already roaming here in India as well. Hope we get control over it!*
+
+*btw I was checking the front page of the Time magazine this year* 
+
+![Time Magzine Cover 2020](\data\images\time_cover_2020.jpg){:height="700px"}
+
+*and a bit disappointed with the negativism, indeed this is a different year, but can't be struck off. We forget the positive development that happened in this year, people from all walks of life have shown great resilience which is one of the most important qualities of a human being, the courage, risk, and sacrifice front line healthcare and support people have done is enormous which truly shows the great humanity and optimism. Scientists, Engineers who have worked day-night to achieve an unrealistic target to make a vaccine in a record time, that gives me hope and human capability. So we shouldn't forget all these contributions. Just striking off 2020 from the cover page and tagging it as a "**worst year**" will not be justice to the positive things that happened in 2020, I think we've learned a lot and in a better position to deal with crisis situations* 
 
 *Take care of yourself and your loved ones.*
 

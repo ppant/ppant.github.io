@@ -38,7 +38,7 @@ Apache 2.2.x
     ````</ifmodule>````
     
 
-* Finally, restart the webserver
+* Finally, restart the webserver (apache)
 
     ````
     service  httpd restart
@@ -47,7 +47,7 @@ Apache 2.2.x
 
 Done!  
 
-**FF Warning should go and hopefully cookies should be allowed.**
+**Now, FF Warning should go and hopefully cookies should be allowed.**
 
 
 All the best!

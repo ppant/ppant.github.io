@@ -102,8 +102,7 @@ N=100, 9.332621544×10157 options
 ````
 
 Example:
-[Traveling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem#:~:text=The%20travelling%20salesman%20problem%20(also,an%20NP%2Dhard%20problem%20in)
-
+[Traveling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
 
 **Summary and notes:**
 

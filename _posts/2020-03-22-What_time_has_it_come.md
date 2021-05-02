@@ -90,6 +90,17 @@ ___
 
 **Happy New Year 2021**
 
+**Update May 2, 2021:** 
+Covid is back again with very higher instensity. This time spread is much more wide across the country. Virus has mutated multiple times and a mutant called double indian mutant is creating havoc. Most of the big hospitals are facing actute oxygen shortage. This time younger population is getting infected in higher numbers and also succuming to the dieses. Only think which is helping now is the vaccine, a good no of older people are now vaccinated so that helps in halding the disese. 
+I was foutunate to have my first dose of the vaccine some weeks back. This is the opputunity for 1976 born as they comes under 45 yrs of age category. 
+I think the main reason of this mutation and high sperad is, election rallies, kumbh mela and casual attitude of public in general. Even scientists and doctors have not predicted the second wave of this ferocity.
+
+On the side lines I have shifted to Banglore last month last before the second wave surge. Will write a sepratae post on how suddenly I have moved in the missle of criss once situation gets under control, right now not in a mind set to write about it.
+
+![COVID Cases Trend India May 1 2021](\data\images\covid_cases_in_india_2_may_2021.png)
+
+Keep safe! My paryers with you all.
+
 **PP**
  
 

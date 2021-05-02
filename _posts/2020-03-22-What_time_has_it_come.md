@@ -91,11 +91,16 @@ ___
 **Happy New Year 2021**
 
 **Update May 2, 2021:** 
-Covid is back again with very higher instensity. This time spread is much more wide across the country. Virus has mutated multiple times and a mutant called double indian mutant is creating havoc. Most of the big hospitals are facing actute oxygen shortage. This time younger population is getting infected in higher numbers and also succuming to the dieses. Only think which is helping now is the vaccine, a good no of older people are now vaccinated so that helps in halding the disese. 
-I was foutunate to have my first dose of the vaccine some weeks back. This is the opputunity for 1976 born as they comes under 45 yrs of age category. 
-I think the main reason of this mutation and high sperad is, election rallies, kumbh mela and casual attitude of public in general. Even scientists and doctors have not predicted the second wave of this ferocity.
+Covid is back again with a very higher intensity. This time spread is much more widespread across the country. The virus has mutated multiple times and a mutant called a double Indian mutant is creating havoc. Most of the big hospitals are facing acute oxygen shortages. This time younger population is getting infected in higher numbers and also succumbing to the disease. The only thing which is helping now is the vaccine, a good no of older people are now vaccinated so that helps in holding the disease. Ceru proud to have one of the homegrown vaccines Covaxin is very effective in neutralizing these mutants.
+I was fortunate to receive my first dose of the vaccine some weeks back I was just on the line of 45 yrs of age category for vaccine eligibility, though govt has now opened for all age groups now there is a huge shortage of vaccine. 
 
-On the side lines I have shifted to Banglore last month last before the second wave surge. Will write a sepratae post on how suddenly I have moved in the missle of criss once situation gets under control, right now not in a mind set to write about it.
+I think the main reason for this mutation and high spread is, election rallies, Kumbh Mela, and the casual attitude of the public in general (as we Indians usually are very good at not following). Even scientists and doctors have not predicted the second wave of this ferocity.
+
+On the sidelines, I have shifted to Banglore last month last before the second wave surge. I will write a separate post on why suddenly I have moved to a different city far away for mountains and that in the middle of a pandemic but that after once overall situation of this crisis comes under control.
+
+My prayers with all of you!
+
+We have to fight it together! 
 
 ![COVID Cases Trend India May 1 2021](\data\images\covid_cases_in_india_2_may_2021.png)
 

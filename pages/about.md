@@ -12,6 +12,7 @@ Welcome! My name is Pradeep Pant. I started this blog way back during autum 2007
 Thanks for visiting.
 
 You can reach me at:
+Email: pp@pradeeppant.com
 
 <span><a href=""></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ppant"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg></a>

@@ -6,7 +6,7 @@ author: Pradeep Pant
 layout: post
 ---
 
-Many times ppl get confused with [Google Cloud's](https://cloud.google.com/) **BigTable** and **BigQuery** services, which one to use when? 
+Many times cloud folks get confused with [Google Cloud's](https://cloud.google.com/) **BigTable** and **BigQuery** services, which one to use when? 
 
 I am putting a small use case to describe when to use either of them. 
 

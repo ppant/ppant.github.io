@@ -11,8 +11,7 @@ Welcome! My name is Pradeep Pant. I started this blog way back during autum 2007
 
 Thanks for visiting.
 
-For any suggestions/collaboration please email me at:
-Email: <a href="mailto:pp@pradeeppant.com">pp@pradeeppant.com</a>
+For any suggestions/collaboration please email me at: <a href="mailto:pp@pradeeppant.com">pp@pradeeppant.com</a>
   
 Social platforms:
   

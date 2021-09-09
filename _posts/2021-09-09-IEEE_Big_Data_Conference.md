@@ -53,4 +53,4 @@ Coming back to the conference, below is the broad topic list in which papers can
 Check this [link](https://sites.google.com/view/serverlessworkshop/home?authuser=0) for more info on submission.
 
 
-<o>Happy exploring! And keep checking out this space for some..</o>
+<o>Happy exploring! And keep checking out this space for some.. :nerd_face::slightly_smiling_face::+1:</o>

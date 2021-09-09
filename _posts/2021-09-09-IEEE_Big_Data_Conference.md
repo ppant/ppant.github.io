@@ -1,46 +1,56 @@
 ---
-title: 'IEEE Big Data Conference 2021'
+title: 'IEEE Big Data Conference 2021: Serverless Machine Learning'
 
 date: 2021-09-09T1:46:03+05:30
 author: Pradeep Pant
 layout: post
 ---
-Good opputunity to submit paper in this upcoming [International Workshop on Serverless Machine Learning for Intelligent and Scalable AI Workflow](https://sites.google.com/view/serverlessworkshop/home?authuser=0)
+<style>
+r { color: Red }
+o { color: Orange }
+g { color: Green }
+b { color: Brown}
+</style>
+Good opportunity to submit a paper in this upcoming [International Workshop on Serverless Machine Learning for Intelligent and Scalable AI Workflow](https://sites.google.com/view/serverlessworkshop/home?authuser=0)
 
-In recent years in the adnacement of cloud computing Serverless computing has revolutilize how we develop modern applications. 
+In recent years with the advancement of Cloud computing, containerization,  Serverless computing has revolutionized how we develop modern applications. Some of the most popular serverless computing services are [AWS Lambda](https://aws.amazon.com/lambda/), [Google Cloud functions](https://cloud.google.com/functions), [Azure functions](https://azure.microsoft.com/en-in/overview/serverless-computing/). The advantage of using these services is that it can run custom code in response to events and automatically manages the underlying compute resources. That's a huge advantage and with cloud pipeline, this can be done with a continuous stream of data as well.
 
-Below are the borad topic list in which papers can be submitted. 
+*<g>In my view, upcoming years will be very exciting and challenging for developing efficient cloud-native applications. So a lot of research will be needed. I am keeping a close watch on how AutoML and serverless coming will work together efficiently, the security of ML models from various attacks, the privacy of training data, and Explainable AI.</g>*
 
-* AI application demonstration using serverless technology 
+ 
+Coming back to the conference, below is the broad topic list in which papers can be submitted. 
 
-* Design, Development and API extension for popular ML library such as  sklearn to natively support serverless
+* <b>AI application demonstration using serverless technology</b> 
 
-* Experimental Analysis of Serverless vs traditional pre-configured
+* <b>Design, Development and API extension for popular ML library such as  sklearn to natively support serverless</b>
 
-* Workflow manager design
+* <b>Experimental Analysis of Serverless vs traditional pre-configured</b>
 
-* Scalability and fault tolerance
+* <b>Workflow manager design</b>
 
-* Automated ML using serverless
+* <b>Scalability and fault tolerance</b>
 
-* Feature engineering
+* <b>Automated ML using serverless</b>
 
-* Benchmark papers including emerging technology such as Ray
+* <b>Feature engineering</b>
 
-* Explanability scale out
+* <b>Benchmark papers including emerging technology such as Ray</b>
 
-* Case studies
+* <b>Explanability scale out</b>
 
-* On demand data cleaning and repair
+* <b>Case studies</b>
 
-* Web-service scaling
+* <b>On demand data cleaning and repair</b>
 
-* Big Data Search
+* <b>Web-service scaling</b>
 
-* Performance Benchmark of serverless platforms
+* <b>Big Data Search</b>
+
+* <b>Performance Benchmark of serverless platforms</b>
+
 
 
 Check this [link](https://sites.google.com/view/serverlessworkshop/home?authuser=0) for more info on submission.
 
 
-Happy exploring!
+<o>Happy exploring! And keep checking out this space for some..</o>

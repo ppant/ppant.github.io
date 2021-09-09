@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: programming pointers
-email: ppant@cpan.org
+email: pp@pradeeppant.com
 description: >- 
-  My notes on Programming, Software Design, Data Science,
+  My notes on Programming, Software Architecture & Design, Data Science,
   AI/ML and Technology in general
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: http://pradeeppant.com

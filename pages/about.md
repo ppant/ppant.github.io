@@ -7,7 +7,7 @@ permalink: /about/
 ![IMG_1573_small.jpg](\data\images\IMG_1573_small.jpg)
 
 Hello Guest,	
-Welcome! My name is Pradeep Pant. I started this blog way back during autum 2007 to document and share my thoughts on tech landscape. By profession, I am a Software Engineer and AI Researcher, writing computer programs for more than 2 decades. I love solving problems and believe that programming has the great power to transform human imagination into reality in a very short time. Well, I might not be the best engineer but I do constantly try my best to learn new things. Apart from this, I have various interests like trekking, hiking in mountains especially [Himalaya](http://en.wikipedia.org/wiki/Himalayas) (probably because I have seen these snowy mountains all through my childhood), running, cycling, meditation, nature photography and reading. 
+Welcome! My name is Pradeep Pant native of hilly regions of lower [Himalaya](http://en.wikipedia.org/wiki/Himalayas). I started this blog way back during autum 2007 to document and share my thoughts on tech landscape. By profession, I am a Software Engineer and AI Researcher, writing computer programs for more than 2 decades. I love solving problems and believe that programming has the great power to transform human imagination into reality in a very short time. Well, I might not be the best engineer but I do constantly try my best to learn new things. Apart from this, I have various interests like running, cycling, reading, meditation, nature photography, trekking.
 
 Thanks for visiting.
 

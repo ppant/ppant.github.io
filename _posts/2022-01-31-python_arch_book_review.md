@@ -25,4 +25,6 @@ Buying options:
 
 [Amazon India](https://www.amazon.in/Python-Architecture-Patterns-event-driven-structures/dp/1801819998/ref=sr_1_4?keywords=Python+Architecture+Patterns&qid=1643604120&sr=8-4)
 
-Happy Reading and Practicing. 
+Disclaimer: I was the offcial reviewer of the book and done thorough screening of the content.
+
+

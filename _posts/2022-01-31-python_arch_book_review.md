@@ -11,6 +11,7 @@ layout: post
 Wish to master API design, event-driven structures, and package management in Python
 
 ### About
+API's & Event-driven development is very much used and this book by Jamie hits on right spot. It starts with giving basic introduction to Software Architecture and then delve more into API design, how to make RESTful interfaces, authenticating RESTful interfaces and APi versioning.
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: 'Python Architecture Patterns Book Review'
+title: 'Python Architecture Patterns: My first book review'
 date: 2022-01-31
 author: Pradeep Pant
 layout: post
@@ -7,22 +7,22 @@ layout: post
 
 ![](/data/images/python_arch_book.jpeg){:height="700px"}
 
-Happy to share that book "Python Architecture Patterns" is my first book as a contributor. The theme of this book is to master API design, event-driven structures, and package management in Python. I was the official reviewer of the book and checked all the contents for relevance and authenticity as well as tested all the code provided through [GitHub](https://github.com/PacktPublishing/Python-Architecture-Patterns). So in case of any discrepancy, you can blame me as well :-)
 
-Jokes apart, it was a really great working experience with the Packt publishing team and author Jamie. We have tried to provide correct and up-to-date, industry-centric content through this book in record time. 
+Happy to share that book “Python Architecture Patterns” is my first book as a contributor. The idea of this book is to master API design, event-driven structures, and package management in Python. As an official reviewer of the book, I checked the contents for relevance and authenticity as well as tested all the code provided through [GitHub](https://github.com/PacktPublishing/Python-Architecture-Patterns). So in case of any discrepancy, you know who to blame :-)
 
-Regarding the book, it touches highly used, industry darling API & Event-driven development. It starts with giving a basic introduction to Software Architecture and then delving more into API design, how to make RESTful interfaces, authenticating RESTful interfaces and API versioning, and so on.
+For me, it was a really great working experience with the [Packt](https://www.packtpub.com/) publishing team and author [Jamie](https://www.linkedin.com/in/jaime-buelta-27305817/). We aimed to provide accurate and up-to-date, industry-centric content in record time.
 
-In subsequent chapters, it discusses topics like MVC patterns, Data modeling techniques, etc. Part 2 of the book is focused on the Twelve-factor App methodology which is the core of modern software development. It talks about web servers, WSGI interfaces, and a brief on the famous Django framework. Further, it talks about my fav topic event-driven arch, and the tools used to achieve it.  Part 3 focuses on test-driven dev, the importance of unit testing and tools to achieve this, and package management. Part 4 focuses on logging errors, metrics, profiling, and debugging.
+The book touches on highly used, industry darling API & Event-driven development. It starts with giving a basic introduction to Software Architecture and then delving more into API design, how to make RESTful interfaces, authenticating RESTful interfaces and API versioning, and so on.
 
-Overall it provides a complete workflow for designing software systems end-to-end. 
+In subsequent chapters, it discusses topics like MVC patterns, Data modeling techniques, etc. Part 2 of the book is focused on the Twelve-factor App methodology which is the core of modern software development. It talks about web servers, WSGI interfaces, and a brief on the famous Django framework. Further, it talks about my fav topic event-driven arch, and the tools used to achieve it. Part 3 focuses on test-driven dev, the importance of unit testing and tools to achieve this, and package management. Part 4 focuses on logging errors, metrics, profiling, and debugging.
 
-This book is for the people who really want to design better software systems using the best architectural patterns. The good part is that all code is available on Github. Just clone the repo and start playing with the concepts presented. 
+Overall it provides a complete workflow for designing software systems end-to-end.
 
-This is a practical book and can help in designing better projects and existing projects as well. 
+This book is for the people who really want to design better software systems using the best architectural patterns using Python. The best part is that all code is available on [GitHub](https://github.com/PacktPublishing/Python-Architecture-Patterns). Just clone the repo and start playing with the concepts presented.
 
+This is a practical book and can help in designing better projects and existing projects as well.
 
-You can consider buying this book through the below links:
+You may consider buying this book through the below links:
 
 [Python Architecture Patterns - Amazon.com](https://www.amazon.com/gp/product/1801819998/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1)
 
@@ -32,8 +32,4 @@ You can consider buying this book through the below links:
 
 
 Happy reading!
-
-
-
-
 

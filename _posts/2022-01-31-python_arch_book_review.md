@@ -24,11 +24,11 @@ This is a practical book and can help in designing better projects and existing 
 
 You can consider buying this book through the below links:
 
-[Python Architecture Patterns Book Review - Amazon.com](https://www.amazon.com/gp/product/1801819998/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1)
+[Python Architecture Patterns - Amazon.com](https://www.amazon.com/gp/product/1801819998/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1)
 
-[Python Architecture Patterns Book Review - Amazon India](https://www.amazon.in/Python-Architecture-Patterns-event-driven-structures/dp/1801819998/ref=sr_1_4?keywords=Python+Architecture+Patterns&qid=1643604120&sr=8-4)
+[Python Architecture Patterns - Amazon India](https://www.amazon.in/Python-Architecture-Patterns-event-driven-structures/dp/1801819998/ref=sr_1_4?keywords=Python+Architecture+Patterns&qid=1643604120&sr=8-4)
 
-[GitHub Code repo](https://github.com/PacktPublishing/Python-Architecture-Patterns) 
+[Book GitHub Code repo](https://github.com/PacktPublishing/Python-Architecture-Patterns) 
 
 
 Happy reading!

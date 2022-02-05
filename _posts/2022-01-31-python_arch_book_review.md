@@ -8,7 +8,7 @@ layout: post
 ![](/data/images/python_arch_book.jpeg){:height="700px"}
 
 
-Happy to share that book “Python Architecture Patterns” is my first book as a contributor. The idea of this book is to master API design, event-driven structures, and package management in Python. As an official reviewer of the book, I checked the contents for relevance and authenticity as well as tested all the code provided through [GitHub](https://github.com/PacktPublishing/Python-Architecture-Patterns). So in case of any discrepancy, you know who to blame :-)
+Happy to share that book “Python Architecture Patterns” is my first book as a contributor. The idea of this book is to master API design, event-driven structures, and package management in Python. As an official reviewer of the book, I checked the contents for relevance and authenticity as well as tested all the code provided through [GitHub](https://github.com/PacktPublishing/Python-Architecture-Patterns). So in case of any discrepancy, you know who to blame :smiley:
 
 For me, it was a really great working experience with the [Packt](https://www.packtpub.com/) publishing team and author [Jamie](https://www.linkedin.com/in/jaime-buelta-27305817/). We aimed to provide accurate and up-to-date, industry-centric content in record time.
 

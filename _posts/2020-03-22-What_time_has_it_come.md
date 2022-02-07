@@ -110,7 +110,7 @@ Keep safe! My paryers with you all.
 **PP**
 
 **Update Feb 6, 2022:** 
-Life is coming back to normal after 3rd covid wave mainly Omicron variant. Last month was tough overall but fortunately despite huge number of reported cases hospitalization and heath rate is low. Hope this is the last peak we see, it's been almost 2 years now. After running around to avoid the virus finally last month I also got it fortunately it was not heavy and gone away after 7 days home qurantine. Thanks to double vaccination which I think helped. Still no idea whhen this pandemic will send, checking EU region for new peak patterns, hope it doesn't come. 
+life is coming back to normal after 3rd covid wave mainly the Omicron variant. Last month was tough overall but fortunately despite the huge number of reported cases hospitalization and heath rate are low. Hope this is the last peak we see, it's been almost 2 years now. After running around to avoid the virus finally last month I also got it, fortunately, it was not heavy and went away after 7 days of home quarantine. Thanks to double vaccination which I think helped. Still have no idea when this pandemic will send, checking the EU region for new peak patterns, hope it doesn't come. 
 
 
 

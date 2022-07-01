@@ -7,19 +7,21 @@ categories: Tech
 ---
 Finally able to write a new post :-)
 
-for last some months I was busy in solving some of the critical customer tasks and another important thing I was doing is to try to understand a new field called "Process mining". 
+So for the last couple of months, I was busy solving some critical customer problems and another important thing I was doing is to try to understand a new field called "Process mining". 
 
-So first question comes is that What is the field about? and why I am digging this area?  
-So let's start with in my work we develop software for Quality management stystems for quite some time so I have fair understanding of how business processes work, workflow management and challenges in implementing them and finally getting the quality certification. So one of the key question there is that do people really follow defined business processes. If not what oath they take? and many more questions. 
+So the first question comes What is the field about? and why I am digging into this area of technology?  
+ok, in one of my major projects we develop software for helping companies to automate their workflow which will ensure Quality assurance which leads to ISO certifications. So, I can say that I have a fair understanding of how business processes work, how can we automate the workflows for business processes and the challenges in implementing them. One of the key questions is do people really follow defined business processes? If not what path they take? and many others questions...
 
-So here comes my quest for exploring the field and trying to see if recent adavncement in data science can help in improving the processes. 
+So here comes my quest for exploring the area. I was mainly interested in knowing if recent advancements in data science can help in improving business processes and workflows. So here comes "Process Science" and finally "Process Mining" which we'll explore.
 
- In this write-up and series of posts, I will try to give you a brief idea about what process mining is, how it is connected with data mining and tradional business process management, we'll also discuss some of the use-cases. My aim is to give you information in easy to understand manner. Process mining is very exciting field and we hope a lot of new tools and technologies will be developed in future. So let's start. We'll cover broadly the following things:
+ In this write-up and series of posts, I will try to give you a brief idea about what Process Mining is, and how it is connected with data mining and traditional business process management, we'll also discuss some of the use-cases. My aim is to give you the information in easy to understanding manner.
 
-1. Businees Analytics
+ Process mining is a very exciting field and we hope a lot of new tools and technologies will be developed in the future. So let's start. We'll cover broadly the following things:
+
+1. Business Analytics
 2. Process Science
-3. Data mining and process mining
-4. Process mining use cases and real world scenerios
+3. Data mining and Process Mining
+4. Process mining use cases and real-world scenerios
 5. Future work in process mining and challenges
 
 

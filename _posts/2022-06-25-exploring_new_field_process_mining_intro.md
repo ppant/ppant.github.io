@@ -20,13 +20,13 @@ So here comes my quest for exploring the area. Initially, I was mainly intereste
 
  It looks to me that "Process Mining" is a very exciting field and I hope a lot of new tools and technologies will be developed in the future. 
  
- So let's start. We'll cover broadly the following things:
+ **So let's start. We'll cover broadly the following things:**
 
-1. Business Analytics
-2. Process Science
-3. Data mining and Process Mining
-4. Process mining use cases and real-world scenarios
-5. Future work in process mining and challenges
+1. *Business Analytics*
+2. *Process Science*
+3. *Data mining and Process Mining*
+4. *Process mining use cases and real-world scenarios*
+5. *Future work in process mining and challenges*
 
 
 In my next post, we'll directly start with what process science is and how this is connected with data science.

@@ -32,3 +32,5 @@ In my next post we'll dig deep into data mining and process mining and will look
 Thanks for reading!
 
 
+*IMG Source: “Process mining” by TU Eindhoven, © by Springer*
+

@@ -6,7 +6,7 @@ layout: post
 categories: Tech
 ---
 
-In this post we'll directly start with what process science is and how this is connected with data science. You can read my [last](/tech/2022/06/25/exploring_new_field_process_mining_intro/) post on brief about motivation behind exploring new field. 
+In this post we'll directly start with what process science is and how this is connected with data science. You can read my [last](/tech/2022/06/25/exploring_new_field_process_mining_intro.html) post on brief about motivation behind exploring new field. 
 
 
 Before we go into Process mining let's try to understand in brief what Process Science and how is this related to Data Science.

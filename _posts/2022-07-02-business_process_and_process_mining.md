@@ -6,61 +6,29 @@ layout: post
 categories: Tech
 ---
 
-In this post we'll directly start with what process science is and how this is connected with data science.
+In this post we'll directly start with what process science is and how this is connected with data science. You can read my [last](/tech/exploring_new_field_process_mining_intro/) post on brief about motivation behind exploring new field. 
 
 
 Before we go into Process mining let's try to understand in brief what Process Science and how is this related to Data Science.
 ![](/data/images/data_science_and_process_science.png){:height="700px"}
 
-As we all know data science is a well established field with state-of art tools and techniques avaliable. 
+The diagram above shows different sub-areas of data sceince and process science and intersection. As we see that data science is a well established field with state-of art tools and techniques avaliable but process science this is not the case, tools are still getting developed, so more research required
 
-What is the process that people really follow?
+So, lets go back to the basic question - what is the process that people really follow?
 
 ![](/data/images/event_data_with_actual_process.png){:height="700px"}
 
-This picture shows a entry gate of a park with gate to stop cyclists to enter the park so that is process but if you see the actual path its different story. This means that people actually follow something other than the defined path. So question comes that how do we know what actual path user has followed? With advancement in ICT one hting which One of the best way to get which path was followed is to study the event data from IT system.
+This picture above shows a entry gate of a park with a gate to stop cyclists to enter the park so that is process but if you see the actual path its different story. This means that people actually follow something other than the defined path. So question comes that how do we know what actual path user has followed? With advancement in ICT one thing the best way to get which path was followed is to study the event data from IT system.
 
-![](/data/images/process_mining_position.png){:height="700px"}
+So looking into above picture, more questions comes:
+* What is the process that people really follow?
+* What are the bottlenecks in my process?
+* What do people (or machines) deviate from the expected or idealized process?
 
-![](/data/images/process_mining_basic_workflow.png){:height="700px"}
+Just to summarise, in this post we understood in brief about data sceince and process sceience, junction of these two. We also tried to see how people deviate from defined processes. 
 
-Process mining versus Data mining
+In my next post we'll dig deep into data mining and process mining and will look into various process mining techniques.
 
-* Both starts from data
-* Data mining techniques are typically not process-centric
-* End-to_end process models and concurrency are essentials for process mining
-* Process mining assumes event logs where events have timestamps and refer to prcess instances
-* Process mining and data mining 
+Thanks for reading!
 
-1. Introduction
-2. Tell about data sceience and process science
-3. Tell about data mining and process mining 
-4. Tell about the junction of these two
-5. Finally tell about what we are going to cover in next post mainly more about prcess mining techniuques don't go deeper in explamning just give some insights
-6. Make a good story and try to give some edge to user in understanding the domain
-
-
-Source: “Process mining” by TU Eindhoven, © by Springer
-
-
-Happy reading!
-
-Process mining use cases
-What is the process that people really follow?
-What are the bottlenecks in my process?
-What do people (or machines) deviate from the expected or idealized process?
-
-Challenges in Process Mining
-Finding, Merging, and Cleaning Event Data
-Dealing with complex event logs having diverse characteristics
-Creating representative benchmarks
-Balancing Between Quality Criteria such as Fitness, Simplicity, Precision, and Generalization
-Cross-Organizational Mining
-Providing Operational Support
-Combining Process Mining With Other Types of Analysis
-Dealing with Concept Drift
-
-[GitHub](https://github.com/PacktPublishing/Python-Architecture-Patterns). 
-
-[Book GitHub Code repo](https://github.com/PacktPublishing/Python-Architecture-Patterns) 
 

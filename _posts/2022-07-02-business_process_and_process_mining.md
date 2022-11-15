@@ -25,7 +25,7 @@ So looking into above picture, more questions comes:
 * What are the bottlenecks in my process?
 * What do people (or machines) deviate from the expected or idealized process?
 
-Just to summarise, in this post we understood in brief about data sceince and process sceience, junction of these two. We also tried to see how people deviate from defined processes. 
+Just to summarise, in this post we understood in brief about data sceince and process science, junction of these two. We also tried to see how people deviate from defined processes. 
 
 In my next post we'll dig deep into data mining and process mining and will look into various process mining techniques.
 

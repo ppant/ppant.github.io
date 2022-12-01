@@ -6,9 +6,9 @@ layout: post
 categories: Tech
 ---
 
-In this post, we'll try to explore how to find the right use case for process mining. If you are new to Process Mining, you may read my [last](/tech/2022/07/02/process_mining_explained.html) post on Process Mining.
+In this post, we'll try to explore how to find the right use case for process mining. If you are new to Process Mining, you may read my [last](/tech/2022/08/27/process_mining_explained.html) post on Process Mining.
 
-Process mining can be used in multiple domains mainly where processes are defined. Below is a sample example from an automobile company.
+Process mining can be used in multiple domains mainly where processes are defined. Below is a sample example from an automobile company from which use cases can be taken.
 
 * Purchasing and Finance (improves compliance and automation rates)
 * Development (reduces development cycle and increases standards)
@@ -29,4 +29,4 @@ In the next post, we'll try to go through Real-life Process Mining Session.
 Thanks for reading!
 
 
-*IMG Source: “Process mining” by TU Eindhoven, © by Springer*
+**Reference:** *Process Mining in Action Lars Reinkemeyer Editor Principles, Use Cases and Outlook*

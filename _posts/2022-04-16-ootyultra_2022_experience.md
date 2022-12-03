@@ -1,5 +1,5 @@
 ---
-title: 'Ooty Ultra 2022 Run Experience'
+title: 'Ooty Ultra 2022 Run diary'
 date: 2022-04-16
 author: Pradeep Pant
 layout: post
@@ -17,7 +17,7 @@ layout: post
 
 Run was very well organized with enough hydration points. Course was fully road track with excellent views. Second part of the course was more dificult because of sun. Kudos to Coach Kay and his team for all the arrangements they have made for runners.
 
-Overall good run, we all are able to finish well within given time.
+Overall good run, we all are able to finish well within given time. We clicked a lot, whole route was too tempting. 
 
 
 Here are some pics from our trip ( I, Suresh and Mey):
@@ -37,7 +37,7 @@ At the entrace of Bandipur Wildlife on the way to OOty
 
 
 ![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic21.jpg){:width="400px":height="400px"}
-
+![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic39.jpg){:width="400px":height="400px"}
 
 Met beautiful friends at Bandipur wildlife Sanctuary
 
@@ -60,6 +60,10 @@ Met a runner promoting his book
 
 ![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic23.jpg){:width="400px":height="400px"}
 
+Performance by Triabl community at bib expo -- Respect for keeping the old values
+![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic31.jpg){:width="400px":height="400px"}
+
+
 Evening chill time with our Bengaluru Run addicts friends .. loved Nilgiris tea
 
 ![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic15.jpg){:width="400px":height="400px"}
@@ -69,6 +73,11 @@ Dinner day before run
 
 
 ![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic2.jpg){:width="400px":height="400px"}
+
+
+Prep before run
+
+![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic33.jpg){:width="400px":height="400px"}
 
 
 Ready for run - Bengaluru RunAddicts runners
@@ -106,6 +115,41 @@ Relax at the top
 
 ![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic20.jpg){:width="400px":height="400px"}
 
+Our leader leading the climb
+
+![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic26.jpg){:width="400px":height="400px"}
+
+
+Blue mountains majestic Nilgiris
+
+![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic27.jpg){:width="400px":height="400px"}
+
+
+Made new friends 
+
+![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic29.jpg){:width="400px":height="400px"}
+
+
+
+Beautiful lanscape
+
+![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic34.jpg){:width="400px":height="400px"}
+
+Style 
+
+![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic35.jpg){:width="400px":height="400px"}
+
+
+
+
+Climbing with simile
+
+![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic38.jpg){:width="400px":height="400px"}
+
+
+My companion Vibram FiveFingers minimalists shoes
+![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic40.jpg){:width="400px":height="400px"}
+
 
 Climb and Sun still similing faces
 
@@ -113,55 +157,36 @@ Climb and Sun still similing faces
 ![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic25.jpg){:width="400px":height="400px"}
 
 
+Compusory photoshoot after run
+
+![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic37.jpg){:width="400px":height="400px"}
+
+
 With race director Coack Kay
 
 ![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic19.jpg){:width="400px":height="400px"}
 
 
-Earned medal
+Medal none other than Race Director Coach Kay
 
+![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic42.jpg){:width="400px":height="400px"}
+
+
+Earned medal
 
 ![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic6.jpg){:width="400px":height="400px"}
 
 
-
-
-
 Much needed lunch after run at Junior Kuppana 
+
 
 ![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic9.jpg){:width="400px":height="400px"}
 
 
-
-
-
-
-
-
 Our champ is loving this place :-)
 
+
 ![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic12.jpg){:width="400px":height="400px"}
-
-
-![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic26.jpg){:width="400px":height="400px"}
-![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic27.jpg){:width="400px":height="400px"}
-![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic28.jpg){:width="400px":height="400px"}
-![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic29.jpg){:width="400px":height="400px"}
-![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic30.jpg){:width="400px":height="400px"}
-![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic31.jpg){:width="400px":height="400px"}
-![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic32.jpg){:width="400px":height="400px"}
-![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic33.jpg){:width="400px":height="400px"}
-![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic34.jpg){:width="400px":height="400px"}
-![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic35.jpg){:width="400px":height="400px"}
-
-
-
-
-
-
-
-
-
 
 
 

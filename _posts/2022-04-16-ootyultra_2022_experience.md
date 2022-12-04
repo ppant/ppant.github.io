@@ -109,9 +109,7 @@ Bare-foot runners-- bow down to your grit
 ![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic5.jpg){:width="400px":height="400px"}
 
 
-Top of the world - At the one of the highest peak of Nilgiris - [Doddabetta]
-
-(https://nilgiris.nic.in/tourist-place/doddabetta-ooty)
+Top of the world - At the one of the highest peak of Nilgiris - [Doddabetta](https://nilgiris.nic.in/tourist-place/doddabetta-ooty)
 
 
 ![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic7.jpg){:width="400px":height="400px"}
@@ -183,7 +181,7 @@ Earned it
 ![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic6.jpg){:width="400px":height="400px"}
 
 
-The tank must be refilled at [Junior Kuppana](https://www.tripadvisor.in/Restaurant_Review-g297679-d17778553-Reviews-Junior_Kuppanna_Ooty-Ooty_Udhagamandalam_The_Nilgiris_District_Tamil_Nadu.html) 
+The tank refilled at [Junior Kuppana] (https://www.tripadvisor.in/Restaurant_Review-g297679-d17778553-Reviews-Junior_Kuppanna_Ooty-Ooty_Udhagamandalam_The_Nilgiris_District_Tamil_Nadu.html) before we say goodbye to Ooty 
 
 
 ![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic9.jpg){:width="400px":height="400px"}

@@ -181,7 +181,7 @@ Earned it
 ![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic6.jpg){:width="400px":height="400px"}
 
 
-The tank refilled at [Junior Kuppana] (https://www.tripadvisor.in/Restaurant_Review-g297679-d17778553-Reviews-Junior_Kuppanna_Ooty-Ooty_Udhagamandalam_The_Nilgiris_District_Tamil_Nadu.html) before we say goodbye to Ooty 
+The tank refilled at [Junior Kuppana](https://www.tripadvisor.in/Restaurant_Review-g297679-d17778553-Reviews-Junior_Kuppanna_Ooty-Ooty_Udhagamandalam_The_Nilgiris_District_Tamil_Nadu.html) before we say goodbye to Ooty 
 
 
 ![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic9.jpg){:width="400px":height="400px"}

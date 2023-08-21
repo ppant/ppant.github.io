@@ -125,7 +125,7 @@ Mey enjoying at Jhari cottage
 
 **Day 3: Jhari Eco Resort - Sipani Coffee Estate (Start-Point)**
 
-Drive to start-point
+Drive towards start-point
 
 ![](/data/images/travel/malnad_ultra_2022/route_map_jhari_sipani.jpg){:width="800px":height="600px"}
 
@@ -191,17 +191,19 @@ with RunAddicts
 
 ![](/data/images/travel/malnad_ultra_2022/bengaluru_start_runner.jpg){:width="800px":height="600px"}
 
-With Race Director Coack Anand and Ooty Ultra Race Director Coach Kay, Good to see that organizers helping each other
+With Race Director Coack Anand and Ooty Ultra Race Director Coach Kay, Good to see that organizers of other events supporting each other
 
 ![](/data/images/travel/malnad_ultra_2022/with_coach_anand_kay.jpg){:width="800px":height="600px"}
 
-Met Peter, an accomplished trekker, and founder of Chennai Trekking Club post-run. Can't resist meeting BELGIUM people because of my long association  
+Met Peter, an accomplished trekker, and founder of Chennai Trekking Club post-run. Can't resist meeting BELGIUM people because of my long association with the country
 
 ![](/data/images/travel/malnad_ultra_2022/with_peter_bel.jpg){:width="800px":height="600px"}
 
-Evening at Jhari post-run
+Relax evening at Jhari post-run
 
 ![](/data/images/travel/malnad_ultra_2022/jhari_waterfall.jpg){:width="800px":height="600px"}
 ![](/data/images/travel/malnad_ultra_2022/jhari_waterfall.jpg){:width="800px":height="600px"}
 ![](/data/images/travel/malnad_ultra_2022/jhari_waterfall_grp.jpg){:width="800px":height="600px"}
+
+
 

@@ -37,7 +37,7 @@ Overall a good run, we all were able to finish well within given time. Took load
 
 
 **Final thoughts:**
-Oooty Ultra is absolutely wonderful experience. The beauty of the place, route, and overall crowd make it a very special run. 
+Ooty Ultra is absolutely wonderful experience. The beauty of the place, route, and overall crowd make it a very special run. 
 
 <ul>
 <li>Try to book your stay closer to the start point, though there will not be many... </li>
@@ -47,7 +47,7 @@ Oooty Ultra is absolutely wonderful experience. The beauty of the place, route, 
 <li>Travel in a group, will be much more enjoyable and safe! </li>
 </ul>
 
-This was a brief of our Malnad trip ultra run. I hope to revisit it in 2023. 
+This was a brief of our Ooty trip ultra run. I hope to revisit it in 2024, maybe for 60K. 
 
 
 Feel free to write in at [pp@pradeeppant.com](mailto:pp@pradeeppant.com) or comment here in case you wish to share your own experiences or need more info or advice.
@@ -59,9 +59,9 @@ Happy to help!
 
 Cheers!
 
+
 -------------------------------------------------------------------------
 Finally, here are some pics from our trip ( I, Suresh, and Mey):
-
 
 
 Our road trip route:
@@ -72,6 +72,11 @@ Our road trip route:
 Start at home 
 
 ![](/data/images/travel/ooty_ultra_2023/start_home.jpg){:width="800px":height="600px"}
+
+
+Ultra team starting from Bengaluru
+
+![](/data/images/travel/ooty_ultra_2023/ultra_team_starting.jpg){:width="800px":height="600px"}
 
 
 Start trip full tank: The Breakfast
@@ -87,6 +92,7 @@ On the way crossing beautiful Ramnagara, the Sholey city
 EV Recharge at Mysore
 
 ![](/data/images/travel/ooty_ultra_2023/ev_recharge.jpg){:width="800px":height="600px"}
+
 
 Mey in deep thoughts, I should put a chip inside his head :-)
 
@@ -113,9 +119,24 @@ Gear ready for race day
 ![](/data/images/travel/ooty_ultra_2023/gear_ready.jpg){:width="800px":height="600px"}
 
 
+Ultra team ready
+
+![](/data/images/travel/ooty_ultra_2023/ultra_team_ready.jpg){:width="800px":height="600px"}
+
+
 Morning start point runners Dr. Vinod and team from Trichanapalli, we met them during Malnad run
 
 ![](/data/images/travel/ooty_ultra_2023/morning_start_point_runners.jpg){:width="800px":height="600px"}
+
+
+Fun before Run
+
+![](/data/images/travel/ooty_ultra_2023/fun_before_run.jpg){:width="800px":height="600px"}
+
+
+Waiting for whisle
+
+![](/data/images/travel/ooty_ultra_2023/waiting_for_whistle.jpg){:width="800px":height="600px"}
 
 
 My first long run with Luna sandels
@@ -123,116 +144,89 @@ My first long run with Luna sandels
 ![](/data/images/travel/ooty_ultra_2023/luna.jpg){:width="800px":height="600px"}
 
 
-sun_and_runners
+Sun and runners
 
 ![](/data/images/travel/ooty_ultra_2023/sun_and_runners.jpg){:width="800px":height="600px"}
 
 
-far_villages
-
-![](/data/images/travel/ooty_ultra_2023/far_villages.jpg){:width="800px":height="600px"}
-
-
-tea_gardens
-
-![](/data/images/travel/ooty_ultra_2023/tea_gardens.jpg){:width="800px":height="600px"}
-
-
-climb
-
-![](/data/images/travel/ooty_ultra_2023/climb.jpg){:width="800px":height="600px"}
-
-
-relax_food_after_run
-
-![](/data/images/travel/ooty_ultra_2023/relax_food_after_run.jpg){:width="800px":height="600px"}
-
-
-medal
-
-![](/data/images/travel/ooty_ultra_2023/medal.jpg){:width="800px":height="600px"}
-
-
-fun_before_run
-
-![](/data/images/travel/ooty_ultra_2023/fun_before_run.jpg){:width="800px":height="600px"}
-
-
-doddabetta_suresh
-
-![](/data/images/travel/ooty_ultra_2023/breakfast_begaluru.jpg){:width="800px":height="600px"}
-
-
-medal_ceremony_pic
-
-![](/data/images/travel/ooty_ultra_2023/doddabetta_suresh.jpg){:width="800px":height="600px"}
-
-
-route_view
-
-![](/data/images/travel/ooty_ultra_2023/route_view.jpg){:width="800px":height="600px"}
-
-
-ultra_team_starting
-
-![](/data/images/travel/ooty_ultra_2023/ultra_team_starting.jpg){:width="800px":height="600px"}
-
-
-after_run_effect
-
-![](/data/images/travel/ooty_ultra_2023/after_run_effect.jpg){:width="800px":height="600px"}
-
-
-with_fellow_runner
+Fellow runners 
 
 ![](/data/images/travel/ooty_ultra_2023/with_fellow_runner.jpg){:width="800px":height="600px"}
 
 
-beautiful_tree_plantation
+Suresh at Doddbeta peak.. highest in Niligirs
+
+![](/data/images/travel/ooty_ultra_2023/doddabetta_suresh.jpg){:width="800px":height="600px"}
+
+
+Beautiful tea plantation
 
 ![](/data/images/travel/ooty_ultra_2023/beautiful_tree_plantation.jpg){:width="800px":height="600px"}
 
 
-landscape_ooty
+Landscape 
 
 ![](/data/images/travel/ooty_ultra_2023/landscape_ooty.jpg){:width="800px":height="600px"}
 
 
-ultra_team_ready
 
-![](/data/images/travel/ooty_ultra_2023/ultra_team_ready.jpg){:width="800px":height="600px"}
+Villages from far a bit nostagic looks like my home town in hills
 
-
-waiting_for_whistle
-
-![](/data/images/travel/ooty_ultra_2023/waiting_for_whistle.jpg){:width="800px":height="600px"}
+![](/data/images/travel/ooty_ultra_2023/far_villages.jpg){:width="800px":height="600px"}
 
 
-finish_line_medal
+Tea gardens just like Berinag-Chaukori Tea estate of past 
 
-![](/data/images/travel/ooty_ultra_2023/finish_line_medal.jpg){:width="800px":height="600px"}
+![](/data/images/travel/ooty_ultra_2023/tea_gardens.jpg){:width="800px":height="600px"}
 
 
-on_running_route
+On running route
 
 ![](/data/images/travel/ooty_ultra_2023/on_running_route.jpg){:width="800px":height="600px"}
 
 
-run_with_luna
+Run with Luna .. felt so comfortable
 
 ![](/data/images/travel/ooty_ultra_2023/run_with_luna.jpg){:width="800px":height="600px"}
 
 
+Route view
 
-This was a brief of our Ooty trip ultra run. I hope to revisit in 2024 for mainden 60K. 
+![](/data/images/travel/ooty_ultra_2023/route_view.jpg){:width="800px":height="600px"}
 
+Climb
 
-Feel free to write in at [pp@pradeeppant.com](mailto:pp@pradeeppant.com) or comment here in case you wish to share your own experiences or need more info or advice.
-
-
-
-Happy to help! 
+![](/data/images/travel/ooty_ultra_2023/climb.jpg){:width="800px":height="600px"}
 
 
-Cheers!
+Relaxing after run with excellent food, thanks to Suresh for telling Coach for south Indian breakfast than english
+
+![](/data/images/travel/ooty_ultra_2023/relax_food_after_run.jpg){:width="800px":height="600px"}
+
+
+Medal 30K
+
+![](/data/images/travel/ooty_ultra_2023/medal.jpg){:width="800px":height="600px"}
+
+Finish line medal
+
+![](/data/images/travel/ooty_ultra_2023/finish_line_medal.jpg){:width="800px":height="600px"}
+
+
+A bit of show of :-)
+
+
+
+
+After run effect :-)
+
+![](/data/images/travel/ooty_ultra_2023/after_run_effect.jpg){:width="800px":height="600px"}
+
+
+
+
+
+
+
+
 

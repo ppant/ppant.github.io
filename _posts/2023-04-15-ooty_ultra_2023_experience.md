@@ -14,23 +14,19 @@ categories: Running
 
 **Date:** 2nd April 2023
 
-This is my second time at ooty ultra. Check my last year 2022 expereince [here](/2022/04/16/ootyultra_2022_experience.html)
+This is my second time at ooty ultra. Check last year 2022 expereince blog [here](/2022/04/16/ootyultra_2022_experience.html)
 
 [Ooty Ultra 2023](https://ootyultra.kfita.in/) was my first ultra run experience, though by distance it was less than a full marathon but the level of difficulty and elevation was intense.
 To prepare for it I just followed my daily workout i.e. mix of cycling and running and strength workouts. 
 
 **Travel**
-This time we took EV car, One of the main challenge was to find a EV charging station, though Suresh has done good research on them but still it was first time and god section to ooty has given us some real hard time. We reached ooty with less than 5% of battery. 
+This time we took EV car, Suresh wanted to test the battery power and overall drive experience. Actually while crossing Bandipur we felt that when we were passing with minimal noise, I guess very good for inhabitants. one of the main challenge was to find a EV charging station, though Suresh has done good research on them but still it was first time and god section to ooty has given us some real hard time. We reached ooty with less than 5% of battery. 
 
 **Stay:**
- Hotel Gem Park is nice place for parking and food. They are very customer friendly.
+ Well, experience with our hotel for EV charging has not gone well, they were trying to squze us on electricity charges. They should have done it, anyways we found another hotel named Gem Park, they have plenty of place to charge the vehicle. They are very customer friendly and we had good expereince there. I think in future with the EV boom coming, chargung points can be good place for food and enternaintent and in fact hotel Gem park mamangement hasve seen this opputunity. We met many other EV vehicle owners there most of them were facing the issue we have faced bateery draining much faster in god section. Good leanring for all of us.
 
 **Improvement areas:**
-<ul>
-<li>More cleaning of common areas, dining, etc.</li>
-<li>Electric Kettle in rooms for tea/coffee/warm water</li>
-</ul>
-PS: Don't forget to carry your fav book as there will be plenty of time as there is no network 
+
 
 **Event:** A very well organized event- lots of hydration points, first aid kiosks etc. Kudos to Coach Kay and his team for all the arrangements. Course was fully road track with excellent views. Second part of the course was more dificult because of sun. 
 Overall a good run, we all were able to finish well within given time. Took loads of pictures :-) 
@@ -38,14 +34,6 @@ Overall a good run, we all were able to finish well within given time. Took load
 
 **Final thoughts:**
 Ooty Ultra is absolutely wonderful experience. The beauty of the place, route, and overall crowd make it a very special run. 
-
-<ul>
-<li>Try to book your stay closer to the start point, though there will not be many... </li>
-<li>Start early on the race day from your stay as the road from Attingundi to the start point parking is a single lane, broken tarmac, trail forest road and there might be traffic and restrictions due to sensitive zone </li>
-<li>Make sure that you run with someone or find someone to run with at your pace. </li>
-<li>Carry some extra clothes, chapels, snacks, charger etc in your car. Mobile network is also a problem so better to keep a spare basic phone with a different network SIM preferably BSNL. </li>
-<li>Travel in a group, will be much more enjoyable and safe! </li>
-</ul>
 
 This was a brief of our Ooty trip ultra run. I hope to revisit it in 2024, maybe for 60K. 
 

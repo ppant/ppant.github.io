@@ -72,25 +72,27 @@ Finally, here are some pics from our trip ( I, Suresh, and Mey):
 
 **Day 1: Bengaluru - Mysore**
 
-Our road trip route:
+Our road trip route
 
 ![](/data/images/travel/malnad_ultra_2022/route_map_blr_mysore.jpg){:width="800px":height="600px"}
 
-Our staple Kumaoni snack 
+Our staple Kumaoni snack for road trip
 
 ![](/data/images/travel/malnad_ultra_2022/home_made_snacks.jpg){:width="800px":height="600px"}
 
 
-Fun at the marriage party with the KGF gang of Suresh and Mey's friend's daughter
+
+Fun at the marriage party with the Suresh and Mey's friend's daughter (KGF gang)
 
 ![](/data/images/travel/malnad_ultra_2022/fun_at_marriage_party.jpg){:width="800px":height="600px"}
 
 ![](/data/images/travel/malnad_ultra_2022/fun_at_marriage_party1.jpg){:width="800px":height="600px"}
 
+
 **Day 2: Mysore - Jhari Eco Resort, Malnad region, Chikmagluru**
 
 
-Our road trip route:
+Our road trip route
 
 ![](/data/images/travel/malnad_ultra_2022/route_map_mysore_jhari.jpg){:width="800px":height="600px"}
 
@@ -115,6 +117,7 @@ Evening at Jhari resort
 ![](/data/images/travel/malnad_ultra_2022/jhari_view.jpg){:width="800px":height="600px"}
 ![](/data/images/travel/malnad_ultra_2022/jhari_dinner.jpg){:width="800px":height="600px"}
 
+
 Relax mode at Jhari resort
 
 ![](/data/images/travel/malnad_ultra_2022/relax_at_jhari.jpg){:width="800px":height="600px"}
@@ -122,6 +125,7 @@ Relax mode at Jhari resort
 Mey enjoying at Jhari cottage
 ![](/data/images/travel/malnad_ultra_2022/jhari_cottage_mey.jpg){:width="800px":height="600px"}
 ![](/data/images/travel/malnad_ultra_2022/jhari_cottage.jpg){:width="800px":height="600px"}
+
 
 **Day 3: Jhari Eco Resort - Sipani Coffee Estate (Start-Point)**
 
@@ -148,7 +152,8 @@ Route
 Sun and climb
 
 ![](/data/images/travel/malnad_ultra_2022/sun_and_climb.jpg){:width="800px":height="600px"}
-![](/data/images/travel/malnad_ultra_2022/sun_and_climb_again.jpg){:width="800px":height="600px"}
+
+
 ![](/data/images/travel/malnad_ultra_2022/second_climb.jpg){:width="800px":height="600px"}
 
 Second climb
@@ -187,7 +192,7 @@ At the finish line
 
 ![](/data/images/travel/malnad_ultra_2022/finish_line.jpg){:width="800px":height="600px"}
 
-with RunAddicts 
+with RunAddicts gang
 
 ![](/data/images/travel/malnad_ultra_2022/bengaluru_start_runner.jpg){:width="800px":height="600px"}
 
@@ -195,7 +200,7 @@ With Race Director Coack Anand and Ooty Ultra Race Director Coach Kay, Good to s
 
 ![](/data/images/travel/malnad_ultra_2022/with_coach_anand_kay.jpg){:width="800px":height="600px"}
 
-Met Peter, an accomplished trekker, and founder of Chennai Trekking Club post-run. Can't resist meeting BELGIUM people because of my long association with the country
+Met Peter, an accomplished trekker, and founder of Chennai Trekking Club post-run. Can't resist meeting BELGIUM ppl because of my long association with the country :-)
 
 ![](/data/images/travel/malnad_ultra_2022/with_peter_bel.jpg){:width="800px":height="600px"}
 

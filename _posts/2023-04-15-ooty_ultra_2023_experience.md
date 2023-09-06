@@ -17,13 +17,15 @@ categories: Running
 This is my second time at ooty ultra. Check last year 2022 expereince blog [here](/2022/04/16/ootyultra_2022_experience.html)
 
 [Ooty Ultra 2023](https://ootyultra.kfita.in/) was my first ultra run experience, though by distance it was less than a full marathon but the level of difficulty and elevation was intense.
-To prepare for it I just followed my daily workout i.e. mix of cycling and running and strength workouts. 
+To prepare for it, I just followed my daily workout i.e. mix of cycling and running and strength workouts. 
 
-**Travel**
-This time we took EV car, Suresh wanted to test the battery power and overall drive experience. Actually while crossing Bandipur we felt that when we were passing with minimal noise, I guess very good for inhabitants. one of the main challenge was to find a EV charging station, though Suresh has done good research on them but still it was first time and god section to ooty has given us some real hard time. We reached ooty with less than 5% of battery. 
+**Travel** 
+This time we took EV car, Suresh wanted to test the battery power and overall drive experience, he has done a good research on avaliable charging stations en-route. At Mysore we charged our car and calculated the safe zone to reach Ooty as there were no charging stations in between Mysore and Oooty as this is forest area covering Bandipur and Madumali hills. Well, while crossing Bandipur Tiger Reserve car we could feel the smoothness and minimal noise of the EV car, a true delight for inhabitants. As soon as we entered the god section of (climb to ooty) battery was draining fast, And slowly our whole focus was on how fast battery perventage coming down. So last 1hr or so before reaching ooty it was a bit hard. Finally we reached Ooty town with less than 5% of battery but learning for future trips is that climb takes much more charge so always keep that extra buffer, good that we have done a top-up charge at Mysore, We saw couple of other EV cars mainly runners were also faced the similar issues, even one of them have to toe car to hotel. Anyways good experiment and learning. I think there is a need of charging stations before the climb to ooty. Hopefully this will come as EV infra is coming very fast. Thanks to enthusiats like Suresh and other guys who like to explore and eventually help in developing infra. 
+
+Back to running...
 
 **Stay:**
- Well, experience with our hotel for EV charging has not gone well, they were trying to squze us on electricity charges. They should have done it, anyways we found another hotel named Gem Park, they have plenty of place to charge the vehicle. They are very customer friendly and we had good expereince there. I think in future with the EV boom coming, chargung points can be good place for food and enternaintent and in fact hotel Gem park mamangement hasve seen this opputunity. We met many other EV vehicle owners there most of them were facing the issue we have faced bateery draining much faster in god section. Good leanring for all of us.
+ Well, experience with our hotel for EV charging has not gone well, they were trying to squeeze us on electricity charges. They should have done it, anyways we found another hotel named Gem Park, they have plenty of place to charge the vehicle. They are very customer friendly and we had good expereince there. I think in future with the EV boom coming, chargung points can be good place for food and enternaintent and in fact hotel Gem park mamangement hasve seen this opputunity. We met many other EV vehicle owners there most of them were facing the issue we have faced bateery draining much faster in god section. Good leanring for all of us.
 
 **Improvement areas:**
 

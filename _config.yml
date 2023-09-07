@@ -17,11 +17,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: programming pointers
+title: Pradeep K. Pant Blog
 email: pp@pradeeppant.com
+url: https://pradeeppant.com
 description: >- 
-  These are my notes on Programming, Software Architecture & Design, Data Science,
-  AI/ML, Research and Technology in general
+  My notes on Software Engineering, Data Science,
+  AI/ML, Process Mining, Research and Technology in general
+baseurl: ""
+#baseurl: "/categories/" 
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: http://pradeeppant.com
 #url: "http://ppantdev:80" # the base hostname & protocol for your site, e.g. http://example.com
@@ -32,8 +35,8 @@ description: >-
 # linkedin_username: ppant 
 # Build settings
 #theme: jekyll-theme-minimal
-theme: minima
-#skin: sunrise
+#theme: minima
+skin: sunrise
 paginate: 5
 paginate_path: "/blog/page:num/"
 #show_excerpts: true
@@ -50,6 +53,9 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jemoji
+ # - jekyll-gist
+  - jekyll-paginate  
+  - jekyll-archives
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -70,3 +76,49 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 google_analytics: UA-15272551-6
+permalink: /:categories/:title/
+
+
+
+# Custom vars
+# version: 3.0.0
+# sidebar_home_link:  true
+# sidebar_blog_link:  '/blog'   # By default, your home page is your blog
+                                # # page. If you change your paginate_path,
+                                # # set this to the root of the paginate_path
+                                # # to enable a separate blog link.
+# mailchimp : true
+# mailchimp_list_name : Pradeep Pant's Newsletter
+# mailchimp_list_why : What's in it for them?
+# mailchimp_embed_action : http://jigyasu.us13.list-manage.com/subscribe/post?u=5bc4802fda0082620b6b67d5e&amp;id=f825c6567a
+
+# timezone:    Asia/Calcutta
+# locale:      en_US
+# future:      true
+
+# Specify the author for blog posts
+# author:
+  # name: 'Pradeep Pant'
+  # email: 'pp[at]pradeeppant[dot]com'
+  # github: ppant
+  # instagram: pradeepkpant
+  # instagram_url: www.instagram.com/pradeepkpant
+  # linkedin: ppant
+  # disqus_shortname: ppant
+  # google_analytics_id: 
+  # google_analytics_url: 
+  # bio: Techie, Fitness enthusiast
+jekyll-archives:
+  enabled: all
+  layouts:
+    year: archive/year
+    month: archive/month
+    day: archive/day
+    tag: archive/tag
+    category: archive/category
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tags/:name/'
+    category: '/category/:name/'

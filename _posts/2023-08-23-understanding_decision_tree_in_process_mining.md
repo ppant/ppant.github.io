@@ -6,7 +6,7 @@ layout: post
 categories: Tech
 ---
 
-Decisison tree is a data mining technique which works best with labelled data. They plays a crucial role in process discovery. In this article I will try to give you some ideas of how decesion tree can leaned, what are the most important parameters in decesion tree and it's use in process mining.
+A decision tree is a data mining technique that works best with labeled data. They play a crucial role in process discovery. In this article I will try to give you some ideas of how a decision tree can be learned, what are the most important parameters in a decision tree and its use in process mining.
 
 If you are new to Process mining I will suggest you to go through my [introductory articles](/2022/07/02/business_process_and_process_mining.html) on Process mining. In nutshell,, Process mining is a area of where we use data science/data mining techniques to improve the existing business processes. 
 

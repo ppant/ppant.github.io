@@ -10,7 +10,7 @@ categories: Running
 
 **Elevation:** approx 2100 mt - 2700 mt : elevation gain ~ 1000 mt
 
-**Distance:** 30KM [Strava](https://www.strava.com/activities/8816693222)
+**Distance:** 30KM [Strava](https://www.strava.com/activities/8816693222) [Certificate](completion_certificate_30K_2023.png)
 
 **Date:** 2nd April 2023
 

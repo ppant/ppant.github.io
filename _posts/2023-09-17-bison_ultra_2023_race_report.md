@@ -6,7 +6,7 @@ layout: post
 categories: Running
 ---
 
-**Location:** Yercaud, Tamil Nadu, India
+**Location:** Yercaud hills, Tamil Nadu, India
 
 **Elevation:** approx 1100 mt - 1500 mt : elevation gain ~ 1500 mt
 
@@ -14,9 +14,7 @@ categories: Running
 
 **Date:** 10th Sept 2023
 
-This is my second time at Ooty Ultra. Check last year's 2022 experience blog [here](/2022/04/16/ootyultra_2022_experience.html)
-
-[Ooty Ultra 2023](https://ootyultra.kfita.in/) was my first ultra run experience, though by the distance it was less than a full marathon the level of difficulty and elevation was intense.
+[Bison Ultra 2023](https://bisonultra.kfita.in/) was my first ultra run experience, though by the distance it was less than a full marathon the level of difficulty and elevation was intense.
 To prepare for it, I just followed my daily workout i.e. a mix of cycling, running, and strength workouts. 
 
 **Travel** 
@@ -49,163 +47,93 @@ Cheers!
 
 -------------------------------------------------------------------------
 
-Finally, here are some pics from our trip ( I, Suresh, and Mey):
-
+Finally, here are some pics from our trip ( I, Suresh, Mey and Laxmi):
 
 Our road trip route:
 
-![](/data/images/travel/ooty_ultra_2023/map_route_blr_ooty.jpg){:width="800px":height="600px"}
+![](/data/images/travel/bison_ultra_2023/drive_route_last_shola.jpg){:width="800px":height="600px"}
+
+Srart at home
+![](/data/images/travel/bison_ultra_2023/start_home.jpg){:width="800px":height="600px"}
+
+Trail route
+![](/data/images/travel/bison_ultra_2023/trail_route.jpg){:width="800px":height="600px"}
+
+laxmi_in_deep_thoughts.jpg
+drive_to_yercaud.jpg
+climb_and_sun.jpg
+climb_with_suresh.jpg
+beautiful_stay.jpg
+breakfast.jpg
+beautiful_template.jpg
+first_climb_beautifuk_view.jpg
+with_25K_runners.jpg
+final_steps_to_finish.jpg
+before_leaving_heavens_lodge.jpg
+at_start_line.jpg
+last_steps_finish_line.jpg
+beautiful_temple.jpg
+enjoying_tea_heavens_lodge.jpg
+with_suresh_sunrise.jpg
+breakfast_at_savarana_bhawan.jpg
+my_running_partner.jpg
+sunset_at_heavens_lodge.jpg
+sun_protection.jpg
+our_hero.jpg
+with_jai_final_down_hill.jpg
+pre-race-day_pic.jpg
+
+lanscape.jpg
+.picasa.ini
+customized_medal.jpg
+coconut_water_break.jpg
+laxmi_on_phone.jpg
+route_to_salem.jpg
+trail_view.jpg
+medal_earned.jpg
+ultra_team_at_bib_collection.jpg
+finish_line_with_suresh.jpg
+with_laxmi_kansal.jpg
+bision_ultra_50K_route.jpg
+valley_view_suresh.jpg
+with_anant.jpg
+read_for_run.jpg
+guava_break.jpg
+valley_view_pp.jpg
+with_coach.jpg
+finish_line.jpg
+finsher_pic.jpg
+50K_elevation_profile_bison.jpg
+jai_after_last_downhill_.jpg
+evening_at_heaven_lodge.jpg
+medal_pic_with_jai.jpg
+first_climb.jpg
+with_our_stick_man.jpg
+beautiful_cottage.jpg
+photo_shoot.jpg
+sunrise_epic_photo.jpg
+suresh_crossing_trail.jpg
+evening_at_heavens_lodge_runners.jpg
+field_heavens_lodge.jpg
+at_bib_collection.jpg
+ev_charging_at_salem.jpg
+tata_show_room_salem.jpg
+valley_view.jpg
+road_climb.jpg
+start_with_suresh.jpg
+en_route_fun.jpg
+at_our_stay.jpg
+with_suresh.jpg
+race_briefing.jpg
+with_podium_finishers.jpg
+relax_evening_at_our_stay.jpg
+medal_pic_solo.jpg
+group_pic_with_coach.jpg
+at_12KM_turn.jpg
+beautiful_area_outside_our_stay.jpg
+sunsrise.jpg
 
 
-Start at home 
-
-![](/data/images/travel/ooty_ultra_2023/start_home.jpg){:width="800px":height="600px"}
-
-
-Ultra team starting from Bengaluru
-
-![](/data/images/travel/ooty_ultra_2023/ultra_team_starting.jpg){:width="800px":height="600px"}
-
-
-Start trip full tank: The Breakfast
-
-![](/data/images/travel/ooty_ultra_2023/breakfast_begaluru.jpg){:width="800px":height="600px"}
-
-
-On the way crossing beautiful Ramnagara, the Sholey city
-
-![](/data/images/travel/ooty_ultra_2023/on_the_way_ramnagara.jpg){:width="800px":height="600px"}
-
-
-EV Recharge at Mysore
-
-![](/data/images/travel/ooty_ultra_2023/ev_recharge.jpg){:width="800px":height="600px"}
-
-
-Mey in deep thought, I should put a chip inside his head :-)
-
-![](/data/images/travel/ooty_ultra_2023/mey_deep_thinking.jpg){:width="800px":height="600px"}
-
-
-Night Stay
-
-![](/data/images/travel/ooty_ultra_2023/night_stay.jpg){:width="800px":height="600px"}
-
-
-Pre-race dinner at Hotel Gem Park, our car charging place 
-
-![](/data/images/travel/ooty_ultra_2023/pre_race_dinner.jpg){:width="800px":height="600px"}
-
-
-View from our hotel
-
-![](/data/images/travel/ooty_ultra_2023/view_from_hotel.jpg){:width="800px":height="600px"}
-
-
-Gear ready for race day
-
-![](/data/images/travel/ooty_ultra_2023/gear_ready.jpg){:width="800px":height="600px"}
-
-
-Ultra team ready
-
-![](/data/images/travel/ooty_ultra_2023/ultra_team_ready.jpg){:width="800px":height="600px"}
-
-
-Morning start point meeting with Dr. Vinod aka [Dr. Velocity](https://www.instagram.com/giftoffitness/) and his team from Trichanapalli, we met them during the Malnad run
-
-![](/data/images/travel/ooty_ultra_2023/morning_start_point_runners.jpg){:width="800px":height="600px"}
-
-
-Fun before Run
-
-![](/data/images/travel/ooty_ultra_2023/fun_before_run.jpg){:width="800px":height="600px"}
-
-
-Waiting for whistle
-
-![](/data/images/travel/ooty_ultra_2023/waiting_for_whistle.jpg){:width="800px":height="600px"}
-
-
-My first long run with Luna sandals
-
-![](/data/images/travel/ooty_ultra_2023/luna.jpg){:width="800px":height="600px"}
-
-
-Sun and runners
-
-![](/data/images/travel/ooty_ultra_2023/sun_and_runners.jpg){:width="800px":height="600px"}
-
-
-Fellow runners 
-
-![](/data/images/travel/ooty_ultra_2023/with_fellow_runner.jpg){:width="800px":height="600px"}
-
-
-Suresh at Doddbeta peak.. highest in Niligirs
-
-![](/data/images/travel/ooty_ultra_2023/doddabetta_suresh.jpg){:width="800px":height="600px"}
-
-
-Beautiful tea plantation
-
-![](/data/images/travel/ooty_ultra_2023/beautiful_tree_plantation.jpg){:width="800px":height="600px"}
-
-
-Landscape 
-
-![](/data/images/travel/ooty_ultra_2023/landscape_ooty.jpg){:width="800px":height="600px"}
-
-
-
-Villages from far a bit nostalgic look like my hometown in the hills
-
-![](/data/images/travel/ooty_ultra_2023/far_villages.jpg){:width="800px":height="600px"}
-
-
-Tea gardens - Just like my home town [Berinag-Chaukori](https://en.wikipedia.org/wiki/Berinag_tea) now vanished 😐
-
-
-![](/data/images/travel/ooty_ultra_2023/tea_gardens.jpg){:width="800px":height="600px"}
-
-
-On running route
-
-![](/data/images/travel/ooty_ultra_2023/on_running_route.jpg){:width="800px":height="600px"}
-
-
-Run with Luna .. felt so comfortable
-
-![](/data/images/travel/ooty_ultra_2023/run_with_luna.jpg){:width="800px":height="600px"}
-
-
-Route view
-
-![](/data/images/travel/ooty_ultra_2023/route_view.jpg){:width="800px":height="600px"}
-
-Climb
-
-![](/data/images/travel/ooty_ultra_2023/climb.jpg){:width="800px":height="600px"}
-
-
-Relaxing with excellent food, thanks to Suresh for telling Coach for south Indian breakfast rather than English
-
-![](/data/images/travel/ooty_ultra_2023/relax_food_after_run.jpg){:width="800px":height="600px"}
-
-
-Medal 30K
-
-![](/data/images/travel/ooty_ultra_2023/medal.jpg){:width="800px":height="600px"}
-
-Finish line medal
-
-![](/data/images/travel/ooty_ultra_2023/finish_line_medal.jpg){:width="800px":height="600px"}
-
-
-
-After run effect :-)
-
-![](/data/images/travel/ooty_ultra_2023/after_run_effect.jpg){:width="800px":height="600px"}
 
 
 

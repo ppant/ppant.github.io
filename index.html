@@ -1,0 +1,71 @@
+---
+layout: index
+title: Home
+---
+<style>
+	.wrapper {
+	   margin: auto;
+	   max-width: 75rem
+	   }	
+	   aside,footer,header,main,section {
+	   <!-- display: block; -->
+	   margin: 0;
+	   color: #000
+	   }
+	
+	   main {
+	   <!-- background: #000 -->
+	   }
+	   .header {
+	   <!-- background: #03a9f4 -->
+	   }
+	   .hero {
+	   <!--  background: #d22b1f -->
+	   }
+	
+	   img { 
+	   margin: auto;
+	   width: 100%;
+	   max-width: 100px;
+	   max-height:100%;
+	   object-fit: contain;
+	   }
+	   
+	   .content {
+	   flex: 1;
+	   <!-- background: #129a22 -->
+	   }
+	   .sidebar {
+	   flex: 0 1 400px;
+	   }
+
+	
+	 @media screen and (min-width:640px) {
+	   .flex-container {
+	   display: flex
+	   }
+	   .footer-column {
+	     flex: 1
+	   }
+	 }
+</style>
+<main>
+	<div class="flex-container wrapper">
+		<!-- Sidebar -->
+		<aside class="sidebar">
+			<p>
+				<!-- <img src="https://rishisareen.com/images/RishiCover.jpg"> -->
+			<!-- 	<img src="..\data\images\IMG_1573_small.jpg"/>				 -->
+			</p>
+		</aside>
+		<!-- Content -->
+		<section class="content">
+			<h2>Hi, I&#39;m Pradeep Pant</h2>
+			I am a regular guy who loves to read, learn new things and share ideas which may help you:)
+			<p>See <a href="/about">About</a> to learn more.</p>
+			<p>Explore the <a href="/archive">Archives</a> for all that I have to offer here – Tech posts, My adventure in fitness (Running and Cycling), Travel diary, Recipes, and more!</p>
+			<p class="post">Sounds cool? Hop on board for updates <a href="http://eepurl.com/gOwpwn">here</a> 
+			</p>			
+		</section>
+	</div>	
+</main>

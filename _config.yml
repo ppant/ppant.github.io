@@ -37,7 +37,7 @@ baseurl: ""
 #theme: jekyll-theme-minimal
 #theme: minima
 skin: sunrise
-paginate: 5
+paginate: 20
 paginate_path: "/blog/page:num/"
 #show_excerpts: true
 disqus:

@@ -3,6 +3,7 @@ title: 'What time has it come ...'
 date: 2020-03-22T5:34:03+05:30
 author: Pradeep Pant
 layout: post
+categories: Personal
 ---
 
 Generally, I only post technical contents in this blog, but this time there is an urge from inside to write due to unprecedented scenarios all over the world due to [COVID-19](https://en.wikipedia.org/wiki/Coronavirus_disease_2019) scare. Today is the [Janata Curfew](https://en.wikipedia.org/wiki/Janata_Curfew) here in India which our PM has [initiated](https://www.youtube.com/watch?v=R9SRmRMv64s) Whole day we were homebound and in the evening everyone came out in their balconies and doing chant, ringing bells, clapping, etc. This is how it was -- [clip](https://www.youtube.com/watch?v=3qWixB_Mm9g) 

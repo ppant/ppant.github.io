@@ -10,7 +10,7 @@ categories: Running
 
 **Elevation:** approx 2100 mt - 2700 mt : elevation gain ~ 1000 mt
 
-**Distance:** 30KM [Strava](https://www.strava.com/activities/6927215764)
+**Distance:** 30KM [[Strava](https://www.strava.com/activities/6927215764)] [[Certificate](/data/images/travel/ooty_ultra_2023/ooty_completion_certificate_30K_2022.png)]
 
 **Date:** 3rd April 2022
 

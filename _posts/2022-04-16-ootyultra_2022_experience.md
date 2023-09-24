@@ -25,7 +25,7 @@ Here are some pics from our trip ( I, Suresh and Mey):
 Our road trip route:
 
 
-![](/data/images/travel/ooty_ultra_trip_2022/blr-ooty-route.png){:width="800px":height="600px"}
+![](/data/images/travel/ooty_ultra_trip_2022/blr-ooty-route.png){:width="400px":height="300px"}
 
 Start trip full tank: The Breakfast
 
@@ -47,13 +47,13 @@ And the gigantic ones
 Fitness Mantra: Eat before sun down :-)
 
 
-![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic10.jpg){:width="800px":height="600px"}
+![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic10.jpg){:width="400px":height="300px"}
 
 
 Route map of run and elevation profile
 
-![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic13.jpg){:width="800px":height="600px"}
-![](/data/images/travel/ooty_ultra_trip_2022/elevation_profile.png){:width="800px":height="600px"}
+![](/data/images/travel/ooty_ultra_trip_2022/ooty_ultra_2022_pic13.jpg){:width="400px":height="300px"}
+![](/data/images/travel/ooty_ultra_trip_2022/elevation_profile.png){:width="400px":height="300px"}
 
 Variety, quality and taste- Shopping and binging: Loved it
 

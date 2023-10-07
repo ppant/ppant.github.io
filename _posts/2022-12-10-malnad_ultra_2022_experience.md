@@ -14,9 +14,9 @@ categories: Running
 
 **Date:** 26th Nov 2022
 
-[Malnad Ultra 2022](https://malnadultra.com/) is a trail run certified by [ITRA](https://itra.run/Races/RaceDetails/Malnad.Ultra.Malnad.Ultra.30.K/2023/78406was) and an UTMB Index Race. This was my first full trail run experience, I must say it was beyond words.
+[Malnad Ultra 2022](https://malnadultra.com/) is a trail run certified by [ITRA](https://itra.run/Races/RaceDetails/Malnad.Ultra.Malnad.Ultra.30.K/2023/78406was) and an UTMB Index Race. This was my first full trail run experience, and I must say it was beyond words.
 
-To prepare for it I just followed my daily workout i.e. a mix of cycling and running and strength workouts. Before this run, I've done a [25K run at Kodagu](https://www.strava.com/activities/7825696133).
+To prepare for it, I just followed my daily workout, i.e., a mix of cycling, running, and strength workouts. Before this run, I'd done a 25K run at Kodagu](https://www.strava.com/activities/7825696133).
 
 **Stay:**
 So we stayed at [Jhari Eco Resort](https://www.google.com/maps/place/Jhari+Eco+Stay/@13.4222058,75.7417142,17z/data=!4m22!1m12!3m11!1s0x3bbad76619c6e1cf:0x3ce3f6c5e78f4a10!2sJhari+Eco+Stay!5m2!4m1!1i2!8m2!3d13.4222058!4d75.7417142!9m1!1b1!16s%2Fg%2F11cp5z5_r0!3m8!1s0x3bbad76619c6e1cf:0x3ce3f6c5e78f4a10!5m2!4m1!1i2!8m2!3d13.4222058!4d75.7417142!16s%2Fg%2F11cp5z5_r0?hl=en-GB&entry=ttu) for 2 days with with our ultra running team. It's a unique place, on the route from Kaimara to [Attingundi](https://en.wikipedia.org/wiki/Attigundi), few things to mention about the place and overall stay.
@@ -37,37 +37,37 @@ So we stayed at [Jhari Eco Resort](https://www.google.com/maps/place/Jhari+Eco+S
 </ul>
 PS: Don't forget to carry your fav book as there will be plenty of time as there is no network 
 
-**Event:** First it was a difficult place to reach. Well-organized event- First 2-3 KM were downhill but after that till 5-6KM shart climb. First hydration was around that point, views were superb, and it mix of running and running. The last 8-9 KM were downhill but the sun was also there. There were enough hydration points, first aid kiosks, etc. Kudos to Coach Anand and his team for all the arrangements in such a remote area. 
-I and Suresh have done 30K and Mey has done 50K in Luna Sandals. 
+**Event:** The start point was a remote place with a single-lane forest road that was fully packed early in the morning. The organizers have done good work with allocating good parking spaces and the overall event. We'd reached the venue around 6 a.m. and had some light breakfast. One of the challenges was not having enough toilets to accommodate so many runners, so it was only given to female runners. But anyway, it was a dense forest, and this is all part of the experience. The run started on time; I think at 6:30 am, we just had a light breakfast. The first 2-3 kilometers were downhill, but the last 5–6 kilometers were a steep climb. The first hydration was around that point; the views were superb, and it was a mix of running and walking. The last 8–9 km were downhill, but the sun was also there. There were enough hydration points, first aid kiosks, etc. Kudos to Coach Anand and his team for all the arrangements in such a remote area. We met many runners from different parts of the country and abroad.
+I and Suresh have done 30K, and Mey has done 50K in Luna Sandals.
 
-Overall a good run, we all were able to finish well within the given time. Took loads of pictures :-) 
+Overall, it was a good run, and we were all able to finish well within the given time. As usual, I took loads of pictures :-)
 
 
 **Final thoughts:**
-Malnad Ultra is absolutely wonderful experience. The beauty of the place, route, and overall crowd make it a very special run. 
+Malnad Ultra is an absolutely wonderful experience. The beauty of the place, route, and overall crowd make it a very special run. A few things one may consider:
 
 <ul>
 <li>Try to book your stay closer to the start point, though there will not be many... </li>
-<li>Start early on the race day from your stay as the road from Attingundi to the start point parking is a single lane, broken tarmac, trail forest road and there might be traffic and restrictions due to sensitive zone </li>
+<li>Start early on race day from your stay, as the road from Attingundi to the start point parking is a single-lane, broken tarmac, trail forest road, and there might be traffic and restrictions due to the sensitive zone. </li>
 <li>Make sure that you run with someone or find someone to run with at your pace. </li>
-<li>Carry some extra clothes, chapels, snacks, charger etc in your car. Mobile network is also a problem so better to keep a spare basic phone with a different network SIM preferably BSNL. </li>
-<li>Travel in a group, will be much more enjoyable and safe! </li>
+<li>Carry some extra clothes, sandels, snacks, chargers, etc. in your car. Mobile network is also a problem, so it is better to keep a spare basic phone with a different network SIM, preferably BSNL. </li>
+<li>Traveling in a group will be much more enjoyable and safe! </li>
 </ul>
 
-This was a brief of our Malnad trip ultra run. I hope to revisit it in 2023. 
+This was a brief overview of our Malnad trip ultra run. I hope to revisit it in 2023.
 
 
 Feel free to write in at [pp@pradeeppant.com](mailto:pp@pradeeppant.com) or comment here in case you wish to share your own experiences or need more info or advice.
 
 
 
-Happy to help! 
+Happy to help!
 
 
 Cheers!
 
 -------------------------------------------------------------------------
-Finally, here are some pics from our trip ( I, Suresh, and Mey):
+Finally, here are some pictures from our trip.( I, Suresh, and Mey):
 
 
 **Day 1: Bengaluru - Mysore**

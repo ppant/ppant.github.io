@@ -16,7 +16,7 @@ categories: Running
 
 **Preparation:** For preparation of [Bison Ultra 2023 50K](https://bisonultra.kfita.in/) I just followed my daily workout i.e. a mix of cycling, running, and strength workouts. No custom training plan, my last long run was Ooty ultra 30K in April. You can read my blog post on Ooty Ultra 2023 [here](/running/ooty_ultra_2023_experience/)
 
-**Travel** 
+**Travel:** 
 I and Suresh started around 6 a.m. in the morning and later picked up Mey and Lamxi near the SilK board junction on Hosur Road. Our first stop was Shree Savarna Bhawan, near Krishnagiri, for breakfast. We tried mini tiffin, idly, mini dosa, and uttpam. We loved the Tamil-style sambhar and filter coffee. The next stop was the Tata Motors show room at Salem for charging our EV. The people at the showroom were very friendly. It was warm weather at Salem, so we took some rest while our car was on charge. We also took a test drive of some of the EV vehicles from Tata. I am really impressed by Tata Group's commitment and future planning for the EV push. We were supposed to have lunch at Salvi Mess (recommended by Mey), but later felt that due to the heavy breakfast and heat in Salem, we decided to start climbing towards the Yercaud Hills. We just had a quick coconut break before entering the hills. Our running start point and stay were 8–10 KM's ahead of Yercaud town. We reached around 4 p.m. at Last Shola, which was on the way to Heavens Lodge (our stay and bib collection place). There we met coach Kay (the organiser) and many other runners having lunch. We were also hungry, so we quickly had food that was available to them (though a bit costly, but understandable as we had not given prior notice). Overall, our travel was good; we had a good charge in an EV after reaching Yercaud. 
 
 
@@ -45,7 +45,7 @@ Some learnings:
 
 * Big no to headphones and even using a camera while running. Your focus should completely be on the group to avoid stones and other objects. There are chances of falling, so be very careful.
 
-* Last but not least, if you're not feeling well, don't think twice before calling for help.
+* Last but not least, if you're not feeling well or injured, don't think twice before calling for help.
 
 
 We had a lot of fun together, and the overall experience was phenomenal!

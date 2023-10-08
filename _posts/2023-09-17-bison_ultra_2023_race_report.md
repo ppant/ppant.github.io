@@ -17,7 +17,7 @@ categories: Running
 **Preparation:** For preparation of [Bison Ultra 2023 50K](https://bisonultra.kfita.in/) I just followed my daily workout i.e. a mix of cycling, running, and strength workouts. No custom training plan, my last long run was Ooty ultra 30K in April. You can read my blog post on Ooty Ultra 2023 [here](/running/ooty_ultra_2023_experience/)
 
 **Travel** 
-I and Suresh started around 6 a.m. in the morning and later picked up Mey and Lamxi near the SilK board junction on Hosur Road. Our first stop was Shree Savarna Bhawan, near Krishnagiri, for breakfast. We tried mini tiffin, idly, mini dosa, and uttpam. We loved the Tamil-style sambhar and filter coffee. The next stop was the Tata Motors show room at Salem for charging our EV. The people at the showroom were very friendly. It was warm weather at Salem, so we took some rest while our car was on charge. We also took a test drive of some of the EV vehicles from Tata. I was really impressed by Tata Group's commitment and future planning for the EV push. We were supposed to have lunch at Salvi Mess (recommended by Mey), but later felt that due to the heavy breakfast and heat in Salem, we decided to start climbing towards the Yercaud Hills. We just had a quick coconut break before entering the hills. Our running start point and stay were 8–10 KM's ahead of Yercaud town. We reached around 4 p.m. at Last Shola, which was on the way to Heavens Lodge (our stay and bib collection place). There we met coach Kay (the organiser) and many other runners having lunch. We were also hungry, so we quickly had food that was available to them (though a bit costly, but understandable as we had not given prior notice). Overall, our travel was good; we had a good charge in an EV after reaching Yercaud. 
+I and Suresh started around 6 a.m. in the morning and later picked up Mey and Lamxi near the SilK board junction on Hosur Road. Our first stop was Shree Savarna Bhawan, near Krishnagiri, for breakfast. We tried mini tiffin, idly, mini dosa, and uttpam. We loved the Tamil-style sambhar and filter coffee. The next stop was the Tata Motors show room at Salem for charging our EV. The people at the showroom were very friendly. It was warm weather at Salem, so we took some rest while our car was on charge. We also took a test drive of some of the EV vehicles from Tata. I am really impressed by Tata Group's commitment and future planning for the EV push. We were supposed to have lunch at Salvi Mess (recommended by Mey), but later felt that due to the heavy breakfast and heat in Salem, we decided to start climbing towards the Yercaud Hills. We just had a quick coconut break before entering the hills. Our running start point and stay were 8–10 KM's ahead of Yercaud town. We reached around 4 p.m. at Last Shola, which was on the way to Heavens Lodge (our stay and bib collection place). There we met coach Kay (the organiser) and many other runners having lunch. We were also hungry, so we quickly had food that was available to them (though a bit costly, but understandable as we had not given prior notice). Overall, our travel was good; we had a good charge in an EV after reaching Yercaud. 
 
 
 **Stay:**
@@ -27,7 +27,7 @@ Newly built cottages with a beautiful valley view of the Krishnagiri area
 
 **Event:** 
 
-Before night, I was in doubt about whether I should wear my Luna sandals for the run or normal shoes. For almost the last year, I have done most of my runs in sandels, so that was my first choice. Anyway, I was carrying basic walking shoes (actually, not even suitable for running). After checking with some runners who have done this trail in the past, I decided to go with shoes but kept my Luna in an extra bag (I thought it would change at the 25K mark). But my decision to use shoes was very good, though initially I was not very comfortable during downhills because of the fear of slipping, but slowly I tuned my mind not to think much about that aspect and focused on the route, which eventually helped me. Coming to route, it's beyond words; most of the part of route was trail, only some road streched but very calm remote village roads. Voulteers has done a great job of setting up water points, but it was not easy. Lunch at 25–26 was great: Idli, Sambhar, and Chutney, very nice and light. There was a small loop of 3–4 km at the lunch point. Initially, I was thinking of having food after completing the loop, but Jay, with whom I chipped in somewhere after 8–10 km, advised having food first, then entering the loop, which indeed was a very good decision, and we were already tired, and solid food was very much needed. btw, Jay is an accomplished runner (has done border 100 KM). After the sun was fully up, we entered the road. I tried to run with Jay, and later we were joined by another runner, Anant Kansal (a Ladakh marathon finisher), who was also running at a similar pace. After 8–9 km of road, our final climb of 10–11 km started, which was tough and grueling. We tried to get together and were finally able to finish just before the cut-off time. Suresh was there at the finish line to motivate us to cover the last couple of hundred meters.
+Before night, I was in doubt about whether I should wear my Luna sandals for the run or normal shoes. For almost the last year, I have done most of my runs in sandels, so that was my first choice. Anyway, I was carrying basic walking shoes (actually, not even suitable for running). After checking with some runners who have done this trail in the past, I decided to go with shoes but kept my Luna in an extra bag (I thought it would change at the 25 km mark). But my decision to use shoes was very good, though initially I was not very comfortable during downhills because of the fear of slipping, but slowly I tuned my mind not to think much about that aspect and focused on the route, which eventually helped me. Coming to route, it's beyond words; most of the part of route was trail, only some road streched but very calm remote village roads. Voulteers has done a great job of setting up water points, but it was not easy. Lunch at 25–26 km was great: Idli, Sambhar, and Chutney, very nice and light. There was a small loop of 3–4 km at the lunch point. Initially, I was thinking of having food after completing the loop, but Jay, with whom I chipped in somewhere after 8–10 km, advised having food first, then entering the loop, which indeed was a very good decision, and we were already tired, and solid food was very much needed. btw, Jay is an accomplished runner (has done border 100 KM). After the sun was fully up, we entered the road. I tried to run with Jay, and later we were joined by another runner, Anant Kansal (a Ladakh marathon finisher), who was also running at a similar pace. After 8–9 km of road, our final climb of 10–11 km started, which was tough and grueling. We tried to climb together and were finally able to finish just before the cut-off time. Suresh was there at the finish line to motivate us to cover the last couple of hundred meters.
 
 **Final thoughts:**
 
@@ -43,9 +43,9 @@ Some learnings:
 
 * Try to run in a small group or with at least one person (very important). This will help you stay on course and not get demotivated. Also, if possible, add the map of the route to your watch; this will also help you stay on course.
 
-* Last but not least, if you're not feeling well, don't think twice before calling for help.
-
 * Big no to headphones and even using a camera while running. Your focus should completely be on the group to avoid stones and other objects. There are chances of falling, so be very careful.
+
+* Last but not least, if you're not feeling well, don't think twice before calling for help.
 
 
 We had a lot of fun together, and the overall experience was phenomenal!
@@ -54,7 +54,7 @@ We had a lot of fun together, and the overall experience was phenomenal!
 This was a brief overview of our Bision trip ultra run. I hope to revisit it in 2024.
 
 
-Feel free to write in at [pp@pradeeppant.com](mailto:pp@pradeeppant.com) or comment here in case you wish to share your own experiences or need more info or advice.
+Feel free to write in at [pp@pradeeppant.com](mailto:pp@pradeeppant.com) or comment here in case you wish to share your own experiences or need more info.
 
 
 
@@ -189,6 +189,10 @@ Pre-race day
 
 ![](/data/images/travel/bison_ultra_2023/pre-race-day_pic.jpg){:width="400px":height="300px"}
 
+
+Group pic with coach
+
+![](/data/images/travel/bison_ultra_2023/group_pic_with_coach.jpg){:width="400px":height="300px"}
 
 Sun-protection gear trial
 
@@ -347,11 +351,6 @@ Medal pic with Jaisingh
 With Coach Kay
 
 ![](/data/images/travel/bison_ultra_2023/with_coach.jpg){:width="400px":height="300px"}
-
-
-Group pic with coach
-
-![](/data/images/travel/bison_ultra_2023/group_pic_with_coach.jpg){:width="400px":height="300px"}
 
 
 Before return

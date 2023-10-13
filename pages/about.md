@@ -21,6 +21,8 @@ You can also connect through social platforms:
 &nbsp;&nbsp;
 [GitHub](https://github.com/ppant) <a href="https://github.com/ppant"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg></a>
 &nbsp;&nbsp;
-[X (formely Twitter)](https://www.twitter.com/ppant) <a href="https://www.twitter.com/ppant"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg></a></span>
+[X (formely Twitter)](https://www.twitter.com/ppant) <a href="https://www.twitter.com/ppant"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg></a></span> 
+&nbsp;&nbsp;
+[Medium](https://medium.com/@ppant) <a href="https://medium.com/@ppant"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#medium"></use></svg></a></span>
 
 <a href='https://ko-fi.com/pradeeppant' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Support my free work by buying Me a Coffee at ko-fi.com' />

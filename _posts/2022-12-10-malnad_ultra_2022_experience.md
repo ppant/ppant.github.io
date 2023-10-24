@@ -21,7 +21,7 @@ To prepare for it, I just followed my daily workout, i.e., a mix of cycling, run
 **Stay:**
 So we stayed at [Jhari Eco Resort](https://www.google.com/maps/place/Jhari+Eco+Stay/@13.4222058,75.7417142,17z/data=!4m22!1m12!3m11!1s0x3bbad76619c6e1cf:0x3ce3f6c5e78f4a10!2sJhari+Eco+Stay!5m2!4m1!1i2!8m2!3d13.4222058!4d75.7417142!9m1!1b1!16s%2Fg%2F11cp5z5_r0!3m8!1s0x3bbad76619c6e1cf:0x3ce3f6c5e78f4a10!5m2!4m1!1i2!8m2!3d13.4222058!4d75.7417142!16s%2Fg%2F11cp5z5_r0?hl=en-GB&entry=ttu) for 2 days with our ultra-running team. It's a unique place, on the route from Kaimara to [Attingundi](https://en.wikipedia.org/wiki/Attigundi), few things to mention about the place and overall stay.
 <ol>
-<li>You can't take your car to this location; they will send a 4x4 on the main road towards Atingudi so pack your stuff accordingly.
+<li>You can't take your car to this location; they will send a 4x4 on the main road towards Atingudi so pack your stuff accordingly. </li>
 <li>Ride to the resort in a 4x4 can be challenging for very old people or people with heavy back pain, etc. This is because there are lots of jerks, but they have excellent drivers, and it's really fun!</li>
 <li>There is no network (only limited BSNL), so make sure you inform your family and friends from the main road or car parking.</li>
 <li>Because of the location and limited transport facilities, please make sure that you carry basic essentials like medicines, snacks, etc., as there is no market and unplanned stepping out is not possible.</li>

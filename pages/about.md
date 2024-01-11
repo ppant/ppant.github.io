@@ -7,12 +7,12 @@ permalink: /about/
 ![IMG_1573_small.jpg](..\data\images\IMG_1573_small.jpg)
 
 Hello Guest, <br>	
-Welcome! My name is Pradeep Pant (प्रदीप पन्त) native of the hills of lower [Himalaya (हिमालय)](http://en.wikipedia.org/wiki/Himalayas). <br>
+Welcome! My name is Pradeep Pant (प्रदीप पन्त) native of the mountains of lower [Himalaya (हिमालय)](http://en.wikipedia.org/wiki/Himalayas). <br>
 I started this blog way back in the Autumn of 2007 to document and share my thoughts on the tech landscape. By profession, I am a Software Engineer and Researcher, writing computer programs for more than 2 decades. I love solving problems and believe that programming has the great power to transform human imagination into reality in a very short time. Well, I might not be the best engineer but I do constantly try my best to learn new things. Apart from this, I have various interests like running, cycling, reading, meditation, nature photography, and trekking.
 
 Thanks for visiting.
 
-For any suggestions/collaboration please email me at: <a href="mailto:pp@pradeeppant.com">pp@pradeeppant.com</a>
+For any suggestions/collaboration you can email me at: <a href="mailto:info@pradeeppant.com">info@pradeeppant.com</a>
   
 You can also connect through social platforms:
   

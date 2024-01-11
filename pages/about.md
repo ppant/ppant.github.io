@@ -12,7 +12,7 @@ I started this blog way back in the Autumn of 2007 to document and share my thou
 
 Thanks for visiting.
 
-For any suggestions/collaboration you can email me at: <a href="mailto:info@pradeeppant.com">info@pradeeppant.com</a>
+For any suggestions/collaboration you can email me at: <a href="mailto:pp@pradeeppant.com">pp@pradeeppant.com</a>
   
 You can also connect through social platforms:
   

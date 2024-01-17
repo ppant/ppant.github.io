@@ -14,7 +14,7 @@ categories: Running
 
 **Date:** 2nd April 2023
 
-This is my second time at Ooty Ultra. Check last year's 2022 experience blog [here](/2022/04/16/ootyultra_2022_experience.html)
+This is my second time at Ooty Ultra. Check last year's 2022 experience blog [here](/running/ootyultra_2022_experience/)
 
 To prepare for it, I just followed my daily workout i.e. a mix of cycling, running, and strength workouts. 
 

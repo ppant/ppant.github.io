@@ -71,87 +71,87 @@ Finally, here are some pictures from our trip. ( I, Suresh, Mey, Dr. Raju, KC):
 Our road trip route 
 
 
-![](/data/images/travel/malnad_ultra_2024/03-route_map_blr_mallanduru.jpg){:width="400px":height="300px"}
+![](/data/images/travel/malnad_ultra_2024/03-route_map_blr_mallanduru.jpg){:width="600px":height="400px"}
 
 
 Starting from home 
 
 
-![](/data/images/travel/malnad_ultra_2024/01-start_with_suresh.jpg){:width="400px":height="300px"}
+![](/data/images/travel/malnad_ultra_2024/01-start_with_suresh.jpg){:width="600px":height="400px"}
 
 
 Breakfast at Naychiyar Cafe, RR nagar before leaving 
 
 
-![](/data/images/travel/malnad_ultra_2024/02-breakfast_point_rr_nager.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/02-02-full_breakfast.jpg){:width="400px":height="300px"}
+![](/data/images/travel/malnad_ultra_2024/02-breakfast_point_rr_nager.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/02-02-full_breakfast.jpg){:width="600px":height="400px"}
 
 
 En-route Chikangluru
 
-![](/data/images/travel/malnad_ultra_2024/04-en-route-chik.jpg){:width="400px":height="300px"}
+![](/data/images/travel/malnad_ultra_2024/04-en-route-chik.jpg){:width="600px":height="400px"}
 
-![](/data/images/travel/malnad_ultra_2024/05-stop-for-ev-charging.jpg){:width="400px":height="300px"}
+![](/data/images/travel/malnad_ultra_2024/05-stop-for-ev-charging.jpg){:width="600px":height="400px"}
 
 Homestay
 
-![](/data/images/travel/malnad_ultra_2024/06-01-flowers.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/06-02-beautiful_homestay.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/06-homestay.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/07-with_dog_homestay.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/08-dog_love.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/09-at_homestay.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/10-bib_collection.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/11-bib_collection_coach_kay.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/12-bib_collection_group.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/13-prep.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/14-parking_lot.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/15-at_starting_point.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/16-quick_coffee_morning.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/17-ready_to_start.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/18-beautiful_trail.jpg){:width="400px":height="300px"}
+![](/data/images/travel/malnad_ultra_2024/06-01-flowers.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/06-02-beautiful_homestay.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/06-homestay.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/07-with_dog_homestay.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/08-dog_love.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/09-at_homestay.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/10-bib_collection.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/11-bib_collection_coach_kay.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/12-bib_collection_group.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/13-prep.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/14-parking_lot.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/15-at_starting_point.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/16-quick_coffee_morning.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/17-ready_to_start.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/18-beautiful_trail.jpg){:width="600px":height="400px"}
 
-![](/data/images/travel/malnad_ultra_2024/19-by_cameraman.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/20-group.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/21-loving_trails.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/22-mey_with_his_pole.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/23-on_trails.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/24-on_trails1.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/25-sun_and_heat.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/26-trail_route.jpg){:width="400px":height="300px"}
-
-
-![](/data/images/travel/malnad_ultra_2024/27-with_suresh_enroute.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/28-with_suresh_on_trails.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/29-with_suresh_trail.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/30-trails_loney.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/31-uphill.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/32-01-muddy.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/32-uphill_1.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/33-suresh_cameraman.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/34-ascent.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/35-finish_line.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/36-finisher_group_pic.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/37-finisher_pic.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/38-got_medal.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/39-suresh_getting_medal.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/40-rr_nanager_runaddicts.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/41-01-morning_coffee_shivmoga.jpg){:width="400px":height="300px"}
+![](/data/images/travel/malnad_ultra_2024/19-by_cameraman.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/20-group.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/21-loving_trails.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/22-mey_with_his_pole.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/23-on_trails.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/24-on_trails1.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/25-sun_and_heat.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/26-trail_route.jpg){:width="600px":height="400px"}
 
 
-![](/data/images/travel/malnad_ultra_2024/41-breakfast_at_shivmoga_with_friends.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/42-01-poori_love.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/42-breakfast_shivmoga.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/43-elephant_camp_visit.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/44-elephant_camp_visit2.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/45-elephant_camp_visit3.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/45-elephant_camp_visit4.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/46-elephant_camp_visit5.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/47-elephant_camp_visit6.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/48-elephant_camp_visit7.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/49-elephant_evolution.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/50-elephant_solo.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/51-50K-medal.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/52-bib_medal.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2024/53-30K_50K_medal.jpg){:width="400px":height="300px"}
+![](/data/images/travel/malnad_ultra_2024/27-with_suresh_enroute.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/28-with_suresh_on_trails.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/29-with_suresh_trail.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/30-trails_loney.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/31-uphill.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/32-01-muddy.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/32-uphill_1.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/33-suresh_cameraman.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/34-ascent.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/35-finish_line.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/36-finisher_group_pic.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/37-finisher_pic.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/38-got_medal.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/39-suresh_getting_medal.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/40-rr_nanager_runaddicts.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/41-01-morning_coffee_shivmoga.jpg){:width="600px":height="400px"}
+
+
+![](/data/images/travel/malnad_ultra_2024/41-breakfast_at_shivmoga_with_friends.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/42-01-poori_love.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/42-breakfast_shivmoga.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/43-elephant_camp_visit.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/44-elephant_camp_visit2.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/45-elephant_camp_visit3.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/45-elephant_camp_visit4.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/46-elephant_camp_visit5.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/47-elephant_camp_visit6.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/48-elephant_camp_visit7.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/49-elephant_evolution.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/50-elephant_solo.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/51-50K-medal.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/52-bib_medal.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/53-30K_50K_medal.jpg){:width="600px":height="400px"}
 

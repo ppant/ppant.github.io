@@ -71,61 +71,28 @@ Cheers!
 Finally, here are some pictures from our trip. ( I, Suresh, Mey, Raju, KC):
 
 
-**Day 1: Bengaluru - Mysore**
+**Day 1: Bengaluru - Malnad**
 
-Our road trip route
+Our road trip route 
 
-![](/data/images/travel/malnad_ultra_2022/route_map_blr_mysore.jpg){:width="400px":height="300px"}
+![](/data/images/travel/malnad_ultra_2024/03-route_map_blr_mallanduru.jpg){:width="400px":height="300px"}
 
-Our staple Kumaoni snack for road trip
+Starting from home 
 
-![](/data/images/travel/malnad_ultra_2022/home_made_snacks.jpg){:width="400px":height="300px"}
+![](/data/images/travel/malnad_ultra_2024/01-start_with_suresh.jpg){:width="400px":height="300px"}
 
+Breakfast at Naychiyar Cafe, RR nagar before leaving 
 
+![](/data/images/travel/malnad_ultra_2024/02-breakfast_point_rr_nager.jpg){:width="400px":height="300px"}
+![](/data/images/travel/malnad_ultra_2024/02-02-full_breakfast.jpg){:width="400px":height="300px"}
 
-Fun at the marriage party with Suresh and Mey's friend's daughter (KGF gang)
+En-route Chikangluru
+![](/data/images/travel/malnad_ultra_2024/04-en-route-chik.jpg){:width="400px":height="300px"}
 
-![](/data/images/travel/malnad_ultra_2022/fun_at_marriage_party.jpg){:width="400px":height="300px"}
+![](/data/images/travel/malnad_ultra_2024/05-stop-for-ev-charging.jpg){:width="400px":height="300px"}
 
-![](/data/images/travel/malnad_ultra_2022/fun_at_marriage_party1.jpg){:width="400px":height="300px"}
+Homestay
 
-
-**Day 2: Mysore - Jhari Eco Resort, Malnad region, Chikmagluru**
-
-
-Our road trip route
-
-![](/data/images/travel/malnad_ultra_2022/route_map_mysore_jhari.jpg){:width="400px":height="300px"}
-
-Stop at [Gommateshwara Temple](https://en.wikipedia.org/wiki/Gommateshwara_statue)
-
-![](/data/images/travel/malnad_ultra_2022/gommateshwara_front.jpg){:width="400px":height="300px"}
-
-Gommateshwara Temple Climb
-
-![](/data/images/travel/malnad_ultra_2022/gommateshwara_climb.jpg){:width="400px":height="300px"}
-
-Gommateshwara Statue
-
-![](/data/images/travel/malnad_ultra_2022/gommateshwara_statue.jpg){:width="400px":height="300px"}
-
-Met Ooty Ultra Coach Kay at Bib collection at Kaimara
-
-![](/data/images/travel/malnad_ultra_2022/coach_kay_run_addicts.jpg){:width="400px":height="300px"}
-
-Evening at Jhari resort
-
-![](/data/images/travel/malnad_ultra_2022/jhari_view.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2022/jhari_dinner.jpg){:width="400px":height="300px"}
-
-
-Relax mode at Jhari resort
-
-![](/data/images/travel/malnad_ultra_2022/relax_at_jhari.jpg){:width="400px":height="300px"}
-
-Mey enjoying at Jhari cottage
-![](/data/images/travel/malnad_ultra_2022/jhari_cottage_mey.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2022/jhari_cottage.jpg){:width="400px":height="300px"}
 
 
 **Day 3: Jhari Eco Resort - Sipani Coffee Estate (Start-Point)**

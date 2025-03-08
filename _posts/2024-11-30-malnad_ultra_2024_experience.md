@@ -20,28 +20,24 @@ To prepare for it, I just followed my daily workout, i.e., a mix of cycling, run
 
 
 **Stay:**
-So we stayed at [Jhari Eco Resort](https://www.google.com/maps/place/Jhari+Eco+Stay/@13.4222058,75.7417142,17z/data=!4m22!1m12!3m11!1s0x3bbad76619c6e1cf:0x3ce3f6c5e78f4a10!2sJhari+Eco+Stay!5m2!4m1!1i2!8m2!3d13.4222058!4d75.7417142!9m1!1b1!16s%2Fg%2F11cp5z5_r0!3m8!1s0x3bbad76619c6e1cf:0x3ce3f6c5e78f4a10!5m2!4m1!1i2!8m2!3d13.4222058!4d75.7417142!16s%2Fg%2F11cp5z5_r0?hl=en-GB&entry=ttu) for 2 days with our ultra-running team. It's a unique place, on the route from Kaimara to [Attingundi](https://en.wikipedia.org/wiki/Attigundi), few things to mention about the place and overall stay.
+This time we were bigger group so stayed homestay close to road going towards starting point, few things to mention about the place and overall stay.
 <ol>
-<li>You can't take your car to this location; they will send a 4x4 on the main road towards Atingudi so pack your stuff accordingly. </li>
-<li>Ride to the resort in a 4x4 can be challenging for very old people or people with heavy back pain, etc. This is because there are lots of jerks, but they have excellent drivers, and it's really fun!</li>
 <li>There is no network (only limited BSNL), so make sure you inform your family and friends from the main road or car parking.</li>
 <li>Because of the location and limited transport facilities, please make sure that you carry basic essentials like medicines, snacks, etc., as there is no market and unplanned stepping out is not possible.</li>
-<li>Room service is limited, so it is better to follow the food times that they serve in the common area. The rooms and toilets were clean, and it seemed a lot of natural material had been used. They have integrated the resort nicely with nature.</li>
-<li>The food is excellent, both vegetarian and non-vegetarian, with good, caring staff. </li>
-<li>Excellent waterfall view and natural sound. They organized the trek also, but we skipped it as we already had enough from our ultra run. </li>
+<li>Room service is limited, so it is better to follow the food times that they serve in the common area.</li>
+<li>The food is excellent, home made both vegetarian and non-vegetarian. </li>
 </ol>
 
 **Improvement areas:**
 <ul>
-<li>More cleaning of common areas, dining, etc.</li>
+<li>More cleaning of rooms, bathrooms etc.</li>
 <li>Electric Kettle in rooms for tea, coffee, or warm water</li>
 </ul>
-PS: Don't forget to carry your favorite book as there will be plenty of time as there is no network 
 
 **Event:** The start point was a remote place with a single-lane forest road that was fully packed early in the morning. The organizers have done good work with allocating good parking spaces and the overall event. We'd reached the venue around 6 a.m. and had some light breakfast. One of the challenges was not having enough toilets to accommodate so many runners, so it was only given to female runners. But anyway, it was a dense forest, and this is all part of the experience. The run started on time; I think at 6:30 a.m., and we just had a light breakfast. The first 2-3 kilometers were downhill, but the last 5–6 kilometers were a steep climb. The first hydration was around that point; the views were superb, and it was a mix of running and walking. The last 8–9 km were downhill, but the sun was also there. There were enough hydration points, first aid kiosks, etc. Kudos to Coach Anand and his team for all the arrangements in such a remote area. We met many runners from different parts of the country and abroad.
-I and Suresh have done 30K, and Mey has done 50K in Luna Sandals.
+This time we all (I, Suresh and Mey) did 50K. Dr. raju and KC did 10K+ walk.
 
-Overall, it was a good run, and we were all able to finish well within the given time. As usual, I took loads of pictures :-)
+Overall, it was a good run, and we were all able to finish well within the given time. As usual, we took loads of pictures :-)
 
 
 **Final thoughts:**
@@ -49,13 +45,12 @@ Malnad Ultra is an absolutely wonderful experience. The beauty of the place, rou
 
 <ul>
 <li>Try to book your stay closer to the start point, though there will not be many. </li>
-<li>Start early on race day from your stay, as the road from Attingundi to the start point parking is a single-lane, broken tarmac, trail forest road, and there might be traffic and restrictions due to the sensitive zone. </li>
 <li>Make sure that you run with someone or find someone to run with at your pace. </li>
 <li>Carry some extra clothes, sandals, snacks, chargers, etc. in your car. Mobile networks are also a problem, so it is better to keep a spare basic phone with a different network SIM, preferably BSNL. </li>
 <li>Traveling in a group will be much more enjoyable and safe! </li>
 </ul>
 
-This was a brief overview of our Malnad trip. I hope to revisit it in 2023.
+This was a brief overview of our Malnad trip. I hope to revisit it in 2025/2026 may be for 100K...
 
 
 Feel free to write in at [pp@pradeeppant.com](mailto:pp@pradeeppant.com) or comment here in case you wish to share your own experiences or need more info or advice.
@@ -67,8 +62,8 @@ Happy to help!
 
 Cheers!
 
--------------------------------------------------------------------------
-Finally, here are some pictures from our trip. ( I, Suresh, Mey, Raju, KC):
+--------------------------------------------------------------------------------
+Finally, here are some pictures from our trip. ( I, Suresh, Mey, Dr. Raju, KC):
 
 
 **Day 1: Bengaluru - Malnad**

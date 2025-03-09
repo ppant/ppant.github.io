@@ -10,9 +10,15 @@ categories: Running
 
 **Elevation:** Approx. 800 m – 1500 m | Elevation gain: +1710 m | Elevation loss: -1710 m
 
+**Type of Terrain:** 85% Paths / 5% Tracks / 10% Roads
+
 **Distance:** 50KM [Strava link](https://www.strava.com/activities/12965841789)
 
+**ITRA Points:** 2
+
 **Date:** November 23, 2024
+
+----------------------------------------------------------
 
 [Malnad Ultra 2024](https://malnadultra.com/) is an ITRA-certified trail run and a UTMB Index Race. This was my second 50K trail run following the [Bison Ultra 2023](/running/bison_ultra_2023_race_report/). Having previously run a 30K in the Malnad hills in 2022, I had some experience with the terrain. You can read my blog [here](/running/malnad_ultra_2022_experience/).
 
@@ -34,17 +40,19 @@ Since we had a larger group this time, we chose a homestay near the road leading
 </ul>
 
 **Event:**  
-The starting point was a remote area accessed via a narrow forest road that became quite busy early in the morning. Kudos to the organizers for ensuring efficient parking arrangements and overall event management. We arrived around 6 a.m. and had a light breakfast.  
+The starting point felt like something out of an adventure novel- a remote location accessed via a winding, narrow forest road that was buzzing with activity even before dawn. Cars and runners filled the path, headlights slicing through the darkness. Despite the chaos, the organizers did an outstanding job of managing parking efficiently, ensuring everyone found their space. Hats off to Coach Anand and his team for handling logistics so well in such an isolated area.
 
-One challenge was the limited availability of toilets — these were reserved for female runners due to the shortage. Given the remote forest setting, this was understandable and part of the overall experience. The race began promptly at 6:30 a.m.  
+We arrived at the venue around 6 a.m., greeted by the cool morning air and the faint glow of sunrise peeking through the trees. Breakfast was simple yet energizing—light enough to keep us nimble but sufficient to fuel the miles ahead.
 
-The first 2-3 kilometers featured a downhill stretch, then steep uphill climb. The first hydration point was around this stage, where the views were absolutely stunning. The last 8-9 kilometers were downhill.  
+One challenge we faced was the limited availability of toilets reserved for female runners due to the shortage. Given the dense forest setting, this was understandable—part of the rugged, unpredictable charm that comes with trail running.
 
-Hydration points, first-aid stations, and other support facilities were well-managed throughout the route. Special thanks to Coach Anand and his team for coordinating everything so efficiently in this remote area. We encountered runners from across India and abroad, adding to the event's vibrant atmosphere.  
+The race kicked off promptly at 6:30 a.m., and we set off into the unknown. The first 2-3 kilometers felt exhilarating—a fast-paced downhill stretch that had us cruising along, soaking in the morning breeze. But this was short-lived; soon, the trail climbed steeply, testing both legs and lungs. The first hydration point appeared around this section—a welcome sight after the demanding ascent. Here, we paused to take in the view—lush green valleys bathed in morning light, mist clinging to distant peaks. Moments like this are what make trail running special.
 
-This time, our entire group — myself, Suresh, and Mey — completed the 50K run, while Dr. Raju and KC participated in the 10K+ walk.  
+The final stretch of the run was a downhill segment, which seemed easier on paper. However, with the sun now overhead and fatigue setting in, it was far from effortless. The well-placed hydration points and first-aid stations ensured runners stayed safe and energized throughout.
 
-Overall, the run went smoothly, and we successfully finished within the designated time. As always, we captured plenty of memorable moments with photos. :-)
+Our entire group — me, Suresh, and Mey successfully completed the 50K run, while Dr. Raju and KC tackled the 10K+ walk with equal determination.
+
+Crossing the finish line was immensely satisfying—not just because we made it within the designated time, but because we shared the experience with runners from across India and beyond. As always, we captured plenty of memorable moments with photos and videos.
 
 **Final Thoughts:**  
 The Malnad Ultra is truly a remarkable experience. The breathtaking scenery, challenging trails, and wonderful community of runners make it an unforgettable event. Here are some key tips for anyone planning to participate:

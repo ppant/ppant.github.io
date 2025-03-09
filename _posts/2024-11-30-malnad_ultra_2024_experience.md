@@ -14,7 +14,7 @@ categories: Running
 
 **Date:** November 23, 2024
 
-[Malnad Ultra 2024](https://malnadultra.com/) is a trail run certified by [ITRA](https://itra.run/Races/RaceDetails/Malnad.Ultra.Malnad.Ultra.30.K/2023/78406was) and a UTMB Index Race. My second 50K trail run and first 50K of Malnad.
+[Malnad Ultra 2024](https://malnadultra.com/) is a trail run certified by [ITRA](https://itra.run/Races/RaceDetails/Malnad.Ultra.50K/2024/89101) and a UTMB Index Race. My second 50K trail run after [Bison ultra 2023](/running/bison_ultra_2023_race_report/). I already had a expereince running in Malnad hills, we did a 30K in 2022. You can check our experiences [here]([here](/running/malnad_ultra_2022_experience/)
 
 To prepare for it, I just followed my daily workout, i.e., a mix of cycling, running, and strength workouts. 
 
@@ -82,7 +82,6 @@ Starting from home
 
 Breakfast at Naychiyar Cafe, RR nagar before leaving 
 
-
 ![](/data/images/travel/malnad_ultra_2024/02-breakfast_point_rr_nager.jpg){:width="600px":height="400px"}
 ![](/data/images/travel/malnad_ultra_2024/02-02-full_breakfast.jpg){:width="600px":height="400px"}
 
@@ -101,25 +100,44 @@ Homestay
 ![](/data/images/travel/malnad_ultra_2024/07-with_dog_homestay.jpg){:width="600px":height="400px"}
 ![](/data/images/travel/malnad_ultra_2024/08-dog_love.jpg){:width="600px":height="400px"}
 ![](/data/images/travel/malnad_ultra_2024/09-at_homestay.jpg){:width="600px":height="400px"}
+
+Always delight to meet fellow runners at Bib collection 
+
 ![](/data/images/travel/malnad_ultra_2024/10-bib_collection.jpg){:width="600px":height="400px"}
 ![](/data/images/travel/malnad_ultra_2024/11-bib_collection_coach_kay.jpg){:width="600px":height="400px"}
 ![](/data/images/travel/malnad_ultra_2024/12-bib_collection_group.jpg){:width="600px":height="400px"}
+
+Our before race day night ritual
+
 ![](/data/images/travel/malnad_ultra_2024/13-prep.jpg){:width="600px":height="400px"}
+
+**Day 2: Race day - Malnad**
+Parking lot - beautiful open area
+
 ![](/data/images/travel/malnad_ultra_2024/14-parking_lot.jpg){:width="600px":height="400px"}
 ![](/data/images/travel/malnad_ultra_2024/15-at_starting_point.jpg){:width="600px":height="400px"}
+
+Quick breafast and coefee before we start
+
 ![](/data/images/travel/malnad_ultra_2024/16-quick_coffee_morning.jpg){:width="600px":height="400px"}
 ![](/data/images/travel/malnad_ultra_2024/17-ready_to_start.jpg){:width="600px":height="400px"}
-![](/data/images/travel/malnad_ultra_2024/18-beautiful_trail.jpg){:width="600px":height="400px"}
 
+Beautiful route 
+
+![](/data/images/travel/malnad_ultra_2024/18-beautiful_trail.jpg){:width="600px":height="400px"}
 ![](/data/images/travel/malnad_ultra_2024/19-by_cameraman.jpg){:width="600px":height="400px"}
 ![](/data/images/travel/malnad_ultra_2024/20-group.jpg){:width="600px":height="400px"}
 ![](/data/images/travel/malnad_ultra_2024/21-loving_trails.jpg){:width="600px":height="400px"}
+
+Mey with his pole support
+
 ![](/data/images/travel/malnad_ultra_2024/22-mey_with_his_pole.jpg){:width="600px":height="400px"}
 ![](/data/images/travel/malnad_ultra_2024/23-on_trails.jpg){:width="600px":height="400px"}
 ![](/data/images/travel/malnad_ultra_2024/24-on_trails1.jpg){:width="600px":height="400px"}
 ![](/data/images/travel/malnad_ultra_2024/25-sun_and_heat.jpg){:width="600px":height="400px"}
 ![](/data/images/travel/malnad_ultra_2024/26-trail_route.jpg){:width="600px":height="400px"}
 
+Me and Suresh, most of the time we were together during course which is great blessing 
 
 ![](/data/images/travel/malnad_ultra_2024/27-with_suresh_enroute.jpg){:width="600px":height="400px"}
 ![](/data/images/travel/malnad_ultra_2024/28-with_suresh_on_trails.jpg){:width="600px":height="400px"}
@@ -130,18 +148,47 @@ Homestay
 ![](/data/images/travel/malnad_ultra_2024/32-uphill_1.jpg){:width="600px":height="400px"}
 ![](/data/images/travel/malnad_ultra_2024/33-suresh_cameraman.jpg){:width="600px":height="400px"}
 ![](/data/images/travel/malnad_ultra_2024/34-ascent.jpg){:width="600px":height="400px"}
+
+At finish line 
+
 ![](/data/images/travel/malnad_ultra_2024/35-finish_line.jpg){:width="600px":height="400px"}
+
+Finsher pic with group (Me, Suresh, Mey and Laxmikant)
+
 ![](/data/images/travel/malnad_ultra_2024/36-finisher_group_pic.jpg){:width="600px":height="400px"}
 ![](/data/images/travel/malnad_ultra_2024/37-finisher_pic.jpg){:width="600px":height="400px"}
 ![](/data/images/travel/malnad_ultra_2024/38-got_medal.jpg){:width="600px":height="400px"}
 ![](/data/images/travel/malnad_ultra_2024/39-suresh_getting_medal.jpg){:width="600px":height="400px"}
+
+Pic with Run Addicts group
+
 ![](/data/images/travel/malnad_ultra_2024/40-rr_nanager_runaddicts.jpg){:width="600px":height="400px"}
+
+
+50K medal
+
+![](/data/images/travel/malnad_ultra_2024/51-50K-medal.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/52-bib_medal.jpg){:width="600px":height="400px"}
+
+30K from 2022 and 50K from 2025, lets hope we get the last one (100K) in coming years...
+
+![](/data/images/travel/malnad_ultra_2024/53-30K_50K_medal.jpg){:width="600px":height="400px"}
+**Day 3: Shivmoga**
+
+Morning coffee at Shivmoga charging point
+
 ![](/data/images/travel/malnad_ultra_2024/41-01-morning_coffee_shivmoga.jpg){:width="600px":height="400px"}
 
-
+Breakfast with friends at Shivmoga 
 ![](/data/images/travel/malnad_ultra_2024/41-breakfast_at_shivmoga_with_friends.jpg){:width="600px":height="400px"}
+
+Professor's Poori love 
+
 ![](/data/images/travel/malnad_ultra_2024/42-01-poori_love.jpg){:width="600px":height="400px"}
 ![](/data/images/travel/malnad_ultra_2024/42-breakfast_shivmoga.jpg){:width="600px":height="400px"}
+
+Visit to Elephant camp
+
 ![](/data/images/travel/malnad_ultra_2024/43-elephant_camp_visit.jpg){:width="600px":height="400px"}
 ![](/data/images/travel/malnad_ultra_2024/44-elephant_camp_visit2.jpg){:width="600px":height="400px"}
 ![](/data/images/travel/malnad_ultra_2024/45-elephant_camp_visit3.jpg){:width="600px":height="400px"}
@@ -149,9 +196,11 @@ Homestay
 ![](/data/images/travel/malnad_ultra_2024/46-elephant_camp_visit5.jpg){:width="600px":height="400px"}
 ![](/data/images/travel/malnad_ultra_2024/47-elephant_camp_visit6.jpg){:width="600px":height="400px"}
 ![](/data/images/travel/malnad_ultra_2024/48-elephant_camp_visit7.jpg){:width="600px":height="400px"}
+
+Evolution of Elephant -- Amazing history
+
 ![](/data/images/travel/malnad_ultra_2024/49-elephant_evolution.jpg){:width="600px":height="400px"}
 ![](/data/images/travel/malnad_ultra_2024/50-elephant_solo.jpg){:width="600px":height="400px"}
-![](/data/images/travel/malnad_ultra_2024/51-50K-medal.jpg){:width="600px":height="400px"}
-![](/data/images/travel/malnad_ultra_2024/52-bib_medal.jpg){:width="600px":height="400px"}
-![](/data/images/travel/malnad_ultra_2024/53-30K_50K_medal.jpg){:width="600px":height="400px"}
+
+
 

@@ -174,7 +174,8 @@ At finish line
 
 ![](/data/images/travel/malnad_ultra_2024/35-finish_line.jpg){:width="600px":height="400px"}
 
-Finsher pic with group (Me, Suresh, Mey and Laxmikant)
+
+Finsher pic with group (Me, Suresh, Meyyappan and Laxmikant)
 
 ![](/data/images/travel/malnad_ultra_2024/36-finisher_group_pic.jpg){:width="600px":height="400px"}
 ![](/data/images/travel/malnad_ultra_2024/37-finisher_pic.jpg){:width="600px":height="400px"}
@@ -191,11 +192,14 @@ Pic with Run Addicts group
 ![](/data/images/travel/malnad_ultra_2024/51-50K-medal.jpg){:width="600px":height="400px"}
 ![](/data/images/travel/malnad_ultra_2024/52-bib_medal.jpg){:width="600px":height="400px"}
 
+
 30K from 2022 and 50K from 2025, lets hope we get the last one (100K) in coming years...
 
 ![](/data/images/travel/malnad_ultra_2024/53-30K_50K_medal.jpg){:width="600px":height="400px"}
 
+
 **Day 3: Shivamogga - Meeting friends and sightseeing**
+
 
 Morning coffee at Shivamogga charging point
 
@@ -203,10 +207,11 @@ Morning coffee at Shivamogga charging point
 
 Breakfast with friends at Shivamogga courtesy Kariyappa
 
+
 ![](/data/images/travel/malnad_ultra_2024/41-breakfast_at_shivmoga_with_friends.jpg){:width="600px":height="400px"}
 
-Professor's Poori love 
 
+Professor's Poori love 
 ![](/data/images/travel/malnad_ultra_2024/42-01-poori_love.jpg){:width="600px":height="400px"}
 ![](/data/images/travel/malnad_ultra_2024/42-breakfast_shivmoga.jpg){:width="600px":height="400px"}
 

@@ -62,7 +62,9 @@ Happy to help!
 
 Cheers!
 
---------------------------------------------------------------------------------
+PS: Pic mostly clicked by me, Suresh and friends. I've used few pics clicked by official photographers.
+
+---------------------------------------------------------------------------------------------------
 Finally, here are some pictures from our trip. ( I, Suresh, Mey, Dr. Raju, KC):
 
 
@@ -77,7 +79,7 @@ Our road trip route
 Starting from home 
 
 
-![](/data/images/travel/malnad_ultra_2024/01-start_with_suresh.jpg){:width="600px":height="400px"}
+![](/data/images/travel/malnad_ultra_2024/01-start-with-suresh.jpg){:width="600px":height="400px"}
 
 
 Breakfast at Naychiyar Cafe, RR nagar before leaving 
@@ -112,6 +114,7 @@ Our before race day night ritual
 ![](/data/images/travel/malnad_ultra_2024/13-prep.jpg){:width="600px":height="400px"}
 
 **Day 2: Race day - Malnad**
+
 Parking lot - beautiful open area
 
 ![](/data/images/travel/malnad_ultra_2024/14-parking_lot.jpg){:width="600px":height="400px"}
@@ -173,13 +176,15 @@ Pic with Run Addicts group
 30K from 2022 and 50K from 2025, lets hope we get the last one (100K) in coming years...
 
 ![](/data/images/travel/malnad_ultra_2024/53-30K_50K_medal.jpg){:width="600px":height="400px"}
-**Day 3: Shivmoga**
 
-Morning coffee at Shivmoga charging point
+**Day 3: Shivamogga - Meeting friends and sightseeing**
+
+Morning coffee at Shivamogga charging point
 
 ![](/data/images/travel/malnad_ultra_2024/41-01-morning_coffee_shivmoga.jpg){:width="600px":height="400px"}
 
-Breakfast with friends at Shivmoga 
+Breakfast with friends at Shivamogga courtesy Kariyappa
+
 ![](/data/images/travel/malnad_ultra_2024/41-breakfast_at_shivmoga_with_friends.jpg){:width="600px":height="400px"}
 
 Professor's Poori love 
@@ -193,8 +198,14 @@ Visit to Elephant camp
 ![](/data/images/travel/malnad_ultra_2024/44-elephant_camp_visit2.jpg){:width="600px":height="400px"}
 ![](/data/images/travel/malnad_ultra_2024/45-elephant_camp_visit3.jpg){:width="600px":height="400px"}
 ![](/data/images/travel/malnad_ultra_2024/45-elephant_camp_visit4.jpg){:width="600px":height="400px"}
+
+Our camera savvy Doc
+
 ![](/data/images/travel/malnad_ultra_2024/46-elephant_camp_visit5.jpg){:width="600px":height="400px"}
 ![](/data/images/travel/malnad_ultra_2024/47-elephant_camp_visit6.jpg){:width="600px":height="400px"}
+
+KGF gang 
+
 ![](/data/images/travel/malnad_ultra_2024/48-elephant_camp_visit7.jpg){:width="600px":height="400px"}
 
 Evolution of Elephant -- Amazing history

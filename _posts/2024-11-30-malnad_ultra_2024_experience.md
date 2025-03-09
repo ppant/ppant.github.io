@@ -1,5 +1,5 @@
 ---
-title: 'Malnad Ultra 2024 Run diary'
+title: 'Malnad Ultra 2024 Run Diary'
 date: 2024-11-30
 author: Pradeep Pant
 layout: post
@@ -8,64 +8,68 @@ categories: Running
 
 **Location:** [Malnad, Western Ghats, Southern India](https://en.wikipedia.org/wiki/Malenadu)
 
-**Elevation:** Approx. 800 mt.–1500 mt. Elevation gain: +1710 mt; Elevation loss: -1710 mt
+**Elevation:** Approx. 800 m – 1500 m | Elevation gain: +1710 m | Elevation loss: -1710 m
 
 **Distance:** 50KM [Strava link](https://www.strava.com/activities/12965841789)
 
 **Date:** November 23, 2024
 
-[Malnad Ultra 2024](https://malnadultra.com/) is a trail run certified by [ITRA](https://itra.run/Races/RaceDetails/Malnad.Ultra.50K/2024/89101) and a UTMB Index Race. My second 50K trail run after [Bison ultra 2023](/running/bison_ultra_2023_race_report/). I already had a expereince running in Malnad hills, we did a 30K in 2022. You can check our experiences [here]([here](/running/malnad_ultra_2022_experience/)
+[Malnad Ultra 2024](https://malnadultra.com/) is an ITRA-certified trail run and a UTMB Index Race. This was my second 50K trail run following the [Bison Ultra 2023](/running/bison_ultra_2023_race_report/). Having previously run a 30K in the Malnad hills in 2022, I had some experience with the terrain. You can read my blog [here](/running/malnad_ultra_2022_experience/).
 
-To prepare for it, I just followed my daily workout, i.e., a mix of cycling, running, and strength workouts. 
+For preparation, I stuck to my usual workout routine, which includes cycling, running, and strength training.
 
-
-**Stay:**
-This time we were bigger group so stayed homestay close to road going towards starting point, few things to mention about the place and overall stay.
+**Stay:**  
+Since we had a larger group this time, we chose a homestay near the road leading to the starting point. Here are some important notes about the stay:  
 <ol>
-<li>There is no network (only limited BSNL), so make sure you inform your family and friends from the main road or car parking.</li>
-<li>Because of the location and limited transport facilities, please make sure that you carry basic essentials like medicines, snacks, etc., as there is no market and unplanned stepping out is not possible.</li>
-<li>Room service is limited, so it is better to follow the food times that they serve in the common area.</li>
-<li>The food is excellent, home made both vegetarian and non-vegetarian. </li>
+<li>There’s very limited mobile network (only some BSNL coverage), so it’s advisable to inform family and friends when you're near the main road or car park.</li>
+<li>Due to the remote location and limited transport options, carry essential items like medicines, snacks, and other necessities since stepping out unexpectedly may not be feasible.</li>
+<li>Room service is limited, so it’s best to adhere to the scheduled meal times in the common area.</li>
+<li>The food was fantastic — home-cooked, with both vegetarian and non-vegetarian options.</li>
 </ol>
 
-**Improvement areas:**
+**Areas for Improvement:**  
 <ul>
-<li>More cleaning of rooms, bathrooms etc.</li>
-<li>Electric Kettle in rooms for tea, coffee, or warm water</li>
+<li>More frequent room and bathroom cleaning would enhance the experience.</li>
+<li>An electric kettle in the rooms for tea, coffee, or warm water would be a useful addition.</li>
 </ul>
 
-**Event:** The start point was a remote place with a single-lane forest road that was fully packed early in the morning. The organizers have done good work with allocating good parking spaces and the overall event. We'd reached the venue around 6 a.m. and had some light breakfast. One of the challenges was not having enough toilets to accommodate so many runners, so it was only given to female runners. But anyway, it was a dense forest, and this is all part of the experience. The run started on time; I think at 6:30 a.m., and we just had a light breakfast. The first 2-3 kilometers were downhill, but the last 5–6 kilometers were a steep climb. The first hydration was around that point; the views were superb, and it was a mix of running and walking. The last 8–9 km were downhill, but the sun was also there. There were enough hydration points, first aid kiosks, etc. Kudos to Coach Anand and his team for all the arrangements in such a remote area. We met many runners from different parts of the country and abroad.
-This time we all (I, Suresh and Mey) did 50K. Dr. raju and KC did 10K+ walk.
+**Event:**  
+The starting point was a remote area accessed via a narrow forest road that became quite busy early in the morning. Kudos to the organizers for ensuring efficient parking arrangements and overall event management. We arrived around 6 a.m. and had a light breakfast.  
 
-Overall, it was a good run, and we were all able to finish well within the given time. As usual, we took loads of pictures :-)
+One challenge was the limited availability of toilets — these were reserved for female runners due to the shortage. Given the remote forest setting, this was understandable and part of the overall experience. The race began promptly at 6:30 a.m.  
 
+The first 2-3 kilometers featured a downhill stretch, while the final 5-6 kilometers were a steep uphill climb. The first hydration point was around this stage, where the views were absolutely stunning. The last 8-9 kilometers were downhill, though the rising sun added some challenge.  
 
-**Final thoughts:**
-Malnad Ultra is an absolutely wonderful experience. The beauty of the place, route, and overall crowd make it a very special run. A few things one may consider:
+Hydration points, first-aid stations, and other support facilities were well-managed throughout the route. Special thanks to Coach Anand and his team for coordinating everything so efficiently in this remote area. We encountered runners from across India and abroad, adding to the event's vibrant atmosphere.  
+
+This time, our entire group — myself, Suresh, and Mey — completed the 50K run, while Dr. Raju and KC participated in the 10K+ walk.  
+
+Overall, the run went smoothly, and we successfully finished within the designated time. As always, we captured plenty of memorable moments with photos. :-)
+
+**Final Thoughts:**  
+The Malnad Ultra is truly a remarkable experience. The breathtaking scenery, challenging trails, and wonderful community of runners make it an unforgettable event. Here are some key tips for anyone planning to participate:
 
 <ul>
-<li>Try to book your stay closer to the start point, though there will not be many. </li>
-<li>Make sure that you run with someone or find someone to run with at your pace. </li>
-<li>Carry some extra clothes, sandals, snacks, chargers, etc. in your car. Mobile networks are also a problem, so it is better to keep a spare basic phone with a different network SIM, preferably BSNL. </li>
-<li>Traveling in a group will be much more enjoyable and safe! </li>
+<li>Try to book your accommodation close to the starting point, though options may be limited.</li>
+<li>It’s best to run with a partner or find someone maintaining a similar pace.</li>
+<li>Carry essentials like extra clothes, sandals, snacks, and chargers in your vehicle. Given the poor mobile network, a backup phone with a BSNL SIM can be handy.</li>
+<li>Traveling in a group enhances the experience and adds an extra layer of safety.</li>
 </ul>
 
-This was a brief overview of our Malnad trip. I hope to revisit it in 2025/2026 may be for 100K...
+This was a quick glimpse into our Malnad Ultra experience. I'm hoping to return in 2025/2026 — maybe for the 100K challenge!  
 
+Feel free to reach out at [pp@pradeeppant.com](mailto:pp@pradeeppant.com) or drop a comment if you’d like to share your own experiences or need tips and advice.  
 
-Feel free to write in at [pp@pradeeppant.com](mailto:pp@pradeeppant.com) or comment here in case you wish to share your own experiences or need more info or advice.
+Happy running!  
 
+Cheers!  
 
-
-Happy to help!
-
-
-Cheers!
-
-PS: Pic mostly clicked by me, Suresh and friends. I've used few pics clicked by official photographers.
+PS: Most of the pictures were taken by me, Suresh, and our friends. Some are from the official event photographers.  
 
 ---------------------------------------------------------------------------------------------------
-Finally, here are some pictures from our trip. ( I, Suresh, Mey, Dr. Raju, KC):
+
+Here are some pictures from our trip (featuring I, Suresh, Mey, Dr. Raju, and KC):
+
 
 
 **Day 1: Bengaluru - Malnad**

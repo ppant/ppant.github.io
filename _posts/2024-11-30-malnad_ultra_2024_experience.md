@@ -38,7 +38,7 @@ The starting point was a remote area accessed via a narrow forest road that beca
 
 One challenge was the limited availability of toilets — these were reserved for female runners due to the shortage. Given the remote forest setting, this was understandable and part of the overall experience. The race began promptly at 6:30 a.m.  
 
-The first 2-3 kilometers featured a downhill stretch, while the final 5-6 kilometers were a steep uphill climb. The first hydration point was around this stage, where the views were absolutely stunning. The last 8-9 kilometers were downhill, though the rising sun added some challenge.  
+The first 2-3 kilometers featured a downhill stretch, then steep uphill climb. The first hydration point was around this stage, where the views were absolutely stunning. The last 8-9 kilometers were downhill, though the rising sun added some challenge.  
 
 Hydration points, first-aid stations, and other support facilities were well-managed throughout the route. Special thanks to Coach Anand and his team for coordinating everything so efficiently in this remote area. We encountered runners from across India and abroad, adding to the event's vibrant atmosphere.  
 
@@ -128,6 +128,12 @@ Quick breafast and coefee before we start
 
 ![](/data/images/travel/malnad_ultra_2024/16-quick_coffee_morning.jpg){:width="600px":height="400px"}
 ![](/data/images/travel/malnad_ultra_2024/17-ready_to_start.jpg){:width="600px":height="400px"}
+
+
+[Race course ](https://itra.run/Races/RaceCourse/Malnad.Ultra.50K/2024/89101)
+
+![](/data/images/travel/malnad_ultra_2024/53-malnad_50k_race_route.png){:width="600px":height="400px"}:
+
 
 Beautiful route 
 

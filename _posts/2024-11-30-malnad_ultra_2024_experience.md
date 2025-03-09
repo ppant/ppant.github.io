@@ -38,7 +38,7 @@ The starting point was a remote area accessed via a narrow forest road that beca
 
 One challenge was the limited availability of toilets — these were reserved for female runners due to the shortage. Given the remote forest setting, this was understandable and part of the overall experience. The race began promptly at 6:30 a.m.  
 
-The first 2-3 kilometers featured a downhill stretch, then steep uphill climb. The first hydration point was around this stage, where the views were absolutely stunning. The last 8-9 kilometers were downhill, though the rising sun added some challenge.  
+The first 2-3 kilometers featured a downhill stretch, then steep uphill climb. The first hydration point was around this stage, where the views were absolutely stunning. The last 8-9 kilometers were downhill.  
 
 Hydration points, first-aid stations, and other support facilities were well-managed throughout the route. Special thanks to Coach Anand and his team for coordinating everything so efficiently in this remote area. We encountered runners from across India and abroad, adding to the event's vibrant atmosphere.  
 
@@ -82,7 +82,6 @@ Our road trip route
 
 Starting from home 
 
-
 ![](/data/images/travel/malnad_ultra_2024/01-start-with-suresh.jpg){:width="600px":height="400px"}
 
 
@@ -116,6 +115,7 @@ Always delight to meet fellow runners at Bib collection
 Our before race day night ritual
 
 ![](/data/images/travel/malnad_ultra_2024/13-prep.jpg){:width="600px":height="400px"}
+
 
 **Day 2: Race day - Malnad**
 

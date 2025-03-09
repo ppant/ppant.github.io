@@ -150,7 +150,7 @@ Beautiful route
 ![](/data/images/travel/malnad_ultra_2024/20-group.jpg){:width="600px":height="400px"}
 ![](/data/images/travel/malnad_ultra_2024/21-loving_trails.jpg){:width="600px":height="400px"}
 
-Mey with his pole support
+Mey and his poles :-)
 
 ![](/data/images/travel/malnad_ultra_2024/22-mey_with_his_pole.jpg){:width="600px":height="400px"}
 ![](/data/images/travel/malnad_ultra_2024/23-on_trails.jpg){:width="600px":height="400px"}
@@ -158,7 +158,7 @@ Mey with his pole support
 ![](/data/images/travel/malnad_ultra_2024/25-sun_and_heat.jpg){:width="600px":height="400px"}
 ![](/data/images/travel/malnad_ultra_2024/26-trail_route.jpg){:width="600px":height="400px"}
 
-Me and Suresh, most of the time we were together during course which is great blessing 
+Me and Suresh, most of the time we were together during course
 
 ![](/data/images/travel/malnad_ultra_2024/27-with_suresh_enroute.jpg){:width="600px":height="400px"}
 ![](/data/images/travel/malnad_ultra_2024/28-with_suresh_on_trails.jpg){:width="600px":height="400px"}

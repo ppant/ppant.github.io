@@ -3,7 +3,7 @@ title: 'Process mining explained'
 date: 2022-08-27
 author: Pradeep Pant
 layout: post
-categories: Tech
+category: Tech
 ---
 
 In this post we'll dig deep into process mining. You can read my [last](/tech/2022/07/02/business_process_and_process_mining.html) post on data mining and process mining.

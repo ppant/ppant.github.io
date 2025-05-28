@@ -3,7 +3,7 @@ title: 'Ooty Ultra 2023 Run diary'
 date: 2023-04-15
 author: Pradeep Pant
 layout: post
-categories: Running
+category: Fitness
 ---
 
 **Location:** Ooty, Nilgiris, India
@@ -205,12 +205,3 @@ Finish line medal
 After run effect :-)
 
 ![](/data/images/travel/ooty_ultra_2023/after_run_effect.jpg){:width="400px":height="300px"}
-
-
-
-
-
-
-
-
-

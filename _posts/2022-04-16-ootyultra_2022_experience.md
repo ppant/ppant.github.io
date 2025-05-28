@@ -3,7 +3,7 @@ title: 'Ooty Ultra 2022 Run diary'
 date: 2022-04-16
 author: Pradeep Pant
 layout: post
-categories: Running
+category: Fitness
 ---
 
 **Location:** Ooty, Nilgiris, India
@@ -207,4 +207,3 @@ Happy to help!
 
 
 Cheers!
-

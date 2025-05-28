@@ -3,7 +3,7 @@ title: 'Malnad Ultra 2022 Run diary'
 date: 2022-12-10
 author: Pradeep Pant
 layout: post
-categories: Running
+category: Fitness
 ---
 
 **Location:** [Malnad, Western Ghats, Southern India](https://en.wikipedia.org/wiki/Malenadu)
@@ -209,6 +209,3 @@ Relax evening at Jhari post-run
 ![](/data/images/travel/malnad_ultra_2022/jhari_waterfall.jpg){:width="400px":height="300px"}
 ![](/data/images/travel/malnad_ultra_2022/jhari_waterfall.jpg){:width="400px":height="300px"}
 ![](/data/images/travel/malnad_ultra_2022/jhari_waterfall_grp.jpg){:width="400px":height="300px"}
-
-
-

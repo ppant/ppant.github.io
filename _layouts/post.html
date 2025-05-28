@@ -7,15 +7,6 @@ layout: default
   >{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if
   page.meta %} • {{ page.meta }}{% endif %}</time>
 
-{% if page.categories %}
-<div class="post-categories">
-  Categories:
-  {% for category in page.categories %}
-    <a href="{{ site.baseurl }}/category/{{ category | slugify }}/">{{ category }}</a>{% unless forloop.last %}, {% endunless %}
-  {% endfor %}
-</div>
-{% endif %}
-
 {{ content }}
 
 {% if site.disqus.shortname %}

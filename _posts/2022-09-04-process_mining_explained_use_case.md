@@ -3,7 +3,7 @@ title: 'Process Mining: how to find a right use case'
 date: 2022-09-04
 author: Pradeep Pant
 layout: post
-categories: Tech
+category: Tech
 ---
 
 In this post, we'll try to explore how to find the right use case for process mining. If you are new to Process Mining, you may read my [last](/tech/2022/08/27/process_mining_explained.html) post on Process Mining.

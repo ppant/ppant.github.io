@@ -3,7 +3,7 @@ title: 'Malnad Ultra 2024 Run Diary'
 date: 2024-11-30
 author: Pradeep Pant
 layout: post
-categories: Running
+category: Fitness
 ---
 
 **Location:** [Malnad, Western Ghats, Southern India](https://en.wikipedia.org/wiki/Malenadu)
@@ -235,6 +235,3 @@ Evolution of Elephant -- Amazing history
 
 ![](/data/images/travel/malnad_ultra_2024/49-elephant_evolution.jpg){:width="600px":height="400px"}
 ![](/data/images/travel/malnad_ultra_2024/50-elephant_solo.jpg){:width="600px":height="400px"}
-
-
-

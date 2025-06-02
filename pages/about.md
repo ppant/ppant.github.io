@@ -6,15 +6,20 @@ permalink: /about/
 
 ![IMG_1573_small.jpg](..\data\images\IMG_1573_small.jpg)
 
-Hello Guest, <br>	
-Welcome! My name is Pradeep Pant (प्रदीप पन्त) native of the mountains of lower [Himalaya (हिमालय)](http://en.wikipedia.org/wiki/Himalayas). <br>
-I started this blog way back in the Autumn of 2007 to document and share my thoughts on the tech landscape. By profession, I am a Software Engineer and Researcher, writing computer programs for more than 2 decades. I love solving problems and believe that programming has the great power to transform human imagination into reality in a very short time. Well, I might not be the best engineer but I do constantly try my best to learn new things. Apart from this, I have various interests like running, cycling, reading, meditation, nature photography, and trekking.
+Hello Guest,
 
-Thanks for visiting.
+Welcome! My name is Pradeep Pant (प्रदीप पन्त), a proud native of the majestic lower [Himalaya (हिमालय)](http://en.wikipedia.org/wiki/Himalayas). 
 
-For any suggestions/collaboration you can email me at: <a href="mailto:pp@pradeeppant.com">pp@pradeeppant.com</a>
-  
-You can also connect through social platforms:
+I began this blog in the autumn of 2007 to chronicle my journey and share thoughts on the ever-evolving world of technology. By profession, I am a Software Engineer and Researcher with over two decades of experience in building software solutions. My passion lies in solving problems and I believe that programming is a remarkable tool capable of turning human imagination into reality at astonishing speed. I am dedicated to lifelong learning and explorartion.
+
+Beyond technology, I am an ultra runner, cyclist, meditation enthusiast, nature photographer. Each of these passions fuels my creativity and curiosity, both in work and life.
+
+Thank you for stopping by!
+
+If you have suggestions or would like to collaborate, feel free to email me at: <a href="mailto:pp@pradeeppant.com">pp@pradeeppant.com</a>
+
+You can also connect with me on:
+
   
 <span><a href=""></a>&nbsp;&nbsp;
 [LinkedIn](https://www.linkedin.com/in/ppant) <a href="https://www.linkedin.com/in/ppant"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg></a>

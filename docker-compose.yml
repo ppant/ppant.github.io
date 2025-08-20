@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  jekyll:
+    image: ruby:3.1
+    working_dir: /srv/jekyll
+    command: bash -c "bundle install && bundle exec jekyll serve --watch --force_polling --host 0.0.0.0"
+    ports:
+      - "4000:4000"
+    volumes:
+      - .:/srv/jekyll

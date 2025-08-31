@@ -28,6 +28,8 @@ You can also connect with me on:
 &nbsp;&nbsp;
 [YouTube](https://www.youtube.com/channel/UCtCByNwAkGqa4zWRk9yw-TQ) 
 &nbsp;&nbsp;
+[Instagram](https://www.instagram.com/pradeepkpant/) 
+&nbsp;&nbsp;
 <span>[Medium](https://medium.com/@ppant)</span>
 
 <!-- 

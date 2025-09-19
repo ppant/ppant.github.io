@@ -4,7 +4,7 @@ title: About
 ---
 
 ## Pradeep Pant  
-**Software Architect | AI/ML & Generative AI Expert | Researcher | Open Source Contributor**
+**Software Architect | AI/ML & Generative AI Engineer | Researcher | Open Source Contributor**
 
 > Solving complex problems at the intersection of software engineering and AI, with 20+ years of experience driving innovation, mentoring teams, and building scalable solutions.
 

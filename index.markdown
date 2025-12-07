@@ -3,8 +3,8 @@ layout: default
 title: About
 ---
 
-## Pradeep Pant  
-**AI/ML Engineer | Software Architect | Researcher | Open Source Contributor**
+## Pradeep K. Pant  
+**AI/ML Engineer | Software Architect | Technology Leader | Researcher | Open Source Contributor**
 
 > Solving complex problems at the intersection of software engineering and AI, with 20+ years of experience driving innovation, mentoring teams, and building scalable solutions.
 
@@ -20,8 +20,8 @@ Welcome! My name is **Pradeep Pant (प्रदीप पन्त)**, a proud 
 
 ## Areas of Expertise
 
-- **AI/ML & Generative AI** – LLMs, RAG pipelines, Prompt Engineering, Data Mining, Deep Learning, Time-Series Forecasting  
-- **Cloud & MLOps** – AWS, Azure ML, GCP, CI/CD, Docker, Kubernetes, MLFlow  
+- **AI/ML & Generative AI** – LLMs, RAG pipelines, MCP, Prompt Engineering, Data Mining, Deep Learning, Time-Series Forecasting  
+- **Cloud & MLOps** – AWS, Azure ML, GCP, Databricks, CI/CD, Docker, Kubernetes, MLFlow  
 - **Software Architecture & Development** – C, Perl, Python, SQL, NoSQL, Microservices, REST APIs, Data Engineering  
 - **Research & Innovation** – Process Mining, Optimization Algorithms, Pattern Recognition
 - **Community Engagement** – Open-source contributions, technical writing, mentoring, workshops

@@ -6,3 +6,5 @@ vendor
 node_modules
 .lock
 wp-content
+.DS_Store
+data/images/travel/running_diary_2025/.DS_Store

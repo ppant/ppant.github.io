@@ -18,6 +18,14 @@ Welcome! My name is **Pradeep Pant (प्रदीप पन्त)**, a proud 
 
 ---
 
+## 🎓 Education
+
+- **Ph.D. in Process Mining and Machine Learning** — IIIT Allahabad *(in progress, expected 2026)*
+- **M.Tech in Computer Science** — Birla Institute of Technology, Mesra, Ranchi *(2004)*
+- **M.Sc. in Physics (Electronics Specialization)** — Kumaun University, Nainital *(1997)*
+
+
+
 ## Areas of Expertise
 
 - **AI/ML & Generative AI** – Data Mining, Machine Learning, Deep Learning, LLMs, RAG pipelines, MCP, Prompt Engineering, Time-Series Forecasting  

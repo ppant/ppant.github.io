@@ -61,6 +61,6 @@ Outside of work, I’m deeply interested in trail running and endurance sports. 
 
 ## Let’s Connect!
 
-I’m always open to collaborations, discussions on emerging technologies, or mentoring opportunities. Feel free to explore my [GitHub](https://github.com/ppant), read my [Blog](https://pradeeppant.com/blog), connect on [LinkedIn](https://www.linkedin.com/in/ppant/), or reach out to me directly at <a href="mailto:pp@pradeeppant.com">pp@pradeeppant.com</a>
+I’m always open to collaborations, discussions on emerging technologies, or mentoring opportunities. Feel free to explore my [GitHub](https://github.com/ppant), read my [Blog](https://pradeeppant.com/blog), connect on [LinkedIn](https://www.linkedin.com/in/ppant/), [Twitter/X](https://x.com/ppant) or reach out to me directly at <a href="mailto:pp@pradeeppant.com">pp@pradeeppant.com</a>
 
 ---

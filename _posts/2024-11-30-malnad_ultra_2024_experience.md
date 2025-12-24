@@ -3,7 +3,7 @@ title: 'Malnad Ultra 2024 Run Diary'
 date: 2024-11-30
 author: Pradeep Pant
 layout: post
-category: Fitness
+category: Running
 ---
 
 **Location:** [Malnad, Western Ghats, Southern India](https://en.wikipedia.org/wiki/Malenadu)

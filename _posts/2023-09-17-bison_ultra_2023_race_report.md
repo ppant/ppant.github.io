@@ -3,7 +3,7 @@ title: 'Bison Ultra 2023 Run diary'
 date: 2023-09-17
 author: Pradeep Pant
 layout: post
-category: Fitness
+category: Running
 ---
 
 **Location:** Yercaud hills, Tamil Nadu, India

@@ -3,9 +3,9 @@ title: "Nag Mandir Parikrma Run – A Community Initiative from the Himalayas"
 date: 2025-09-10
 author: Pradeep Pant
 layout: post
-categories: Running
+categories: Community Running
 ---
-![](/data/images/travel/nagdevta_run_2025/banner_mini_marathon.png){:width="800px":height="400px"}
+![](/data/images/travel/nagdevta_run_2025/banner_mini_marathon.png){: width="800px" height="500px"}
 
 ## Why This Run
 
@@ -18,7 +18,7 @@ Growing up in the hilly regions of Uttarakhand, opportunities for organised spor
 
 ## Nag Mandir – The Inspiration Behind the Run
 
-The **Nag Mandir** in Berinag is a temple dedicated to **Nage Devta**, the serpent deity traditionally worshipped across this region of the Kumaon Himalayas. For generations, the temple has been an important cultural and spiritual landmark for local communities, symbolising protection, respect for nature, and balance with the surrounding environment.
+The **Nag Mandir** in [Berinag](https://en.wikipedia.org/wiki/Berinag) is a temple dedicated to **Nage Devta**, the serpent deity traditionally worshipped across this region of the Kumaon Himalayas. For generations, the temple has been an important cultural and spiritual landmark for local communities, symbolising protection, respect for nature, and balance with the surrounding environment.
 
 Situated at an elevation of close to **2,000 metres**, Nag Mandir also served as the **start and finish point** of the Parikrma Run. Choosing this location was intentional — the run was designed not just as a physical activity, but as a symbolic loop around a place deeply rooted in local identity and tradition.
 
@@ -53,7 +53,7 @@ The event was organised with the support of **Nag Mandir Trust** and a small gro
 There was **no registration fee**, and participation was open to all.
 
 Several friends from the running community and personal well-wishers quietly supported the initiative through small contributions. This helped cover basic logistics and made it possible to organise the event without external sponsorships. I’m deeply grateful for that support.
-### Route map:
+### Route map
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 1.5rem 0;">
   <iframe
     src="https://www.google.com/maps/d/embed?mid=1BK9bksStU4cypN2528_eA_fVAEqTWas"
@@ -63,7 +63,10 @@ Several friends from the running community and personal well-wishers quietly sup
   </iframe>
 </div>
 
-### Our yougest runner of 66 years old Ashok Ji has travelled from Dehardun to motivate our youngs kids
+### Our Youngest-at-Heart Runner
+
+Ashok Ji (66 years young) travelled from Dehradun to participate and motivate local children — a powerful reminder that inspiration has no age limit.
+
 ![](/data/images/travel/nagdevta_run_2025/finisher_senior_citizen.jpeg){:width="800px":height="400px"}
 
 ---
@@ -76,7 +79,7 @@ The core objective of the Parikrma Run was to:
 - Promote a **healthy and disciplined lifestyle**
 - Strengthen a sense of **community participation**
 
-In regions like this, even a small event can have a lasting impression — especially on young minds.
+To encourage wider participation, we introduced **small prize awards across boys, girls, and other categories**, purely as a form of motivation and recognition. In addition, **every participant received a small token of appreciation** to help cover basic travel and food expenses — ensuring that participation remained accessible and inclusive. In remote regions like this, even a small event can leave a lasting impression — especially on young minds.
 
 ---
 
@@ -91,17 +94,36 @@ It was a reminder that not every meaningful run needs a bib or a finish line. So
 
 ---
 
-## Looking Ahead
+## Acknowledgements & Gratitude
 
-This was a modest beginning. With continued interest and support, similar community initiatives can be organised in the future — keeping the focus on inclusivity, health, and awareness.
+This initiative would not have been possible without the collective support of many individuals and groups.
 
-I plan to continue supporting such efforts whenever possible and hope this inspires others to do the same in their own communities.
+My sincere thanks to **Nag Mandir Trust** for providing the foundation and support to organise this event, and to the local volunteers who worked tirelessly on the ground.
+
+I am deeply grateful to the **schools and teachers** who encouraged and accompanied children to participate, making the run truly inclusive and community-driven.
+
+Several friends from the **running community and personal circles** generously contributed towards logistics and arrangements. Their quiet support played a crucial role in making the event successful.
+
+A special mention to **Race Director Lalit Pant** for his vision, planning, and continuous on-ground efforts — this run exists because of his commitment and perseverance.
+
+Thank you to everyone who participated, supported, and believed in this initiative.
+
+---
+
+## Looking Ahead – 25 September 2026
+
+Encouraged by the response and participation, we plan to organise the **next edition of the Nag Mandir Parikrma Run on 25 September 2026**.
+
+We hope to see wider participation from local communities, schools, and running enthusiasts, while continuing to keep the event simple, inclusive, and purpose-driven.
+
+More details will be shared closer to the date. We look forward to your support and participation.
 
 ---
 
 *If you’d like to know more about this initiative or support similar efforts in the future, feel free to reach out.*
 
-## Media Coverage:
+## Moments from the Run
+
 
 <video controls style="width:100%; max-width:800px; margin: 1.5rem 0;">
   <source src="/data/videos/nagdevta_parikrama_run_2025/nagdevta_parikrama_run_2025_video1.mp4" type="video/mp4">
@@ -114,8 +136,14 @@ I plan to continue supporting such efforts whenever possible and hope this inspi
 </video>
 
 <video controls style="width:100%; max-width:800px; margin: 1.5rem 0;">
-  <source src="/data/videos/nagdevta_parikrama_run_2025/nagdevta_parikrama_run_2025_video2.mp4" type="video/mp4">
+  <source src="/data/videos/nagdevta_parikrama_run_2025/nagdevta_parikrama_run_2025_video3.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KZFhTVp1cQM?si=3AlanXV12KoHrIl3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 1.5rem 0;">
+  <iframe
+    src="https://www.youtube.com/embed/KZFhTVp1cQM"
+    style="position: absolute; top:0; left:0; width:100%; height:100%; border:0;"
+    allowfullscreen>
+  </iframe>
+</div>

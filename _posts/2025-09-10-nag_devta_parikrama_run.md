@@ -6,6 +6,21 @@ layout: post
 categories: Community Running
 ---
 ![](/data/images/travel/nagdevta_run_2025/banner_mini_marathon.png){: width="800px" height="500px"}
+---
+
+## नाग मंदिर परिक्रमा दौड़
+
+नाग मंदिर परिक्रमा दौड़ केवल एक दौड़ नहीं थी, बल्कि समुदाय को एक साथ लाने का एक प्रयास था। इस आयोजन का उद्देश्य युवाओं को स्वस्थ जीवनशैली अपनाने के लिए प्रेरित करना, नशे से दूर रहने के प्रति जागरूकता बढ़ाना और फिटनेस को जीवन का हिस्सा बनाना था।
+
+यह दौड़ उत्तराखंड के पिथौरागढ़ ज़िले के बेरिनाग क्षेत्र में स्थित नाग मंदिर से शुरू होकर वहीं समाप्त हुई। लगभग 2000 मीटर की ऊँचाई पर स्थित यह मंदिर स्थानीय संस्कृति और आस्था का एक महत्वपूर्ण केंद्र है।
+
+इस आयोजन में बच्चों, युवाओं, बुज़ुर्गों और गाँव के लोगों ने उत्साहपूर्वक भाग लिया। किसी प्रकार की प्रतिस्पर्धा नहीं थी — केवल सहभागिता, प्रेरणा और सामूहिक अनुभव।
+
+नाग मंदिर ट्रस्ट, स्थानीय स्वयंसेवकों, शिक्षकों और सहयोगी मित्रों के सहयोग से यह पहल संभव हो सकी। प्रतिभागियों को प्रोत्साहन स्वरूप छोटे पुरस्कार और यात्रा-भोजन के लिए प्रतीकात्मक सहायता प्रदान की गई।
+
+आगामी वर्ष **25 सितंबर 2026** को इस आयोजन को पुनः आयोजित करने की योजना है।
+
+---
 
 ## Why This Run
 
@@ -53,7 +68,7 @@ The event was organised with the support of **Nag Mandir Trust** and a small gro
 There was **no registration fee**, and participation was open to all.
 
 Several friends from the running community and personal well-wishers quietly supported the initiative through small contributions. This helped cover basic logistics and made it possible to organise the event without external sponsorships. I’m deeply grateful for that support.
-### Route map
+### Route Map
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 1.5rem 0;">
   <iframe
     src="https://www.google.com/maps/d/embed?mid=1BK9bksStU4cypN2528_eA_fVAEqTWas"
@@ -122,8 +137,11 @@ More details will be shared closer to the date. We look forward to your support 
 
 *If you’d like to know more about this initiative or support similar efforts in the future, feel free to reach out.*
 
+---
+
 ## Moments from the Run
 
+Here are a few video highlights from the day — candid moments of participation, smiles, and community energy.
 
 <video controls style="width:100%; max-width:800px; margin: 1.5rem 0;">
   <source src="/data/videos/nagdevta_parikrama_run_2025/nagdevta_parikrama_run_2025_video1.mp4" type="video/mp4">

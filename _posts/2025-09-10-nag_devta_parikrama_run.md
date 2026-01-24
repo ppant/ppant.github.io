@@ -5,6 +5,7 @@ author: Pradeep Pant
 layout: post
 categories: Running
 ---
+![](/data/images/travel/nagdevta_run_2025/banner_mini_marathon.png){:width="800px":height="400px"}
 
 ## Why This Run
 
@@ -52,6 +53,18 @@ The event was organised with the support of **Nag Mandir Trust** and a small gro
 There was **no registration fee**, and participation was open to all.
 
 Several friends from the running community and personal well-wishers quietly supported the initiative through small contributions. This helped cover basic logistics and made it possible to organise the event without external sponsorships. I’m deeply grateful for that support.
+### Route map:
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 1.5rem 0;">
+  <iframe
+    src="https://www.google.com/maps/d/embed?mid=1BK9bksStU4cypN2528_eA_fVAEqTWas"
+    style="position: absolute; top:0; left:0; width:100%; height:100%; border:0;"
+    loading="lazy"
+    referrerpolicy="no-referrer-when-downgrade">
+  </iframe>
+</div>
+
+### Our yougest runner of 66 years old Ashok Ji has travelled from Dehardun to motivate our youngs kids
+![](/data/images/travel/nagdevta_run_2025/finisher_senior_citizen.jpeg){:width="800px":height="400px"}
 
 ---
 
@@ -88,6 +101,21 @@ I plan to continue supporting such efforts whenever possible and hope this inspi
 
 *If you’d like to know more about this initiative or support similar efforts in the future, feel free to reach out.*
 
-Coverage:
-2024 vlog: https://www.youtube.com/watch?v=
+## Media Coverage:
 
+<video controls style="width:100%; max-width:800px; margin: 1.5rem 0;">
+  <source src="/data/videos/nagdevta_parikrama_run_2025/nagdevta_parikrama_run_2025_video1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video controls style="width:100%; max-width:800px; margin: 1.5rem 0;">
+  <source src="/data/videos/nagdevta_parikrama_run_2025/nagdevta_parikrama_run_2025_video2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video controls style="width:100%; max-width:800px; margin: 1.5rem 0;">
+  <source src="/data/videos/nagdevta_parikrama_run_2025/nagdevta_parikrama_run_2025_video2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KZFhTVp1cQM?si=3AlanXV12KoHrIl3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -19,9 +19,11 @@ title: About
 
 ## About Me
 
-Welcome! My name is **Pradeep Pant (प्रदीप पन्त)**, a proud native of the majestic lower Himalaya (हिमालय). I began this blog in the autumn of 2007 to chronicle my journey and share thoughts on the ever-evolving world of technology. Over the years, it has become a space where I explore ideas, document experiences, and share knowledge with fellow enthusiasts.
+Welcome! My name is **Pradeep Pant (प्रदीप पन्त)**, a proud native of the majestic lower Himalayas (हिमालय) region. I began this blog in the autumn of 2007 to chronicle my journey and share thoughts on the ever-evolving world of technology. Over the years, it has grown into a space where I explore ideas, document experiences, and share learnings from both professional and personal pursuits.
 
-By profession, I am a **Software Architect and AI/ML practitioner** with over **20 years of experience** in building enterprise software solutions. I am passionate about solving complex problems and believe that programming is a powerful tool capable of turning imagination into reality at astonishing speed. My expertise spans **Programming, Machine Learning, Generative AI, and Software Design & Architecture**, and I am dedicated to continuous learning and exploration. Currently, I work as an **AI/ML & Generative AI Architect at LTIMindtree**, while pursuing a **PhD in Process Mining and Machine Learning at IIIT Allahabad**. My work includes designing scalable solutions, mentoring teams, contributing to open-source projects, and publishing research that bridges industry and academia. When I’m not coding or analysing algorithms, you’ll usually find me running ultramarathons, exploring nature, or sharing knowledge through my blog.
+I am a **Software Architect and AI/ML practitioner** with a deep interest in building systems that solve real-world problems. I enjoy working at the intersection of **software engineering, machine learning, and research**, and I believe programming is a powerful medium for turning ideas into reality. Curiosity, continuous learning, and thoughtful problem-solving shape how I approach my work.
+
+Alongside my professional interests, I am deeply passionate about **trail running and endurance sports**, and I actively participate in and organise community-driven initiatives. When I’m not working with code or research, you’ll usually find me running in the hills, exploring nature, or writing about my experiences here.
 
 ---
 
@@ -29,10 +31,24 @@ By profession, I am a **Software Architect and AI/ML practitioner** with over **
 
 - **Ph.D. in Process Mining and Machine Learning** — Indian Institute of Information Technology (IIIT Allahabad) *(in progress, expected 2026)*
 - **M.Tech in Computer Science** — Birla Institute of Technology (BIT), Mesra, Ranchi *(2004)*
-- **M.Sc. in Physics** — Kumaun University, Nainital *(1997)*
+- **M.Sc. in Physics (Electronics Specialization)** — Kumaun University, Nainital *(1997)*
 
 ---
+## 💼 Professional Journey
 
+My professional journey spans over **two decades** and reflects a gradual evolution from systems development and academia to enterprise software and AI/ML.
+
+After completing my **M.Sc. in Physics (Electronics Specialization)**, I worked during **1997–1999** in **systems development and technical consulting**, contributing to industry-oriented projects for small organisations and institutions. This phase involved hands-on work with **digital systems, microprocessors, embedded programming, and software development**, building a strong foundation in hardware–software integration and practical problem solving.
+
+From **1999 to 2005**, I was actively involved in **teaching and academic roles** at institutions such as **Birla Institute of Technology, Mesra**, **Birla Institute of Applied Sciences**, and **BITS Pilani**. During this period, I taught subjects including programming, electronics, digital design, microprocessors, and computer systems, while also mentoring students and supporting applied technical projects.
+
+In **2005**, I transitioned fully into the IT industry. Since then, I have worked across **enterprise software and product engineering roles**, including organisations such as **Xerox**, **Wokana Technologies**, and **Ockham**, contributing to large-scale systems, software architecture, and long-term product development for global clients.
+
+In recent years, my focus has shifted towards **AI/ML, Generative AI, and MLOps**, combining applied industry work with academic research. Alongside hands-on development, I actively **mentor engineers, support hiring and team building**, and work at the intersection of **research and production-grade AI systems**.
+
+I currently work as an **AI/ML & Generative AI Architect at LTIMindtree**, focusing on building scalable, production-grade AI systems for enterprise environments.
+
+---
 ## Areas of Expertise
 
 - **AI/ML & Generative AI** – Data Mining, Machine Learning, Deep Learning, LLMs, RAG pipelines, MCP, Prompt Engineering, Time Series Forecasting  

@@ -117,6 +117,9 @@ I’m always open to collaborations, discussions on emerging technologies, resea
 - ✉️ **[Email (direct contact)](mailto:pp@pradeeppant.com)**
 
 
+---
+📍 Based in **Bengaluru, India**
 
+*Last updated: January 2026*
 
 ---

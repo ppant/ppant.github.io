@@ -19,11 +19,11 @@ title: About
 
 ## About Me
 
-Welcome! My name is **Pradeep Pant (प्रदीप पन्त)**, a proud native of the majestic lower Himalayas (हिमालय) region. I began this blog in the autumn of 2007 to chronicle my journey and share thoughts on the ever-evolving world of technology. Over the years, it has grown into a space where I explore ideas, document experiences, and share learnings from both professional and personal pursuits.
+Welcome! My name is Pradeep Pant (प्रदीप पन्त), a proud native of the majestic lower Himalayas (हिमालय) region. I began this blog in the autumn of 2007 to chronicle my journey and share thoughts on the ever-evolving world of technology. Over the years, it has grown into a space where I explore ideas, document experiences, and share learnings from both professional and personal pursuits.
 
-I am a **Software Architect and AI/ML practitioner** with a deep interest in building systems that solve real-world problems. I enjoy working at the intersection of **software engineering, machine learning, and research**, and I believe programming is a powerful medium for turning ideas into reality. Curiosity, continuous learning, and thoughtful problem-solving shape how I approach my work.
+I am a Software Architect and AI/ML practitioner with a deep interest in building systems that solve real-world problems. I enjoy working at the intersection of software engineering, machine learning, and research, and I believe programming is a powerful medium for turning ideas into reality. Curiosity, continuous learning, and thoughtful problem-solving shape how I approach my work.
 
-Alongside my professional interests, I am deeply passionate about **trail running and endurance sports**, and I actively participate in and organise community-driven initiatives. When I’m not working with code or research, you’ll usually find me running in the hills, exploring nature, or writing about my experiences here.
+Alongside my professional interests, I am deeply passionate about trail running and endurance sports, and I actively participate in and organise community-driven initiatives. When I’m not working with code or research, you’ll usually find me running in the hills, exploring nature, or writing about my experiences here.
 
 ---
 
@@ -36,40 +36,40 @@ Alongside my professional interests, I am deeply passionate about **trail runnin
 ---
 ## 💼 Professional Journey
 
-My professional journey spans over **two decades** and reflects a gradual evolution from systems development and academia to enterprise software and AI/ML.
+My professional journey spans over two decades and reflects a gradual evolution from systems development and academia to enterprise software and AI/ML.
 
-After completing my **M.Sc. in Physics (Electronics Specialization)**, I worked during **1997–1999** in **systems development and technical consulting**, contributing to industry-oriented projects for small organisations and institutions. This phase involved hands-on work with **digital systems, microprocessors, embedded programming, and software development**, building a strong foundation in hardware–software integration and practical problem-solving.
+After completing my M.Sc. in Physics (Electronics Specialization), I worked during 1997–1999 in systems development and technical consulting, contributing to industry-oriented projects for small organisations and institutions. This phase involved hands-on work with digital systems, microprocessors, embedded programming, and software development, building a strong foundation in hardware–software integration and practical problem-solving.
 
-From **1999 to 2005**, I was actively involved in **teaching and academic roles** at institutions such as **Birla Institute of Technology, Mesra**, **Birla Institute of Applied Sciences**, and **BITS Pilani**. During this period, I taught subjects including programming, electronics, digital design, microprocessors, and computer systems, while also mentoring students and supporting applied technical projects.
+From 1999 to 2005, I was actively involved in teaching and academic roles at institutions such as Birla Institute of Technology, Mesra, Birla Institute of Applied Sciences, and BITS Pilani. During this period, I taught subjects including programming, electronics, digital design, microprocessors, and computer systems, while also mentoring students and supporting applied technical projects.
 
-In **2005**, I transitioned fully into the IT industry. Since then, I have worked across **enterprise software and product engineering roles**, including organisations such as **Xerox**, **Wokana Technologies**, and **Ockham**, contributing to large-scale systems, software architecture, and long-term product development for global clients.
+In 2005, I transitioned fully into the IT industry. Since then, I have worked across enterprise software and product engineering roles, including organisations such as Xerox, Wokana Technologies, and Ockham, contributing to large-scale systems, software architecture, and long-term product development for global clients.
 
-In recent years, my focus has shifted towards **AI/ML, Generative AI, and MLOps**, combining applied industry work with academic research. Alongside hands-on development, I actively **mentor engineers, support hiring and team building**, and work at the intersection of **research and production-grade AI systems**.
+In recent years, my focus has shifted towards AI/ML, Generative AI, and MLOps, combining applied industry work with academic research. Alongside hands-on development, I actively mentor engineers, support hiring and team building**, and work at the intersection of **research and production-grade AI systems.
 
-I currently work as an **AI/ML & Generative AI Architect at LTIMindtree**, focusing on building scalable, production-grade AI systems for enterprise environments.
+I currently work as an AI/ML & Generative AI Architect at LTIMindtree, focusing on building scalable, production-grade AI systems for enterprise environments.
 
 ---
 
 ## 🤝 How I Can Help
 
-With a background spanning **software engineering, AI/ML, MLOps, and applied research**, I work best at the intersection of **complex systems and real-world constraints**. I typically help organisations and teams in the following ways:
+With a background spanning software engineering, AI/ML, MLOps, and applied research, I work best at the intersection of complex systems and real-world constraints. I typically help organisations and teams in the following ways:
 
 - **Designing and scaling AI/ML systems**  
-  Helping teams move from experimentation to **robust, production-grade AI systems**, with a strong emphasis on reliability, observability, and long-term maintainability.
+  Helping teams move from experimentation to robust, production-grade AI systems, with a strong emphasis on reliability, observability, and long-term maintainability.
 
 - **End-to-end MLOps & time-series solutions**  
-  Building and improving pipelines for **time-series forecasting, monitoring, and model lifecycle management**, ensuring models remain accurate and trustworthy over time.
+  Building and improving pipelines for time-series forecasting, monitoring, and model lifecycle management, ensuring models remain accurate and trustworthy over time.
 
 - **Applied AI & Generative AI adoption**  
-  Guiding the practical use of **ML, Generative AI, and LLM-based systems** in enterprise environments—focusing on value creation rather than hype.
+  Guiding the practical use of ML, Generative AI, and LLM-based systems in enterprise environments—focusing on value creation rather than hype.
 
 - **Research-to-industry translation**  
-  Bridging **academic research and industry practice**, particularly in areas such as **process mining, concept drift, and explainability**, and turning research ideas into deployable solutions.
+  Bridging academic research and industry practice, particularly in areas such as process mining, concept drift, and explainability, and turning research ideas into deployable solutions.
 
 - **Technical leadership & mentoring**  
-  Supporting **team building, mentoring engineers and data scientists**, and helping organisations strengthen their technical culture and decision-making.
+  Supporting team building, mentoring engineers and data scientists, and helping organisations strengthen their technical culture and decision-making.
 
-I enjoy working with teams that value **clarity, fundamentals, and thoughtful engineering**, whether the goal is to build new capabilities, improve existing systems, or explore research-driven innovation.
+I enjoy working with teams that value clarity, fundamentals, and thoughtful engineering, whether the goal is to build new capabilities, improve existing systems, or explore research-driven innovation.
 
 ---
 ## Areas of Expertise
@@ -108,17 +108,17 @@ Outside of work, I’m deeply interested in trail running, endurance sports, and
 
 I’m always open to collaborations, discussions on emerging technologies, research, or mentoring opportunities. You can find me here:
 
-- 💼 **[LinkedIn (professional network)](https://www.linkedin.com/in/ppant/)**
-- 💻 **[GitHub (projects & code)](https://github.com/ppant)**
-- 📝 **[Blog (articles & experiences)](https://pradeeppant.com/blog)**
-- 📸 **[Instagram (photos & stories)](https://www.instagram.com/pradeepkpant/)**
-- 🐦 **[Twitter/X (quick updates)](https://x.com/ppant)**
-- ❓ **[Quora (thoughtful answers)](https://www.quora.com/profile/Pradeep-K-Pant)**
-- ✉️ **[Email (direct contact)](mailto:pp@pradeeppant.com)**
+- 💼 [LinkedIn (professional network)](https://www.linkedin.com/in/ppant/)
+- 💻 [GitHub (projects & code)](https://github.com/ppant)
+- 📝 [Blog (articles & experiences)](https://pradeeppant.com/blog)
+- 📸 [Instagram (photos & stories)](https://www.instagram.com/pradeepkpant/)
+- 🐦 [Twitter/X (quick updates)](https://x.com/ppant)
+- ❓ [Quora (thoughtful answers)](https://www.quora.com/profile/Pradeep-K-Pant)
+- ✉️ [Email (direct contact)](mailto:pp@pradeeppant.com)
 
 
 ---
-📍 Based in **Bengaluru, India**
+📍 Based in Bengaluru, India
 
 *Last updated: January 2026*
 

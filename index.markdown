@@ -44,7 +44,7 @@ From 1999 to 2005, I was actively involved in teaching and academic roles at ins
 
 In 2005, I transitioned fully into the IT industry. Since then, I have worked across enterprise software and product engineering roles, including organisations such as Xerox, Wokana Technologies, and Ockham, contributing to large-scale systems, software architecture, and long-term product development for global clients.
 
-In recent years, my focus has shifted towards AI/ML, Generative AI, and MLOps, combining applied industry work with academic research. Alongside hands-on development, I actively mentor engineers, support hiring and team building**, and work at the intersection of **research and production-grade AI systems.
+In recent years, my focus has shifted towards AI/ML, Generative AI, and MLOps, combining applied industry work with academic research. Alongside hands-on development, I actively mentor engineers, support hiring and team building, and work at the intersection of research and production-grade AI systems.
 
 I currently work as an AI/ML & Generative AI Architect at LTIMindtree, focusing on building scalable, production-grade AI systems for enterprise environments.
 

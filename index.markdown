@@ -38,15 +38,15 @@ Alongside my professional interests, I am deeply passionate about trail running 
 
 My professional journey spans over two decades and reflects a gradual evolution from systems development and academia to enterprise software and AI/ML.
 
-After completing my M.Sc. in Physics (Electronics Specialization), I worked during 1997–1999 in systems development and technical consulting, contributing to industry-oriented projects for small organisations and institutions. This phase involved hands-on work with digital systems, microprocessors, embedded programming, and software development, building a strong foundation in hardware–software integration and practical problem-solving.
+After completing my M.Sc. in Physics (Electronics Specialization), I worked during 1997–1999 in systems development and technical consulting, contributing to industry oriented projects for small organisations and institutions. This phase involved hands-on work with digital systems, microprocessors, embedded programming, and software development, building a strong foundation in hardware software integration and practical problem-solving.
 
 From 1999 to 2005, I was actively involved in teaching and academic roles at institutions such as Birla Institute of Technology, Mesra, Birla Institute of Applied Sciences, and BITS Pilani. During this period, I taught subjects including programming, electronics, digital design, microprocessors, and computer systems, while also mentoring students and supporting applied technical projects.
 
-In 2005, I transitioned fully into the IT industry. Since then, I have worked across enterprise software and product engineering roles, including organisations such as Xerox, Wokana Technologies, and Ockham, contributing to large-scale systems, software architecture, and long-term product development for global clients.
+In 2005, I transitioned fully into the IT industry. Since then, I have worked across enterprise software and product engineering roles, including organisations such as Xerox Inc, Wokana Technologies, and Ockham BV, contributing to large-scale systems, software architecture, and long-term product development for global companies.
 
-In recent years, my focus has shifted towards AI/ML, Generative AI, and MLOps, combining applied industry work with academic research. Alongside hands-on development, I actively mentor engineers, support hiring and team building, and work at the intersection of research and production-grade AI systems.
+In recent years, my focus has shifted towards AI/ML, Generative AI, and MLOps, combining applied industry work with academic research. Alongside hands-on development, I actively mentor engineers, support hiring and team building, and work at the intersection of research and production grade AI systems.
 
-I currently work as an AI/ML & Generative AI Architect at LTIMindtree, focusing on building scalable, production-grade AI systems for enterprise environments.
+I currently work as an AI/ML & Generative AI Architect at LTIMindtree, focusing on building scalable, production grade AI systems for enterprise environments.
 
 ---
 
@@ -61,7 +61,7 @@ With a background spanning software engineering, AI/ML, MLOps, and applied resea
   Building and improving pipelines for time-series forecasting, monitoring, and model lifecycle management, ensuring models remain accurate and trustworthy over time.
 
 - **Applied AI & Generative AI adoption**  
-  Guiding the practical use of ML, Generative AI, and LLM-based systems in enterprise environments—focusing on value creation rather than hype.
+  Guiding the practical use of ML, Generative AI, and LLM-based systems in enterprise environments focusing on value creation rather than hype.
 
 - **Research-to-industry translation**  
   Bridging academic research and industry practice, particularly in areas such as process mining, concept drift, and explainability, and turning research ideas into deployable solutions.
@@ -94,7 +94,7 @@ I enjoy working with teams that value clarity, fundamentals, and thoughtful engi
 
 ## 🏃‍♂️ Beyond Tech
 
-Outside of work, I’m deeply interested in trail running, endurance sports, and community-driven fitness initiatives. I document my running journeys, travel, and learnings on my blog.
+Outside of work, I’m deeply interested in trail running, endurance sports, and community driven fitness initiatives. I document my running journeys, travel, and learnings on my blog.
 
 **Latest Highlights:**  
 👉 [2025 Race Diary – Five Runs, One Journey](/running/run_diary_2025/)  

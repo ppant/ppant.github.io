@@ -112,8 +112,9 @@ I’m always open to collaborations, discussions on emerging technologies, resea
 - 💻 [GitHub (projects & code)](https://github.com/ppant)
 - 📝 [Blog (articles & experiences)](https://pradeeppant.com/blog)
 - 📸 [Instagram (photos & stories)](https://www.instagram.com/pradeepkpant/)
+- 📸 [Tumblr Project 365 photo blog - archive (2012-2018)](https://ppant.tumblr.com/)   
 - 🐦 [Twitter/X (quick updates)](https://x.com/ppant)
-- ❓ [Quora (thoughtful answers)](https://www.quora.com/profile/Pradeep-K-Pant)
+- 📝 [Quora (thoughtful answers)](https://www.quora.com/profile/Pradeep-K-Pant)
 - ✉️ [Email (direct contact)](mailto:pp@pradeeppant.com)
 
 

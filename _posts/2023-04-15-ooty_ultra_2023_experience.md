@@ -3,7 +3,7 @@ title: 'Ooty Ultra 2023 Run diary'
 date: 2023-04-15
 author: Pradeep Pant
 layout: post
-category: Running
+categories: [fitness, running]
 ---
 
 **Location:** Ooty, Nilgiris, India

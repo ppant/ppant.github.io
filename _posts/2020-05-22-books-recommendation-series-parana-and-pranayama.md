@@ -3,6 +3,7 @@ title: 'Books recommendation series: Prana and Pranayama'
 date: 2020-05-17T16:24:27+05:30
 author: Pradeep Pant
 layout: post
+categories: [life, books]
 ---
 Book 
 

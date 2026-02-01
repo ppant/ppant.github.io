@@ -3,6 +3,7 @@ title: 'When to use Google Cloud BigTable and BigQuery? A Use case..'
 date: 2021-06-08T1:46:03+05:30
 author: Pradeep Pant
 layout: post
+categories: [tech, ai-ml]
 ---
 
 Many times cloud folks get confused with [Google Cloud's](https://cloud.google.com/) **BigTable** and **BigQuery** services, which one to use when? 

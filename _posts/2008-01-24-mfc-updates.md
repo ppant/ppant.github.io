@@ -4,6 +4,7 @@ title: MFC Updates
 date: 2008-01-24T04:04:08+05:30
 author: Pradeep Pant
 layout: post
+category: Tech
 guid: http://ppant.wordpress.com/2008/01/24/mfc-updates/
 permalink: /2008/01/24/mfc-updates/
 delicious:

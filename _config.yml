@@ -79,6 +79,8 @@ permalink: /:categories/:title/
 
 
 
+
+
 # Custom vars
 # version: 3.0.0
 # sidebar_home_link:  true
@@ -121,3 +123,17 @@ jekyll-archives:
     day: '/:year/:month/:day/'
     tag: '/tags/:name/'
     category: '/category/:name/'
+
+category_titles:
+  tech: Technology
+  software: Software Engineering
+  ai-ml: AI & Machine Learning
+  process-mining: Process Mining
+  fitness: Fitness
+  running: Running
+  cycling: Cycling
+  health: Health
+  travel: Travel
+  life: Life
+  books: Books
+  reflections: Reflections

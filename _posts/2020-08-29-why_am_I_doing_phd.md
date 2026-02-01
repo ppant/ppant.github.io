@@ -3,6 +3,7 @@ title: 'Why I am doing Ph.D.'
 date: 2020-08-29
 author: Pradeep Pant
 layout: post
+category: Tech
 ---
 
 So finally I have enrolled in a Ph.D. program. The obvious question is why now in 2020? 

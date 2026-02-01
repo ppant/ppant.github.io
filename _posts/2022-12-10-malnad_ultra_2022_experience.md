@@ -3,7 +3,7 @@ title: 'Malnad Ultra 2022 Run diary'
 date: 2022-12-10
 author: Pradeep Pant
 layout: post
-category: Running
+categories: [fitness, running]
 ---
 
 **Location:** [Malnad, Western Ghats, Southern India](https://en.wikipedia.org/wiki/Malenadu)

@@ -5,30 +5,30 @@ permalink: /categories/
 ---
 
 ## 🧠 Technology
-- [Software Engineering](/category/software/)
-- [AI & Machine Learning](/category/ai-ml/)
-- [Process Mining](/category/process-mining/)
+- [Software Engineering]({{ "/category/software/" | relative_url }})
+- [AI & Machine Learning]({{ "/category/ai-ml/" | relative_url }})
+- [Process Mining]({{ "/category/process-mining/" | relative_url }})
 
-Browse all tech posts → [Technology](/category/tech/)
+Browse all tech posts → [Technology]({{ "/category/tech/" | relative_url }})
 
 ---
 
 ## 🏃 Fitness
-- [Running](/category/running/)
-- [Cycling](/category/cycling/)
-- [Health & Fitness](/category/health/)
+- [Running]({{ "/category/running/" | relative_url }})
+- [Cycling]({{ "/category/cycling/" | relative_url }})
+- [Health & Fitness]({{ "/category/health/" | relative_url }})
 
-Browse all fitness posts → [Fitness](/category/fitness/)
+Browse all fitness posts → [Fitness]({{ "/category/fitness/" | relative_url }})
 
 ---
 
 ## 🌍 Travel
-- [Travel](/category/travel/)
+- [Travel]({{ "/category/travel/" | relative_url }})
 
 ---
 
 ## 📚 Life
-- [Books](/category/books/)
-- [Reflections](/category/reflections/)
+- [Books]({{ "/category/books/" | relative_url }})
+- [Reflections]({{ "/category/reflections/" | relative_url }})
 
-Browse all life posts → [Life](/category/life/)
+Browse all life posts → [Life]({{ "/category/life/" | relative_url }})

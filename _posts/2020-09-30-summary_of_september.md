@@ -3,6 +3,7 @@ title: 'Summary of the month: September 2020'
 date: 2020-09-30
 author: Pradeep Pant
 layout: post
+category: Tech
 ---
 So, we are already at the end of the month, as usual, I couldn't write many posts despite multiple posts lying in the draft folder to be published. It was such a busy month, here are a few things which I was doing and hopefully will continue in next month.
 

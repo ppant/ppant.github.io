@@ -4,6 +4,7 @@ title: Open Source Workflow Engine
 date: 2008-04-24T17:30:42+05:30
 author: Pradeep Pant
 layout: post
+category: Tech
 guid: http://ppant.wordpress.com/?p=11
 permalink: /2008/04/24/open-source-workflow-engine/
 delicious:

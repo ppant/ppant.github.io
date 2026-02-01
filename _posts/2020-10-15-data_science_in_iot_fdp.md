@@ -3,6 +3,7 @@ title: 'Data Science for IoT: FDP: Summary'
 date: 2020-10-15
 author: Pradeep Pant
 layout: post
+category: Tech
 ---
 I have atteneded this online 3-days Faculty Developement Program on [Data Science for IoT](https://diot.iiita.ac.in/). 
 

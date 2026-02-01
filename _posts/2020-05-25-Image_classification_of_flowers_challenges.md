@@ -4,6 +4,7 @@ title: 'Image classification of Flowers in Machine Learning: Challenges and deve
 date: 2020-05-25T1:46:03+05:30
 author: Pradeep Pant
 layout: post
+categories: [tech, ai-ml]
 ---
 
 

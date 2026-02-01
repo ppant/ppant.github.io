@@ -4,6 +4,7 @@ title: 'Books recommendation series: Essentialism: The Disciplined Pursuit of le
 date: 2019-05-30T16:24:27+05:30
 author: Pradeep Pant
 layout: post
+categories: [life, books]
 guid: /?p=2011
 permalink: /2019/05/30/books-recommendation-series-essentialism-the-disciplined-pursuit-of-less/
 ---

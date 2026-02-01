@@ -1,14 +1,16 @@
 <aside>
-	<div class="container">
-		<nav>
-<ul>
-    <li><a href="{{ "/blog/" | relative_url }}">Blog</a></li>    
-    <li><a href="https://pradeeppant.com">Home</a></li>    
-</ul>
-		</nav>
-	</div>
+  <div class="container">
+    <nav>
+      <ul>
+		<li><a href="https://pradeeppant.com">Home</a></li>
+		<li><a href="{{ "/categories/" | relative_url }}">Categories</a></li>
+		<li><a href="{{ "/blog/" | relative_url }}">All</a></li>
+	</ul>
+
+    </nav>
+  </div>
 </aside>
 
 <header>
-	<h1><a href="{{ site.baseurl }}">{{ site.title }}</a></h1>
+  <h1><a href="{{ site.baseurl }}">{{ site.title }}</a></h1>
 </header>

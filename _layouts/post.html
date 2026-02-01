@@ -3,6 +3,17 @@ layout: default
 ---
 
 <h2>{{ page.title }}</h2>
+{% if page.categories %}
+  <p style="font-size: 90%; color: #666;">
+    <strong>Categories:</strong>
+    {% for cat in page.categories %}
+      <a href="/category/{{ cat }}/">
+        {{ site.category_titles[cat] | default: cat | capitalize }}
+      </a>{% unless forloop.last %}, {% endunless %}
+    {% endfor %}
+  </p>
+{% endif %}
+
 <time
   >{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if
   page.meta %} • {{ page.meta }}{% endif %}</time>

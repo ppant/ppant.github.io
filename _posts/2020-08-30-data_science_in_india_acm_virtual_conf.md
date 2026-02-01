@@ -3,6 +3,7 @@ title: 'Online conference in Data Science: ACM & IITM '
 date: 2020-08-30
 author: Pradeep Pant
 layout: post
+category: Tech
 --- 
 
 Some days back I have attended a virtual conference in Data Science organized by [ACM SIGKDD](https://ikdd.acm.org/kdd2020/) and [IIT Madras](https://www.iitm.ac.in/) 

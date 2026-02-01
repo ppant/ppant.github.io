@@ -3,7 +3,7 @@ title: "Nag Mandir Parikrma Run – A Community Initiative from the Himalayas"
 date: 2025-09-10
 author: Pradeep Pant
 layout: post
-categories: Community Running
+categories: [fitness, running]
 ---
 ![](/data/images/travel/nagdevta_run_2025/banner_mini_marathon.png){: width="800px" height="500px"}
 ---

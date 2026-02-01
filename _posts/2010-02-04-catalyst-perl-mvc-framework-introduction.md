@@ -4,6 +4,7 @@ title: Catalyst Perl MVC framework Introduction
 date: 2010-02-04T20:49:27+05:30
 author: Pradeep Pant
 layout: post
+category: Tech
 guid: http://ppant.wordpress.com/?p=35
 permalink: /2010/02/04/catalyst-perl-mvc-framework-introduction/
 dsq_thread_id:

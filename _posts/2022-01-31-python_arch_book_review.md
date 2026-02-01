@@ -3,7 +3,7 @@ title: 'Python Architecture Patterns: book review'
 date: 2022-01-31
 author: Pradeep Pant
 layout: post
-categories: Tech
+categories: [tech, software]
 ---
 
 ![](/data/images/python_arch_book.jpeg){:height="700px"}

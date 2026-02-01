@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+<h1>
+  {{ site.category_titles[page.title] | default: page.title | capitalize }}
+</h1>
+
+{% comment %} Sub-category navigation {% endcomment %}
+{% if page.title == "tech" %}
+  <p>
+    <strong>Explore:</strong>
+    <a href="/category/software/">Software</a> |
+    <a href="/category/ai-ml/">AI & ML</a> |
+    <a href="/category/process-mining/">Process Mining</a>
+  </p>
+{% elsif page.title == "fitness" %}
+  <p>
+    <strong>Explore:</strong>
+    <a href="/category/running/">Running</a> |
+    <a href="/category/cycling/">Cycling</a> |
+    <a href="/category/health/">Health</a>
+  </p>
+{% elsif page.title == "life" %}
+  <p>
+    <strong>Explore:</strong>
+    <a href="/category/books/">Books</a> |
+    <a href="/category/reflections/">Reflections</a>
+  </p>
+{% endif %}
+
+<hr />
+
+{% if page.posts and page.posts.size > 0 %}
+  <ul>
+    {% for post in page.posts %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <small>({{ post.date | date: "%b %d, %Y" }})</small>
+      </li>
+    {% endfor %}
+  </ul>
+{% else %}
+  <p>No posts yet in this category.</p>
+{% endif %}

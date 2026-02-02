@@ -10,24 +10,51 @@ layout: default
 {% if page.title == "tech" %}
   <p>
     <strong>Explore:</strong>
-    <a href="/category/software/">Software</a> |
-    <a href="/category/ai-ml/">AI & ML</a> |
-    <a href="/category/process-mining/">Process Mining</a>
+    <a href="/category/software/"
+       class="{% if page.title == 'software' %}active-category{% endif %}">
+       Software
+    </a> |
+    <a href="/category/ai-ml/"
+       class="{% if page.title == 'ai-ml' %}active-category{% endif %}">
+       AI & ML
+    </a> |
+    <a href="/category/process-mining/"
+       class="{% if page.title == 'process-mining' %}active-category{% endif %}">
+       Process Mining
+    </a>
   </p>
+
 {% elsif page.title == "fitness" %}
   <p>
     <strong>Explore:</strong>
-    <a href="/category/running/">Running</a> |
-    <a href="/category/cycling/">Cycling</a> |
-    <a href="/category/health/">Health</a>
+    <a href="/category/running/"
+       class="{% if page.title == 'running' %}active-category{% endif %}">
+       Running
+    </a> |
+    <a href="/category/cycling/"
+       class="{% if page.title == 'cycling' %}active-category{% endif %}">
+       Cycling
+    </a> |
+    <a href="/category/health/"
+       class="{% if page.title == 'health' %}active-category{% endif %}">
+       Health
+    </a>
   </p>
+
 {% elsif page.title == "life" %}
   <p>
     <strong>Explore:</strong>
-    <a href="/category/books/">Books</a> |
-    <a href="/category/reflections/">Reflections</a>
+    <a href="/category/books/"
+       class="{% if page.title == 'books' %}active-category{% endif %}">
+       Books
+    </a> |
+    <a href="/category/reflections/"
+       class="{% if page.title == 'reflections' %}active-category{% endif %}">
+       Reflections
+    </a>
   </p>
 {% endif %}
+
 
 <hr />
 
@@ -43,3 +70,4 @@ layout: default
 {% else %}
   <p>No posts yet in this category.</p>
 {% endif %}
+

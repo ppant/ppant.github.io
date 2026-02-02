@@ -1,7 +1,16 @@
 ---
 # Front matter comment to ensure Jekyll properly reads file.
 ---
-@import
-	"base",
-  "layout",
-  "syntax-highlighting" 
+@import "base", "layout", "syntax-highlighting";
+
+/* Active category highlight */
+.active-category {
+  font-weight: bold;
+  text-decoration: underline;
+  color: #d14;
+}
+
+
+
+
+

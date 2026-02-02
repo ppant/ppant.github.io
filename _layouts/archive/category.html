@@ -6,8 +6,11 @@ layout: default
   {{ site.category_titles[page.title] | default: page.title | capitalize }}
 </h1>
 
-{% comment %} Sub-category navigation {% endcomment %}
-{% if page.title == "tech" %}
+{% assign tech_cats = "tech,software,ai-ml,process-mining" | split: "," %}
+{% assign fitness_cats = "fitness,running,cycling,health" | split: "," %}
+{% assign life_cats = "life,books,reflections" | split: "," %}
+
+{% if tech_cats contains page.title %}
   <p>
     <strong>Explore:</strong>
     <a href="/category/software/"
@@ -24,7 +27,7 @@ layout: default
     </a>
   </p>
 
-{% elsif page.title == "fitness" %}
+{% elsif fitness_cats contains page.title %}
   <p>
     <strong>Explore:</strong>
     <a href="/category/running/"
@@ -41,7 +44,7 @@ layout: default
     </a>
   </p>
 
-{% elsif page.title == "life" %}
+{% elsif life_cats contains page.title %}
   <p>
     <strong>Explore:</strong>
     <a href="/category/books/"
@@ -54,6 +57,7 @@ layout: default
     </a>
   </p>
 {% endif %}
+
 
 
 <hr />

@@ -7,7 +7,7 @@ This repository hosts the source code for the personal website and blog of **Pra
 Pradeep K. Pant is an **AI/ML Engineer**, **Software Architect**, and **Researcher** with over 20 years of experience in the technology industry. Based in Bengaluru, India, he specializes in building scalable, production-grade AI systems and has a deep interest in the intersection of software engineering and machine learning.
 
 ### 🌟 Professional Highlights
-- **🚀 Current Role:** AI/ML & Generative AI Architect at LTIMindtree.
+- **🚀 Current Role:** AI/ML & Generative AI Architect.
 - **🎓 Academic Pursuit:** Ph.D. in Process Mining and Machine Learning (in progress, IIIT Allahabad).
 - **🛠️ Expertise:** AI/ML, Generative AI, MLOps, Software Architecture, and Process Mining.
 - **🏃‍♂️ Passions:** Trail running, endurance sports, and community-driven fitness initiatives.

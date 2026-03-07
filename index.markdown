@@ -31,14 +31,14 @@ Alongside my professional interests, I am deeply passionate about trail running 
 
 - **Ph.D. in Process Mining and Machine Learning** — Indian Institute of Information Technology (IIIT Allahabad) *(in progress, expected 2026)*
 - **M.Tech in Computer Science** — Birla Institute of Technology (BIT), Mesra, Ranchi *(2004)*
-- **M.Sc. in Physics (Electronics Specialization)** — Kumaun University, Nainital *(1997)*
+- **M.Sc. in Physics** — Kumaun University, Nainital *(1997)*
 
 ---
 ## 💼 Professional Journey
 
 My professional journey spans over two decades and reflects a gradual evolution from systems development and academia to enterprise software and AI/ML.
 
-After completing my M.Sc. in Physics (Electronics Specialization), I worked during 1997–1999 in systems development and technical consulting, contributing to industry oriented projects for small organisations and institutions. This phase involved hands-on work with digital systems, microprocessors, embedded programming, and software development, building a strong foundation in hardware software integration and practical problem-solving.
+After completing my M.Sc. in Physics focussed on Electronics and Microprocessors, I worked during 1997–1999 in systems development and technical consulting, contributing to industry oriented projects for small organisations and institutions. This phase involved hands-on work with digital systems, microprocessors, embedded programming, and software development, building a strong foundation in hardware software integration and practical problem-solving.
 
 From 1999 to 2005, I was actively involved in teaching and academic roles at institutions such as Birla Institute of Technology, Mesra, Birla Institute of Applied Sciences, and BITS Pilani. During this period, I taught subjects including programming, electronics, digital design, microprocessors, and computer systems, while also mentoring students and supporting applied technical projects.
 

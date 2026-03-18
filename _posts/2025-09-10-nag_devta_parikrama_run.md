@@ -1,11 +1,12 @@
 ---
-title: "Nag Mandir Parikrma Run – A Community Initiative from the Himalayas"
+title: "Nag Mandir Parikrma Run 2025: Community Fitness and Tradition in the Himalayas"
 date: 2025-09-10
 author: Pradeep Pant
 layout: post
 categories: [fitness, running]
+description: 'Exploring the Nag Mandir Parikrma Run 2025 in Berinag, Uttarakhand. A community initiative promoting fitness and local Himalayan traditions.'
 ---
-![](/data/images/travel/nagdevta_run_2025/banner_mini_marathon.png){: width="800px" height="500px"}
+![Nag Mandir Parikrma Run 2025 Banner](/data/images/travel/nagdevta_run_2025/banner_mini_marathon.png){: width="800px" height="500px"}
 ---
 
 ## नाग मंदिर परिक्रमा दौड़
@@ -88,7 +89,7 @@ Several friends from the running community and personal well-wishers quietly sup
 
 Ashok Ji (66 years young) travelled from Dehradun to participate and motivate local children a powerful reminder that inspiration has no age limit.
 
-![](/data/images/travel/nagdevta_run_2025/finisher_senior_citizen.jpeg){:width="800px":height="400px"}
+![Nag Mandir Parikrma Run finisher Ashok Ji](/data/images/travel/nagdevta_run_2025/finisher_senior_citizen.jpeg){:width="800px":height="400px"}
 
 ---
 

@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Explainable Concept Drift Using MLP-Based Non-Linear Causality | ICCCNT 2025"
+title: "Explainable Concept Drift in Process Mining: MLP-Based Non-Linear Causality"
 date: 2025-07-15
 author: Pradeep Pant
 categories: [tech, software, Research, Process Mining, Machine Learning]
+description: 'Exploring an explainable framework for concept drift detection in process mining using MLP-based non-linear causal modeling. Presented at ICCCNT 2025.'
 tags: [Concept Drift, Process Mining, Causality, MLP, Explainable AI, IEEE, PhD]
 excerpt: "An explainable framework for concept drift detection using MLP-based non-linear causal modeling in process mining."
 ---
@@ -204,7 +205,7 @@ In July 2025, I presented this research paper ***Explainable Concept Drift in Pr
 
 at the 16th International Conference on Computing, Communication and Networking Technologies (ICCCNT 2025) held at IIT Indore.
 
-![ICCCNT 2025 Certificate](/data/images/tech/ICCCINT_certificate_2025.jpg)
+![Pradeep Pant presenting at ICCCNT 2025 - Certificate of Presentation](/data/images/tech/ICCCINT_certificate_2025.jpg)
 
 ---
 

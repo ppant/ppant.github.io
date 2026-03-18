@@ -1,9 +1,10 @@
 ---
-title: 'Malnad Ultra 2022 Run diary'
+title: 'Malnad Ultra 2022: My First 30K Trail Run Experience in the Western Ghats'
 date: 2022-12-10
 author: Pradeep Pant
 layout: post
 categories: [fitness, running]
+description: 'A detailed race report of my first trail run at Malnad Ultra 2022. Experience running the 30K course in the beautiful coffee estates of the Western Ghats.'
 ---
 
 **Location:** [Malnad, Western Ghats, Southern India](https://en.wikipedia.org/wiki/Malenadu)
@@ -74,19 +75,19 @@ Finally, here are some pictures from our trip. ( I, Suresh, and Mey):
 
 Our road trip route
 
-![](/data/images/travel/malnad_ultra_2022/route_map_blr_mysore.jpg){:width="400px":height="300px"}
+![Bangalore to Mysore road trip route map](/data/images/travel/malnad_ultra_2022/route_map_blr_mysore.jpg){:width="400px":height="300px"}
 
 Our staple Kumaoni snack for road trip
 
-![](/data/images/travel/malnad_ultra_2022/home_made_snacks.jpg){:width="400px":height="300px"}
+![Kumaoni snacks for Malnad Ultra road trip](/data/images/travel/malnad_ultra_2022/home_made_snacks.jpg){:width="400px":height="300px"}
 
 
 
 Fun at the marriage party with Suresh and Mey's friend's daughter (KGF gang)
 
-![](/data/images/travel/malnad_ultra_2022/fun_at_marriage_party.jpg){:width="400px":height="300px"}
+![Fun at a wedding party before Malnad Ultra trip](/data/images/travel/malnad_ultra_2022/fun_at_marriage_party.jpg){:width="400px":height="300px"}
 
-![](/data/images/travel/malnad_ultra_2022/fun_at_marriage_party1.jpg){:width="400px":height="300px"}
+![Ultra team members at wedding celebration](/data/images/travel/malnad_ultra_2022/fun_at_marriage_party1.jpg){:width="400px":height="300px"}
 
 
 **Day 2: Mysore - Jhari Eco Resort, Malnad region, Chikmagluru**
@@ -94,118 +95,118 @@ Fun at the marriage party with Suresh and Mey's friend's daughter (KGF gang)
 
 Our road trip route
 
-![](/data/images/travel/malnad_ultra_2022/route_map_mysore_jhari.jpg){:width="400px":height="300px"}
+![Mysore to Jhari Eco Resort route map](/data/images/travel/malnad_ultra_2022/route_map_mysore_jhari.jpg){:width="400px":height="300px"}
 
 Stop at [Gommateshwara Temple](https://en.wikipedia.org/wiki/Gommateshwara_statue)
 
-![](/data/images/travel/malnad_ultra_2022/gommateshwara_front.jpg){:width="400px":height="300px"}
+![Gommateshwara Temple visit en route to Malnad](/data/images/travel/malnad_ultra_2022/gommateshwara_front.jpg){:width="400px":height="300px"}
 
 Gommateshwara Temple Climb
 
-![](/data/images/travel/malnad_ultra_2022/gommateshwara_climb.jpg){:width="400px":height="300px"}
+![Climbing steps to Gommateshwara statue](/data/images/travel/malnad_ultra_2022/gommateshwara_climb.jpg){:width="400px":height="300px"}
 
 Gommateshwara Statue
 
-![](/data/images/travel/malnad_ultra_2022/gommateshwara_statue.jpg){:width="400px":height="300px"}
+![The majestic Gommateshwara Statue](/data/images/travel/malnad_ultra_2022/gommateshwara_statue.jpg){:width="400px":height="300px"}
 
 Met Ooty Ultra Coach Kay at Bib collection at Kaimara
 
-![](/data/images/travel/malnad_ultra_2022/coach_kay_run_addicts.jpg){:width="400px":height="300px"}
+![Meeting Ooty Ultra Coach Kay at Malnad bib expo](/data/images/travel/malnad_ultra_2022/coach_kay_run_addicts.jpg){:width="400px":height="300px"}
 
 Evening at Jhari resort
 
-![](/data/images/travel/malnad_ultra_2022/jhari_view.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2022/jhari_dinner.jpg){:width="400px":height="300px"}
+![Beautiful view from Jhari Eco Resort](/data/images/travel/malnad_ultra_2022/jhari_view.jpg){:width="400px":height="300px"}
+![Dinner at Jhari Eco Resort in Malnad](/data/images/travel/malnad_ultra_2022/jhari_dinner.jpg){:width="400px":height="300px"}
 
 
 Relax mode at Jhari resort
 
-![](/data/images/travel/malnad_ultra_2022/relax_at_jhari.jpg){:width="400px":height="300px"}
+![Relaxing at Jhari Eco Resort before race day](/data/images/travel/malnad_ultra_2022/relax_at_jhari.jpg){:width="400px":height="300px"}
 
 Mey enjoying at Jhari cottage
-![](/data/images/travel/malnad_ultra_2022/jhari_cottage_mey.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2022/jhari_cottage.jpg){:width="400px":height="300px"}
+![Mey enjoying the cottage stay at Jhari Eco Resort](/data/images/travel/malnad_ultra_2022/jhari_cottage_mey.jpg){:width="400px":height="300px"}
+![Jhari Eco Resort cottage in the Western Ghats](/data/images/travel/malnad_ultra_2022/jhari_cottage.jpg){:width="400px":height="300px"}
 
 
 **Day 3: Jhari Eco Resort - Sipani Coffee Estate (Start-Point)**
 
 Drive towards start-point
 
-![](/data/images/travel/malnad_ultra_2022/route_map_jhari_sipani.jpg){:width="400px":height="300px"}
+![Route from Jhari Resort to Sipani Coffee Estate start point](/data/images/travel/malnad_ultra_2022/route_map_jhari_sipani.jpg){:width="400px":height="300px"}
 
 Before sunrise
 
-![](/data/images/travel/malnad_ultra_2022/towards_start_point.jpg){:width="400px":height="300px"}
+![Winding roads of Malnad before sunrise](/data/images/travel/malnad_ultra_2022/towards_start_point.jpg){:width="400px":height="300px"}
 
 Walk towards the start point from the parking area
 
-![](/data/images/travel/malnad_ultra_2022/walk_towards_starting.jpg){:width="400px":height="300px"}
+![Runners walking to Malnad Ultra start point](/data/images/travel/malnad_ultra_2022/walk_towards_starting.jpg){:width="400px":height="300px"}
 
 At the start full flock
 
-![](/data/images/travel/malnad_ultra_2022/start_point_full_flock.jpg){:width="400px":height="300px"}
+![Malnad Ultra 2022 start point crowd](/data/images/travel/malnad_ultra_2022/start_point_full_flock.jpg){:width="400px":height="300px"}
 
 Route 
 
-![](/data/images/travel/malnad_ultra_2022/route_view_open.jpg){:width="400px":height="300px"}
+![Open view from the Malnad Ultra trail route](/data/images/travel/malnad_ultra_2022/route_view_open.jpg){:width="400px":height="300px"}
 
 Sun and climb
 
-![](/data/images/travel/malnad_ultra_2022/sun_and_climb.jpg){:width="400px":height="300px"}
+![Running uphill under the sun at Malnad Ultra](/data/images/travel/malnad_ultra_2022/sun_and_climb.jpg){:width="400px":height="300px"}
 
 
-![](/data/images/travel/malnad_ultra_2022/second_climb.jpg){:width="400px":height="300px"}
+![Second major climb of the 30K Malnad course](/data/images/travel/malnad_ultra_2022/second_climb.jpg){:width="400px":height="300px"}
 
 Second climb
 
-![](/data/images/travel/malnad_ultra_2022/route_view_open.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2022/climb_on.jpg){:width="400px":height="300px"}
+![Scenic landscape from the Malnad trail](/data/images/travel/malnad_ultra_2022/route_view_open.jpg){:width="400px":height="300px"}
+![Runners pushing through the climb](/data/images/travel/malnad_ultra_2022/climb_on.jpg){:width="400px":height="300px"}
 
 Coffee plantation 
 
-![](/data/images/travel/malnad_ultra_2022/coffee_plantation.jpg){:width="400px":height="300px"}
+![Lush coffee plantations in the Malnad region](/data/images/travel/malnad_ultra_2022/coffee_plantation.jpg){:width="400px":height="300px"}
 
 Crossing stream
 
-![](/data/images/travel/malnad_ultra_2022/run_route_river_crossing.jpg){:width="400px":height="300px"}
+![Runners crossing a small stream on the Malnad trail](/data/images/travel/malnad_ultra_2022/run_route_river_crossing.jpg){:width="400px":height="300px"}
 
 Beautiful forest
 
-![](/data/images/travel/malnad_ultra_2022/beautiful_forest.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2022/coffee_beans.jpg){:width="400px":height="300px"}
+![Dense forest canopy along the Malnad Ultra route](/data/images/travel/malnad_ultra_2022/beautiful_forest.jpg){:width="400px":height="300px"}
+![Coffee beans on the plant in Malnad](/data/images/travel/malnad_ultra_2022/coffee_beans.jpg){:width="400px":height="300px"}
 
 Medal 30K
 
-![](/data/images/travel/malnad_ultra_2022/medal_30k.jpg){:width="400px":height="300px"}
+![Malnad Ultra 2022 30K finisher medal](/data/images/travel/malnad_ultra_2022/medal_30k.jpg){:width="400px":height="300px"}
 
 Mey after finishing 50K 
 
-![](/data/images/travel/malnad_ultra_2022/boss_giving_pose.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2022/photo_after.jpg){:width="400px":height="300px"}
+![Mey posing after finishing the 50K Malnad Ultra](/data/images/travel/malnad_ultra_2022/boss_giving_pose.jpg){:width="400px":height="300px"}
+![Post-race photo with the 50K finisher](/data/images/travel/malnad_ultra_2022/photo_after.jpg){:width="400px":height="300px"}
 
 Met a senior runner from Chennai 
 
-![](/data/images/travel/malnad_ultra_2022/met_senior_runner.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2022/channai_runner.jpg){:width="400px":height="300px"}
+![Meeting senior trail runner from Chennai at Malnad](/data/images/travel/malnad_ultra_2022/met_senior_runner.jpg){:width="400px":height="300px"}
+![Runners from different cities at Malnad finish line](/data/images/travel/malnad_ultra_2022/channai_runner.jpg){:width="400px":height="300px"}
 
 At the finish line
 
-![](/data/images/travel/malnad_ultra_2022/finish_line.jpg){:width="400px":height="300px"}
+![Reaching the Malnad Ultra finish line](/data/images/travel/malnad_ultra_2022/finish_line.jpg){:width="400px":height="300px"}
 
 with RunAddicts gang
 
-![](/data/images/travel/malnad_ultra_2022/bengaluru_start_runner.jpg){:width="400px":height="300px"}
+![RunAddicts group from Bangalore at Malnad Ultra](/data/images/travel/malnad_ultra_2022/bengaluru_start_runner.jpg){:width="400px":height="300px"}
 
 With Race Director Coack Anand and Ooty Ultra Race Director Coach Kay, Good to see that organizers of other events supporting each other
 
-![](/data/images/travel/malnad_ultra_2022/with_coach_anand_kay.jpg){:width="400px":height="300px"}
+![With Race Directors Coach Anand and Coach Kay](/data/images/travel/malnad_ultra_2022/with_coach_anand_kay.jpg){:width="400px":height="300px"}
 
 Met Peter, an accomplished trekker, and founder of Chennai Trekking Club post-run. Can't resist meeting BELGIUM ppl because of my long association with the country :-)
 
-![](/data/images/travel/malnad_ultra_2022/with_peter_bel.jpg){:width="400px":height="300px"}
+![Meeting Peter Van Geit from Chennai Trekking Club](/data/images/travel/malnad_ultra_2022/with_peter_bel.jpg){:width="400px":height="300px"}
 
 Relax evening at Jhari post-run
 
-![](/data/images/travel/malnad_ultra_2022/jhari_waterfall.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2022/jhari_waterfall.jpg){:width="400px":height="300px"}
-![](/data/images/travel/malnad_ultra_2022/jhari_waterfall_grp.jpg){:width="400px":height="300px"}
+![Waterfall view at Jhari Eco Resort](/data/images/travel/malnad_ultra_2022/jhari_waterfall.jpg){:width="400px":height="300px"}
+![Refreshing by the Jhari waterfall post-race](/data/images/travel/malnad_ultra_2022/jhari_waterfall.jpg){:width="400px":height="300px"}
+![Ultra team group photo at Jhari waterfall](/data/images/travel/malnad_ultra_2022/jhari_waterfall_grp.jpg){:width="400px":height="300px"}

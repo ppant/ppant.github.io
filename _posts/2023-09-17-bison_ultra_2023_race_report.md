@@ -1,9 +1,10 @@
 ---
-title: 'Bison Ultra 2023 Run diary'
+title: 'Bison Ultra 2023: Conquering the 50K Trail in Yercaud Hills'
 date: 2023-09-17
 author: Pradeep Pant
 layout: post
 categories: [fitness, running]
+description: 'A comprehensive race report of Bison Ultra 2023. Insights into the 50K trail course in Yercaud Hills, including elevation profile, terrain challenges, and preparation tips.'
 ---
 
 **Location:** Yercaud hills, Tamil Nadu, India
@@ -71,302 +72,302 @@ Finally, here are some pics from our trip ( I, Suresh, Mey and Laxmi (Lucky)):
 
 Our road trip route
 
-![](/data/images/travel/bison_ultra_2023/drive_route_last_shola.jpg){:width="800px":height="400px"}
+![Road trip route map from Bangalore to Yercaud for Bison Ultra](/data/images/travel/bison_ultra_2023/drive_route_last_shola.jpg){:width="800px":height="400px"}
 
 Start at home
 
-![](/data/images/travel/bison_ultra_2023/start_home.jpg){:width="400px":height="300px"}
+![Starting the Bison Ultra trip from home](/data/images/travel/bison_ultra_2023/start_home.jpg){:width="400px":height="300px"}
 
 
 Start with Suresh
 
-![](/data/images/travel/bison_ultra_2023/start_with_suresh.jpg){:width="400px":height="300px"}
+![Starting the journey with Suresh](/data/images/travel/bison_ultra_2023/start_with_suresh.jpg){:width="400px":height="300px"}
 
 Drive to Yercaud
 
-![](/data/images/travel/bison_ultra_2023/drive_to_yercaud.jpg){:width="400px":height="300px"}
+![Driving towards the scenic Yercaud hills](/data/images/travel/bison_ultra_2023/drive_to_yercaud.jpg){:width="400px":height="300px"}
 
 
 Mini tiffin breakfast at Shri Sharvana Bhavan, near Krishnagiri
 
-![](/data/images/travel/bison_ultra_2023/breakfast.jpg){:width="400px":height="300px"}
+![Breakfast stop at Shri Sharvana Bhavan Krishnagiri](/data/images/travel/bison_ultra_2023/breakfast.jpg){:width="400px":height="300px"}
 
 
-![](/data/images/travel/bison_ultra_2023/breakfast_at_savarana_bhawan.jpg){:width="400px":height="300px"}
+![Delicious mini tiffin breakfast for runners](/data/images/travel/bison_ultra_2023/breakfast_at_savarana_bhawan.jpg){:width="400px":height="300px"}
 
 
 Route to Salem
 
-![](/data/images/travel/bison_ultra_2023/route_to_salem.jpg){:width="400px":height="300px"}
+![On the highway towards Salem](/data/images/travel/bison_ultra_2023/route_to_salem.jpg){:width="400px":height="300px"}
 
 
 EV charging at Tata Motors, Salem
 
-![](/data/images/travel/bison_ultra_2023/ev_charging_at_salem.jpg){:width="400px":height="300px"}
+![Charging our EV car at Tata Motors showroom in Salem](/data/images/travel/bison_ultra_2023/ev_charging_at_salem.jpg){:width="400px":height="300px"}
 
 
 
-![](/data/images/travel/bison_ultra_2023/tata_show_room_salem.jpg){:width="400px":height="300px"}
+![Friendly staff at Tata Motors Salem charging point](/data/images/travel/bison_ultra_2023/tata_show_room_salem.jpg){:width="400px":height="300px"}
 
 
 
 Coconut break en route before entering the Yercaud Hills
 
-![](/data/images/travel/bison_ultra_2023/coconut_water_break.jpg){:width="400px":height="300px"}
+![Fresh coconut water break before the Yercaud hill climb](/data/images/travel/bison_ultra_2023/coconut_water_break.jpg){:width="400px":height="300px"}
 
 
 Our stay in a beautiful place
 
-![](/data/images/travel/bison_ultra_2023/beautiful_stay.jpg){:width="400px":height="300px"}
+![Beautiful stay at Heavens Lodge in Yercaud](/data/images/travel/bison_ultra_2023/beautiful_stay.jpg){:width="400px":height="300px"}
 
 
 Enjoying evening tea
 
-![](/data/images/travel/bison_ultra_2023/enjoying_tea_heavens_lodge.jpg){:width="400px":height="300px"}
+![Enjoying Nilgiris tea at Heavens Lodge Yercaud](/data/images/travel/bison_ultra_2023/enjoying_tea_heavens_lodge.jpg){:width="400px":height="300px"}
 
 Lucky in deep thoughts
 
-![](/data/images/travel/bison_ultra_2023/laxmi_in_deep_thoughts.jpg){:width="400px":height="300px"}
+![Laxmi reflecting on the upcoming 50K trail run](/data/images/travel/bison_ultra_2023/laxmi_in_deep_thoughts.jpg){:width="400px":height="300px"}
 
 Sunset view from Heaven's Lodge
 
-![](/data/images/travel/bison_ultra_2023/sunset_at_heavens_lodge.jpg){:width="400px":height="300px"}
+![Breathtaking sunset view from our stay in Yercaud](/data/images/travel/bison_ultra_2023/sunset_at_heavens_lodge.jpg){:width="400px":height="300px"}
 
 
 Beautiful Valley View
 
-![](/data/images/travel/bison_ultra_2023/valley_view_suresh.jpg){:width="400px":height="300px"}
+![Suresh enjoying the valley view from Heavens Lodge](/data/images/travel/bison_ultra_2023/valley_view_suresh.jpg){:width="400px":height="300px"}
 
 
-![](/data/images/travel/bison_ultra_2023/valley_view.jpg){:width="400px":height="300px"}
+![Stunning valley landscape in Yercaud Hills](/data/images/travel/bison_ultra_2023/valley_view.jpg){:width="400px":height="300px"}
 
 
-![](/data/images/travel/bison_ultra_2023/valley_view_pp.jpg){:width="400px":height="300px"}
+![Pradeep Pant at Heavens Lodge overlooking the valley](/data/images/travel/bison_ultra_2023/valley_view_pp.jpg){:width="400px":height="300px"}
 
 
 Beautiful area outside our stay
 
-![](/data/images/travel/bison_ultra_2023/beautiful_area_outside_our_stay.jpg){:width="400px":height="300px"}
+![Lush greenery surrounding Heavens Lodge cottages](/data/images/travel/bison_ultra_2023/beautiful_area_outside_our_stay.jpg){:width="400px":height="300px"}
 
 Evening at Heavens Lodge with runners
 
-![](/data/images/travel/bison_ultra_2023/evening_at_heaven_lodge.jpg){:width="400px":height="300px"}
+![Runners gathering at Heavens Lodge before race day](/data/images/travel/bison_ultra_2023/evening_at_heaven_lodge.jpg){:width="400px":height="300px"}
 
 
-![](/data/images/travel/bison_ultra_2023/evening_at_heavens_lodge_runners.jpg){:width="400px":height="300px"}
+![Evening vibes and conversations with fellow ultra runners](/data/images/travel/bison_ultra_2023/evening_at_heavens_lodge_runners.jpg){:width="400px":height="300px"}
 
 
-![](/data/images/travel/bison_ultra_2023/field_heavens_lodge.jpg){:width="400px":height="300px"}
+![Open fields near Heavens Lodge Yercaud](/data/images/travel/bison_ultra_2023/field_heavens_lodge.jpg){:width="400px":height="300px"}
 
 
-![](/data/images/travel/bison_ultra_2023/photo_shoot.jpg){:width="400px":height="300px"}
+![Photo shoot with the ultra team members](/data/images/travel/bison_ultra_2023/photo_shoot.jpg){:width="400px":height="300px"}
 
 
-![](/data/images/travel/bison_ultra_2023/beautiful_cottage.jpg){:width="400px":height="300px"}
+![Cozy cottages at Heavens Lodge Yercaud](/data/images/travel/bison_ultra_2023/beautiful_cottage.jpg){:width="400px":height="300px"}
 
 
 Relax evening at Heavens Lodge
 
-![](/data/images/travel/bison_ultra_2023/relax_evening_at_our_stay.jpg){:width="400px":height="300px"}
+![Relaxed pre-race evening with the team](/data/images/travel/bison_ultra_2023/relax_evening_at_our_stay.jpg){:width="400px":height="300px"}
 
 
 Ultra team at bib collection
 
-![](/data/images/travel/bison_ultra_2023/ultra_team_at_bib_collection.jpg){:width="400px":height="300px"}
+![Bison Ultra 2023 team at bib collection desk](/data/images/travel/bison_ultra_2023/ultra_team_at_bib_collection.jpg){:width="400px":height="300px"}
 
 
 Race briefing
 
-![](/data/images/travel/bison_ultra_2023/race_briefing.jpg){:width="400px":height="300px"}
+![Coach Kay giving the Bison Ultra race briefing](/data/images/travel/bison_ultra_2023/race_briefing.jpg){:width="400px":height="300px"}
 
 
 At the Bib Expo
 
-![](/data/images/travel/bison_ultra_2023/at_bib_collection.jpg){:width="400px":height="300px"}
+![Runners at the Bison Ultra 2023 Bib Expo](/data/images/travel/bison_ultra_2023/at_bib_collection.jpg){:width="400px":height="300px"}
 
 
 Pre-race day
 
-![](/data/images/travel/bison_ultra_2023/pre-race-day_pic.jpg){:width="400px":height="300px"}
+![Ultra running team ready for Bison Ultra 50K](/data/images/travel/bison_ultra_2023/pre-race-day_pic.jpg){:width="400px":height="300px"}
 
 
 Group pic with coach
 
-![](/data/images/travel/bison_ultra_2023/group_pic_with_coach.jpg){:width="400px":height="300px"}
+![Group photo with Bison Ultra Race Director Coach Kay](/data/images/travel/bison_ultra_2023/group_pic_with_coach.jpg){:width="400px":height="300px"}
 
 Sun-protection gear trial
 
-![](/data/images/travel/bison_ultra_2023/sun_protection.jpg){:width="400px":height="300px"}
+![Trying out sun protection gear for the 50K run](/data/images/travel/bison_ultra_2023/sun_protection.jpg){:width="400px":height="300px"}
 
 
 Lucky's mobile love :-) relaxed evening
 
-![](/data/images/travel/bison_ultra_2023/laxmi_on_phone.jpg){:width="400px":height="300px"}
+![Relaxed evening before the tough 50K trail challenge](/data/images/travel/bison_ultra_2023/laxmi_on_phone.jpg){:width="400px":height="300px"}
 
 
 Bison Ultra 50K route
 
-![](/data/images/travel/bison_ultra_2023/bison_ultra_50K_route.jpg){:width="400px":height="300px"}
+![Bison Ultra 50K race route map](/data/images/travel/bison_ultra_2023/bison_ultra_50K_route.jpg){:width="400px":height="300px"}
 
 50K elevation profile
 
-![](/data/images/travel/bison_ultra_2023/50K_elevation_profile_bison.jpg){:width="400px":height="300px"}
+![Bison Ultra 50K elevation profile showing major climbs](/data/images/travel/bison_ultra_2023/50K_elevation_profile_bison.jpg){:width="400px":height="300px"}
 
 
 Trail route
 
-![](/data/images/travel/bison_ultra_2023/trail_route.jpg){:width="400px":height="300px"}
+![Challenging trail sections of Bison Ultra in Yercaud](/data/images/travel/bison_ultra_2023/trail_route.jpg){:width="400px":height="300px"}
 
 at the start line
 
-![](/data/images/travel/bison_ultra_2023/at_start_line.jpg){:width="400px":height="300px"}
+![Runners at the Bison Ultra 2023 start line](/data/images/travel/bison_ultra_2023/at_start_line.jpg){:width="400px":height="300px"}
 
 
 Ready for the run
 
-![](/data/images/travel/bison_ultra_2023/ready_for_run.jpg){:width="400px":height="300px"}
+![Ultra team members ready for the 50K trail challenge](/data/images/travel/bison_ultra_2023/ready_for_run.jpg){:width="400px":height="300px"}
 
 First climb -- Beautiful view 
 
-![](/data/images/travel/bison_ultra_2023/first_climb_beautiful_view.jpg){:width="400px":height="300px"}
+![Stunning sunrise view during the first climb](/data/images/travel/bison_ultra_2023/first_climb_beautiful_view.jpg){:width="400px":height="300px"}
 
 Sunrise
 
-![](/data/images/travel/bison_ultra_2023/sunrise_epic_photo.jpg){:width="400px":height="300px"}
+![Epic sunrise photo during the Bison Ultra run](/data/images/travel/bison_ultra_2023/sunrise_epic_photo.jpg){:width="400px":height="300px"}
 
 
-![](/data/images/travel/bison_ultra_2023/with_suresh_sunrise.jpg){:width="400px":height="300px"}
+![Suresh and Pradeep during the early morning trail climb](/data/images/travel/bison_ultra_2023/with_suresh_sunrise.jpg){:width="400px":height="300px"}
 
 
 With 25K runners
 
-![](/data/images/travel/bison_ultra_2023/with_25K_runners.jpg){:width="400px":height="300px"}
+![Meeting 25K distance runners on the trail](/data/images/travel/bison_ultra_2023/with_25K_runners.jpg){:width="400px":height="300px"}
 
 
 More climb 
 
-![](/data/images/travel/bison_ultra_2023/climb_with_suresh.jpg){:width="400px":height="300px"}
+![Steep trail climb with Suresh at Bison Ultra](/data/images/travel/bison_ultra_2023/climb_with_suresh.jpg){:width="400px":height="300px"}
 
 
 Climb and Sun
 
-![](/data/images/travel/bison_ultra_2023/climb_and_sun.jpg){:width="400px":height="300px"}
+![Pushing through the heat on a mountain road climb](/data/images/travel/bison_ultra_2023/climb_and_sun.jpg){:width="400px":height="300px"}
 
 
 At 12KM stop
 
-![](/data/images/travel/bison_ultra_2023/at_12KM_turn.jpg){:width="400px":height="300px"}
+![Hydration break at the 12KM mark of Bison Ultra](/data/images/travel/bison_ultra_2023/at_12KM_turn.jpg){:width="400px":height="300px"}
 
 
 Beautiful temple en route
 
-![](/data/images/travel/bison_ultra_2023/beautiful_temple.jpg){:width="400px":height="300px"}
+![Traditional temple along the Bison Ultra 50K route](/data/images/travel/bison_ultra_2023/beautiful_temple.jpg){:width="400px":height="300px"}
 
 
 With Lucky 
 
-![](/data/images/travel/bison_ultra_2023/with_laxmi_kansal.jpg){:width="400px":height="300px"}
+![Running with Laxmi (Lucky) on the Yercaud trail](/data/images/travel/bison_ultra_2023/with_laxmi_kansal.jpg){:width="400px":height="300px"}
 
 
 Road climb
 
-![](/data/images/travel/bison_ultra_2023/road_climb.jpg){:width="400px":height="300px"}
+![Challenging road section between trail segments](/data/images/travel/bison_ultra_2023/road_climb.jpg){:width="400px":height="300px"}
 
 
 much-needed break. - Guava
 
-![](/data/images/travel/bison_ultra_2023/guava_break.jpg){:width="400px":height="300px"}
+![Fresh guava break during the 50K ultra run](/data/images/travel/bison_ultra_2023/guava_break.jpg){:width="400px":height="300px"}
 
 Crossing trail
 
-![](/data/images/travel/bison_ultra_2023/suresh_crossing_trail.jpg){:width="400px":height="300px"}
+![Suresh navigating a technical trail section](/data/images/travel/bison_ultra_2023/suresh_crossing_trail.jpg){:width="400px":height="300px"}
 
 
-![](/data/images/travel/bison_ultra_2023/with_suresh.jpg){:width="400px":height="300px"}
+![Pradeep and Suresh running together at Bison Ultra](/data/images/travel/bison_ultra_2023/with_suresh.jpg){:width="400px":height="300px"}
 
 
 This guy helped us make a stick
 
-![](/data/images/travel/bison_ultra_2023/with_our_stick_man.jpg){:width="400px":height="300px"}
+![A local villager helped us fetch walking sticks for the climb](/data/images/travel/bison_ultra_2023/with_our_stick_man.jpg){:width="400px":height="300px"}
 
 
 en route fun
 
-![](/data/images/travel/bison_ultra_2023/en_route_fun.jpg){:width="400px":height="300px"}
+![Light moments during the grueling 50K ultra run](/data/images/travel/bison_ultra_2023/en_route_fun.jpg){:width="400px":height="300px"}
 
 
 Our hero Boy
 
-![](/data/images/travel/bison_ultra_2023/our_hero.jpg){:width="400px":height="300px"}
+![Meeting local village children along the route](/data/images/travel/bison_ultra_2023/our_hero.jpg){:width="400px":height="300px"}
 
 
 With Anant
 
-![](/data/images/travel/bison_ultra_2023/with_anant.jpg){:width="400px":height="300px"}
+![Running with fellow ultra runner Anant Kansal](/data/images/travel/bison_ultra_2023/with_anant.jpg){:width="400px":height="300px"}
 
 
 My running partner
 
-![](/data/images/travel/bison_ultra_2023/my_running_partner.jpg){:width="400px":height="300px"}
+![Pradeep and his 50K running partner Jay](/data/images/travel/bison_ultra_2023/my_running_partner.jpg){:width="400px":height="300px"}
 
 
 Final downhill with Jai
 
-![](/data/images/travel/bison_ultra_2023/with_jai_final_down_hill.jpg){:width="400px":height="300px"}
+![Final downhill stretch towards the finish line with Jay](/data/images/travel/bison_ultra_2023/with_jai_final_down_hill.jpg){:width="400px":height="300px"}
 
 
 Final steps to finish line
 
-![](/data/images/travel/bison_ultra_2023/final_steps_to_finish.jpg){:width="400px":height="300px"}
+![The emotional final steps of the 50K Bison Ultra](/data/images/travel/bison_ultra_2023/final_steps_to_finish.jpg){:width="400px":height="300px"}
 
-![](/data/images/travel/bison_ultra_2023/finish_line_with_suresh.jpg){:width="400px":height="300px"}
-
-
-![](/data/images/travel/bison_ultra_2023/last_steps_finish_line.jpg){:width="400px":height="300px"}
+![Finishing the race with Suresh at Yercaud](/data/images/travel/bison_ultra_2023/finish_line_with_suresh.jpg){:width="400px":height="300px"}
 
 
-![](/data/images/travel/bison_ultra_2023/finish_line.jpg){:width="400px":height="300px"}
+![The last few meters before the finish line](/data/images/travel/bison_ultra_2023/last_steps_finish_line.jpg){:width="400px":height="300px"}
+
+
+![Crossing the Bison Ultra 2023 50K finish line](/data/images/travel/bison_ultra_2023/finish_line.jpg){:width="400px":height="300px"}
 
 
 Medal earned
 
-![](/data/images/travel/bison_ultra_2023/medal_earned.jpg){:width="400px":height="300px"}
+![The hard-earned Bison Ultra 50K finisher medal](/data/images/travel/bison_ultra_2023/medal_earned.jpg){:width="400px":height="300px"}
 
 
 Finisher pic
 
-![](/data/images/travel/bison_ultra_2023/finsher_pic.jpg){:width="400px":height="300px"}
+![Pradeep Pant Bison Ultra 2023 finisher photo](/data/images/travel/bison_ultra_2023/finsher_pic.jpg){:width="400px":height="300px"}
 
 
 Medal pic solo
 
-![](/data/images/travel/bison_ultra_2023/medal_pic_solo.jpg){:width="400px":height="300px"}
+![Solo photo with the 50K trail finisher medal](/data/images/travel/bison_ultra_2023/medal_pic_solo.jpg){:width="400px":height="300px"}
 
 
 Medal pic with Jaisingh
 
-![](/data/images/travel/bison_ultra_2023/medal_pic_with_jai.jpg){:width="400px":height="300px"}
+![Celebrating the finish with running partner Jaisingh](/data/images/travel/bison_ultra_2023/medal_pic_with_jai.jpg){:width="400px":height="300px"}
 
 
 With Coach Kay
 
-![](/data/images/travel/bison_ultra_2023/with_coach.jpg){:width="400px":height="300px"}
+![Finisher photo with Race Director Coach Kay](/data/images/travel/bison_ultra_2023/with_coach.jpg){:width="400px":height="300px"}
 
 
 Before return
 
-![](/data/images/travel/bison_ultra_2023/at_our_stay.jpg){:width="400px":height="300px"}
+![Ultra team gathering at the stay before returning home](/data/images/travel/bison_ultra_2023/at_our_stay.jpg){:width="400px":height="300px"}
 
 
 before leaving Heaven's Lodge
 
-![](/data/images/travel/bison_ultra_2023/before_leaving_heavens_lodge.jpg){:width="400px":height="300px"}
+![Final group photo at Heavens Lodge Yercaud](/data/images/travel/bison_ultra_2023/before_leaving_heavens_lodge.jpg){:width="400px":height="300px"}
 
 Met podium finishers on return
 
-![](/data/images/travel/bison_ultra_2023/with_podium_finishers.jpg){:width="400px":height="300px"}
+![Meeting podium finishers from the Bison Ultra race](/data/images/travel/bison_ultra_2023/with_podium_finishers.jpg){:width="400px":height="300px"}
 
 
 I loved the customized medal with my name on it!
 
-![](/data/images/travel/bison_ultra_2023/customized_medal.jpg){:width="400px":height="300px"}
+![Customized Bison Ultra finisher medal with name engraved](/data/images/travel/bison_ultra_2023/customized_medal.jpg){:width="400px":height="300px"}

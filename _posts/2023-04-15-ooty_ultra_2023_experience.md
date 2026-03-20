@@ -1,10 +1,10 @@
 ---
-title: 'Ooty Ultra 2023: Returning for the 30K High-Altitude Run in Ooty'
+title: 'Ooty Ultra (OOTYULTRA) 2023: Returning for the 30K High-Altitude Run in Ooty'
 date: 2023-04-15
 author: Pradeep Pant
 layout: post
 categories: [fitness, running]
-description: 'Exploring Ooty Ultra 2023 - a 30K high-altitude road run in the Nilgiris. My experience with EV travel to Ooty, the challenging race course, and personal improvements.'
+description: 'Exploring Ooty Ultra (OOTYULTRA) 2023 - a 30K high-altitude road run in the Nilgiris. My experience with EV travel to Ooty, the challenging race course, and personal improvements.'
 ---
 
 **Location:** Ooty, Nilgiris, India
@@ -15,7 +15,7 @@ description: 'Exploring Ooty Ultra 2023 - a 30K high-altitude road run in the Ni
 
 **Date:** 2nd April 2023
 
-This is my second time at Ooty Ultra. Check last year's 2022 experience blog [here](/running/ootyultra_2022_experience/). Running in Ooty is always a challenge due to the elevation and unpredictable weather, but the scenic beauty of the Nilgiris makes every Ooty Ultra edition special.
+This is my second time at Ooty Ultra (OOTYULTRA). Check last year's 2022 experience blog [here](/running/ootyultra_2022_experience/). Running in Ooty is always a challenge due to the elevation and unpredictable weather, but the scenic beauty of the Nilgiris makes every Ooty Ultra (OOTYULTRA) edition special.
 
 To prepare for it, I just followed my daily workout i.e. a mix of cycling, running, and strength workouts. 
 

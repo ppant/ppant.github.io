@@ -1,10 +1,10 @@
 ---
-title: 'Ooty Ultra 2022: My First Ultra Running Experience in Ooty'
+title: 'Ooty Ultra (OOTYULTRA) 2022: My First Ultra Running Experience in Ooty'
 date: 2022-04-16
 author: Pradeep Pant
 layout: post
 categories: [fitness, running]
-description: 'A detailed race report and experience of my first ultra run at Ooty Ultra 2022. Insights on the 30K course, elevation, and the beautiful Nilgiris landscape.'
+description: 'A detailed race report and experience of my first ultra run at Ooty Ultra (OOTYULTRA) 2022. Insights on the 30K course, elevation, and the beautiful Nilgiris landscape.'
 ---
 
 **Location:** Ooty, Nilgiris, India
@@ -15,7 +15,7 @@ description: 'A detailed race report and experience of my first ultra run at Oot
 
 **Date:** 3rd April 2022
 
-[Ooty Ultra 2022](https://ootyultra.kfita.in/) was my first ultra run experience, though by distance it was less than a full marathon but the level of difficulty and elevation was intense. Running in Ooty at high altitude (2100m to 2700m) is a unique experience that requires both physical and mental grit.
+[Ooty Ultra (OOTYULTRA) 2022](https://ootyultra.kfita.in/) was my first ultra run experience, though by distance it was less than a full marathon but the level of difficulty and elevation was intense. Running in Ooty at high altitude (2100m to 2700m) is a unique experience that requires both physical and mental grit.
 
 To prepare for it I just followed my daily workout i.e. mix of cycling and running and strength workouts. 
 

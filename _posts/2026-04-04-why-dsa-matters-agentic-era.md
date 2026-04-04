@@ -87,7 +87,7 @@ One is helpless. The other is empowered.
 
 ## Get Started
 
-I've maintained my [DS-Algos-Python repository](https://github.com/ppant/DS-Algos-Python) (*and recenlty revamped*) since 2017 with:
+I've maintained my [DS-Algos-Python repository](https://github.com/ppant/DS-Algos-Python) (*and recently revamped*) since 2017 with:
 - Fundamental data structures and algorithms
 - Multiple solution approaches
 - Real-world examples

@@ -48,7 +48,7 @@ When agents retrieve information, they use **binary search** and **hash tables**
 ## Why DSA Matters Now
 
 **1. Understand Agent Decisions**  
-When an agent uses recursion, caching, or systematic search—you need DSA knowledge to evaluate if that's intelligent or wasteful.
+When an agent uses recursion, caching, or systematic search, you need DSA knowledge to evaluate if that's intelligent or wasteful.
 
 **2. Debug Failures**  
 Wrong answers often trace back to algorithmic inefficiency or wrong data structure choice. Without DSA, you're guessing.
@@ -57,7 +57,7 @@ Wrong answers often trace back to algorithmic inefficiency or wrong data structu
 The difference between a 100ms response and 10 seconds is algorithm selection: Merge Sort vs. Bubble Sort, Hash Table vs. Linear Search.
 
 **4. Spot Security Issues**  
-Hash collisions, stack overflows, timing attacks—all algorithmic vulnerabilities that AI systems inherit.
+Hash collisions, stack overflows, timing attacks, all algorithmic vulnerabilities that AI systems inherit.
 
 **5. Future-Proof Your Career**  
 AI tools evolve. Algorithmic thinking is eternal. Developers who understand DSA thrive; those who skip it struggle at scale.
@@ -67,7 +67,7 @@ AI tools evolve. Algorithmic thinking is eternal. Developers who understand DSA 
 ## The Real Example
 
 **Without DSA:**  
-> "My AI agent is running out of tokens."
+> *"My AI agent is running out of tokens."*
 
 **With DSA:**  
 > "My agent uses depth-first search (storing the entire call stack). I should switch to breadth-first search or implement iterative deepening to reduce memory overhead."
@@ -81,7 +81,7 @@ One is helpless. The other is empowered.
 - **Data Structures**: Arrays, Hashing, Linked Lists, Stacks, Queues, Trees, Graphs, Heaps
 - **Algorithms**: Sorting, Searching, Graph Traversal, Dynamic Programming, Recursion
 - **Complexity**: Why <code>O(n²)</code> breaks, why <code>O(log n)</code> is magical, why <code>O(n!)
-</code> means "don't"
+</code> means *"don't"*
 
 ---
 

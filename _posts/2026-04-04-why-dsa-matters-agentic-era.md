@@ -3,19 +3,17 @@ layout: post
 title: "Why DSA Matters in the Agentic Era"
 date: 2026-04-04 09:21:03
 author: ppant
-categories: [DSA, Agentic Era]
+categories: [tech, software, Machine Learning ]
 description: "Exploring the importance of DSA in the context of the agentic era."
 tags: [DSA, AI, Fundamentals, Education, Technology]
 excerpt: "Understanding the significance of Data Structures and Algorithms in today's rapidly evolving AI landscape."
 ---
 
-# Why Data Structures & Algorithms Still Matter in the Agentic Era
-
 ## The Paradox
 
 We're in a fascinating contradiction. In 2017, when I started my [Data Structures and Algorithms repository](https://github.com/ppant/DS-Algos-Python), AI was niche. Today, AI agents solve complex problems autonomously. Yet **understanding DSA has never been more critical**.
 
-Why? Because AI agents are not magic—they run algorithms. If you don't understand the algorithms, you won't understand why they work or when they fail.
+Why? Because AI agents are not magic, they run algorithms. If you don't understand the algorithms, you won't understand why they work or when they fail.
 
 ---
 
@@ -23,7 +21,7 @@ Why? Because AI agents are not magic—they run algorithms. If you don't underst
 
 I'm seeing developers learn ChatGPT and coding assistants before understanding:
 - Why time complexity matters
-- When to use a hash table vs. a linked list  
+- When to use a hash table vs a linked list  
 - How agents actually make decisions
 
 This creates blind spots:
@@ -43,7 +41,7 @@ When an AI agent plans steps, it's using **graph algorithms** (BFS/DFS) and **dy
 When models process information efficiently, they're using **tree traversal**, **stacks/queues**, and **sorting algorithms**. The difference between milliseconds and seconds comes from algorithmic efficiency.
 
 ### Vector Search
-When agents retrieve information, they use **binary search** and **hash tables** for O(log n) vs O(n) performance. Scale matters.
+When agents retrieve information, they use **binary search** and **hash tables** for <code>O(log n)</code> vs <code>O(n)</code> performance. Scale matters.
 
 ---
 
@@ -82,17 +80,17 @@ One is helpless. The other is empowered.
 
 - **Data Structures**: Arrays, Hashing, Linked Lists, Stacks, Queues, Trees, Graphs, Heaps
 - **Algorithms**: Sorting, Searching, Graph Traversal, Dynamic Programming, Recursion
-- **Complexity**: Why O(n²) breaks, why O(log n) is magical, why O(n!) means "don't"
+- **Complexity**: Why <code>O(n²)</code> breaks, why <code>O(log n)</code> is magical, why <code>O(n!)
+</code> means "don't"
 
 ---
 
 ## Get Started
 
-I've maintained my [DS-Algos-Python repository](https://github.com/ppant/DS-Algos-Python) since 2017 with:
+I've maintained my [DS-Algos-Python repository](https://github.com/ppant/DS-Algos-Python) (*and recently revamped*) since 2017 with:
 - Fundamental data structures and algorithms
 - Multiple solution approaches
 - Real-world examples
-- A [learning path](https://github.com/ppant/DS-Algos-Python#learning-path) for all levels
 
 ---
 
@@ -116,6 +114,6 @@ The agentic era doesn't make DSA obsolete. It makes it **essential**.
 
 Start learning today. 🚀
 
----
 
-*Check out my [DS-Algos-Python repo](https://github.com/ppant/DS-Algos-Python) to begin your journey.*
+Thanks for reading!
+---

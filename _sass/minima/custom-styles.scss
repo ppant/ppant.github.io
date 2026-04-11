@@ -1,0 +1,27 @@
+// Widen the page wrapper to use more screen real estate
+.wrapper {
+  max-width: 960px;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+// Stop theme brand color bleeding into homepage headings
+.pp-hero-name,
+.pp-pillar-title {
+  color: #1a1a1a !important;
+  font-family: 'Playfair Display', serif !important;
+}
+
+// Stop theme styling all h1/h2 with brand color on homepage
+.pp-page h1,
+.pp-page h2 {
+  color: #1a1a1a;
+  border: none;
+  padding: 0;
+  margin: 0;
+}
+
+// Remove default margin/padding minima adds to page content
+.page-content .wrapper {
+  padding-top: 1rem;
+}

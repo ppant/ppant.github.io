@@ -20,7 +20,7 @@ Hastie, Tibshirani, and Friedman (2009 )
 
 <ul class="wp-block-gallery columns-1 is-cropped">
   <li class="blocks-gallery-item">
-    <figure><img src="/wp-content/uploads/2019/03/ESLR_book_front_page.png" alt="" data-id="1942" data-link="/eslr_book_front_page/" class="wp-image-1942" srcset="/wp-content/uploads/2019/03/ESLR_book_front_page.png 631w, /wp-content/uploads/2019/03/ESLR_book_front_page-264x300.png 264w" sizes="(max-width: 631px) 100vw, 631px" /></figure>
+    <figure><img src="/assets/images/ESLR_book_front_page.png" alt="" data-id="1942" data-link="/eslr_book_front_page/" class="wp-image-1942" srcset="/assets/images/ESLR_book_front_page.png 631w, /assets/images/ESLR_book_front_page-264x300.png 264w" sizes="(max-width: 631px) 100vw, 631px" /></figure>
   </li>
 </ul>
 

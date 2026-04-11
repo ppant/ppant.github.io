@@ -15,7 +15,7 @@ Greg Mckeown
 [Essentialism &#8211; The Disciplined Pursuit of Less](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0804137382)  
 <figure class="wp-block-image">
 
-<img src="/wp-content/uploads/2019/04/essentialism.png" alt="" class="wp-image-2012" srcset="/wp-content/uploads/2019/04/essentialism.png 393w, /wp-content/uploads/2019/04/essentialism-221x300.png 221w" sizes="(max-width: 393px) 100vw, 393px" /> </figure> 
+<img src="/assets/images/essentialism.png" alt="" class="wp-image-2012" srcset="/assets/images/essentialism.png 393w, /assets/images/essentialism-221x300.png 221w" sizes="(max-width: 393px) 100vw, 393px" /> </figure> 
 
 ## Theme
 

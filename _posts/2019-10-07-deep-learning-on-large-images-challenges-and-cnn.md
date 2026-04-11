@@ -16,7 +16,7 @@ so if you put in a deep network then x will be 3M, and suppose if first hidden l
 
 This is just for a 1MB image but in computer vision problem you don't want to stick with using just tiny images using bigger images results in overfitting and huge input feature vector so here comes convolution operation which is the basic building block of Convolutional Neural Network (CNN).
 
-  ![](/wp-content/uploads/2019/10/deep_learning_on_large_images-1024x580.png "Deep learning on large images")
+  ![](/assets/images/deep_learning_on_large_images-1024x580.png "Deep learning on large images")
 
 *Image Source: Andrew Ng Deep Learning Course* 
 

@@ -96,8 +96,10 @@ I enjoy working with teams that value clarity, fundamentals, and thoughtful engi
 
 Outside of work, I’m deeply interested in trail running, endurance sports, and community driven fitness initiatives. I document my running journeys, travel, and learnings on my blog.
 
-**Latest Highlights:**  
-👉 [2025 Race Diary – Five Runs, One Journey](/running/run_diary_2025/)  
+**Latest Highlights:**
+
+👉 [Why DSA Matters in the Agentic Era](tech/software/machine%20learning/why-dsa-matters-agentic-era/)    
+👉 [2025 Race Diary – Five Runs, One Journey](/fitness/running/run_diary_2025/)  
 👉 [Nag Mandir Parikrma Run – A Community Initiative from the Himalayas](/community/running/nag_devta_parikrama_run/)
 
 → [Read more running and travel posts](/blog/)

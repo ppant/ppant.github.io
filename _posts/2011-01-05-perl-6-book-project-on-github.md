@@ -4,6 +4,7 @@ title: Perl 6 book project on github
 date: 2011-01-05T14:09:24+05:30
 author: Pradeep Pant
 layout: post
+categories: [life]
 guid: https://ppant.wordpress.com/2011/01/05/perl-6-book-project-on-github/
 permalink: /2011/01/05/perl-6-book-project-on-github/
 jabber_published:

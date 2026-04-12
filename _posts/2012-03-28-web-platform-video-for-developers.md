@@ -7,6 +7,7 @@ excerpt: |
   http://www.youtube.com/watch?v=3i4dtgh3ym0
   <p>I liked the video.. for more visit you can visit https://sites.google.com/a/chromium.org/dev/developers/meet-the-web-platform-companion</p>
 layout: post
+categories: [tech]
 guid: /?p=890
 permalink: /2012/03/28/web-platform-video-for-developers/
 jabber_published:

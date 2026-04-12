@@ -3,6 +3,7 @@ title: 'Online conference in Data Science: ACM & IITM '
 date: 2020-08-30
 author: Pradeep Pant
 layout: post
+categories: [ai-ml]
 category: Tech
 --- 
 

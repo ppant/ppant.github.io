@@ -4,6 +4,7 @@ title: WKHTMLTOPDF PDF engine New release
 date: 2014-02-07T18:25:17+05:30
 author: Pradeep Pant
 layout: post
+categories: [tech]
 guid: /?p=1232
 permalink: /2014/02/07/wkhtmltopdf-pdf-engine-new-release/
 dsq_thread_id:

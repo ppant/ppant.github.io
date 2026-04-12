@@ -3,6 +3,7 @@ title: 'WFH setup and tips...'
 date: 2020-04-18
 author: Pradeep Pant
 layout: post
+categories: [life]
 ---
 In this COVID-19 scenario, everyone is trying to Work From Home depends on the job profile. 
  

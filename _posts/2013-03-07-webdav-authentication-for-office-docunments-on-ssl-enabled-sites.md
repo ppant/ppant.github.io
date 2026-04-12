@@ -4,6 +4,7 @@ title: WEBDAV authentication for Office docunments on SSL enabled sites
 date: 2013-03-07T07:05:31+05:30
 author: Pradeep Pant
 layout: post
+categories: [tech]
 guid: /?p=1031
 permalink: /2013/03/07/webdav-authentication-for-office-docunments-on-ssl-enabled-sites/
 gr_overridden:

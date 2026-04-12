@@ -4,6 +4,7 @@ title: 'Algorithms performance: big O notation: simplified short notes'
 date: 2019-05-03T21:58:49+05:30
 author: Pradeep Pant
 layout: post
+categories: [tech]
 guid: /?p=2022
 permalink: /2019/05/03/algorithms-performance-big-oh-notation-simplified-short-notes/
 ---

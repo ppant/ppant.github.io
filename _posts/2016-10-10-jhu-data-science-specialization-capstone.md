@@ -4,6 +4,7 @@ title: JHU Data Science Specialization Capstone
 date: 2016-10-10T15:47:47+05:30
 author: Pradeep Pant
 layout: post
+categories: [ai-ml]
 guid: /?p=1589
 permalink: /2016/10/10/jhu-data-science-specialization-capstone/
 ---

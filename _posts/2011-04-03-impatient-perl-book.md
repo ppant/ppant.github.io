@@ -4,6 +4,7 @@ title: Impatient Perl book
 date: 2011-04-03T21:22:29+05:30
 author: Pradeep Pant
 layout: post
+categories: [life]
 guid: /?p=447
 permalink: /2011/04/03/impatient-perl-book/
 jabber_published:

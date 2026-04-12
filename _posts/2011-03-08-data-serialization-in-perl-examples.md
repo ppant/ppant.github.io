@@ -4,6 +4,7 @@ title: Data Serialization in Perl examples
 date: 2011-03-08T14:35:39+05:30
 author: Pradeep Pant
 layout: post
+categories: [tech]
 guid: /?p=389
 permalink: /2011/03/08/data-serialization-in-perl-examples/
 jabber_published:

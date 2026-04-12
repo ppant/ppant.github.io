@@ -3,7 +3,7 @@ title: 'Time Series Data Analysis: Headlines: IIITA '
 date: 2020-09-05
 author: Pradeep Pant
 layout: post
-categories: [tech, ai-ml]
+categories: [ai-ml]
 
 ---
 

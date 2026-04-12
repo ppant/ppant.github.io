@@ -4,6 +4,7 @@ title: 'Adding core and custom properties in Microsoft Word (doc), XLS, PPT file
 date: 2019-12-31T23:00:00+05:30
 author: Pradeep Pant
 layout: post
+categories: [tech]
 ---
 Apache POI is the set of Java APIs to manipulate MS Office documents. You can read more about Apache POI [here](https://poi.apache.org/).
 In this post, I am showing a fully working example to push core and custom properties in Microsoft Word (.doc) file.

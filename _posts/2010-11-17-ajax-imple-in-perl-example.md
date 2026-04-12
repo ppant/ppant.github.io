@@ -4,6 +4,7 @@ title: Working With AJAX and Perl with example
 date: 2010-11-17T12:27:22+05:30
 author: Pradeep Pant
 layout: post
+categories: [tech]
 guid: http://ppant.wordpress.com/?p=186
 permalink: /2010/11/17/ajax-imple-in-perl-example/
 jabber_published:

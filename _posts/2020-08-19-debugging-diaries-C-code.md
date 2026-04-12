@@ -3,6 +3,7 @@ title: 'Debugging diaries - C/C++ code'
 date: 2020-08-19
 author: Pradeep Pant
 layout: post
+categories: [tech]
 ---
 ***Sometimes an only a single line of code change can do the magic!!***
 This is one of the most difficult customer issue I have faced and was part of team who has finally solved it. 

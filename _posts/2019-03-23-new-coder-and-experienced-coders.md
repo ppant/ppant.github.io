@@ -4,6 +4,7 @@ title: 'New coder and  Experienced coders'
 date: 2019-03-23T21:17:10+05:30
 author: Pradeep Pant
 layout: post
+categories: [life]
 guid: /?p=1951
 permalink: /2019/03/23/new-coder-and-experienced-coders/
 twitter_share:

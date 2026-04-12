@@ -4,6 +4,7 @@ title: Installing Microsoft TrueType fonts (TTF) on CentOS 4.6 and RHEL 4
 date: 2010-07-19T11:53:27+05:30
 author: Pradeep Pant
 layout: post
+categories: [tech]
 guid: http://ppant.wordpress.com/?p=99
 permalink: /2010/07/19/installing-microsoft-truetype-fonts-ttf-on-centos-4-6/
 jabber_published:

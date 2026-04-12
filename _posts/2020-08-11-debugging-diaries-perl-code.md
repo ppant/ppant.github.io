@@ -3,6 +3,7 @@ title: 'Debugging diaries - Perl code'
 date: 2020-08-11
 author: Pradeep Pant
 layout: post
+categories: [tech]
 ---
 ***Sometimes an only a single line of code change can do the magic!!***
 

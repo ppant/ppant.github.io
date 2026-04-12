@@ -3,6 +3,7 @@ title: 'Moving my blog from WordPress to Jekyll and Github'
 date: 2020-02-16 T19:15:09+05:30
 author: Pradeep Pant
 layout: post
+categories: [tech]
 ---
 
 So finally, I am able to move from WordPress to Jekyll GitHub. So, now onwards no more hosting dependency, no more unnecessary WordPress plugins loading. Now my site loads much faster, no db connection to be made, no PHP or any server side script needed and top of that all the data is with me as a [GitHub repo](https://github.com/ppant/ppant.github.io). how cool is this... 

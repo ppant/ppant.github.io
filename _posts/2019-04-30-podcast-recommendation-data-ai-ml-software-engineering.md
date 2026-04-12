@@ -4,6 +4,7 @@ title: 'Podcast recommendation: Data, AI, ML & Software Engineering'
 date: 2019-04-30T21:57:14+05:30
 author: Pradeep Pant
 layout: post
+categories: [life]
 ---
 
 Currently, I am listening to the following podcast on topics like Software engineering, Data science, AI, ML and many more 

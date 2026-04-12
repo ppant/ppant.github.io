@@ -3,6 +3,7 @@ title: 'Python Julia Interop: future'
 date: 2020-06-30T1:46:03+05:30
 author: Pradeep Pant
 layout: post
+categories: [tech]
 ---
 *“When you see such a tweet from a renowned author about Python and Julialang  interoperability then you feel good about investing time learning in #JuliaLang ”*
 

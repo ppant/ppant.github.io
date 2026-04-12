@@ -4,6 +4,7 @@ title: Tcl/Tk and Perl
 date: 2010-03-31T06:40:41+05:30
 author: Pradeep Pant
 layout: post
+categories: [tech]
 guid: http://ppant.wordpress.com/?p=70
 permalink: /2010/03/31/tcltk-and-perl/
 dsq_thread_id:

@@ -4,6 +4,7 @@ title: Kumaon Himaliya
 date: 2011-05-15T11:10:30+05:30
 author: Pradeep Pant
 layout: post
+categories: [travel]
 guid: /?p=511
 permalink: /2011/05/15/kumaon-himaliya/
 jabber_published:

@@ -4,6 +4,7 @@ title: The history of programming languages
 date: 2011-09-08T09:31:15+05:30
 author: Pradeep Pant
 layout: post
+categories: [tech]
 guid: /?p=636
 permalink: /2011/09/08/the-history-of-programming-languages/
 jabber_published:

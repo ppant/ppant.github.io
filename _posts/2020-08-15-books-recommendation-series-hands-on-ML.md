@@ -3,6 +3,7 @@ title: 'Books recommendation series: Hands-On ML'
 date: 2020-08-15T16:24:27+05:30
 author: Pradeep Pant
 layout: post
+categories: [life]
 ---
 Book 
 

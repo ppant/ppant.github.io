@@ -4,6 +4,7 @@ title: Testing Javascript in Perl applications
 date: 2011-03-16T22:22:43+05:30
 author: Pradeep Pant
 layout: post
+categories: [tech]
 guid: /?p=430
 permalink: /2011/03/16/testing-javascript-in-perl-applications/
 jabber_published:

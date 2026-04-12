@@ -3,6 +3,7 @@ title: 'CNN: Understanding edge detection with an example'
 date: 2019-11-21T21:23:30+05:30
 author: Pradeep Pant
 layout: post
+categories: [ai-ml]
 ---
   The convolution operation is one of the fundamental building blocks of a convolutional neural network and here we'll discuss edge detection as an example to see how the convolution operation works. In my last [post](/2019/10/07/deep-learning-on-large-images-challenges-and-cnn/), we saw how the early layers of the neural network might detect edges and then some later layers might detect parts of objects and then even later layers may detect parts of complete objects like people's faces.
 

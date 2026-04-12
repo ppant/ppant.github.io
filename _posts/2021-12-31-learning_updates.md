@@ -4,7 +4,7 @@ date: 2021-12-31
 author: Pradeep Pant
 layout: post
 category: Tech
-categories: [tech, software]
+categories: [tech]
 ---
 So, we are already at the end of the month, I couldn't write many posts despite multiple posts lying in the draft folder to be fine-tuned and published. The current month was very busy, the later half mostly into log4j understanding and fixing. Apart from the office work here are a few things which I was doing and hopefully will continue in next month.
 

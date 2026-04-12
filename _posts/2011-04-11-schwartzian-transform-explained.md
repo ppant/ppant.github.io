@@ -4,6 +4,7 @@ title: Schwartzian Transform Explained
 date: 2011-04-11T16:45:19+05:30
 author: Pradeep Pant
 layout: post
+categories: [tech]
 guid: /?p=467
 permalink: /2011/04/11/schwartzian-transform-explained/
 jabber_published:

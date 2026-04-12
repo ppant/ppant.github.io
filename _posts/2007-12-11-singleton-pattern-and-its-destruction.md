@@ -4,6 +4,7 @@ title: Singleton pattern and its destruction
 date: 2007-12-11T03:59:26+05:30
 author: Pradeep Pant
 layout: post
+categories: [tech]
 guid: http://ppant.wordpress.com/2007/12/11/singleton-pattern-and-its-destruction/
 permalink: /2007/12/11/singleton-pattern-and-its-destruction/
 delicious:

@@ -4,6 +4,7 @@ title: 'Data Structures and Algorithms in Python Sorting'
 date: 2018-05-15T22:01:48+05:30
 author: Pradeep Pant
 layout: post
+categories: [tech]
 
 ---
 ## Bubble Sort Implementation

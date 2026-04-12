@@ -3,6 +3,7 @@ title: 'Tips to learn Machine Learning'
 date: 2020-05-14
 author: Pradeep Pant
 layout: post
+categories: [ai-ml]
 ---
 In this COVID-19 lockdown time, I am sure many of us want to learn new things. In technology stack **Machine Learning** is the most sought field. As we all know there is no dearth of tutorials/courses on the internet. I think the wisdom lies in choosing one which suits your own learning methodology and also from an authentic source and teacher. 
 

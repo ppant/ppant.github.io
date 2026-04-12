@@ -4,6 +4,7 @@ title: More backtracking examples
 date: 2011-01-31T05:45:30+05:30
 author: Pradeep Pant
 layout: post
+categories: [tech]
 guid: http://ppant.wordpress.com/?p=263
 permalink: /2011/01/31/more-backtracking-examples/
 jabber_published:

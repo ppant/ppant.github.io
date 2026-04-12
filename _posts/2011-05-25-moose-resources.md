@@ -4,6 +4,7 @@ title: Moose resources
 date: 2011-05-25T09:55:19+05:30
 author: Pradeep Pant
 layout: post
+categories: [tech]
 guid: /?p=576
 permalink: /2011/05/25/moose-resources/
 jabber_published:

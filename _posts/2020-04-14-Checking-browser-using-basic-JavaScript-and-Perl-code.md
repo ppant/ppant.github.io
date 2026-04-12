@@ -3,6 +3,7 @@ title: 'Browser detection using basic JavaScript and Perl code'
 date: 2020-04-14T5:34:03+05:30
 author: Pradeep Pant
 layout: post
+categories: [tech]
 ---
 Here is a quick post on how to check the browser name based on ````userAgent ```` 
 property which returns the value of the user-agent header sent by the browser to the server based on the value program can do some actions. This is mainly needed for IE and Edge browsers again Microsoft issue 😭

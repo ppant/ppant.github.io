@@ -4,6 +4,7 @@ title: PDL A way to deal with larger arrays
 date: 2011-02-23T11:29:50+05:30
 author: Pradeep Pant
 layout: post
+categories: [tech]
 guid: /?p=384
 permalink: /2011/02/23/pdl-a-way-to-deal-with-larger-arrays/
 jabber_published:

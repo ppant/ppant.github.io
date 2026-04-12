@@ -4,6 +4,7 @@ title: git push up to a certain commit
 date: 2019-05-06T20:33:35+05:30
 author: Pradeep Pant
 layout: post
+categories: [tech]
 guid: /?p=2030
 permalink: /2019/05/06/git-push-up-to-a-certain-commit/
 ---

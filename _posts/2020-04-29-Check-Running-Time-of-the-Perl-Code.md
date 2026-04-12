@@ -3,6 +3,7 @@ title: 'Check Running Time of the Perl Code'
 date: 2020-04-29
 author: Pradeep Pant
 layout: post
+categories: [tech]
 ---
 
 As a coder debugging is an important and crucial part. Timing functions during a program run is really helpful and crucial in debugging. Below is the quick intro on ````timediff()```` using Perl's Benchmark module. 

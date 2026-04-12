@@ -3,6 +3,7 @@ title: 'Decoupled Content Management Systems: Some thoughts'
 date: 2019-12-17T21:47:37+05:30
 author: Pradeep Pant
 layout: post
+categories: [tech]
 ---
 If we look into existing CMS like Drupal, WordPress, etc there we see that they are still on an old way of delivering the content e.g.; HTML/ CSS to build the page and content storage which is coupled with the UI (maybe they are already in process?).
 

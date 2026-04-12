@@ -4,6 +4,7 @@ title: 'Learning with Anki cards'
 date: 2021-02-28T1:46:03+05:30
 author: Pradeep Pant
 layout: post
+categories: [life]
 ---
 
 

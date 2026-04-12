@@ -4,6 +4,7 @@ title: Perl development journey and books collection
 date: 2019-03-31T18:08:17+05:30
 author: Pradeep Pant
 layout: post
+categories: [life]
 guid: /?p=1961
 permalink: /2019/03/31/perl-development-journey-and-books-collection/
 twitter_share:

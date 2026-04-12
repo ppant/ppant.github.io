@@ -4,6 +4,7 @@ title: Accessing Github API with OAuth example using R
 date: 2016-03-27T08:53:20+05:30
 author: Pradeep Pant
 layout: post
+categories: [tech]
 guid: /?p=1523
 permalink: /2016/03/27/accessing-github-api-with-oauth-example-using-r/
 ---

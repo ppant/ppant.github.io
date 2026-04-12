@@ -3,6 +3,7 @@ title: 'Image classification of Indian cows breed using fastai lib'
 date: 2020-02-29T6:46:03+05:30
 author: Pradeep Pant
 layout: post
+categories: [ai-ml]
 ---
 
 Inspiration of this blog post came from [fast.ai](https://course.fast.ai/videos/?lesson=2) course taught by Jeremy Howard. 

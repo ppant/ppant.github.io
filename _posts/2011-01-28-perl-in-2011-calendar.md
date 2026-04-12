@@ -4,6 +4,7 @@ title: Perl 2011 Calendar
 date: 2011-01-28T10:34:49+05:30
 author: Pradeep Pant
 layout: post
+categories: [tech]
 guid: /?p=279
 permalink: /2011/01/28/perl-in-2011-calendar/
 jabber_published:

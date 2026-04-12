@@ -4,6 +4,7 @@ title: Stanford DB class
 date: 2011-10-19T22:01:17+05:30
 author: Pradeep Pant
 layout: post
+categories: [ai-ml]
 guid: /?p=747
 permalink: /2011/10/19/stanford-db-class/
 jabber_published:

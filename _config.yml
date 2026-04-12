@@ -99,7 +99,7 @@ permalink: /:categories/:title/
 # future:      true
 
 # Specify the author for blog posts
-# author:
+author:
   # name: 'Pradeep Pant'
   # email: 'pp[at]pradeeppant[dot]com'
   # github: ppant

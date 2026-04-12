@@ -2,7 +2,6 @@
 id: 1688
 title: 'Implemeting Data Structures and Algorithms in Python: Problems and solutions Contd..'
 date: 2017-07-22T13:25:22+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: /?p=1688

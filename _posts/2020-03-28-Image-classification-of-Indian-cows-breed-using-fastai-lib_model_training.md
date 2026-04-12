@@ -2,7 +2,6 @@
 title: 'Image classification of Indian cows breed using fastai lib: Train Model'
 
 date: 2020-03-28T1:46:03+05:30
-author: Pradeep Pant
 layout: post
 categories: [ai-ml]
 ---

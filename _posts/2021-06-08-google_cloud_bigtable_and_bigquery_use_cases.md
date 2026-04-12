@@ -1,7 +1,6 @@
 ---
 title: 'When to use Google Cloud BigTable and BigQuery? A Use case..'
 date: 2021-06-08T1:46:03+05:30
-author: Pradeep Pant
 layout: post
 categories: [ai-ml]
 ---

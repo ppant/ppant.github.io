@@ -1,7 +1,6 @@
 ---
 title: 'Process Mining: how to find a right use case'
 date: 2022-09-04
-author: Pradeep Pant
 layout: post
 categories: [ai-ml]
 category: [tech, process-mining]

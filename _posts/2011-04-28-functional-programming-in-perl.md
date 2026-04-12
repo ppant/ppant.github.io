@@ -2,7 +2,6 @@
 id: 471
 title: 'Functional Programming in Perl: Part 1'
 date: 2011-04-28T18:00:17+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: /?p=471

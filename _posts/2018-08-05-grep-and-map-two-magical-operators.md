@@ -2,7 +2,6 @@
 id: 791
 title: grep and map-Two magical operators
 date: 2018-08-05T18:07:37+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: /?p=791

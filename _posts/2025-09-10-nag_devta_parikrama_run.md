@@ -1,7 +1,6 @@
 ---
 title: "Nag Mandir Parikrma Run 2025: Community Fitness and Tradition in the Himalayas"
 date: 2025-09-10
-author: Pradeep Pant
 layout: post
 categories: [community, running]
 description: 'Exploring the Nag Mandir Parikrma Run 2025 in Berinag, Uttarakhand. A community initiative promoting fitness and local Himalayan traditions.'

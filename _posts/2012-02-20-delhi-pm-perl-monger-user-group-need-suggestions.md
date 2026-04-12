@@ -2,7 +2,6 @@
 id: 910
 title: 'Delhi.pm Perl Monger user group: Need suggestions'
 date: 2012-02-20T20:13:39+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: /?p=877

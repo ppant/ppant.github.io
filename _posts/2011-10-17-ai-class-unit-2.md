@@ -2,7 +2,6 @@
 id: 738
 title: AI Class Unit 2 Problem Solving
 date: 2011-10-17T20:34:56+05:30
-author: Pradeep Pant
 layout: post
 categories: [ai-ml]
 guid: /?p=738

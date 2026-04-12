@@ -1,7 +1,6 @@
 ---
 title: 'BITOSA Global Conclave 2018: Travel memoir'
 date: 2020-10-02
-author: Pradeep Pant
 layout: post
 categories: [travel]
 ---

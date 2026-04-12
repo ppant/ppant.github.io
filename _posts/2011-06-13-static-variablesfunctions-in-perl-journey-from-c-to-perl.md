@@ -2,7 +2,6 @@
 id: 590
 title: 'Static variables/functions in Perl: Journey from C++ to Perl'
 date: 2011-06-13T11:14:19+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: /?p=590

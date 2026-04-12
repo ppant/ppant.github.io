@@ -2,7 +2,6 @@
 id: 2161
 title: Reinforcement Learning Explained in brief for a layperson
 date: 2019-11-06T20:38:46+05:30
-author: Pradeep Pant
 layout: post
 categories: [ai-ml]
 guid: /?p=2161

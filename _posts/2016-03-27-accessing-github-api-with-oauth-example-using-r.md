@@ -2,7 +2,6 @@
 id: 1523
 title: Accessing Github API with OAuth example using R
 date: 2016-03-27T08:53:20+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: /?p=1523

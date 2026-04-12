@@ -2,7 +2,6 @@
 id: 74
 title: 'Perl&#8217;s hidden treasure (The Schwartzian Transform)'
 date: 2010-04-07T16:59:27+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: http://ppant.wordpress.com/?p=74

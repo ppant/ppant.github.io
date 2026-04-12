@@ -1,7 +1,6 @@
 ---
 title: Apache POI env setting in CentOS 6+, Java 8 and Perl 5
 date: 2019-12-09T16:57:13+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 ---

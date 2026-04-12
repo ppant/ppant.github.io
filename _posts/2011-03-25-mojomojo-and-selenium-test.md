@@ -2,7 +2,6 @@
 id: 429
 title: MojoMojo and Selenium test
 date: 2011-03-25T09:50:24+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: /?p=429

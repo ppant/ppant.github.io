@@ -2,7 +2,6 @@
 id: 2237
 title: 'Expiry and revive of my blog: Some early learning of 2020'
 date: 2020-01-19T19:15:09+05:30
-author: Pradeep Pant
 layout: post
 categories: [life]
 ---

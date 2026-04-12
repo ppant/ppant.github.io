@@ -2,7 +2,6 @@
 id: 2046
 title: Chandrayan-2 maneuvering
 date: 2019-07-25T21:30:23+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: /?p=2046

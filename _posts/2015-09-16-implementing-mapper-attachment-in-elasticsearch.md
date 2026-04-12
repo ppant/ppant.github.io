@@ -2,7 +2,6 @@
 id: 1468
 title: Implementing mapper attachment in elasticsearch
 date: 2015-09-16T17:19:21+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: /?p=1468

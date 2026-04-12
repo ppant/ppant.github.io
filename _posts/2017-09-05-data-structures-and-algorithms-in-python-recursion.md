@@ -2,7 +2,6 @@
 id: 1696
 title: 'Data Structures and Algorithms in Python Recursion'
 date: 2017-09-05T18:26:16+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 ---

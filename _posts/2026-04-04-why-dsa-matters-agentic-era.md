@@ -2,7 +2,6 @@
 layout: post
 title: "Why DSA Matters in the Agentic Era"
 date: 2026-04-04 09:21:03
-author: ppant
 categories: [tech]
 description: "Exploring the importance of DSA in the context of the agentic era."
 tags: [DSA, AI, Fundamentals, Education, Technology]

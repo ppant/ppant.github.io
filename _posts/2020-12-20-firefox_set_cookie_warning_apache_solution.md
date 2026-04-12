@@ -1,7 +1,6 @@
 ---
 title: 'Firefox SameSite Set cookie reject issue apache solution'
 date: 2020-12-20
-author: Pradeep Pant
 layout: post
 categories: [tech]
 category: Tech

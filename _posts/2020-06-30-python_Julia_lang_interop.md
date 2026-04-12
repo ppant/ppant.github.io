@@ -1,7 +1,6 @@
 ---
 title: 'Python Julia Interop: future'
 date: 2020-06-30T1:46:03+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 ---

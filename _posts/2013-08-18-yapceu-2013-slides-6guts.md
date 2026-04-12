@@ -2,7 +2,6 @@
 id: 1141
 title: YAPC::EU 2013 Slides
 date: 2013-08-18T09:34:29+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: /?p=1141

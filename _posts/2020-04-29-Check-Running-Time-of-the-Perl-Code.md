@@ -1,7 +1,6 @@
 ---
 title: 'Check Running Time of the Perl Code'
 date: 2020-04-29
-author: Pradeep Pant
 layout: post
 categories: [tech]
 ---

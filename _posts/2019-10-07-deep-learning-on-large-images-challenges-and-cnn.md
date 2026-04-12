@@ -1,7 +1,6 @@
 ---
 title: 'Deep learning on large images: challenges and CNN'
 date: 2019-10-07T20:13:25+05:30
-author: Pradeep Pant
 layout: post
 categories: [ai-ml]
 ---

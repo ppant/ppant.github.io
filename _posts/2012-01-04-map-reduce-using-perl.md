@@ -2,7 +2,6 @@
 id: 827
 title: Map Reduce using Perl
 date: 2012-01-04T19:32:35+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: /?p=827

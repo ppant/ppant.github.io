@@ -2,7 +2,6 @@
 id: 757
 title: 'List.js: Cross browser native JavaScript'
 date: 2011-10-25T20:54:41+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: /?p=757

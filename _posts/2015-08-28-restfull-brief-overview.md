@@ -2,7 +2,6 @@
 id: 1455
 title: RESTfull brief overview
 date: 2015-08-28T22:10:35+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: /?p=1455

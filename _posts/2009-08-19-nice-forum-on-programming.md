@@ -2,7 +2,6 @@
 id: 26
 title: Nice forum on programming
 date: 2009-08-19T22:08:52+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 category: Tech

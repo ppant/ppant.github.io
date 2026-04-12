@@ -2,7 +2,6 @@
 id: 32
 title: Open source PDF engine with CSS
 date: 2010-02-04T11:59:08+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: http://ppant.wordpress.com/?p=32

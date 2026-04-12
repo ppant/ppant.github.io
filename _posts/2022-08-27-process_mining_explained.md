@@ -1,7 +1,6 @@
 ---
 title: 'Process mining explained'
 date: 2022-08-27
-author: Pradeep Pant
 layout: post
 categories: [ai-ml]
 category: [tech, process-mining]

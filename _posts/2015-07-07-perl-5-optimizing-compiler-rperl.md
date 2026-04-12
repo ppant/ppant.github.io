@@ -2,7 +2,6 @@
 id: 1443
 title: Perl 5 Optimizing Compiler, RPerl
 date: 2015-07-07T10:19:27+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: /?p=1443

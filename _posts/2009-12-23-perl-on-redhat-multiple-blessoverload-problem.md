@@ -2,7 +2,6 @@
 id: 30
 title: 'Perl on RedHat &#8211; multiple bless/overload problem'
 date: 2009-12-23T20:27:26+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 category: Tech

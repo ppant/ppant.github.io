@@ -1,7 +1,6 @@
 ---
 title: 'C and Modern C whats new'
 date: 2020-08-22
-author: Pradeep Pant
 layout: post
 categories: [tech]
 ---

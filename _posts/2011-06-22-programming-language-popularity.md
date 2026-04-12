@@ -2,7 +2,6 @@
 id: 597
 title: Programming Language Popularity
 date: 2011-06-22T06:05:20+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: /?p=597

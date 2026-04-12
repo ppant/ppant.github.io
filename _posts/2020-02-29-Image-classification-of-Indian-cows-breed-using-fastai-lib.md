@@ -1,7 +1,6 @@
 ---
 title: 'Image classification of Indian cows breed using fastai lib'
 date: 2020-02-29T6:46:03+05:30
-author: Pradeep Pant
 layout: post
 categories: [ai-ml]
 ---

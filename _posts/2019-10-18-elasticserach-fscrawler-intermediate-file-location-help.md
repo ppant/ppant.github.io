@@ -2,7 +2,6 @@
 id: 2138
 title: elasticserach FScrawler intermediate file location? help
 date: 2019-10-18T21:57:03+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: /?p=2138

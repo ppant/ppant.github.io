@@ -15,7 +15,7 @@ layout: default
     <h1 class="post-title">{{ page.title }}</h1>
     <div class="post-meta">
       <time>{{ page.date | date: "%b %-d, %Y" }}</time>
-      {% if page.author %} &nbsp;·&nbsp; {{ page.author }}{% endif %}
+      {% if site.author.name %} &nbsp;·&nbsp; {{ site.author.name }}{% endif %}
     </div>
   </div>
   <div class="post-content">

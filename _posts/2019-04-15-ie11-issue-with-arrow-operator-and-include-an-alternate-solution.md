@@ -2,7 +2,6 @@
 id: 1957
 title: 'IE11 issue with arrow and includes JavaScript method and an alternate solution'
 date: 2019-04-15T21:46:03+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 ---

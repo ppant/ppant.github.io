@@ -2,7 +2,6 @@
 id: 160
 title: Modern Perl Development and Perl 6
 date: 2010-08-25T21:00:25+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: http://ppant.wordpress.com/?p=160

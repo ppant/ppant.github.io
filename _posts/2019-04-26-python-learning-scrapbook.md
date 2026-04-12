@@ -2,7 +2,6 @@
 id: 2007
 title: 'Python learning: scrapbook'
 date: 2019-04-26T21:17:57+05:30
-author: Pradeep Pant
 layout: post
 categories: [life]
 guid: /?p=2007

@@ -2,7 +2,6 @@
 id: 1946
 title: 'Books recommendation series: Predictive analytics'
 date: 2019-03-22T20:47:50+05:30
-author: Pradeep Pant
 layout: post
 categories: [life]
 guid: /?p=1946

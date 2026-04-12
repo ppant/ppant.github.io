@@ -1,7 +1,6 @@
 ---
 title: 'Why I am doing Ph.D.'
 date: 2020-08-29
-author: Pradeep Pant
 layout: post
 categories: [life]
 category: Tech

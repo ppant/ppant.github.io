@@ -1,7 +1,6 @@
 ---
 title: 'Microsoft Edge and IE issue again and workaround'
 date: 2020-04-18T5:34:03+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 ---

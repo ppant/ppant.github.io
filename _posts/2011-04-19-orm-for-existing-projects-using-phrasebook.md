@@ -2,7 +2,6 @@
 id: 475
 title: ORM for existing projects using Phrasebook
 date: 2011-04-19T14:14:59+05:30
-author: Pradeep Pant
 layout: post
 categories: [life]
 guid: /?p=475

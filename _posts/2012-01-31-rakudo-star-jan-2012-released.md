@@ -2,7 +2,6 @@
 id: 849
 title: Rakudo Star Jan 2012 Released
 date: 2012-01-31T20:55:49+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: /?p=849

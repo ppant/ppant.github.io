@@ -2,7 +2,6 @@
 id: 2090
 title: Prognostic Analytics for Predictive Maintenance, a case study
 date: 2019-09-21T17:53:12+05:30
-author: Pradeep Pant
 layout: post
 categories: [ai-ml]
 guid: /?p=2090

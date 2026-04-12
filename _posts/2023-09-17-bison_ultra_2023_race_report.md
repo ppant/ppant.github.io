@@ -1,7 +1,6 @@
 ---
 title: 'Bison Ultra 2023: Conquering the 50K Trail in Yercaud Hills'
 date: 2023-09-17
-author: Pradeep Pant
 layout: post
 categories: [running]
 description: 'A comprehensive race report of Bison Ultra 2023. Insights into the 50K trail course in Yercaud Hills, including elevation profile, terrain challenges, and preparation tips.'

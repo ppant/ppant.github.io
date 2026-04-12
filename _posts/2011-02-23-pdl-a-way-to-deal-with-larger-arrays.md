@@ -2,7 +2,6 @@
 id: 384
 title: PDL A way to deal with larger arrays
 date: 2011-02-23T11:29:50+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: /?p=384

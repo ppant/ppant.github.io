@@ -1,7 +1,6 @@
 ---
 title: 'CNN: Understanding edge detection with an example'
 date: 2019-11-21T21:23:30+05:30
-author: Pradeep Pant
 layout: post
 categories: [ai-ml]
 ---

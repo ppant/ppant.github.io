@@ -2,7 +2,6 @@
 id: 6
 title: PharseBook Design Pattern
 date: 2008-03-26T10:45:36+05:30
-author: Pradeep Pant
 layout: post
 categories: [life]
 category: Tech

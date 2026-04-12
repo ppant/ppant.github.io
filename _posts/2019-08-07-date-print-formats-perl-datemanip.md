@@ -2,7 +2,6 @@
 id: 2053
 title: Date print formats Perl Date::Manip
 date: 2019-08-07T21:07:33+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: /?p=2053

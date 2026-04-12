@@ -100,8 +100,8 @@ permalink: /:categories/:title/
 
 # Specify the author for blog posts
 author:
-  # name: 'Pradeep Pant'
-  # email: 'pp[at]pradeeppant[dot]com'
+  name: 'Pradeep K. Pant'
+  email: 'pp[at]pradeeppant[dot]com'
   # github: ppant
   # instagram: pradeepkpant
   # instagram_url: www.instagram.com/pradeepkpant

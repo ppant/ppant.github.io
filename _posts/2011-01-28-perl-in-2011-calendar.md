@@ -2,7 +2,6 @@
 id: 279
 title: Perl 2011 Calendar
 date: 2011-01-28T10:34:49+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: /?p=279

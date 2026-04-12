@@ -2,7 +2,6 @@
 id: 66
 title: Perl Programming/Unicode UTF-8
 date: 2010-03-14T22:28:59+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: http://ppant.wordpress.com/?p=66

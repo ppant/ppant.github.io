@@ -2,7 +2,6 @@
 id: 1351
 title: Import RDBMS table to HDFS with sqoop from postgreSQL
 date: 2014-11-14T20:39:44+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: /?p=1351

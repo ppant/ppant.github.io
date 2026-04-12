@@ -2,7 +2,6 @@
 id: 1959
 title: Microsoft Visio and infamous Windings font
 date: 2019-04-16T21:37:05+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 category: Tech

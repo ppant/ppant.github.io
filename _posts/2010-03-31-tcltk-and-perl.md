@@ -2,7 +2,6 @@
 id: 70
 title: Tcl/Tk and Perl
 date: 2010-03-31T06:40:41+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: http://ppant.wordpress.com/?p=70

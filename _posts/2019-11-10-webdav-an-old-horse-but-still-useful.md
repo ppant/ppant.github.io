@@ -2,7 +2,6 @@
 id: 2155
 title: 'WebDAV: an old horse but still useful!'
 date: 2019-11-10T20:17:06+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 ---

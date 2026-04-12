@@ -2,7 +2,6 @@
 id: 634
 title: 'Message: Invalid argument: IE 8 Issue'
 date: 2011-09-09T21:00:57+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: /?p=634

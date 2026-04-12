@@ -1,7 +1,6 @@
 ---
 title: 'Debugging diaries - C/C++ code'
 date: 2020-08-19
-author: Pradeep Pant
 layout: post
 categories: [tech]
 ---

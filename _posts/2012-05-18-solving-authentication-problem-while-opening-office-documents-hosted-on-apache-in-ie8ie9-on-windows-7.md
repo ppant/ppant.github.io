@@ -2,7 +2,6 @@
 id: 903
 title: Solving the authentication problem while opening Office documents hosted on Apache in IE8/IE9 on Windows 7
 date: 2012-05-18T23:47:58+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: /?p=903

@@ -1,7 +1,6 @@
 ---
 title: 'Browser detection using basic JavaScript and Perl code'
 date: 2020-04-14T5:34:03+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 ---

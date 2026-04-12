@@ -2,7 +2,6 @@
 id: 555
 title: PDF creation in Perl
 date: 2011-05-15T14:15:15+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: /?p=555

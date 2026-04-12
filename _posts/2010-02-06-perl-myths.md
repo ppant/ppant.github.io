@@ -2,7 +2,6 @@
 id: 40
 title: Perl Myths
 date: 2010-02-06T22:34:04+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: http://ppant.wordpress.com/?p=40

@@ -1,7 +1,6 @@
 ---
 title: 'A static blog using Gatsby, Work planning and SE Radio: a coincidence'
 date: 2019-12-04T21:30:00+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 ---

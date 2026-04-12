@@ -2,7 +2,6 @@
 id: 1629
 title: Choropleth Maps in Python
 date: 2017-02-03T22:57:35+05:30
-author: Pradeep Pant
 layout: post
 categories: [ai-ml]
 guid: /?p=1629

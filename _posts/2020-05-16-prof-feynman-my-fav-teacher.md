@@ -1,7 +1,6 @@
 ---
 title: 'Prof. Feynman My fav teacher'
 date: 2020-05-16
-author: Pradeep Pant
 layout: post
 categories: [life]
 ---

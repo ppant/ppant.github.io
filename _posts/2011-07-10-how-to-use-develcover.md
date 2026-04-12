@@ -2,7 +2,6 @@
 id: 604
 title: How to use Devel::Cover
 date: 2011-07-10T06:37:39+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: /?p=604

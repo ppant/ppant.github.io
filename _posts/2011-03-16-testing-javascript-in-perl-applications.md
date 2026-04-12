@@ -2,7 +2,6 @@
 id: 430
 title: Testing Javascript in Perl applications
 date: 2011-03-16T22:22:43+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: /?p=430

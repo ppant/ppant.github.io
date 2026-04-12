@@ -1,7 +1,6 @@
 ---
 title: 'Data Mining and Process mining'
 date: 2022-07-02
-author: Pradeep Pant
 layout: post
 categories: [ai-ml]
 ---

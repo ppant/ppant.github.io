@@ -2,7 +2,6 @@
 id: 1361
 title: One of my fav chess match
 date: 2014-11-12T19:57:57+05:30
-author: Pradeep Pant
 layout: post
 categories: [life]
 guid: /?p=1361

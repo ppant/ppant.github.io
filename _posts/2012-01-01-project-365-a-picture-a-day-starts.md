@@ -2,7 +2,6 @@
 id: 810
 title: 'My Project 365 : A picture a day starts today'
 date: 2012-01-01T01:43:37+05:30
-author: Pradeep Pant
 layout: post
 categories: [life]
 guid: /?p=810

@@ -1,7 +1,6 @@
 ---
 title: 'Data Science for IoT: FDP: Summary'
 date: 2020-10-15
-author: Pradeep Pant
 layout: post
 categories: [ai-ml]
 category: Tech

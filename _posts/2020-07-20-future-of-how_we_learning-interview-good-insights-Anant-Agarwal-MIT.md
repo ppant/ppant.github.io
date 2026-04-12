@@ -1,7 +1,6 @@
 ---
 title: 'Future of how we will be learning: Good insights from a teacher & leader: Dr. Anant Agarwal, MIT'
 date: 2020-07-20T1:46:03+05:30
-author: Pradeep Pant
 layout: post
 categories: [life]
 ---

@@ -1,7 +1,6 @@
 ---
 title: High time to upgrade to HTTP/2
 date: 2019-11-30T22:03:16+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 ---

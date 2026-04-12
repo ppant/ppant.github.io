@@ -2,7 +2,6 @@
 id: 11
 title: Open Source Workflow Engine
 date: 2008-04-24T17:30:42+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 category: Tech

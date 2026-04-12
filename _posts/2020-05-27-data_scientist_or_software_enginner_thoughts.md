@@ -2,7 +2,6 @@
 title: 'Software Engineer or Data Scientist: thoughts'
 
 date: 2020-05-27T1:46:03+05:30
-author: Pradeep Pant
 layout: post
 categories: [ai-ml]
 ---

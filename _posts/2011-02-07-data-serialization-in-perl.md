@@ -2,7 +2,6 @@
 id: 297
 title: Data Serialization in Perl
 date: 2011-02-07T13:34:42+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: /?p=297

@@ -2,7 +2,6 @@
 id: 1743
 title: Deep learning specialization notes
 date: 2018-06-17T21:23:03+05:30
-author: Pradeep Pant
 layout: post
 categories: [ai-ml]
 guid: /?p=1743

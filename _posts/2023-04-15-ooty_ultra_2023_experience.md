@@ -1,7 +1,6 @@
 ---
 title: 'Ooty Ultra (OOTYULTRA) 2023: Returning for the 30K High-Altitude Run in Ooty'
 date: 2023-04-15
-author: Pradeep Pant
 layout: post
 categories: [running]
 description: 'Exploring Ooty Ultra (OOTYULTRA) 2023 - a 30K high-altitude road run in the Nilgiris. My experience with EV travel to Ooty, the challenging race course, and personal improvements.'

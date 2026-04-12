@@ -2,7 +2,6 @@
 id: 1784
 title: 'git quick tip &#8211; branching and merging'
 date: 2018-08-07T20:13:17+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: /?p=1784

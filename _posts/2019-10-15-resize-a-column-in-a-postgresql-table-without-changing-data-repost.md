@@ -2,7 +2,6 @@
 id: 2111
 title: 'Resize a column in a PostgreSQL table without changing data: Repost'
 date: 2019-10-15T19:59:24+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: /?p=2111

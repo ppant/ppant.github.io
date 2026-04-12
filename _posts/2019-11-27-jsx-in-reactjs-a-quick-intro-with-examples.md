@@ -1,7 +1,6 @@
 ---
 title: 'JSX in ReactJS: a quick intro with examples'
 date: 2019-11-27T21:55:47+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 ---

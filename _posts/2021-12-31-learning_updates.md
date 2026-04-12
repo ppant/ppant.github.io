@@ -1,7 +1,6 @@
 ---
 title: 'Summary of the month: December 2021'
 date: 2021-12-31
-author: Pradeep Pant
 layout: post
 category: Tech
 categories: [tech]

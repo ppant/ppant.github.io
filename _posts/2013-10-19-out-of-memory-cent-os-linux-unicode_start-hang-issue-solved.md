@@ -2,7 +2,6 @@
 id: 1188
 title: 'Out of memory Cent OS Linux: unicode_start hang issue: Solved'
 date: 2013-10-19T16:31:00+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: /?p=1188

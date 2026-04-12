@@ -2,7 +2,6 @@
 id: 5
 title: MFC Updates
 date: 2008-01-24T04:04:08+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 category: Tech

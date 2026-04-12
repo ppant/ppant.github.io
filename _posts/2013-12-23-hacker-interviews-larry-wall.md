@@ -2,7 +2,6 @@
 id: 1226
 title: 'Hacker Interviews: Larry Wall'
 date: 2013-12-23T20:24:32+05:30
-author: Pradeep Pant
 layout: post
 categories: [life]
 guid: /?p=1226

@@ -2,7 +2,6 @@
 id: 1918
 title: 'Books recommendation series: Elements of statistical learning'
 date: 2019-03-01T16:16:08+05:30
-author: Pradeep Pant
 layout: post
 categories: [life]
 guid: /?p=1918

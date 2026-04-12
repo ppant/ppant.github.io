@@ -2,7 +2,6 @@
 id: 2082
 title: 'Outliers with Pankaj Mishra: podcast on entrepreneurship'
 date: 2019-09-07T17:57:17+05:30
-author: Pradeep Pant
 layout: post
 categories: [life]
 guid: /?p=2082

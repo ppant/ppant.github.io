@@ -1,7 +1,6 @@
 ---
 title: 'Tips to learn Machine Learning'
 date: 2020-05-14
-author: Pradeep Pant
 layout: post
 categories: [ai-ml]
 ---

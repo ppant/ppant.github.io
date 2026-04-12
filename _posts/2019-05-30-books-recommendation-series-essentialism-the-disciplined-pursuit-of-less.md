@@ -2,7 +2,6 @@
 id: 2011
 title: 'Books recommendation series: Essentialism: The Disciplined Pursuit of less'
 date: 2019-05-30T16:24:27+05:30
-author: Pradeep Pant
 layout: post
 categories: [life]
 guid: /?p=2011

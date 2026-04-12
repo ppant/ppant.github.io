@@ -2,7 +2,6 @@
 id: 1734
 title: Data Structures and Algorithms in Python – Graphs
 date: 2018-05-16T22:10:06+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: /?p=1734

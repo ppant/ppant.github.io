@@ -1,7 +1,6 @@
 ---
 title: 'Decoupled Content Management Systems: Some thoughts'
 date: 2019-12-17T21:47:37+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 ---

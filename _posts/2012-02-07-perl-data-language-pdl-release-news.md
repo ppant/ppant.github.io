@@ -2,7 +2,6 @@
 id: 851
 title: Perl Data Language (PDL) Release News
 date: 2012-02-07T19:30:03+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: /?p=851

@@ -2,7 +2,6 @@
 id: 1260
 title: 'Cracking the Primes &#8211; a primality-proving algorithm'
 date: 2014-04-29T19:30:49+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: /?p=1260

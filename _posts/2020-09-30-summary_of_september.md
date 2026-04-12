@@ -1,7 +1,6 @@
 ---
 title: 'Summary of the month: September 2020'
 date: 2020-09-30
-author: Pradeep Pant
 layout: post
 categories: [life]
 category: Tech

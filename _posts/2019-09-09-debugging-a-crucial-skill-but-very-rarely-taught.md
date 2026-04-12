@@ -2,7 +2,6 @@
 id: 2086
 title: Debugging a crucial skill but very rarely taught
 date: 2019-09-09T20:22:08+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: /?p=2086

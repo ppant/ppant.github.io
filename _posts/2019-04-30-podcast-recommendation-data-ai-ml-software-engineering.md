@@ -2,7 +2,6 @@
 id: 2019
 title: 'Podcast recommendation: Data, AI, ML & Software Engineering'
 date: 2019-04-30T21:57:14+05:30
-author: Pradeep Pant
 layout: post
 categories: [life]
 ---

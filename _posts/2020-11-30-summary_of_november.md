@@ -1,7 +1,6 @@
 ---
 title: 'Summary of the month: November 2020'
 date: 2020-11-30
-author: Pradeep Pant
 layout: post
 categories: [life]
 ---

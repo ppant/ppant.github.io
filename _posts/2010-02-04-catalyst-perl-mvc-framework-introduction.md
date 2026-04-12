@@ -2,7 +2,6 @@
 id: 35
 title: Catalyst Perl MVC framework Introduction
 date: 2010-02-04T20:49:27+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 category: Tech

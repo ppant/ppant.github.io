@@ -1,7 +1,6 @@
 ---
 title: 'JavaScript DOM content load check'
 date: 2020-04-27
-author: Pradeep Pant
 layout: post
 categories: [tech]
 ---

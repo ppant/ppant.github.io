@@ -2,7 +2,6 @@
 id: 196
 title: New Year 2011 Wishes
 date: 2011-01-04T10:31:19+05:30
-author: Pradeep Pant
 layout: post
 categories: [life]
 guid: https://ppant.wordpress.com/2011/01/04/new-year-2011-wishes/

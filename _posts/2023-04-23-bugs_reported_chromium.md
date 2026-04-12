@@ -1,7 +1,6 @@
 ---
 title: 'Reporting Chromium Bugs: SVG and Print Preview Issues in Chrome and Edge'
 date: 2023-04-23
-author: Pradeep Pant
 layout: post
 categories: [tech]
 description: 'My experience reporting SVG rendering and print preview bugs to the Chromium development team. Insights into the open-source bug reporting process for Chrome and Edge.'

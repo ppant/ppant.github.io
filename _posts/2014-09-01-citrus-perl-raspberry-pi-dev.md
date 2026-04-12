@@ -2,7 +2,6 @@
 id: 1299
 title: Citrus Perl Raspberry Pi dev
 date: 2014-09-01T06:37:48+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: /?p=1299

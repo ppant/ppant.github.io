@@ -2,7 +2,6 @@
 id: 608
 title: Searching and voting CPAN modules in google way
 date: 2011-07-26T15:41:16+05:30
-author: Pradeep Pant
 layout: post
 categories: [tech]
 guid: /?p=608

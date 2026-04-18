@@ -377,3 +377,44 @@ footer {
   font-size: 14px;
   padding: 2rem 0;
 }
+
+/* Categories index page */
+.cat-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+.cat-group {
+  border: 1px solid $border-color;
+  border-radius: 10px;
+  padding: 1.5rem;
+}
+.cat-group-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 1rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid $border-color;
+}
+.cat-group-icon {
+  font-size: 18px;
+}
+.cat-group-title {
+  font-family: $heading-font;
+  font-size: 1.1em;
+  font-weight: 500;
+  margin: 0;
+  color: $heading-font-color;
+}
+.cat-group-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+@media (max-width: 680px) {
+  .cat-grid {
+    grid-template-columns: 1fr;
+  }
+}

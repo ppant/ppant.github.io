@@ -1,39 +1,47 @@
-<!DOCTYPE html>
-<html>
-{% include head.html %}    
-  <body>
-  {% include header.html %}
-  <main>
-<!-- This loops through the paginated posts -->
-{% for post in paginator.posts %}
-  <h3>
-  <p><time>{{ post.date | date: "%b %-d, %Y" }}</time></p>
-  <p><a href="{{ post.url }}">{{ post.title }}</a></p>
-    
-    </p></h3>
-{% endfor %}
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">
-      Previous
-    </a>
-  {% else %}
-    <span class="previous">Previous</span>
-  {% endif %}
-  <span class="page_number ">
-    Page: {{ paginator.page }} of {{ paginator.total_pages }}
-  </span>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-  {% else %}
-    <span class="next ">Next</span>
-  {% endif %}
+---
+layout: default
+---
+<div class="blog-listing">
+  <div class="blog-header">
+    <h1 class="blog-title">All Posts</h1>
+    <p class="blog-subtitle">{{ paginator.total_posts }} posts since 2007</p>
+  </div>
+
+  <div class="post-list">
+    {% for post in paginator.posts %}
+      <article class="post-item">
+        <div class="post-item-meta">
+          <time>{{ post.date | date: "%b %-d, %Y" }}</time>
+          {% if post.categories %}
+            {% for cat in post.categories %}
+              <a href="/category/{{ cat }}/" class="cat-badge">
+                {{ site.category_titles[cat] | default: cat | capitalize }}
+              </a>
+            {% endfor %}
+          {% endif %}
+        </div>
+        <h2 class="post-item-title">
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </h2>
+        {% if post.excerpt %}
+          <p class="post-item-excerpt">{{ post.excerpt | strip_html | truncate: 140 }}</p>
+        {% endif %}
+      </article>
+    {% endfor %}
+  </div>
+
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="pag-btn">← Newer</a>
+    {% else %}
+      <span class="pag-btn pag-disabled">← Newer</span>
+    {% endif %}
+    <span class="pag-info">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="pag-btn">Older →</a>
+    {% else %}
+      <span class="pag-btn pag-disabled">Older →</span>
+    {% endif %}
+  </div>
+
 </div>
- <!-- {% include disqus_comments.html %} -->
- {% include footer.html %}
- </main>
-  </body>
-</html>

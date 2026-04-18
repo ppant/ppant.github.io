@@ -128,7 +128,7 @@ jekyll-archives:
 category_titles:
   tech: Technology
   software: Software Engineering
-  ai-ml: AI & Machine Learning
+  ai-ml: AI / ML
   process-mining: Process Mining
   fitness: Fitness
   running: Running
@@ -138,3 +138,4 @@ category_titles:
   life: Life
   books: Books
   reflections: Reflections
+  community: Community

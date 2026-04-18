@@ -342,3 +342,38 @@ footer {
   color: $muted;
   font-size: 12px;
 }
+
+/* Category nav */
+.cat-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 2rem;
+}
+.cat-nav-link {
+  font-size: 12px;
+  padding: 5px 14px;
+  border: 1px solid $border-color;
+  border-radius: 20px;
+  color: $muted;
+  text-decoration: none;
+  font-weight: 400;
+  &:hover {
+    border-color: $main;
+    color: $main;
+    text-decoration: none;
+  }
+}
+.cat-nav-link.active {
+  background: $main;
+  border-color: $main;
+  color: #fff;
+  &:hover {
+    color: #fff;
+  }
+}
+.no-posts {
+  color: $muted;
+  font-size: 14px;
+  padding: 2rem 0;
+}

@@ -2,8 +2,9 @@
 title: 'Big O notations with examples'
 
 date: 2021-01-31T1:46:03+05:30
-author: Pradeep Pant
 layout: post
+permalink: /2021/01/31/big-O-notation_with_examples/
+categories: [tech]
 category: Tech
 ---
 

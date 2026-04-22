@@ -1,8 +1,9 @@
 ---
 title: 'Data Science for IoT: FDP: Summary'
 date: 2020-10-15
-author: Pradeep Pant
 layout: post
+permalink: /2020/10/15/data_science_in_iot_fdp/
+categories: [ai-ml]
 category: Tech
 ---
 I have atteneded this online 3-days Faculty Developement Program on [Data Science for IoT](https://diot.iiita.ac.in/). 

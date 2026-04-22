@@ -2,8 +2,9 @@
 id: 1957
 title: 'IE11 issue with arrow and includes JavaScript method and an alternate solution'
 date: 2019-04-15T21:46:03+05:30
-author: Pradeep Pant
 layout: post
+permalink: /2019/04/15/ie11-issue-with-arrow-operator-and-include-an-alternate-solution/
+categories: [tech]
 ---
 Again one more Microsoft problem <span style="font-size: 1.375rem;">😢 </span>😢
 

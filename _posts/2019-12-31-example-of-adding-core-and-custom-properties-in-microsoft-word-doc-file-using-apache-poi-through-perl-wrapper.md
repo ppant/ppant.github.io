@@ -2,8 +2,9 @@
 id: 2264
 title: 'Adding core and custom properties in Microsoft Word (doc), XLS, PPT file using Apache POI through Perl wrapper: Example'
 date: 2019-12-31T23:00:00+05:30
-author: Pradeep Pant
 layout: post
+permalink: /2019/12/31/example-of-adding-core-and-custom-properties-in-microsoft-word-doc-file-using-apache-poi-through-perl-wrapper/
+categories: [tech]
 ---
 Apache POI is the set of Java APIs to manipulate MS Office documents. You can read more about Apache POI [here](https://poi.apache.org/).
 In this post, I am showing a fully working example to push core and custom properties in Microsoft Word (.doc) file.

@@ -1,8 +1,9 @@
 ---
 title: 12 Years of tech blogging
 date: 2019-12-10T16:57:13+05:30
-author: Pradeep Pant
 layout: post
+permalink: /2019/12/10/12-years-of-tech-blogging/
+categories: [life]
 ---
 I just realized that I have completed 12 years of tech blogging. My first [post](http://pradeeppant.com/2007/10/16/snmpv3-in-c/) was like this-  
  `Is anbody having idea about the SNMP V3 implementation in C#? Thanks in advance. Pradeep` 

@@ -1,8 +1,9 @@
 ---
 title: 'BITOSA Global Conclave 2018: Travel memoir'
 date: 2020-10-02
-author: Pradeep Pant
 layout: post
+permalink: /2020/10/02/bitosa_global_conclave_2018_trip/
+categories: [travel]
 ---
 I randomly found a small video on youtube ...
 

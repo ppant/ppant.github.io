@@ -1,9 +1,9 @@
 ---
 title: 'Data Mining and Process mining'
 date: 2022-07-02
-author: Pradeep Pant
 layout: post
-categories: [tech, process-mining]
+permalink: /2022/07/02/business_process_and_process_mining/
+categories: [ai-ml]
 ---
 
 In this post we'll directly start with what process science is and how this is connected with data science. You can read my [last](/tech/2022/06/25/exploring_new_field_process_mining_intro.html) post on brief about motivation behind exploring new field. 

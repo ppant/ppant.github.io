@@ -2,8 +2,8 @@
 id: 1852
 title: date sorting in datatables using moment js
 date: 2019-03-14T21:22:11+05:30
-author: Pradeep Pant
 layout: post
+categories: [tech]
 guid: /?p=1852
 permalink: /2019/03/14/date-sorting-in-datatables-using-moment-js/
 twitter_share:

@@ -2,8 +2,8 @@
 id: 714
 title: Apache Lucy search engine
 date: 2011-10-08T22:18:32+05:30
-author: Pradeep Pant
 layout: post
+categories: [tech]
 guid: /?p=714
 permalink: /2011/10/08/apache-lucy-search-engine/
 jabber_published:

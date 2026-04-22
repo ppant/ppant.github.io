@@ -2,8 +2,8 @@
 id: 114
 title: Installing Perl modules with cpanminus
 date: 2010-07-23T09:22:09+05:30
-author: Pradeep Pant
 layout: post
+categories: [tech]
 guid: http://ppant.wordpress.com/?p=114
 permalink: /2010/07/23/installing-perl-modules-with-cpanminus/
 jabber_published:

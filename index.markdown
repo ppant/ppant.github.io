@@ -2,127 +2,184 @@
 layout: default
 title: About
 ---
-<p align="center">
-  <img src="/data/images/pp_profile_pic.jpg"
-       alt="Pradeep Pant"
-       style="width:180px; border-radius:8px; margin-left:20px;" />
-</p>
 
-## Pradeep K. Pant  
-**AI/ML Engineer | Software Architect | Technology Leader | Researcher | Open-Source Contributor**
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500&family=DM+Sans:wght@300;400;500&display=swap');
 
-> Solving complex problems at the intersection of Software Engineering and AI, with 20+ years of experience driving innovation, mentoring teams, and building scalable solutions.
+.pp-page { font-family: 'DM Sans', sans-serif; max-width: 900px; margin: 0 auto; padding: 0 1.5rem 4rem; color: #1a1a1a; }
 
-<!-- [View Portfolio](#portfolio) | [Read My Blog](https://pradeeppant.com/blog) -->
+/* Hero */
+.pp-hero { display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; align-items: center; margin: 2rem 0 3rem; }
+.pp-eyebrow { font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: #BA7517; font-weight: 500; margin-bottom: 1rem; }
+.pp-hero-name { font-family: 'Playfair Display', serif; font-size: 38px; font-weight: 400; line-height: 1.2; margin: 0 0 1.25rem; }
+.pp-hero-tagline { font-size: 15px; line-height: 1.8; color: #555; border-left: 2px solid #BA7517; padding-left: 1rem; margin: 0 0 1.75rem; }
+.pp-hero-cta { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 1rem; }
+.pp-btn-primary { background: #BA7517; color: #fff !important; padding: 10px 22px; border-radius: 8px; font-size: 13px; font-weight: 500; text-decoration: none !important; display: inline-block; }
+.pp-btn-primary:hover { background: #9a6010; }
+.pp-btn-secondary { background: transparent; color: #1a1a1a !important; border: 1px solid #ddd; padding: 10px 22px; border-radius: 8px; font-size: 13px; text-decoration: none !important; display: inline-block; }
+.pp-btn-secondary:hover { border-color: #aaa; }
+.pp-location { font-size: 11px; color: #999; margin-top: 0.75rem; letter-spacing: 0.03em; }
 
----
+/* Photo */
+.pp-photo-wrap { position: relative; border-radius: 12px; overflow: hidden; }
+.pp-photo-wrap img { width: 100%; display: block; border-radius: 12px; object-fit: cover; aspect-ratio: 3/4; }
+.pp-photo-caption { position: absolute; bottom: 0; left: 0; right: 0; padding: 1.25rem 1rem 1rem; background: linear-gradient(to top, rgba(0,0,0,0.65) 0%, transparent 100%); }
+.pp-photo-caption p { margin: 0; font-size: 11px; color: rgba(255,255,255,0.85); letter-spacing: 0.05em; }
 
-## About Me
+/* Avatar fallback if only headshot available */
+.pp-avatar { width: 72px; height: 72px; border-radius: 50%; border: 2px solid #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.15); object-fit: cover; }
 
-Welcome! My name is Pradeep Pant (प्रदीप पन्त), a proud native of the majestic lower Himalayas (हिमालय) region. I began this blog in the autumn of 2007 to chronicle my journey and share thoughts on the ever-evolving world of technology. Over the years, it has grown into a space where I explore ideas, document experiences, and share learnings from both professional and personal pursuits.
+/* Stats */
+.pp-stats { display: grid; grid-template-columns: repeat(3, 1fr); border: 1px solid #e8e8e8; border-radius: 12px; overflow: hidden; margin-bottom: 3rem; }
+.pp-stat { padding: 1.25rem; text-align: center; border-right: 1px solid #e8e8e8; }
+.pp-stat:last-child { border-right: none; }
+.pp-stat-num { font-family: 'Playfair Display', serif; font-size: 28px; font-weight: 400; color: #BA7517; display: block; }
+.pp-stat-label { font-size: 11px; color: #888; letter-spacing: 0.06em; text-transform: uppercase; margin-top: 4px; display: block; }
 
-I am a Software Architect and AI/ML practitioner with a deep interest in building systems that solve real-world problems. I enjoy working at the intersection of software engineering, machine learning, and research, and I believe programming is a powerful medium for turning ideas into reality. Curiosity, continuous learning, and thoughtful problem-solving shape how I approach my work.
+/* Pillars */
+.pp-section-label { font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; color: #aaa; margin-bottom: 1.25rem; font-weight: 500; }
+.pp-pillars { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-bottom: 3rem; }
+.pp-pillar { border: 1px solid #e8e8e8; border-radius: 12px; padding: 1.5rem; }
+.pp-pillar-icon { width: 36px; height: 36px; border-radius: 8px; display: flex; align-items: center; justify-content: center; margin-bottom: 1rem; font-size: 18px; }
+.pp-pillar-icon-tech { background: #E6F1FB; }
+.pp-pillar-icon-run { background: #FAEEDA; }
+.pp-pillar-title { font-family: 'Playfair Display', serif; font-size: 18px; font-weight: 500; margin: 0 0 0.5rem; }
+.pp-pillar-body { font-size: 13px; line-height: 1.7; color: #555; margin: 0 0 1rem; }
+.pp-tags { display: flex; flex-wrap: wrap; gap: 6px; }
+.pp-tag { font-size: 11px; padding: 3px 10px; border-radius: 20px; background: #f5f5f5; color: #666; border: 1px solid #e8e8e8; }
 
-Alongside my professional interests, I am deeply passionate about trail running and endurance sports, and I actively participate in and organise community-driven initiatives. When I’m not working with code or research, you’ll usually find me running in the hills, exploring nature, or writing about my experiences here.
+/* Posts */
+.pp-posts { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; margin-bottom: 3rem; }
+.pp-post { border: 1px solid #e8e8e8; border-radius: 12px; padding: 1.25rem; text-decoration: none !important; display: block; }
+.pp-post:hover { border-color: #ccc; }
+.pp-badge { font-size: 10px; letter-spacing: 0.08em; text-transform: uppercase; font-weight: 500; padding: 2px 8px; border-radius: 20px; display: inline-block; margin-bottom: 0.75rem; }
+.pp-badge-tech { background: #E6F1FB; color: #185FA5; }
+.pp-badge-run { background: #FAEEDA; color: #854F0B; }
+.pp-post-title { font-size: 13px; font-weight: 500; line-height: 1.5; color: #1a1a1a; margin-bottom: 0.5rem; }
+.pp-post-date { font-size: 11px; color: #aaa; }
 
----
+/* Connect */
+.pp-connect { border-top: 1px solid #e8e8e8; padding-top: 2rem; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1.5rem; }
+.pp-connect-left p { font-size: 14px; color: #555; margin: 0 0 0.25rem; }
+.pp-connect-left small { font-size: 12px; color: #aaa; }
+.pp-connect-links { display: flex; gap: 10px; flex-wrap: wrap; }
+.pp-connect-link { font-size: 12px; padding: 7px 14px; border: 1px solid #e8e8e8; border-radius: 8px; color: #555 !important; text-decoration: none !important; }
+.pp-connect-link:hover { border-color: #aaa; color: #1a1a1a !important; }
 
-## 🎓 Education
+/* Responsive */
+@media (max-width: 640px) {
+  .pp-hero { grid-template-columns: 1fr; gap: 2rem; }
+  .pp-hero-name { font-size: 28px; }
+  .pp-photo-wrap { max-width: 320px; margin: 0 auto; }
+  .pp-pillars { grid-template-columns: 1fr; }
+  .pp-posts { grid-template-columns: 1fr; }
+  .pp-stats { grid-template-columns: 1fr; }
+  .pp-stat { border-right: none; border-bottom: 1px solid #e8e8e8; }
+  .pp-stat:last-child { border-bottom: none; }
+  .pp-connect { flex-direction: column; align-items: flex-start; }
+}
+</style>
 
-- **Ph.D. in Process Mining and Machine Learning** — Indian Institute of Information Technology (IIIT Allahabad) *(in progress, expected 2026)*
-- **M.Tech in Computer Science** — Birla Institute of Technology (BIT), Mesra, Ranchi *(2004)*
-- **M.Sc. in Physics** — Kumaun University, Nainital *(1997)*
+<div class="pp-page">
 
----
-## 💼 Professional Journey
+  <!-- HERO -->
+  <div class="pp-hero">
+    <div class="pp-hero-text">
+      <div class="pp-eyebrow">AI/ML Architect · Ultra Runner · Researcher</div>
+      <h1 class="pp-hero-name">20 years in tech.<br>Every finish line<br>teaches me something new.</h1>
+      <p class="pp-hero-tagline">Building production-grade AI systems at LTIMindtree. Running Western Ghats trails on weekends. PhD researcher at IIIT Allahabad.</p>
+      <div class="pp-hero-cta">
+        <a class="pp-btn-primary" href="/blog/">Read the blog</a>
+        <a class="pp-btn-secondary" href="https://www.linkedin.com/in/ppant/">Connect on LinkedIn</a>
+      </div>
+      <p class="pp-location">📍 Bengaluru, India &nbsp;·&nbsp; Originally from the lower Himalayas</p>
+    </div>
+    <div class="pp-photo-wrap">
+      <!-- Replace with your trail running photo. Landscape photo works too — remove aspect-ratio style if needed -->
+      <img src="/data/images/pp_trail_running.jpg" alt="Pradeep Pant on trail" />
+      <div class="pp-photo-caption">
+        <p>Sahyadri trails. Where I debug my thinking. 🙂</p>
+      </div>
+    </div>
+  </div>
 
-My professional journey spans over two decades and reflects a gradual evolution from systems development and academia to enterprise software and AI/ML.
+  <!-- STATS -->
+  <div class="pp-stats">
+    <div class="pp-stat">
+      <span class="pp-stat-num">20+</span>
+      <span class="pp-stat-label">Years in software</span>
+    </div>
+    <div class="pp-stat">
+      <span class="pp-stat-num">7+</span>
+      <span class="pp-stat-label">Ultras completed</span>
+    </div>
+    <div class="pp-stat">
+      <span class="pp-stat-num">2026</span>
+      <span class="pp-stat-label">PhD expected</span>
+    </div>
+  </div>
 
-After completing my M.Sc. in Physics focussed on Electronics and Microprocessors, I worked during 1997–1999 in systems development and technical consulting, contributing to industry oriented projects for small organisations and institutions. This phase involved hands-on work with digital systems, microprocessors, embedded programming, and software development, building a strong foundation in hardware software integration and practical problem-solving.
+  <!-- PILLARS -->
+  <div class="pp-section-label">Two things I care about deeply</div>
+  <div class="pp-pillars">
+    <div class="pp-pillar">
+      <div class="pp-pillar-icon pp-pillar-icon-tech">💻</div>
+      <h2 class="pp-pillar-title">Building AI Systems</h2>
+      <p class="pp-pillar-body">Designing scalable, production-grade AI and ML systems. From embedded systems at Xerox to GenAI architectures at LTIMindtree — I build things that work at scale and stand the test of time.</p>
+      <div class="pp-tags">
+        <span class="pp-tag">Generative AI</span>
+        <span class="pp-tag">MLOps</span>
+        <span class="pp-tag">LLMs</span>
+        <span class="pp-tag">Software Architecture</span>
+        <span class="pp-tag">Process Mining</span>
+      </div>
+    </div>
+    <div class="pp-pillar">
+      <div class="pp-pillar-icon pp-pillar-icon-run">🏃</div>
+      <h2 class="pp-pillar-title">Running Mountains</h2>
+      <p class="pp-pillar-body">Ultra trail runner across the Western Ghats and Himalayas. Malnad Ultra, Bison Ultra, Ooty Ultra — the trails teach patience, pacing, and perspective that no classroom can.</p>
+      <div class="pp-tags">
+        <span class="pp-tag">Trail Running</span>
+        <span class="pp-tag">50K Ultras</span>
+        <span class="pp-tag">Western Ghats</span>
+        <span class="pp-tag">Himalayas</span>
+        <span class="pp-tag">Community Runs</span>
+      </div>
+    </div>
+  </div>
 
-From 1999 to 2005, I was actively involved in teaching and academic roles at institutions such as Birla Institute of Technology, Mesra, Birla Institute of Applied Sciences, and BITS Pilani. During this period, I taught subjects including programming, electronics, digital design, microprocessors, and computer systems, while also mentoring students and supporting applied technical projects.
+  <!-- LATEST POSTS -->
+  <div class="pp-section-label">Latest from the blog</div>
+  <div class="pp-posts">
+    <a class="pp-post" href="/2026/04/04/why-dsa-matters-agentic-era/">
+      <span class="pp-badge pp-badge-tech">AI · Engineering</span>
+      <div class="pp-post-title">Why DSA Matters in the Agentic Era</div>
+      <div class="pp-post-date">Apr 2026</div>
+    </a>
+    <a class="pp-post" href="/2025/12/20/run_diary_2025/">
+      <span class="pp-badge pp-badge-run">Running</span>
+      <div class="pp-post-title">2025 Race Diary — Five Runs, One Journey</div>
+      <div class="pp-post-date">Dec 2025</div>
+    </a>
+    <a class="pp-post" href="/2025/09/10/nag_devta_parikrama_run/">
+      <span class="pp-badge pp-badge-run">Community</span>
+      <div class="pp-post-title">Nag Mandir Parikrama Run — A Himalayan Initiative</div>
+      <div class="pp-post-date">Sep 2025</div>
+    </a>
+  </div>
 
-In 2005, I transitioned fully into the IT industry. Since then, I have worked across enterprise software and product engineering roles, including organisations such as Xerox Inc, Wokana Technologies, and Ockham BV, contributing to large-scale systems, software architecture, and long-term product development for global companies.
+  <!-- CONNECT -->
+  <div class="pp-connect">
+    <div class="pp-connect-left">
+      <p>Open to collaborations, mentoring, and good conversations.</p>
+      <small>pp@pradeeppant.com &nbsp;·&nbsp; Bengaluru, India</small>
+    </div>
+    <div class="pp-connect-links">
+      <a class="pp-connect-link" href="https://www.linkedin.com/in/ppant/">LinkedIn</a>
+      <a class="pp-connect-link" href="https://github.com/ppant">GitHub</a>
+      <a class="pp-connect-link" href="https://www.instagram.com/pradeepkpant/">Instagram</a>
+      <a class="pp-connect-link" href="mailto:pp@pradeeppant.com">Email</a>
+    </div>
+  </div>
 
-In recent years, my focus has shifted towards AI/ML, Generative AI, and MLOps, combining applied industry work with academic research. Alongside hands-on development, I actively mentor engineers, support hiring and team building, and work at the intersection of research and production grade AI systems.
-
-I currently work as an AI/ML & Generative AI Architect at LTIMindtree, focusing on building scalable, production grade AI systems for enterprise environments.
-
----
-
-## 🤝 How I Can Help
-
-With a background spanning software engineering, AI/ML, MLOps, and applied research, I work best at the intersection of complex systems and real-world constraints. I typically help organisations and teams in the following ways:
-
-- **Designing and scaling AI/ML systems**  
-  Helping teams move from experimentation to robust, production-grade AI systems, with a strong emphasis on reliability, observability, and long-term maintainability.
-
-- **End-to-end MLOps & time-series solutions**  
-  Building and improving pipelines for time-series forecasting, monitoring, and model lifecycle management, ensuring models remain accurate and trustworthy over time.
-
-- **Applied AI & Generative AI adoption**  
-  Guiding the practical use of ML, Generative AI, and LLM-based systems in enterprise environments focusing on value creation rather than hype.
-
-- **Research-to-industry translation**  
-  Bridging academic research and industry practice, particularly in areas such as process mining, concept drift, and explainability, and turning research ideas into deployable solutions.
-
-- **Technical leadership & mentoring**  
-  Supporting team building, mentoring engineers and data scientists, and helping organisations strengthen their technical culture and decision-making.
-
-I enjoy working with teams that value clarity, fundamentals, and thoughtful engineering, whether the goal is to build new capabilities, improve existing systems, or explore research-driven innovation.
-
----
-## Areas of Expertise
-
-- **AI/ML & Generative AI** – Data Mining, Machine Learning, Deep Learning, LLMs, RAG pipelines, MCP, Prompt Engineering, Time Series Forecasting  
-- **Cloud & MLOps** – AWS, Azure ML, GCP, Databricks, CI/CD, Docker, Kubernetes, MLflow  
-- **Software Architecture & Development** – C, Perl, Python, SQL, NoSQL, Microservices, REST APIs  
-- **Research & Innovation** – Process Mining, Optimization Algorithms, Pattern Recognition  
-- **Community Engagement** – Open-source contributions, technical leadership, writing, mentoring, workshops
-
----
-
-## Featured Work {#portfolio}
-
-- **Explainable Concept Drift in Process Mining** – Published research paper in an IEEE conference, contributing novel methods in AI explainability  
-- **Python Architecture Patterns** – Official book reviewer, helping developers understand design patterns and best practices  
-- **Open Source Projects** – Reporting critical bugs in projects like MySQL Operator and Chromium, contributor to the Perl CPAN repository  
-
-<!-- Explore more details about my work, insights, and projects in the [Blog](https://pradeeppant.com/blog). -->
-
----
-
-## 🏃‍♂️ Beyond Tech
-
-Outside of work, I’m deeply interested in trail running, endurance sports, and community driven fitness initiatives. I document my running journeys, travel, and learnings on my blog.
-
-**Latest Highlights:**
-
-👉 [Why DSA Matters in the Agentic Era](tech/software/machine%20learning/why-dsa-matters-agentic-era/)    
-👉 [2025 Race Diary – Five Runs, One Journey](/fitness/running/run_diary_2025/)  
-👉 [Nag Mandir Parikrma Run – A Community Initiative from the Himalayas](/community/running/nag_devta_parikrama_run/)
-
-→ [Read more running and travel posts](/blog/)
-
----
-
-## Let’s Connect!
-
-I’m always open to collaborations, discussions on emerging technologies, research, or mentoring opportunities. You can find me here:
-
-- 💼 [LinkedIn (professional network)](https://www.linkedin.com/in/ppant/)
-- 💻 [GitHub (projects & code)](https://github.com/ppant)
-- 📝 [Blog (articles & experiences)](https://pradeeppant.com/blog)
-- 📸 [Instagram (photos & stories)](https://www.instagram.com/pradeepkpant/)
-- 📸 [Tumblr Project 365 photo blog - archive (2012-2018)](https://ppant.tumblr.com/)   
-- 🐦 [Twitter/X (quick updates)](https://x.com/ppant)
-- 📝 [Quora (thoughtful answers)](https://www.quora.com/profile/Pradeep-K-Pant)
-- ✉️ [Email (direct contact)](mailto:pp@pradeeppant.com)
-
-
----
-📍 Based in Bengaluru, India
-
-*Last updated: January 2026*
-
----
+</div>

@@ -2,8 +2,8 @@
 id: 1070
 title: CSS based page numbering in PDF creation
 date: 2013-07-17T18:15:36+05:30
-author: Pradeep Pant
 layout: post
+categories: [tech]
 guid: /?p=1070
 permalink: /2013/07/17/css-based-page-numbering-in-pdf-creation/
 dsq_thread_id:

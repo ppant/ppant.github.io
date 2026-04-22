@@ -2,8 +2,8 @@
 id: 965
 title: PostgreSQL useful tips
 date: 2012-10-20T22:46:57+05:30
-author: Pradeep Pant
 layout: post
+categories: [tech]
 guid: /?p=965
 permalink: /2012/10/20/postgresql-useful-tips/
 gr_overridden:

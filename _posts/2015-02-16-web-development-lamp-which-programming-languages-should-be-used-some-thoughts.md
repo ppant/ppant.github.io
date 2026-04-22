@@ -2,8 +2,8 @@
 id: 1394
 title: 'Web development: LAMP: which programming languages should be used: Some thoughts'
 date: 2015-02-16T19:10:34+05:30
-author: Pradeep Pant
 layout: post
+categories: [tech]
 guid: /?p=1394
 permalink: /2015/02/16/web-development-lamp-which-programming-languages-should-be-used-some-thoughts/
 dsq_thread_id:

@@ -2,8 +2,8 @@
 id: 1629
 title: Choropleth Maps in Python
 date: 2017-02-03T22:57:35+05:30
-author: Pradeep Pant
 layout: post
+categories: [ai-ml]
 guid: /?p=1629
 permalink: /2017/02/03/choropleth-maps-in-python/
 ---
@@ -59,7 +59,7 @@ iplot(choromap,validate=False)
   </p>
   
   <p style="padding-left: 30px;">
-    <a href="/wp-content/uploads/2017/02/2014_world_power_consumption_chorlopleth_plot.png"><img class="aligncenter wp-image-1639" src="/wp-content/uploads/2017/02/2014_world_power_consumption_chorlopleth_plot-300x193.png" alt="" width="404" height="260" srcset="/wp-content/uploads/2017/02/2014_world_power_consumption_chorlopleth_plot-300x193.png 300w, /wp-content/uploads/2017/02/2014_world_power_consumption_chorlopleth_plot.png 700w" sizes="(max-width: 404px) 100vw, 404px" /></a>
+    <a href="/assets/images/2014_world_power_consumption_chorlopleth_plot.png"><img class="aligncenter wp-image-1639" src="/assets/images/2014_world_power_consumption_chorlopleth_plot-300x193.png" alt="" width="404" height="260" srcset="/assets/images/2014_world_power_consumption_chorlopleth_plot-300x193.png 300w, /assets/images/2014_world_power_consumption_chorlopleth_plot.png 700w" sizes="(max-width: 404px) 100vw, 404px" /></a>
   </p>
   
   <p style="padding-left: 30px;">

@@ -2,8 +2,8 @@
 id: 12
 title: Enterprise Architect
 date: 2009-01-12T03:42:24+05:30
-author: Pradeep Pant
 layout: post
+categories: [tech]
 category: Tech
 guid: http://ppant.wordpress.com/?p=12
 permalink: /2009/01/12/enterprise-architect/

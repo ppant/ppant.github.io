@@ -2,8 +2,8 @@
 id: 401
 title: Object Relational Wrapper in Perl
 date: 2011-02-28T16:10:17+05:30
-author: Pradeep Pant
 layout: post
+categories: [tech]
 guid: /?p=401
 permalink: /2011/02/28/object-relational-wrapper-in-perl/
 jabber_published:

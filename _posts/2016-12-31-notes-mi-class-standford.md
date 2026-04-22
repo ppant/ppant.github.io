@@ -2,8 +2,8 @@
 id: 1615
 title: Notes MI Class Standford
 date: 2016-12-31T13:06:47+05:30
-author: Pradeep Pant
 layout: post
+categories: [ai-ml]
 guid: /?p=1615
 permalink: /2016/12/31/notes-mi-class-standford/
 ---

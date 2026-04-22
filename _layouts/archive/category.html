@@ -1,77 +1,53 @@
 ---
 layout: default
 ---
+<div class="blog-listing">
+  <div class="blog-header">
+    <h1 class="blog-title">{{ site.category_titles[page.title] | default: page.title }}</h1>
+    <p class="blog-subtitle">{{ page.posts.size }} posts</p>
+  </div>
 
-<h1>
-  {{ site.category_titles[page.title] | default: page.title | capitalize }}
-</h1>
+  {% assign tech_cats = "tech,ai-ml,process-mining" | split: "," %}
+  {% assign running_cats = "running,community" | split: "," %}
 
-{% assign tech_cats = "tech,software,ai-ml,process-mining" | split: "," %}
-{% assign fitness_cats = "fitness,running,cycling,health" | split: "," %}
-{% assign life_cats = "life,books,reflections" | split: "," %}
+  {% if tech_cats contains page.title %}
+    <div class="cat-nav">
+      <a href="/category/tech/" class="cat-nav-link {% if page.title == 'tech' %}active{% endif %}">Software Engineering</a>
+      <a href="/category/ai-ml/" class="cat-nav-link {% if page.title == 'ai-ml' %}active{% endif %}">AI / ML</a>
+      <a href="/category/process-mining/" class="cat-nav-link {% if page.title == 'process-mining' %}active{% endif %}">Process Mining</a>
+    </div>
+  {% elsif running_cats contains page.title %}
+    <div class="cat-nav">
+      <a href="/category/running/" class="cat-nav-link {% if page.title == 'running' %}active{% endif %}">Running</a>
+      <a href="/category/community/" class="cat-nav-link {% if page.title == 'community' %}active{% endif %}">Community</a>
+    </div>
+  {% endif %}
 
-{% if tech_cats contains page.title %}
-  <p>
-    <strong>Explore:</strong>
-    <a href="/category/software/"
-       class="{% if page.title == 'software' %}active-category{% endif %}">
-       Software
-    </a> |
-    <a href="/category/ai-ml/"
-       class="{% if page.title == 'ai-ml' %}active-category{% endif %}">
-       AI & ML
-    </a> |
-    <a href="/category/process-mining/"
-       class="{% if page.title == 'process-mining' %}active-category{% endif %}">
-       Process Mining
-    </a>
-  </p>
+  {% if page.posts and page.posts.size > 0 %}
+    <div class="post-list">
+      {% for post in page.posts %}
+        <article class="post-item">
+          <div class="post-item-meta">
+            <time>{{ post.date | date: "%b %-d, %Y" }}</time>
+            {% if post.categories %}
+              {% for cat in post.categories %}
+                <a href="/category/{{ cat }}/" class="cat-badge">
+                  {{ site.category_titles[cat] | default: cat }}
+                </a>
+              {% endfor %}
+            {% endif %}
+          </div>
+          <h2 class="post-item-title">
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          </h2>
+          {% if post.excerpt %}
+            <p class="post-item-excerpt">{{ post.excerpt | strip_html | truncate: 140 }}</p>
+          {% endif %}
+        </article>
+      {% endfor %}
+    </div>
+  {% else %}
+    <p class="no-posts">No posts yet in this category.</p>
+  {% endif %}
 
-{% elsif fitness_cats contains page.title %}
-  <p>
-    <strong>Explore:</strong>
-    <a href="/category/running/"
-       class="{% if page.title == 'running' %}active-category{% endif %}">
-       Running
-    </a> |
-    <a href="/category/cycling/"
-       class="{% if page.title == 'cycling' %}active-category{% endif %}">
-       Cycling
-    </a> |
-    <a href="/category/health/"
-       class="{% if page.title == 'health' %}active-category{% endif %}">
-       Health
-    </a>
-  </p>
-
-{% elsif life_cats contains page.title %}
-  <p>
-    <strong>Explore:</strong>
-    <a href="/category/books/"
-       class="{% if page.title == 'books' %}active-category{% endif %}">
-       Books
-    </a> |
-    <a href="/category/reflections/"
-       class="{% if page.title == 'reflections' %}active-category{% endif %}">
-       Reflections
-    </a>
-  </p>
-{% endif %}
-
-
-
-<hr />
-
-{% if page.posts and page.posts.size > 0 %}
-  <ul>
-    {% for post in page.posts %}
-      <li>
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        <small>({{ post.date | date: "%b %d, %Y" }})</small>
-      </li>
-    {% endfor %}
-  </ul>
-{% else %}
-  <p>No posts yet in this category.</p>
-{% endif %}
-
+</div>

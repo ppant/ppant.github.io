@@ -2,8 +2,8 @@
 id: 1566
 title: Stanford Machine learning class slides
 date: 2016-06-30T17:33:51+05:30
-author: Pradeep Pant
 layout: post
+categories: [ai-ml]
 guid: /?p=1566
 permalink: /2016/06/30/stanford-machine-learning-class-slides/
 ---

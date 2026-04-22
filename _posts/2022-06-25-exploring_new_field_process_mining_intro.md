@@ -1,9 +1,9 @@
 ---
 title: 'Exploring Business informatics and Process mining'
 date: 2022-06-25
-author: Pradeep Pant
 layout: post
-categories: [tech, software]
+permalink: /2022/06/25/exploring_new_field_process_mining_intro/
+categories: [tech]
 ---
 Finally able to write a new post :-)
 

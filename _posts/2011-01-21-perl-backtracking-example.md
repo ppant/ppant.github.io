@@ -2,8 +2,8 @@
 id: 247
 title: Backtracking example1
 date: 2011-01-21T10:06:29+05:30
-author: Pradeep Pant
 layout: post
+categories: [tech]
 guid: http://ppant.wordpress.com/?p=247
 permalink: /2011/01/21/perl-backtracking-example/
 jabber_published:

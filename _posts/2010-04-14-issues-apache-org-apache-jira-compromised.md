@@ -2,8 +2,8 @@
 id: 90
 title: Apache JIRA compromised
 date: 2010-04-14T09:35:38+05:30
-author: Pradeep Pant
 layout: post
+categories: [tech]
 guid: http://ppant.wordpress.com/?p=90
 permalink: /2010/04/14/issues-apache-org-apache-jira-compromised/
 delicious:

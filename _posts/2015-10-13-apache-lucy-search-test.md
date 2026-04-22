@@ -2,8 +2,8 @@
 id: 1477
 title: apache lucy search examples
 date: 2015-10-13T20:46:38+05:30
-author: Pradeep Pant
 layout: post
+categories: [tech]
 guid: /?p=1477
 permalink: /2015/10/13/apache-lucy-search-test/
 dsq_thread_id:

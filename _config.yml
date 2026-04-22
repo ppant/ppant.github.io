@@ -99,9 +99,9 @@ permalink: /:categories/:title/
 # future:      true
 
 # Specify the author for blog posts
-# author:
-  # name: 'Pradeep Pant'
-  # email: 'pp[at]pradeeppant[dot]com'
+author:
+  name: 'Pradeep K. Pant'
+  email: 'pp[at]pradeeppant[dot]com'
   # github: ppant
   # instagram: pradeepkpant
   # instagram_url: www.instagram.com/pradeepkpant
@@ -126,15 +126,15 @@ jekyll-archives:
     category: '/category/:name/'
 
 category_titles:
-  tech: Technology
+  tech: Software Engineering
   software: Software Engineering
-  ai-ml: AI & Machine Learning
+  ai-ml: AI/ML
   process-mining: Process Mining
-  fitness: Fitness
   running: Running
   cycling: Cycling
   health: Health
   travel: Travel
   life: Life
-  books: Books
-  reflections: Reflections
+  community: Community
+include:
+  - data

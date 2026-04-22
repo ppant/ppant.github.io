@@ -2,8 +2,8 @@
 id: 179
 title: Backtracking with Perl Regular expression
 date: 2011-01-11T22:00:04+05:30
-author: Pradeep Pant
 layout: post
+categories: [tech]
 guid: http://ppant.wordpress.com/?p=179
 permalink: /2011/01/11/backtracking-with-perl-regular-expression/
 jabber_published:

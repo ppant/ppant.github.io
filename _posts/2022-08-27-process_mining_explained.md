@@ -3,7 +3,7 @@ title: 'Process mining explained'
 date: 2022-08-27
 layout: post
 permalink: /2022/08/27/process_mining_explained/
-categories: [ai-ml]
+categories: [ai-ml, process-mining]
 category: [tech, process-mining]
 ---
 

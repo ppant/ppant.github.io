@@ -3,7 +3,7 @@ layout: post
 permalink: /2026/04/04/why-dsa-matters-agentic-era/
 title: "Why DSA Matters in the Agentic Era"
 date: 2026-04-04 09:21:03
-categories: [tech]
+categories: [ai-ml]
 description: "Exploring the importance of DSA in the context of the agentic era."
 tags: [DSA, AI, Fundamentals, Education, Technology]
 excerpt: "Understanding the significance of Data Structures and Algorithms in today's rapidly evolving AI landscape."

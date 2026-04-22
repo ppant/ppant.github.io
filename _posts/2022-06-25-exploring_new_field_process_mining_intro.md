@@ -3,7 +3,7 @@ title: 'Exploring Business informatics and Process mining'
 date: 2022-06-25
 layout: post
 permalink: /2022/06/25/exploring_new_field_process_mining_intro/
-categories: [tech]
+categories: [ai-ml, process-mining]
 ---
 Finally able to write a new post :-)
 

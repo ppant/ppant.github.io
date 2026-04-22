@@ -2,7 +2,7 @@
 title: 'Books recommendation series: Prana and Pranayama'
 date: 2020-05-17T16:24:27+05:30
 layout: post
-categories: [life]
+categories: [fitness]
 ---
 Book 
 

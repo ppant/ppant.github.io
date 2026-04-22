@@ -139,3 +139,5 @@ category_titles:
   books: Books
   reflections: Reflections
   community: Community
+include:
+  - data

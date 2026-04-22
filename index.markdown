@@ -151,12 +151,12 @@ title: About
   <!-- LATEST POSTS -->
   <div class="pp-section-label">Latest from the blog</div>
   <div class="pp-posts">
-    <a class="pp-post" href="/tech/software/machine%20learning/ai/software%20engineering/why-dsa-matters-agentic-era/">
+    <a class="pp-post" href="/tech/why-dsa-matters-agentic-era/">
       <span class="pp-badge pp-badge-tech">AI · Engineering</span>
       <div class="pp-post-title">Why DSA Matters in the Agentic Era</div>
       <div class="pp-post-date">Apr 2026</div>
     </a>
-    <a class="pp-post" href="/fitness/running/run_diary_2025/">
+    <a class="pp-post" href="/running/run_diary_2025/">
       <span class="pp-badge pp-badge-run">Running</span>
       <div class="pp-post-title">2025 Race Diary — Five Runs, One Journey</div>
       <div class="pp-post-date">Dec 2025</div>

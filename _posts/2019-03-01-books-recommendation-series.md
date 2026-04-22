@@ -3,7 +3,7 @@ id: 1918
 title: 'Books recommendation series: Elements of statistical learning'
 date: 2019-03-01T16:16:08+05:30
 layout: post
-categories: [life]
+categories: [ai-ml]
 guid: /?p=1918
 permalink: /2019/03/01/books-recommendation-series/
 ---

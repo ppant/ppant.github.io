@@ -3,7 +3,7 @@ id: 2007
 title: 'Python learning: scrapbook'
 date: 2019-04-26T21:17:57+05:30
 layout: post
-categories: [life]
+categories: [tech]
 guid: /?p=2007
 permalink: /2019/04/26/python-learning-scrapbook/
 ---

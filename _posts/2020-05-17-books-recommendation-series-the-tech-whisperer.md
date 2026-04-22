@@ -3,7 +3,7 @@ title: 'Books recommendation series: The Tech Whisperer'
 date: 2020-05-17T16:24:27+05:30
 layout: post
 permalink: /2020/05/17/books-recommendation-series-the-tech-whisperer/
-categories: [life]
+categories: [tech]
 ---
 Book 
 

@@ -3,7 +3,7 @@ id: 610
 title: Perl Weekly newsletter
 date: 2011-08-03T20:23:37+05:30
 layout: post
-categories: [life]
+categories: [tech]
 guid: /?p=610
 permalink: /2011/08/03/perl-weekly-newsletter/
 jabber_published:

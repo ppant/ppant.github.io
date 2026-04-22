@@ -126,11 +126,10 @@ jekyll-archives:
     category: '/category/:name/'
 
 category_titles:
-  tech: Technology
+  tech: Software Engineering
   software: Software Engineering
-  ai-ml: AI / ML
+  ai-ml: AI/ML
   process-mining: Process Mining
-  fitness: Fitness
   running: Running
   cycling: Cycling
   health: Health

@@ -4,7 +4,7 @@ title: 'Podcast recommendation: Data, AI, ML & Software Engineering'
 date: 2019-04-30T21:57:14+05:30
 layout: post
 permalink: /2019/04/30/podcast-recommendation-data-ai-ml-software-engineering/
-categories: [life]
+categories: [tech]
 ---
 
 Currently, I am listening to the following podcast on topics like Software engineering, Data science, AI, ML and many more 

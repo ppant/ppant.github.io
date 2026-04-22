@@ -3,7 +3,7 @@ id: 1946
 title: 'Books recommendation series: Predictive analytics'
 date: 2019-03-22T20:47:50+05:30
 layout: post
-categories: [life]
+categories: [ai-ml]
 guid: /?p=1946
 permalink: /2019/03/22/books-recommendation-series-predictive-analytics/
 ---

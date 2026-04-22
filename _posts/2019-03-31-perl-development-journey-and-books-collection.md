@@ -3,7 +3,7 @@ id: 1961
 title: Perl development journey and books collection
 date: 2019-03-31T18:08:17+05:30
 layout: post
-categories: [life]
+categories: [tech]
 guid: /?p=1961
 permalink: /2019/03/31/perl-development-journey-and-books-collection/
 twitter_share:

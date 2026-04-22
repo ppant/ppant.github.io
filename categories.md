@@ -14,29 +14,29 @@ permalink: /categories/
 
     <div class="cat-group">
       <div class="cat-group-header">
-        <span class="cat-group-icon">💻</span>
+        <span class="cat-group-icon">&#128187;</span>
         <h2 class="cat-group-title">Technology</h2>
       </div>
       <div class="cat-group-links">
-        <a href="/category/tech/" class="cat-nav-link">Technology</a>
+        <a href="/category/tech/" class="cat-nav-link">Software Engineering</a>
         <a href="/category/ai-ml/" class="cat-nav-link">AI / ML</a>
+        <a href="/category/process-mining/" class="cat-nav-link">Process Mining</a>
       </div>
     </div>
 
     <div class="cat-group">
       <div class="cat-group-header">
-        <span class="cat-group-icon">🏃</span>
-        <h2 class="cat-group-title">Running & Fitness</h2>
+        <span class="cat-group-icon">&#127939;</span>
+        <h2 class="cat-group-title">Running</h2>
       </div>
       <div class="cat-group-links">
         <a href="/category/running/" class="cat-nav-link">Running</a>
-        <a href="/category/fitness/" class="cat-nav-link">Fitness</a>
       </div>
     </div>
 
     <div class="cat-group">
       <div class="cat-group-header">
-        <span class="cat-group-icon">🌍</span>
+        <span class="cat-group-icon">&#127758;</span>
         <h2 class="cat-group-title">Travel</h2>
       </div>
       <div class="cat-group-links">
@@ -46,7 +46,7 @@ permalink: /categories/
 
     <div class="cat-group">
       <div class="cat-group-header">
-        <span class="cat-group-icon">📚</span>
+        <span class="cat-group-icon">&#128214;</span>
         <h2 class="cat-group-title">Life</h2>
       </div>
       <div class="cat-group-links">

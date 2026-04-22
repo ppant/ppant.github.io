@@ -2,6 +2,7 @@
 title: 'Python Architecture Patterns: book review'
 date: 2022-01-31
 layout: post
+permalink: /2022/01/31/python_arch_book_review/
 categories: [tech]
 ---
 

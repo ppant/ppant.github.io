@@ -2,6 +2,7 @@
 title: 'Microsoft Edge and IE issue again and workaround'
 date: 2020-04-18T5:34:03+05:30
 layout: post
+permalink: /2020/04/18/Microsoft-Edge-and-IE-issue-again/
 categories: [tech]
 ---
 *So here again a post on Microsoft issues though in past I have already written several posts on different issues from Microsoft. Here are few of them:*

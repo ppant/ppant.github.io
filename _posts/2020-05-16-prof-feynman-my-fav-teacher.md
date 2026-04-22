@@ -2,6 +2,7 @@
 title: 'Prof. Feynman My fav teacher'
 date: 2020-05-16
 layout: post
+permalink: /2020/05/16/prof-feynman-my-fav-teacher/
 categories: [life]
 ---
 Being trained in Physics I am a huge fan of [Prof. Richard P. Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) I learned about him more while studying Advanced Quantum Mechanics and Statistical Mechanics during my master's way back in 1995-96. The way he explained the concepts of Physics and Science in general is amazing and had huge impact on my though process. He was called Feynman the “Great Explainer” in his days. During my Grauduate studies there were only books and research articles to look but later other Feynman resources came. I kept following his work and newly published material audio/video and books.

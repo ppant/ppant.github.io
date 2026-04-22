@@ -3,6 +3,7 @@ id: 2237
 title: 'Expiry and revive of my blog: Some early learning of 2020'
 date: 2020-01-19T19:15:09+05:30
 layout: post
+permalink: /2020/01/19/expiry-and-revive-of-my-blog-some-early-learning-of-2020/
 categories: [life]
 ---
 Last week was full of adventure in reviving my blog [https://www.pradeeppant.com](https://www.pradeeppant.com). Ok. enough suspense! Here goes the story...  

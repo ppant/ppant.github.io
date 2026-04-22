@@ -3,6 +3,7 @@ title: 'Learning with Anki cards'
 
 date: 2021-02-28T1:46:03+05:30
 layout: post
+permalink: /2021/02/28/learning_using_anki_cards/
 categories: [life]
 ---
 

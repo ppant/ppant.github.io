@@ -2,6 +2,7 @@
 title: 'Deep learning on large images: challenges and CNN'
 date: 2019-10-07T20:13:25+05:30
 layout: post
+permalink: /2019/10/07/deep-learning-on-large-images-challenges-and-cnn/
 categories: [ai-ml]
 ---
 Applying deep learning on large images is always a challenge but there a solution using convolutional but first, let&#8217;s understand in brief where is the challenge? So one of the challenges in computer vision is that inputs become very big as we increase image size. 

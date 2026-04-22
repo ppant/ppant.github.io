@@ -2,6 +2,7 @@
 title: 'Check Running Time of the Perl Code'
 date: 2020-04-29
 layout: post
+permalink: /2020/04/29/Check-Running-Time-of-the-Perl-Code/
 categories: [tech]
 ---
 

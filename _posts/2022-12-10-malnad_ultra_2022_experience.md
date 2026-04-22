@@ -2,6 +2,7 @@
 title: 'Malnad Ultra 2022: My First 30K Trail Run Experience in the Western Ghats'
 date: 2022-12-10
 layout: post
+permalink: /2022/12/10/malnad_ultra_2022_experience/
 categories: [running]
 description: 'A detailed race report of my first trail run at Malnad Ultra 2022. Experience running the 30K course in the beautiful coffee estates of the Western Ghats.'
 ---

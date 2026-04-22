@@ -2,6 +2,7 @@
 title: 'Firefox SameSite Set cookie reject issue apache solution'
 date: 2020-12-20
 layout: post
+permalink: /2020/12/20/firefox_set_cookie_warning_apache_solution/
 categories: [tech]
 category: Tech
 ---

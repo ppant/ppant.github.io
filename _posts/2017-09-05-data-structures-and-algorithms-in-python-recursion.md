@@ -3,6 +3,7 @@ id: 1696
 title: 'Data Structures and Algorithms in Python Recursion'
 date: 2017-09-05T18:26:16+05:30
 layout: post
+permalink: /2017/09/05/data-structures-and-algorithms-in-python-recursion/
 categories: [tech]
 ---
 ## Computes the cumulative sum : Recursion

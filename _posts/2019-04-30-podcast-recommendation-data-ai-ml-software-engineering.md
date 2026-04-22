@@ -3,6 +3,7 @@ id: 2019
 title: 'Podcast recommendation: Data, AI, ML & Software Engineering'
 date: 2019-04-30T21:57:14+05:30
 layout: post
+permalink: /2019/04/30/podcast-recommendation-data-ai-ml-software-engineering/
 categories: [life]
 ---
 

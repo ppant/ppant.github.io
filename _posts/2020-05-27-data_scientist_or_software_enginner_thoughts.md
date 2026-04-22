@@ -3,6 +3,7 @@ title: 'Software Engineer or Data Scientist: thoughts'
 
 date: 2020-05-27T1:46:03+05:30
 layout: post
+permalink: /2020/05/27/data_scientist_or_software_enginner_thoughts/
 categories: [ai-ml]
 ---
 ![](/data/images/iris_dataset_cover.jpg)

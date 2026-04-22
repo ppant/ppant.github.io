@@ -2,6 +2,7 @@
 title: "Nag Mandir Parikrma Run 2025: Community Fitness and Tradition in the Himalayas"
 date: 2025-09-10
 layout: post
+permalink: /2025/09/10/nag_devta_parikrama_run/
 categories: [community, running]
 description: 'Exploring the Nag Mandir Parikrma Run 2025 in Berinag, Uttarakhand. A community initiative promoting fitness and local Himalayan traditions.'
 ---

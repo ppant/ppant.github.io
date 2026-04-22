@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /2025/07/15/explainable-concept-drift/
 title: "Explainable Concept Drift in Process Mining: MLP-Based Non-Linear Causality"
 date: 2025-07-15
 categories: [ai-ml]

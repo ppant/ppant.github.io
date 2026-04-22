@@ -3,6 +3,7 @@ title: 'Image classification of Flowers in Machine Learning: Challenges and deve
 
 date: 2020-05-25T1:46:03+05:30
 layout: post
+permalink: /2020/05/25/Image_classification_of_flowers_challenges/
 categories: [ai-ml]
 ---
 

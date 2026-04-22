@@ -151,17 +151,17 @@ title: About
   <!-- LATEST POSTS -->
   <div class="pp-section-label">Latest from the blog</div>
   <div class="pp-posts">
-    <a class="pp-post" href="/tech/why-dsa-matters-agentic-era/">
+    <a class="pp-post" href="/2026/04/04/why-dsa-matters-agentic-era/">
       <span class="pp-badge pp-badge-tech">AI · Engineering</span>
       <div class="pp-post-title">Why DSA Matters in the Agentic Era</div>
       <div class="pp-post-date">Apr 2026</div>
     </a>
-    <a class="pp-post" href="/running/run_diary_2025/">
+    <a class="pp-post" href="/2025/12/20/run_diary_2025/">
       <span class="pp-badge pp-badge-run">Running</span>
       <div class="pp-post-title">2025 Race Diary — Five Runs, One Journey</div>
       <div class="pp-post-date">Dec 2025</div>
     </a>
-    <a class="pp-post" href="/community/running/nag_devta_parikrama_run/">
+    <a class="pp-post" href="/2025/09/10/nag_devta_parikrama_run/">
       <span class="pp-badge pp-badge-run">Community</span>
       <div class="pp-post-title">Nag Mandir Parikrama Run — A Himalayan Initiative</div>
       <div class="pp-post-date">Sep 2025</div>

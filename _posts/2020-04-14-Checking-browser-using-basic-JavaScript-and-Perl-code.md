@@ -2,6 +2,7 @@
 title: 'Browser detection using basic JavaScript and Perl code'
 date: 2020-04-14T5:34:03+05:30
 layout: post
+permalink: /2020/04/14/Checking-browser-using-basic-JavaScript-and-Perl-code/
 categories: [tech]
 ---
 Here is a quick post on how to check the browser name based on ````userAgent ```` 

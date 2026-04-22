@@ -2,6 +2,7 @@
 title: 'Debugging diaries - Perl code'
 date: 2020-08-11
 layout: post
+permalink: /2020/08/11/debugging-diaries-perl-code/
 categories: [tech]
 ---
 ***Sometimes an only a single line of code change can do the magic!!***

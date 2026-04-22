@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /2026/04/04/why-dsa-matters-agentic-era/
 title: "Why DSA Matters in the Agentic Era"
 date: 2026-04-04 09:21:03
 categories: [tech]

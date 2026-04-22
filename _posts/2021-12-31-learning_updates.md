@@ -2,6 +2,7 @@
 title: 'Summary of the month: December 2021'
 date: 2021-12-31
 layout: post
+permalink: /2021/12/31/learning_updates/
 category: Tech
 categories: [tech]
 ---

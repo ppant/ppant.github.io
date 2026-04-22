@@ -2,6 +2,7 @@
 title: High time to upgrade to HTTP/2
 date: 2019-11-30T22:03:16+05:30
 layout: post
+permalink: /2019/11/30/time-to-upgrade-to-http-2/
 categories: [tech]
 ---
 > Request multiplexing over a single TCP connection is the most advanced feature of HTTP/2 protocol over HTTP/1.1.

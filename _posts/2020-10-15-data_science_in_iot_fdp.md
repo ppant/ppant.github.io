@@ -2,6 +2,7 @@
 title: 'Data Science for IoT: FDP: Summary'
 date: 2020-10-15
 layout: post
+permalink: /2020/10/15/data_science_in_iot_fdp/
 categories: [ai-ml]
 category: Tech
 ---

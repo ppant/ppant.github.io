@@ -2,6 +2,7 @@
 title: 'Data Mining and Process mining'
 date: 2022-07-02
 layout: post
+permalink: /2022/07/02/business_process_and_process_mining/
 categories: [ai-ml]
 ---
 

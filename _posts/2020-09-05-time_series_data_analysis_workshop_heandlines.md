@@ -2,6 +2,7 @@
 title: 'Time Series Data Analysis: Headlines: IIITA '
 date: 2020-09-05
 layout: post
+permalink: /2020/09/05/time_series_data_analysis_workshop_heandlines/
 categories: [ai-ml]
 
 ---

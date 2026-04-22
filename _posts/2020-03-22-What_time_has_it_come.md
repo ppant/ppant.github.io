@@ -2,6 +2,7 @@
 title: 'What time has it come ...'
 date: 2020-03-22T5:34:03+05:30
 layout: post
+permalink: /2020/03/22/What_time_has_it_come/
 categories: [life]
 ---
 

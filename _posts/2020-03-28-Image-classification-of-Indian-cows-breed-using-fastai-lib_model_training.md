@@ -3,6 +3,7 @@ title: 'Image classification of Indian cows breed using fastai lib: Train Model'
 
 date: 2020-03-28T1:46:03+05:30
 layout: post
+permalink: /2020/03/28/Image-classification-of-Indian-cows-breed-using-fastai-lib_model_training/
 categories: [ai-ml]
 ---
 

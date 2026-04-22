@@ -2,6 +2,7 @@
 title: 'When to use Google Cloud BigTable and BigQuery? A Use case..'
 date: 2021-06-08T1:46:03+05:30
 layout: post
+permalink: /2021/06/08/google_cloud_bigtable_and_bigquery_use_cases/
 categories: [ai-ml]
 ---
 

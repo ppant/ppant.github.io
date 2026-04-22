@@ -2,6 +2,7 @@
 title: 'Why I am doing Ph.D.'
 date: 2020-08-29
 layout: post
+permalink: /2020/08/29/why_am_I_doing_phd/
 categories: [life]
 category: Tech
 ---

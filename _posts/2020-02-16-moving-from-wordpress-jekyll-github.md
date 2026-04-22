@@ -2,6 +2,7 @@
 title: 'Moving my blog from WordPress to Jekyll and Github'
 date: 2020-02-16 T19:15:09+05:30
 layout: post
+permalink: /2020/02/16/moving-from-wordpress-jekyll-github/
 categories: [tech]
 ---
 

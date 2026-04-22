@@ -3,6 +3,7 @@ title: 'Why am learning Julia, the Programming language'
 
 date: 2020-06-06T1:46:03+05:30
 layout: post
+permalink: /2020/06/06/why_am_learning_Julia_lang/
 categories: [tech]
 ---
 So each year I try my hand on a new programming language/library though I always not end up using in my professional setup but exploring a language gives me more options and understanding of what other languages can do and how can I integrate some good features. 

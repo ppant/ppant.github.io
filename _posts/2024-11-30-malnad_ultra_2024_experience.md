@@ -2,6 +2,7 @@
 title: 'Malnad Ultra 2024: Returning for the 50K Trail Challenge in the Western Ghats'
 date: 2024-11-30
 layout: post
+permalink: /2024/11/30/malnad_ultra_2024_experience/
 categories: [running]
 description: 'Exploring my second 50K trail run at Malnad Ultra 2024. A race diary of the technical course, elevation challenges, and the beautiful coffee plantations of the Western Ghats.'
 ---

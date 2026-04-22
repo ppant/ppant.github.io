@@ -3,6 +3,7 @@ id: 1959
 title: Microsoft Visio and infamous Windings font
 date: 2019-04-16T21:37:05+05:30
 layout: post
+permalink: /2019/04/16/microsoft-visio-and-infamous-windings-font/
 categories: [tech]
 category: Tech
 ---

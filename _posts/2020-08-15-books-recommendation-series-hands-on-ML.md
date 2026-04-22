@@ -2,6 +2,7 @@
 title: 'Books recommendation series: Hands-On ML'
 date: 2020-08-15T16:24:27+05:30
 layout: post
+permalink: /2020/08/15/books-recommendation-series-hands-on-ML/
 categories: [life]
 ---
 Book 

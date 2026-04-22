@@ -2,6 +2,7 @@
 title: 'Bison Ultra 2023: Conquering the 50K Trail in Yercaud Hills'
 date: 2023-09-17
 layout: post
+permalink: /2023/09/17/bison_ultra_2023_race_report/
 categories: [running]
 description: 'A comprehensive race report of Bison Ultra 2023. Insights into the 50K trail course in Yercaud Hills, including elevation profile, terrain challenges, and preparation tips.'
 ---

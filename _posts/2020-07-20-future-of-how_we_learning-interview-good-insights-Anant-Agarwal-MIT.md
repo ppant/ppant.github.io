@@ -2,6 +2,7 @@
 title: 'Future of how we will be learning: Good insights from a teacher & leader: Dr. Anant Agarwal, MIT'
 date: 2020-07-20T1:46:03+05:30
 layout: post
+permalink: /2020/07/20/future-of-how_we_learning-interview-good-insights-Anant-Agarwal-MIT/
 categories: [life]
 ---
 Great Conversation with the CEO of [edX](https://www.edx.org/) and an MIT professor, [Dr. Anant Agrawal](https://en.wikipedia.org/wiki/Anant_Agarwal) by Dr. Harpreet Singh, of experfy.  

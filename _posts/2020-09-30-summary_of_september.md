@@ -2,6 +2,7 @@
 title: 'Summary of the month: September 2020'
 date: 2020-09-30
 layout: post
+permalink: /2020/09/30/summary_of_september/
 categories: [life]
 category: Tech
 ---

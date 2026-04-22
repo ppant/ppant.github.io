@@ -2,6 +2,7 @@
 title: 'JavaScript DOM content load check'
 date: 2020-04-27
 layout: post
+permalink: /2020/04/27/JavaScript-check-for-DOM-content-load/
 categories: [tech]
 ---
 DOM loading is an important event, sometimes you have some logic which takes DOM into consideration so knowing exactly when DOM has been loaded fully is the crucial info. DOM corresponds to Document Object Model.

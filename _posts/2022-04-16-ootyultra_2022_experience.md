@@ -2,6 +2,7 @@
 title: 'Ooty Ultra (OOTYULTRA) 2022: My First Ultra Running Experience in Ooty'
 date: 2022-04-16
 layout: post
+permalink: /2022/04/16/ootyultra_2022_experience/
 categories: [running]
 description: 'A detailed race report and experience of my first ultra run at Ooty Ultra (OOTYULTRA) 2022. Insights on the 30K course, elevation, and the beautiful Nilgiris landscape.'
 ---

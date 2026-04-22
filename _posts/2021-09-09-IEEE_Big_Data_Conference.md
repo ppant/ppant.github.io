@@ -3,6 +3,7 @@ title: 'IEEE Big Data Conference 2021: Serverless Machine Learning: Call for pap
 
 date: 2021-09-09T1:46:03+05:30
 layout: post
+permalink: /2021/09/09/IEEE_Big_Data_Conference/
 categories: [ai-ml]
 ---
 <style>

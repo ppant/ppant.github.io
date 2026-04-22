@@ -2,6 +2,7 @@
 title: 'Debugging diaries - C/C++ code'
 date: 2020-08-19
 layout: post
+permalink: /2020/08/19/debugging-diaries-C-code/
 categories: [tech]
 ---
 ***Sometimes an only a single line of code change can do the magic!!***

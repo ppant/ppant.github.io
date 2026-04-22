@@ -2,6 +2,7 @@
 title: 'Process Mining: how to find a right use case'
 date: 2022-09-04
 layout: post
+permalink: /2022/09/04/process_mining_explained_use_case/
 categories: [ai-ml]
 category: [tech, process-mining]
 ---

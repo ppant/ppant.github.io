@@ -2,6 +2,7 @@
 title: 'WFH setup and tips...'
 date: 2020-04-18
 layout: post
+permalink: /2020/04/18/WFH-setup-and-tips/
 categories: [life]
 ---
 In this COVID-19 scenario, everyone is trying to Work From Home depends on the job profile. 

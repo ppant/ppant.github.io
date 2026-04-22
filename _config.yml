@@ -136,8 +136,6 @@ category_titles:
   health: Health
   travel: Travel
   life: Life
-  books: Books
-  reflections: Reflections
   community: Community
 include:
   - data

@@ -20,7 +20,6 @@ permalink: /categories/
       <div class="cat-group-links">
         <a href="/category/tech/" class="cat-nav-link">Technology</a>
         <a href="/category/ai-ml/" class="cat-nav-link">AI / ML</a>
-        <a href="/category/process-mining/" class="cat-nav-link">Process Mining</a>
       </div>
     </div>
 
@@ -32,8 +31,6 @@ permalink: /categories/
       <div class="cat-group-links">
         <a href="/category/running/" class="cat-nav-link">Running</a>
         <a href="/category/fitness/" class="cat-nav-link">Fitness</a>
-        <a href="/category/cycling/" class="cat-nav-link">Cycling</a>
-        <a href="/category/health/" class="cat-nav-link">Health</a>
       </div>
     </div>
 
@@ -54,8 +51,6 @@ permalink: /categories/
       </div>
       <div class="cat-group-links">
         <a href="/category/life/" class="cat-nav-link">Life</a>
-        <a href="/category/books/" class="cat-nav-link">Books</a>
-        <a href="/category/reflections/" class="cat-nav-link">Reflections</a>
       </div>
     </div>
 

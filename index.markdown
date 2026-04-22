@@ -87,7 +87,7 @@ title: About
     <div class="pp-hero-text">
       <div class="pp-eyebrow">AI/ML Architect · Ultra Runner · Researcher</div>
       <h1 class="pp-hero-name">20 years in tech.<br>Every finish line<br>teaches me something new.</h1>
-      <p class="pp-hero-tagline">Building production-grade AI systems at LTIMindtree. Running Western Ghats trails on weekends. PhD researcher at IIIT Allahabad.</p>
+      <p class="pp-hero-tagline">Building production-grade AI systems at LTIMindtree. Running trails on weekends. PhD researcher at IIIT Allahabad.</p>
       <div class="pp-hero-cta">
         <a class="pp-btn-primary" href="/blog/">Read the blog</a>
         <a class="pp-btn-secondary" href="https://www.linkedin.com/in/ppant/">Connect on LinkedIn</a>

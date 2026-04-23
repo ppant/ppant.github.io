@@ -30,7 +30,7 @@ title: About
 .pp-avatar { width: 72px; height: 72px; border-radius: 50%; border: 2px solid #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.15); object-fit: cover; }
 
 /* Stats */
-.pp-stats { display: grid; grid-template-columns: repeat(3, 1fr); border: 1px solid #e8e8e8; border-radius: 12px; overflow: hidden; margin-bottom: 3rem; }
+.pp-stats { display: grid; grid-template-columns: repeat(2, 1fr); border: 1px solid #e8e8e8; border-radius: 12px; overflow: hidden; margin-bottom: 3rem; }
 .pp-stat { padding: 1.25rem; text-align: center; border-right: 1px solid #e8e8e8; }
 .pp-stat:last-child { border-right: none; }
 .pp-stat-num { font-family: 'Playfair Display', serif; font-size: 28px; font-weight: 400; color: #BA7517; display: block; }
@@ -87,7 +87,7 @@ title: About
     <div class="pp-hero-text">
       <div class="pp-eyebrow">AI/ML Architect · Ultra Runner · Researcher</div>
       <h1 class="pp-hero-name">20 years in tech.<br>Every finish line<br>teaches me something new.</h1>
-      <p class="pp-hero-tagline">Building production-grade AI systems at LTIMindtree. Running trails on weekends. PhD researcher at IIIT Allahabad.</p>
+      <p class="pp-hero-tagline">Building production-grade AI systems at LTM for global clients. Running trails on weekends. Process Mining & ML Researcher at Indian Institute of Information Technology</p>
       <div class="pp-hero-cta">
         <a class="pp-btn-primary" href="/blog/">Read the blog</a>
         <a class="pp-btn-secondary" href="https://www.linkedin.com/in/ppant/">Connect on LinkedIn</a>
@@ -110,13 +110,9 @@ title: About
       <span class="pp-stat-label">Years in software</span>
     </div>
     <div class="pp-stat">
-      <span class="pp-stat-num">7+</span>
+      <span class="pp-stat-num">10+</span>
       <span class="pp-stat-label">Ultras completed</span>
-    </div>
-    <div class="pp-stat">
-      <span class="pp-stat-num">2026</span>
-      <span class="pp-stat-label">PhD expected</span>
-    </div>
+    </div>    
   </div>
 
   <!-- PILLARS -->
@@ -125,7 +121,7 @@ title: About
     <div class="pp-pillar">
       <div class="pp-pillar-icon pp-pillar-icon-tech">💻</div>
       <h2 class="pp-pillar-title">Building AI Systems</h2>
-      <p class="pp-pillar-body">Designing scalable, production-grade AI and ML systems. From embedded systems at Xerox to GenAI architectures at LTIMindtree — I build things that work at scale and stand the test of time.</p>
+      <p class="pp-pillar-body">Designing scalable, production-grade AI and ML systems. From embedded systems at Xerox to GenAI architectures — I build things that work at scale and stand the test of time.</p>
       <div class="pp-tags">
         <span class="pp-tag">Generative AI</span>
         <span class="pp-tag">MLOps</span>
@@ -137,7 +133,7 @@ title: About
     <div class="pp-pillar">
       <div class="pp-pillar-icon pp-pillar-icon-run">🏃</div>
       <h2 class="pp-pillar-title">Running Mountains</h2>
-      <p class="pp-pillar-body">Ultra trail runner across the Western Ghats and Himalayas. Malnad Ultra, Bison Ultra, Ooty Ultra — the trails teach patience, pacing, and perspective that no classroom can.</p>
+      <p class="pp-pillar-body">Ultra trail runner across the Western Ghats and Himalayas. Malnad Ultra, Bison Ultra, Ooty Ultra, SRT — the trails teach patience, pacing, and perspective that no classroom can.</p>
       <div class="pp-tags">
         <span class="pp-tag">Trail Running</span>
         <span class="pp-tag">50K Ultras</span>

@@ -1,6 +1,6 @@
 ---
 id: 74
-title: 'Perl's hidden treasure (The Schwartzian Transform)'
+title: "Perl's hidden treasure (The Schwartzian Transform)"
 date: 2010-04-07T16:59:27+05:30
 layout: post
 categories: [tech]

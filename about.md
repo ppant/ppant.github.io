@@ -185,7 +185,9 @@ permalink: /about/
   <div class="about-section">
     <h2>Professional Journey</h2>
     <p>My professional journey spans over two decades and reflects a gradual evolution from systems development and academia to enterprise software and AI/ML.</p>
-    <p>From 1999 to 2005, I was actively involved in teaching and academic roles at institutions such as Birla Institute of Technology, Mesra, Birla Institute of Applied Sciences, and BITS Pilani — teaching programming, electronics, digital design, microprocessors, and computer systems.</p>
+    <p>From 1997 to 2005, I was actively involved in teaching and academic roles at institutions such as Birla Institute of Technology, Mesra, Birla Institute of Applied Sciences, and BITS Pilani — teaching programming, electronics, digital design, microprocessors, and computer systems.
+    Alongside teaching, I was also involved in developing prototypes and providing technical support for small-scale industries, working on digital systems, microprocessor interfacing, and software-based solutions.</p>
+
     <p>In 2005, I transitioned fully into the IT industry, working across enterprise software and product engineering roles at organisations such as Xerox Inc, Wokana Technologies, and Ockham BV.</p>
     <p>I currently work as an AI/ML & Generative AI Architect at LTIMindtree, focusing on building scalable, production-grade AI systems for enterprise environments.</p>
   </div>

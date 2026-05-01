@@ -2,13 +2,13 @@
 id: 2030
 title: git push up to a certain commit
 date: 2019-05-06T20:33:35+05:30
-author: Pradeep Pant
 layout: post
+categories: [tech]
 guid: /?p=2030
 permalink: /2019/05/06/git-push-up-to-a-certain-commit/
 ---
 This is a quick share on git.  
-**Scenario:** I want to push my local changes to git but am having a few commits which I don&#8217;t want to push now. In other words, I just want to push changes till a certain commit.  
+**Scenario:** I want to push my local changes to git but am having a few commits which I don't want to push now. In other words, I just want to push changes till a certain commit.  
 **Solution:**  
 ````git
 $git push  <remotename><commit SHA>:<remote_branch_name>

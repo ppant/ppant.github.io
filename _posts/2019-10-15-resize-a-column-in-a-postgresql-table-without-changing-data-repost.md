@@ -2,8 +2,8 @@
 id: 2111
 title: 'Resize a column in a PostgreSQL table without changing data: Repost'
 date: 2019-10-15T19:59:24+05:30
-author: Pradeep Pant
 layout: post
+categories: [tech]
 guid: /?p=2111
 permalink: /2019/10/15/resize-a-column-in-a-postgresql-table-without-changing-data-repost/
 ---
@@ -13,13 +13,13 @@ Command to check the current size of a given column:
 
 <p class="has-text-color has-background has-luminous-vivid-orange-color has-very-light-gray-background-color">
   <code>SELECT atttypmod FROM pg_attribute WHERE attrelid = 'TABLE1'::regclass AND attname = 'COL1';</code>
-</p>
+
 
 In my case, the present size is 10 and I want to increase it to 25, so the command to update column will be as below:
 
 <p style="font-size:0" class="has-text-color has-background has-luminous-vivid-orange-color has-very-light-gray-background-color">
   <code>UPDATE pg_attribute SET atttypmod = 25 WHERE attrelid = 'TABLE1'::regclass AND attname = 'COL1';</code>
-</p>
+
 
 
 

@@ -2,8 +2,8 @@
 id: 389
 title: Data Serialization in Perl examples
 date: 2011-03-08T14:35:39+05:30
-author: Pradeep Pant
 layout: post
+categories: [tech]
 guid: /?p=389
 permalink: /2011/03/08/data-serialization-in-perl-examples/
 jabber_published:
@@ -40,7 +40,7 @@ One can store data and objects into a file using Serialization. The bytes that i
 > 
 > <p style="text-align:left;">
 >   <strong><span style="color:#0000ff;">Output:</span></strong>
-> </p>
+> 
 > 
 > <pre><span style="color:#008000;">##### HASH1 #####</span>
 <span style="color:#008000;">$VAR1 = {</span>

@@ -1,8 +1,9 @@
 ---
 title: 'Firefox SameSite Set cookie reject issue apache solution'
 date: 2020-12-20
-author: Pradeep Pant
 layout: post
+permalink: /2020/12/20/firefox_set_cookie_warning_apache_solution/
+categories: [tech]
 category: Tech
 ---
 A couple of days back while testing something I found the below warning in my Firefox console (Press F12 to get access to console).

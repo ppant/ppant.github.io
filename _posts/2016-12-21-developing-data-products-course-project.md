@@ -2,8 +2,8 @@
 id: 1585
 title: Developing data products course project
 date: 2016-12-21T20:35:57+05:30
-author: Pradeep Pant
 layout: post
+categories: [tech]
 guid: /?p=1585
 permalink: /2016/12/21/developing-data-products-course-project/
 ---

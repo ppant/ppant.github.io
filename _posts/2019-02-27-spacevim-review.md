@@ -2,8 +2,8 @@
 id: 1828
 title: SpaceVim review
 date: 2019-02-27T07:50:56+05:30
-author: Pradeep Pant
 layout: post
+categories: [tech]
 guid: /?p=1828
 permalink: /2019/02/27/spacevim-review/
 ---

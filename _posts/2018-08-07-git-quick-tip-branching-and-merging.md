@@ -1,15 +1,15 @@
 ---
 id: 1784
-title: 'git quick tip &#8211; branching and merging'
+title: 'git quick tip – branching and merging'
 date: 2018-08-07T20:13:17+05:30
-author: Pradeep Pant
 layout: post
+categories: [tech]
 guid: /?p=1784
 permalink: /2018/08/07/git-quick-tip-branching-and-merging/
 twitter_share:
   - 'a:2:{s:8:"hashtags";a:1:{i:0;s:16:"git #programming";}s:4:"text";s:37:"git quick tip - branching and merging";}'
 ---
-Sometimes you want to do experiment work or wants to patch the [git](https://git-scm.com/) master branch with some experimental code, in that case, it&#8217;s not the good idea to change the local master branch. Below are steps to do the changes in an experimental branch made with master and merge back to master and the pushback server.
+Sometimes you want to do experiment work or wants to patch the [git](https://git-scm.com/) master branch with some experimental code, in that case, it's not the good idea to change the local master branch. Below are steps to do the changes in an experimental branch made with master and merge back to master and the pushback server.
 
 **Scenario:**
 
@@ -17,18 +17,18 @@ Sometimes you want to do experiment work or wants to patch the [git](https://git
   <ul>
     <li>
       Create a new branch locally with the existing branch
-    </li>
+    
     <li>
       Make changes and commit these changes
-    </li>
+    
     <li>
       Merge them with the local branch from where we have made the branch
-    </li>
+    
     <li>
       push to the git server.
-    </li>
-  </ul>
-</li>
+    
+  
+
 
 **Example:  
 ** # Make a master_dev from master branch  

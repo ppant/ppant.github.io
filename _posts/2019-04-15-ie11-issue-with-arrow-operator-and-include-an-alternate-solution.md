@@ -2,12 +2,13 @@
 id: 1957
 title: 'IE11 issue with arrow and includes JavaScript method and an alternate solution'
 date: 2019-04-15T21:46:03+05:30
-author: Pradeep Pant
 layout: post
+permalink: /2019/04/15/ie11-issue-with-arrow-operator-and-include-an-alternate-solution/
+categories: [tech]
 ---
 Again one more Microsoft problem <span style="font-size: 1.375rem;">😢 </span>😢
 
-Yesterday, I  suddenly observed that one part of my newly developed feature was not working in IE11. This is a simple feature which contains two select boxes, user can select the one or multiple items from the first select box and copy to another select box. I have added a kind of logic there which checks before copying if the item(s) to be copied are already in list 2, if true, alert the user and skip copying duplicates. While developing I checked this feature in chrome, Edge and Firefox and all work perfectly!  I couldn&#8217;t check in IE11 and that was my mistake as IE is infamous for such issues. While debugging I saw that IE11 was crashing on the places where I have used the functions  => and .include. Actually, the arrow function is not supported in IE 11. You can refer to this compatibility table: <a href="https://kangax.github.io/compat-table/es6/" rel="nofollow">https://kangax.github.io/compat-table/es6/</a> to get an overview of what is supported where and to what extent in a detailed fashion. You may read more on arrow functions at below link: 
+Yesterday, I  suddenly observed that one part of my newly developed feature was not working in IE11. This is a simple feature which contains two select boxes, user can select the one or multiple items from the first select box and copy to another select box. I have added a kind of logic there which checks before copying if the item(s) to be copied are already in list 2, if true, alert the user and skip copying duplicates. While developing I checked this feature in chrome, Edge and Firefox and all work perfectly!  I couldn't check in IE11 and that was my mistake as IE is infamous for such issues. While debugging I saw that IE11 was crashing on the places where I have used the functions  => and .include. Actually, the arrow function is not supported in IE 11. You can refer to this compatibility table: <a href="https://kangax.github.io/compat-table/es6/" rel="nofollow">https://kangax.github.io/compat-table/es6/</a> to get an overview of what is supported where and to what extent in a detailed fashion. You may read more on arrow functions at below link: 
 
 <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions>
 

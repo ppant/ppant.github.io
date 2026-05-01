@@ -2,9 +2,9 @@
 title: 'Quantum computing: Present and future: Thoughts'
 
 date: 2020-05-20T1:46:03+05:30
-author: Pradeep Pant
 layout: post
-categories: [tech, software]
+permalink: /2020/05/30/quantum-computing-a-present_and_great-future/
+categories: [tech]
 ---
 ![](/data/images/iris_dataset_cover.jpg)
 

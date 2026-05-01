@@ -2,8 +2,8 @@
 id: 1589
 title: JHU Data Science Specialization Capstone
 date: 2016-10-10T15:47:47+05:30
-author: Pradeep Pant
 layout: post
+categories: [ai-ml]
 guid: /?p=1589
 permalink: /2016/10/10/jhu-data-science-specialization-capstone/
 ---
@@ -11,7 +11,7 @@ I have created a text prediction application as a part of Coursera Johns Hopkins
 
 Check below for resources.
 
-**Next Word Text Prediction Algorithm &#8212; Data Science Capstone Project by JHU and Swiftkey**
+**Next Word Text Prediction Algorithm — Data Science Capstone Project by JHU and Swiftkey**
 
 **Presentation:**
 

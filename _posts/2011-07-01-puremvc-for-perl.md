@@ -2,8 +2,8 @@
 id: 602
 title: PureMVC for Perl
 date: 2011-07-01T14:37:09+05:30
-author: Pradeep Pant
 layout: post
+categories: [tech]
 guid: /?p=602
 permalink: /2011/07/01/puremvc-for-perl/
 jabber_published:
@@ -15,4 +15,4 @@ reddit:
 dsq_thread_id:
   - "818181704"
 ---
-I have seen the news about availability of [PureMVC for Perl](http://puremvc.org/content/view/171/1/).  Frankly,  I don&#8217;t know much about it. Can I get some expert comments on the usage and implementation of PueMVC for Perl.
+I have seen the news about availability of [PureMVC for Perl](http://puremvc.org/content/view/171/1/).  Frankly,  I don't know much about it. Can I get some expert comments on the usage and implementation of PueMVC for Perl.

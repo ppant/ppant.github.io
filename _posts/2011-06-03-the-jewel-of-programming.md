@@ -2,8 +2,8 @@
 id: 583
 title: The Jewel Of Programming
 date: 2011-06-03T12:15:29+05:30
-author: Pradeep Pant
 layout: post
+categories: [tech]
 guid: /?p=583
 permalink: /2011/06/03/the-jewel-of-programming/
 jabber_published:

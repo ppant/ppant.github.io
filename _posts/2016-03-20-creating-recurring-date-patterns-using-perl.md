@@ -2,8 +2,8 @@
 id: 1517
 title: Creating recurring date patterns using Perl
 date: 2016-03-20T16:47:53+05:30
-author: Pradeep Pant
 layout: post
+categories: [tech]
 guid: /?p=1517
 permalink: /2016/03/20/creating-recurring-date-patterns-using-perl/
 ---

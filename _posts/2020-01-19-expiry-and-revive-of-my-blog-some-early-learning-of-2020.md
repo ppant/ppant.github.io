@@ -2,8 +2,9 @@
 id: 2237
 title: 'Expiry and revive of my blog: Some early learning of 2020'
 date: 2020-01-19T19:15:09+05:30
-author: Pradeep Pant
 layout: post
+permalink: /2020/01/19/expiry-and-revive-of-my-blog-some-early-learning-of-2020/
+categories: [life]
 ---
 Last week was full of adventure in reviving my blog [https://www.pradeeppant.com](https://www.pradeeppant.com). Ok. enough suspense! Here goes the story...  
 After new year's feast and vacation, I suddenly realized that my blog is not accessible. Later realised that this was due to a mistake from my side imagine I forgot to extend the hosting which was combined with some other blogs from other folks. I mis-read some messages and resulted in suspension of my blog. I was so desperate even tweeted about that ....

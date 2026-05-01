@@ -2,8 +2,8 @@
 id: 608
 title: Searching and voting CPAN modules in google way
 date: 2011-07-26T15:41:16+05:30
-author: Pradeep Pant
 layout: post
+categories: [tech]
 guid: /?p=608
 permalink: /2011/07/26/searching-and-voting-cpan-modules-in-google-way/
 jabber_published:
@@ -15,4 +15,4 @@ email_notification:
 dsq_thread_id:
   - "811502061"
 ---
-[MetaCPAN](https://metacpan.org/) &#8212;  Really amazing stuff .. you can connect with github, twitter accounts and can vote on Perl modules!
+[MetaCPAN](https://metacpan.org/) —  Really amazing stuff .. you can connect with github, twitter accounts and can vote on Perl modules!

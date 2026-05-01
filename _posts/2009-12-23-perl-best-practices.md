@@ -2,8 +2,8 @@
 id: 28
 title: Perl Best practices
 date: 2009-12-23T19:50:41+05:30
-author: Pradeep Pant
 layout: post
+categories: [tech]
 category: Tech
 guid: http://ppant.wordpress.com/?p=28
 permalink: /2009/12/23/perl-best-practices/

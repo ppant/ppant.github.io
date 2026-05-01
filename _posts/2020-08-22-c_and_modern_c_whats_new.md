@@ -1,8 +1,9 @@
 ---
 title: 'C and Modern C whats new'
 date: 2020-08-22
-author: Pradeep Pant
 layout: post
+permalink: /2020/08/22/c_and_modern_c_whats_new/
+categories: [tech]
 ---
 Though C was not the first programming language I started writing computer programs (I began with 8085 Assembly, COBOL, FoxPro, FORTRAN). I started C dev back in 1998, though it was welcome change initially the most puzzling part was pointer manipulation, I must say it took some time to really understand how this works in-memory manipulation & management. 
 

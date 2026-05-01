@@ -8,3 +8,4 @@ node_modules
 wp-content
 .DS_Store
 data/images/travel/running_diary_2025/.DS_Store
+wp-content/

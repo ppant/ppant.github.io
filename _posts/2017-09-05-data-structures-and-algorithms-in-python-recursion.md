@@ -2,8 +2,9 @@
 id: 1696
 title: 'Data Structures and Algorithms in Python Recursion'
 date: 2017-09-05T18:26:16+05:30
-author: Pradeep Pant
 layout: post
+permalink: /2017/09/05/data-structures-and-algorithms-in-python-recursion/
+categories: [tech]
 ---
 ## Computes the cumulative sum : Recursion
 
@@ -112,7 +113,7 @@ The recursive-memoization solution is exponential time Big-O , with O(n)
 
 ## Implement coin change problem Recursion
 
-Given a target amount n and a list (array) of distinct coin values, what&#8217;s the fewest coins needed to make the change amount. 1+1+1+1+1+1+1+1+1+1 
+Given a target amount n and a list (array) of distinct coin values, what's the fewest coins needed to make the change amount. 1+1+1+1+1+1+1+1+1+1 
 5 + 1+1+1+1+1 
 5+5 
 10 With 1 coin being the minimum amount.

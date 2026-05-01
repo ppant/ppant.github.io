@@ -2,8 +2,8 @@
 id: 738
 title: AI Class Unit 2 Problem Solving
 date: 2011-10-17T20:34:56+05:30
-author: Pradeep Pant
 layout: post
+categories: [ai-ml]
 guid: /?p=738
 permalink: /2011/10/17/ai-class-unit-2/
 jabber_published:
@@ -25,7 +25,7 @@ dsq_thread_id:
 
 <span class="Apple-style-span" style="color:#008000;">and topics on state spaces</span>
 
-<span style="color:#993300;">Though my quiz score are not so good.. may be this was the first assignment but the quiz score is not counting on my final score  so that&#8217;s good news. Now I am concentrating on Homework 1 which will be closed in some hours.</span>
+<span style="color:#993300;">Though my quiz score are not so good.. may be this was the first assignment but the quiz score is not counting on my final score  so that's good news. Now I am concentrating on Homework 1 which will be closed in some hours.</span>
 
 <span style="color:#993300;">There are some very good notes on <strong><span style="color:#0000ff;"><a href="http://larvecode.tumblr.com/tagged/ai-class"><span style="color:#0000ff;">this link</span></a></span></strong> on Unit-1 and some part of Unit-2. Keep on visiting this site, I believe it is getting updated regularly. Another<strong><span style="color:#0000ff;"><a href="http://www.aiqus.com/questions/"><span style="color:#0000ff;"> site</span></a></span></strong> which I am liking is AI-Class Q&A community. Check it out and ask any question regarding course topics, assignments etc.</span>
 

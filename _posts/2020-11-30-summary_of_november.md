@@ -1,8 +1,9 @@
 ---
 title: 'Summary of the month: November 2020'
 date: 2020-11-30
-author: Pradeep Pant
 layout: post
+permalink: /2020/11/30/summary_of_november/
+categories: [life]
 ---
 So, we are already at the end of the month, as usual, I couldn't write many posts despite multiple posts lying in the draft folder to be published. It was again a busy month also the Diwali festival. In continuation from some of the things from [previous months](/2020/09/30/summary_of_september) this month I was following a couple of new problems.
 

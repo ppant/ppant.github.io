@@ -2,8 +2,8 @@
 id: 1847
 title: git amend scenerios
 date: 2019-03-12T21:16:50+05:30
-author: Pradeep Pant
 layout: post
+categories: [tech]
 guid: /?p=1847
 permalink: /2019/03/12/git-amend-scenerio/
 ---
@@ -100,4 +100,4 @@ Please so remember re-pushing your commit after changing, it will be very likely
 
 <p class="has-text-color has-small-font-size has-pale-cyan-blue-color">
   <br />
-</p>
+

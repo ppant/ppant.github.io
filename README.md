@@ -7,24 +7,24 @@ This repository hosts the source code for the personal website and blog of **Pra
 Pradeep K. Pant is an **AI/ML Engineer**, **Software Architect**, and **Researcher** with over 20 years of experience in the technology industry. Based in Bengaluru, India, he specializes in building scalable, production-grade AI systems and has a deep interest in the intersection of software engineering and machine learning.
 
 ### 🌟 Professional Highlights
-- **🚀 Current Role:** AI/ML & Generative AI Architect.
-- **🎓 Academic Pursuit:** Ph.D. in Process Mining and Machine Learning (in progress, IIIT Allahabad).
-- **🛠️ Expertise:** AI/ML, Generative AI, MLOps, Software Architecture, and Process Mining.
-- **🏃‍♂️ Passions:** Trail running, endurance sports, and community-driven fitness initiatives.
+- ** Current Role:** AI/ML & Generative AI Architect.
+- ** Academic Pursuit:** Ph.D. in Process Mining and Machine Learning (in progress, IIIT Allahabad).
+- ** Expertise:** AI/ML, Generative AI, MLOps, Software Architecture, and Process Mining.
+- ** Passions:** Trail running, endurance sports, and community-driven fitness initiatives.
 
 ## 🛠️ Areas of Expertise
 
-- **🤖 AI/ML & Generative AI:** Data Mining, Machine Learning, Deep Learning, LLMs, RAG pipelines, Time Series Forecasting.
-- **☁️ Cloud & MLOps:** AWS, Azure ML, GCP, Databricks, Docker, Kubernetes, MLflow.
-- **🏗️ Software Architecture:** C, Perl, Python, SQL, NoSQL, Microservices, REST APIs.
-- **🔬 Research:** Process Mining, Optimization Algorithms, Pattern Recognition.
+- ** AI/ML & Generative AI:** Data Mining, Machine Learning, Deep Learning, LLMs, RAG pipelines, Time Series Forecasting.
+- ** Cloud & MLOps:** AWS, Azure ML, GCP, Databricks, Docker, Kubernetes, MLflow.
+- ** Software Architecture:** C, Perl, Python, SQL, NoSQL, Microservices, REST APIs.
+- ** Research:** Process Mining, Optimization Algorithms, Pattern Recognition.
 
 ## 🏆 Featured Work
 
-- **📚 Research:** Published work on "Explainable Concept Drift in Process Mining" (IEEE).
-- **📖 Authoring/Reviewing:** Official book reviewer for *Python Architecture Patterns* and reviwer of *Journal of Software: Evolution and Process*
+- ** Research:** Published work on "Explainable Concept Drift in Process Mining" (IEEE).
+- ** Authoring/Reviewing:** Official book reviewer for *Python Architecture Patterns* and reviwer of *Journal of Software: Evolution and Process*
 .
-- **🌐 Open Source:** Contributor to projects like MySQL Operator, Chromium, and Perl CPAN.
+- ** Open Source:** Contributor to projects like MySQL Operator, Chromium, and Perl CPAN.
 
 ## 🤝 Connect with Pradeep
 

@@ -15,4 +15,4 @@ reddit:
 dsq_thread_id:
   - "790025560"
 ---
-<span style="color:#993300;">Apache Lucy is full-text search engine library written in C and targeted at dynamic languages. The good news is that, the inaugural release provides Perl bindings. For more information, you can visit the <strong><a href="http://incubator.apache.org/lucy/"><span style="color:#993300;">Apache Lucy website</span></a></strong> Let&#8217;s hope for some good result. I still have to try but you can download from <strong><a href="http://incubator.apache.org/lucy/download.html"><span style="color:#993300;">here</span></a></strong>.</span>
+<span style="color:#993300;">Apache Lucy is full-text search engine library written in C and targeted at dynamic languages. The good news is that, the inaugural release provides Perl bindings. For more information, you can visit the <strong><a href="http://incubator.apache.org/lucy/"><span style="color:#993300;">Apache Lucy website</span></a></strong> Let's hope for some good result. I still have to try but you can download from <strong><a href="http://incubator.apache.org/lucy/download.html"><span style="color:#993300;">here</span></a></strong>.</span>

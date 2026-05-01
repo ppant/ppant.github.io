@@ -9,7 +9,7 @@ category: Tech
 ---
 Another Microsoft misery ...............
 
-This time, I am struggling to handle the bullets in SVG output of my drawing.  What I found is that  MS Visio still uses windings/symbol fonts to make the bullets. Don&#8217;t know why? When are they going to change this and start using standard Unicode chars? Can anyone from MS please explains to me why they don&#8217;t believe in standardization?
+This time, I am struggling to handle the bullets in SVG output of my drawing.  What I found is that  MS Visio still uses windings/symbol fonts to make the bullets. Don't know why? When are they going to change this and start using standard Unicode chars? Can anyone from MS please explains to me why they don't believe in standardization?
 
 IMHO Please use Unicode everywhere be it HTML generated from Word or Visio etc. 
 

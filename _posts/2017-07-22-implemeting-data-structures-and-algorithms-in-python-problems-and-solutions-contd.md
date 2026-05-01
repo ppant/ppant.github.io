@@ -29,11 +29,11 @@ Output:5 is the missing numberStack class implementation
 
 # Implement basic stack operations (LIFO)
 
-push() &#8211; Push an element in a stack pop()- POP an element from top of the stackpeek() &#8211; Just peek into top element of the stack (don&#8217;t perform any operation)Queue class implementation
+push() – Push an element in a stack pop()- POP an element from top of the stackpeek() – Just peek into top element of the stack (don't perform any operation)Queue class implementation
 
 # Implement basic Queue operations (FIFO)
 
-enqueue &#8211; adding a element to the queue dequeue &#8211; removing an element from the queueDeque (DECK) class implementation
+enqueue – adding a element to the queue dequeue – removing an element from the queueDeque (DECK) class implementation
 
 # Implement basic operation in deque (Add and remove elements both at front and rear)
 
@@ -203,21 +203,25 @@ The aim is a function that takes a head node and an integer value n and then ret
         <article id="post-1667" class="post-1667 post type-post status-publish format-standard hentry category-data-strcuctures-and-algorithms category-programming category-python tag-data-structures tag-programming-2 tag-python"> 
         
         <div class="entry-content">
-          <p>
+          
+
             Check <a href="https://github.com/ppant/DS-Algos-Python">GitHub</a> for the full working code.
-          </p>
           
-          <p>
+          
+          
+
             I will keep adding more problems/solutions.
-          </p>
           
-          <p>
+          
+          
+
             Stay tuned!
-          </p>
           
-          <p>
+          
+          
+
             Ref:  The inspiration of implementing DS in Python is from <a href="http://interactivepython.org/runestone/static/pythonds/index.html">this</a> course<span style="font-family: Inconsolata, monospace; white-space: pre-wrap;"></span>
-          </p>
+          
         </div></article>
       </div>
     </div>

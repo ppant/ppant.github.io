@@ -11,7 +11,7 @@ dsq_thread_id:
 ---
 <p style="text-align: left;">
   <strong>Another great piece from Perl guru <a href="http://www252.pair.com/~comdog/">brian d foy</a></strong>
-</p>
+
 
 
 

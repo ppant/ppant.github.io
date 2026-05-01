@@ -20,7 +20,7 @@ Lecture3.pdf
 
 Lecture4.pdf
 
-and so on&#8230;
+and so on...
 
 &nbsp;
 

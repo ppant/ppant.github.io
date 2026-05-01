@@ -11,11 +11,11 @@ jabber_published:
 dsq_thread_id:
   - "781201471"
 ---
-<span style="color:#008080;">Before I dig more into details let&#8217;s try to understand some basic facts about Serialization :</span>
+<span style="color:#008080;">Before I dig more into details let's try to understand some basic facts about Serialization :</span>
 
  <span style="color:#008080;"></span><span style="color:#008080;"><strong>What exactly Serialization is?</strong></span>
 
-<span style="color:#008080;">Serialization is the process of converting a data structure or object into a format that can be stored (for example, in a file or memory buffer, or transmitted across a network connection link) and &#8220;resurrected&#8221; later in the same or another computer environment. When the resulting series of bits is reread according to the serialization format, it can be used to create a semantically identical clone of the original object.</span>
+<span style="color:#008080;">Serialization is the process of converting a data structure or object into a format that can be stored (for example, in a file or memory buffer, or transmitted across a network connection link) and "resurrected" later in the same or another computer environment. When the resulting series of bits is reread according to the serialization format, it can be used to create a semantically identical clone of the original object.</span>
 
 <span style="color:#008080;"><strong>Serialization in Perl:</strong></span>
 

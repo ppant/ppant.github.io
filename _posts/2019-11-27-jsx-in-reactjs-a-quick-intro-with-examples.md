@@ -16,7 +16,7 @@ categories: [tech]
   * We can give attribute in JSX elements just like HTML  
     e.g.; 
 	````html 
-	<p id="test"></p>
+	<p id="test">
 	````
   * Use parentheses to wrap multi-line JSX expressions  
     ````html 

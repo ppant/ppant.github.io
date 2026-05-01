@@ -40,7 +40,7 @@ One can store data and objects into a file using Serialization. The bytes that i
 > 
 > <p style="text-align:left;">
 >   <strong><span style="color:#0000ff;">Output:</span></strong>
-> </p>
+> 
 > 
 > <pre><span style="color:#008000;">##### HASH1 #####</span>
 <span style="color:#008000;">$VAR1 = {</span>

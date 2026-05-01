@@ -3,17 +3,11 @@
   {% include head.html %}
   <body>
     {% include header.html %}
-    <!-- Include Search block -->
-    {% include search.html %}
     <main>
+      {% include search.html %}
       <article>
         {{ content }}
       </article>
-      <br>
-      <br>
-	  <!-- <article>
-      {% include disqus_comments.html %}
-      </article> -->
       {% include footer.html %}
     </main>
   </body>

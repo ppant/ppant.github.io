@@ -7,10 +7,10 @@ categories: [tech]
 guid: /?p=1734
 permalink: /2018/05/16/data-structures-and-algorithms-in-python-graphs/
 ---
-### Graph Implementation &#8211; Adjacency list
+### Graph Implementation – Adjacency list
 
-  * We&#8217;ve used dictionaries to implement the adjacency list in Python which is the easiest way.
-  * To implement Graph ADT we&#8217;ll create two classes, Graph, which holds the master list of vertices, and Vertex, which will represent each vertex in the graph.
+  * We've used dictionaries to implement the adjacency list in Python which is the easiest way.
+  * To implement Graph ADT we'll create two classes, Graph, which holds the master list of vertices, and Vertex, which will represent each vertex in the graph.
   * Each Vertex uses a dictionary to keep track of the vertices to which it is connected, and the weight of each edge. This dictionary is called connectedTo.
 
 <div class="highlight highlight-source-python">
@@ -34,10 +34,11 @@ g.addEdge(&lt;span class="pl-c1">5&lt;/span>,&lt;span class="pl-c1">2&lt;/span>,
 &lt;span class="pl-c"># Nested loop verifies that each edge in the graph is properly stored. &lt;/span>
 &lt;span class="pl-k">for&lt;/span> v &lt;span class="pl-k">in&lt;/span> g:
    &lt;span class="pl-k">for&lt;/span> w &lt;span class="pl-k">in&lt;/span> v.getConnections():
-       &lt;span class="pl-c1">print&lt;/span>(&lt;span class="pl-s">&lt;span class="pl-pds">"&lt;/span>( &lt;span class="pl-c1">%s&lt;/span> , &lt;span class="pl-c1">%s&lt;/span> )&lt;span class="pl-pds">"&lt;/span>&lt;/span> &lt;span class="pl-k">%&lt;/span> (v.getId(), w.getId()))</code></pre>
+       &lt;span class="pl-c1">print&lt;/span>(&lt;span class="pl-s">&lt;span class="pl-pds">"&lt;/span>( &lt;span class="pl-c1">%s&lt;/span> , &lt;span class="pl-c1">%s&lt;/span> )&lt;span class="pl-pds">"&lt;/span>&lt;/span> &lt;span class="pl-k">%&lt;/span> (v.getId(), w.getId()))
+```
 </div>
 
-### <a id="user-content-graph-implementation---solving-word-ladder-problem-using-breadth-first-search-bfs" class="anchor" href="https://github.com/ppant/DS-Algos-Python#graph-implementation---solving-word-ladder-problem-using-breadth-first-search-bfs" aria-hidden="true"></a>Graph Implementation &#8211; Solving Word Ladder Problem using Breadth First Search (BFS)</h1> 
+### <a id="user-content-graph-implementation---solving-word-ladder-problem-using-breadth-first-search-bfs" class="anchor" href="https://github.com/ppant/DS-Algos-Python#graph-implementation---solving-word-ladder-problem-using-breadth-first-search-bfs" aria-hidden="true"></a>Graph Implementation – Solving Word Ladder Problem using Breadth First Search (BFS)</h1> 
 
 let’s consider the following puzzle called a word ladder. Transform the word “FOOL” into the word “SAGE”. In a word ladder puzzle you must make the change occur gradually by changing one letter at a time. At each step you must transform one word into another word, you are not allowed to transform a word into a non-word. The following sequence of words shows one possible solution to the problem posed above.
 
@@ -73,10 +74,11 @@ buildGraph()
 &lt;span class="pl-c">#effectively schedules this node for further exploration, but not until all the &lt;/span>
 &lt;span class="pl-c">#other vertices on the adjacency list of currentVert have been explored.&lt;/span>
 
-bfs()</code></pre>
+bfs()
+```
 </div>
 
-### <a id="user-content-graph-implementation---solving-knight-tour-problem-using-depth-first-search-dfs" class="anchor" href="https://github.com/ppant/DS-Algos-Python#graph-implementation---solving-knight-tour-problem-using-depth-first-search-dfs" aria-hidden="true"></a>Graph Implementation &#8211; Solving Knight tour problem using Depth First Search (DFS)</h1> 
+### <a id="user-content-graph-implementation---solving-knight-tour-problem-using-depth-first-search-dfs" class="anchor" href="https://github.com/ppant/DS-Algos-Python#graph-implementation---solving-knight-tour-problem-using-depth-first-search-dfs" aria-hidden="true"></a>Graph Implementation – Solving Knight tour problem using Depth First Search (DFS)</h1> 
 
 The knight’s tour puzzle is played on a chess board with a single chess piece, the knight. The object of the puzzle is to find a sequence of moves that allow the knight to visit every square on the board exactly once. One such sequence is called a “tour.”  
 we will solve the problem using two main steps: Represent the legal moves of a knight on a chessboard as a graph. Use a graph algorithm to find a path of length rows×columns−1rows×columns−1 where every vertex on the graph is visited exactly once. To represent the knight’s tour problem as a graph we will use the following two ideas: Each square on the chessboard can be represented as a node in the graph. Each legal move by the knight can be represented as an edge in the graph.
@@ -136,21 +138,26 @@ genLegalMoves()
 
 knightTour()
 
-</code></pre>
+
+```
   
-  <p>
+  
+
     Please check <a href="https://github.com/ppant/DS-Algos-Python">GitHub</a> for the full working code.
-  </p>
   
-  <p>
+  
+  
+
     I will keep adding more problems/solutions.
-  </p>
   
-  <p>
+  
+  
+
     Stay tuned!
-  </p>
   
-  <p>
+  
+  
+
     <strong>Ref: </strong> The inspiration of implementing DS in Python is from <a href="http://interactivepython.org/runestone/static/pythonds/index.html">this</a> course
-  </p>
+  
 </div>

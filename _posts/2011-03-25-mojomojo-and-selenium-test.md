@@ -17,7 +17,7 @@ As suggested by [Mateu](http://en.gravatar.com/mateuhunter#photo-0) I was furthe
 
 The complete test is as follows:
 
-[code lang=&#8221;perl&#8221;]
+[code lang="perl"]
 
 #!/usr/bin/env perl  
 use strict;  
@@ -32,11 +32,11 @@ use Test::More;
 \# See http://seleniumhq.org/ for the download of Selenium Remote Control (RC) # which includes a selenium server.
 
 BEGIN { eval {require Test::WWW::Selenium::Catalyst};  
-plan skip_all => &#8216;Selenium tests need Test::WWW::Selenium::Catalyst&#8217; if $@;  
-plan skip\_all => &#8216;Set SELENIUM\_TESTS ENV variable to enable Selenium tests&#8217; unless $ENV{SELENIUM_TESTS};  
+plan skip_all => 'Selenium tests need Test::WWW::Selenium::Catalyst' if $@;  
+plan skip\_all => 'Set SELENIUM\_TESTS ENV variable to enable Selenium tests' unless $ENV{SELENIUM_TESTS};  
 plan tests => 22;  
-$ENV{MOJOMOJO_CONFIG} = &#8216;t/app/mojomojo.yml&#8217;; }  
-Test::WWW::Selenium::Catalyst->import(&#8216;MojoMojo&#8217;);  
+$ENV{MOJOMOJO_CONFIG} = 't/app/mojomojo.yml'; }  
+Test::WWW::Selenium::Catalyst->import('MojoMojo');  
 my $sel = Test::WWW::Selenium::Catalyst->start;  
 $sel->open_ok("/");  
 $sel->is\_text\_present_ok("Log in");  
@@ -50,7 +50,7 @@ $sel->click_ok("link=Log in");
 $sel->wait\_for\_page\_to\_load_ok( "15000");  
 $sel->type_ok( "loginField", "admin" );  
 $sel->type_ok( "pass", "admin" );  
-$sel->click_ok("//input[@value=&#8217;Login&#8217;]");  
+$sel->click_ok("//input[@value='Login']");  
 $sel->wait\_for\_page\_to\_load_ok("15000");  
 $sel->is\_text\_present_ok("admin");  
 \# Check that .recent was not cached.  

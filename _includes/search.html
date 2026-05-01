@@ -1,22 +1,17 @@
-<!DOCTYPE html>
-<html>  
-<!-- Html Elements for Search -->
-<div id="search-container">
-  <input type="text" id="search-input" placeholder="Press / or type here...">
-  <p>&nbsp;</p>
+<div class="search-wrap">
+  <input type="text" id="search-input" placeholder="Search posts..." autocomplete="off">
   <ul id="results-container"></ul>
-  </div>
-<!-- Script pointing to search-script.js -->
-<script src="/js/site-search.min.js" type="text/javascript">
-</script>
+</div>
 
-<!-- Configuration -->
+<script src="/js/site-search.min.js" type="text/javascript"></script>
 <script>
 SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
-  json: '/search.json'
+  json: '/search.json',
+  searchResultTemplate: '<li class="search-result"><a href="{url}"><span class="search-result-title">{title}</span><span class="search-result-date">{date}</span></a></li>',
+  noResultsText: '<li class="search-no-results">No results found</li>',
+  limit: 10,
+  fuzzy: false
 })
 </script>
-</html>
-

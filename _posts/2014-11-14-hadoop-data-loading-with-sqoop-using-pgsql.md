@@ -15,25 +15,25 @@ dsq_thread_id:
 
 &nbsp;
 
-[code lang=&#8221;bash&#8221;]$wget http://jdbc.postgresql.org/download/postgresql-9.3-1102.jdbc4.jar[/code]
+[code lang="bash"]$wget http://jdbc.postgresql.org/download/postgresql-9.3-1102.jdbc4.jar[/code]
 
 &nbsp;
 
 <span style="color: #333333;"> </span>2. Copy:<span style="color: #800000;"> </span>
 
-[code lang=&#8221;bash&#8221;]cp /home/cloudera/Desktop/postgresql-9.3-1102.jdbc4.jar /usr/lib/sqoop/lib/ [/code]
+[code lang="bash"]cp /home/cloudera/Desktop/postgresql-9.3-1102.jdbc4.jar /usr/lib/sqoop/lib/ [/code]
 
 &nbsp;
 
 <span style="color: #333333;">3. Configure:<em><span style="color: #0000ff;"> </span></em></span>
 
-[code lang=&#8221;bash&#8221;]/var/lib/pgsql/data/pg_hba.conf[/code]
+[code lang="bash"]/var/lib/pgsql/data/pg_hba.conf[/code]
 
 file. You need to allow the IP/host of machine running Hadoop.
 
 <span style="color: #333333;">Restart postgreSQL using<span style="color: #800000;"> </span></span>
 
-[code lang=&#8221;bash&#8221;]$pg_ctl restart[/code]
+[code lang="bash"]$pg_ctl restart[/code]
 
 &nbsp;
 
@@ -41,7 +41,7 @@ file. You need to allow the IP/host of machine running Hadoop.
 
 &nbsp;
 
-[code lang=&#8221;bash&#8221;] cloudera@cloudera-vm:/usr/lib/sqoop bin/sqoop import &#8211;connect jdbc:postgresql://192.168.0.34:5432/Testdb&#8211;table employee &#8211;username postgres -P &#8211;target-dir /sqoopOut1 -m 1 [/code]
+[code lang="bash"] cloudera@cloudera-vm:/usr/lib/sqoop bin/sqoop import –connect jdbc:postgresql://192.168.0.34:5432/Testdb–table employee –username postgres -P –target-dir /sqoopOut1 -m 1 [/code]
 
 &nbsp;
 
@@ -54,14 +54,14 @@ file. You need to allow the IP/host of machine running Hadoop.
 <ul style="list-style-type: circle;">
   <li>
     <a href="http://www.cloudera.com/content/cloudera/en/documentation/DemoVMs/Cloudera-QuickStart-VM/cloudera_quickstart_vm.html">Cloudera hadoop VM distribution</a> or any other machine running hadoop.
-  </li>
+  
   <li>
     postgreSQL installation.
-  </li>
+  
   <li>
     database<span style="color: #800000;"> Testdb</span> and employee <span style="color: #800000;">table</span> on a running instance of postgreSQL (e.g.; <span style="color: #800000;">192.168.0.34:5432</span> in point 4).
-  </li>
-</ul>
+  
+
 
 &nbsp;
 

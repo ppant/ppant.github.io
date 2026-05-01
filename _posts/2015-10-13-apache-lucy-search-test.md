@@ -15,7 +15,7 @@ This is pure command line utility just to show how basic indexing and searching 
 
 **indexer.pl**  
 `<br />
-<!--?prettify linenums=true?--></p>
+<!--?prettify linenums=true?-->
 <pre class="prettyprint">#!/usr/local/bin/perl
 
 use strict;
@@ -39,12 +39,16 @@ $lucy-add_doc( \%one );
 my %two = ( title ="This is another article" , body ="I am putting some basic content, using some words which are also in first document like implementation", id =2 );
 $lucy add_doc( \%two );
 </pre>
-<p># Both the documents are now indexed in path</p>
-<p>One indexing of the documents is done we'll make a small search script.</p>
-<p><strong>search.cgi</strong></p>
-<p>
 
-<!--?prettify linenums=true?--></p>
+# Both the documents are now indexed in path
+
+One indexing of the documents is done we'll make a small search script.
+
+<strong>search.cgi</strong>
+
+
+
+<!--?prettify linenums=true?-->
 <pre class="prettyprint">#!/usr/local/bin/perl
 
 use strict;
@@ -62,7 +66,8 @@ print "Title: $hit {title} - ID: $hit {id}\n";
 }
 # End of search.cgi
 </pre>
-<p>`
+
+`
 
   
 \***\***\***\***\***\***\***\***\***\***\***\***\***\***\***\***\***\***\***\***\***\***\*****

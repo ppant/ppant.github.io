@@ -9,14 +9,16 @@ permalink: /2019/08/07/date-print-formats-perl-datemanip/
 twitter_share:
   - 'a:1:{s:8:"hashtags";a:1:{i:0;s:17:"Perl #Programming";}}'
 ---
-Perl Date::Manip is one of the modules which I use a lot. It&#8217;s a wonderful lib and has very clean API with great documentation. Below is a quick look at Date::Manip print format options which sometimes is very handy. For detailed interpretation and other options encourage to go through Date::Manip on [CPAN](https://metacpan.org/pod/Date::Manip) <figure class="wp-block-image">
+Perl Date::Manip is one of the modules which I use a lot. It's a wonderful lib and has very clean API with great documentation. Below is a quick look at Date::Manip print format options which sometimes is very handy. For detailed interpretation and other options encourage to go through Date::Manip on [CPAN](https://metacpan.org/pod/Date::Manip) <figure>
 
-<img src="/assets/images/date_format_printf_1.png" alt="" class="wp-image-2056" srcset="/assets/images/date_format_printf_1.png 600w, /assets/images/date_format_printf_1-234x300.png 234w" sizes="(max-width: 600px) 100vw, 600px" /> </figure> 
+<img src="/assets/images/date_format_printf_1.png" alt="" /> </figure> 
 
 Example: 
 
-<pre class="wp-block-code"><code>my $present_date_hash = Date::Manip::Date->new("today");
-my $present_date = $present_date_hash->printf("%Y-%m-%d %H:%M:%S");</code></pre>
+```
+my $present_date_hash = Date::Manip::Date->new("today");
+my $present_date = $present_date_hash->printf("%Y-%m-%d %H:%M:%S");
+```
 
 Happy Coding!
 

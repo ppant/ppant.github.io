@@ -12,11 +12,12 @@ dsq_thread_id:
   - "786026045"
 ---
 <p style="padding-left:30px;">
-  <span style="color:#0000ff;">Let&#8217;s say you want to find the word following &#8220;foo&#8221; in the string &#8220;Food is on the foo table.&#8221;:</span>
-</p>
+  <span style="color:#0000ff;">Let's say you want to find the word following "foo" in the string "Food is on the foo table.":</span>
+
 
 <p style="padding-left:60px;">
-  <p>
+  
+
     <code>&lt;/p>
 &lt;p style="padding-left:60px;">&lt;span style="color:#008000;">#!/usr/bin/perl&lt;/span>&lt;/p>
 &lt;p style="padding-left:60px;">&lt;span style="color:#008000;"> &lt;/span>&lt;/p>
@@ -36,22 +37,23 @@ dsq_thread_id:
 &lt;p style="padding-left:30px;">&lt;span style="color:#993300;"> &lt;/span>&lt;/p>
 &lt;p style="padding-left:30px;">&lt;span style="color:#993300;"> }&lt;/span>&lt;/p>
 &lt;p></code>
-  </p>
   
-  <p>
+  
+  
+
     <code> </code>
-  </p>
+  
   
   <p style="padding-left:30px;">
-    <span style="color:#0000ff;">When the match runs, the first part of the regular expression (b(foo) ) finds a possible match right at the beginning of the string, and loads up $1 with &#8220;Foo&#8221;. However, as soon as the matching engine sees that there&#8217;s no whitespace following the  &#8220;Foo&#8221; that it had saved in $1, it realizes its mistake and starts over again one character after where it had the tentative match. This time it goes all the way until the next occurrence of &#8220;foo&#8221;. The complete regular expression matches this time and you get the expected output of &#8220;table follows foo.&#8221;</span>
-  </p>
+    <span style="color:#0000ff;">When the match runs, the first part of the regular expression (b(foo) ) finds a possible match right at the beginning of the string, and loads up $1 with "Foo". However, as soon as the matching engine sees that there's no whitespace following the  "Foo" that it had saved in $1, it realizes its mistake and starts over again one character after where it had the tentative match. This time it goes all the way until the next occurrence of "foo". The complete regular expression matches this time and you get the expected output of "table follows foo."</span>
+  
   
   <p style="padding-left:30px;">
     <p style="padding-left:30px;">
-      <span style="color:#3366ff;">Still more examples to come &#8230;keep watching</span>
-    </p>
+      <span style="color:#3366ff;">Still more examples to come ...keep watching</span>
+    
     
     <p style="padding-left:30px;">
       <p style="padding-left:30px;">
         <span style="color:#3366ff;">Thanks</span>
-      </p>
+      

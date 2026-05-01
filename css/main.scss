@@ -14,3 +14,26 @@
 
 
 
+
+.search-wrap {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0.5rem 1.5rem;
+  position: relative;
+}
+
+#search-input {
+  display: block;
+  width: 100%;
+  padding: 8px 16px;
+  border: 1px solid #e8e8e8;
+  border-radius: 8px;
+  font-size: 13px;
+  background: #fff;
+  outline: none;
+  box-sizing: border-box;
+}
+#search-input:focus {
+  border-color: #BA7517;
+  box-shadow: 0 0 0 2px rgba(186,117,23,0.1);
+}

@@ -1,6 +1,6 @@
 ---
 id: 30
-title: 'Perl on RedHat &#8211; multiple bless/overload problem'
+title: 'Perl on RedHat – multiple bless/overload problem'
 date: 2009-12-23T20:27:26+05:30
 layout: post
 categories: [tech]
@@ -12,7 +12,7 @@ delicious:
 dsq_thread_id:
   - "783047067"
 ---
-I was reading over internet regarding the performance issue of Perl bundled in some Redhat versions (A combination of Rehhat and Perl version) which uses multiple bless/overload. <a href="http://blog.vipul.net/" target="_blank">Vipul&#8217;s blog</a> has given a good insight on this problem.
+I was reading over internet regarding the performance issue of Perl bundled in some Redhat versions (A combination of Rehhat and Perl version) which uses multiple bless/overload. <a href="http://blog.vipul.net/" target="_blank">Vipul's blog</a> has given a good insight on this problem.
 
 Well, Red hat has finally registered the bug last year on <a href="https://bugzilla.redhat.com/show_bug.cgi?id=379791" target="_blank">Bugzilla</a>.
 

@@ -15,4 +15,4 @@ email_notification:
 dsq_thread_id:
   - "811502061"
 ---
-[MetaCPAN](https://metacpan.org/) &#8212;  Really amazing stuff .. you can connect with github, twitter accounts and can vote on Perl modules!
+[MetaCPAN](https://metacpan.org/) —  Really amazing stuff .. you can connect with github, twitter accounts and can vote on Perl modules!

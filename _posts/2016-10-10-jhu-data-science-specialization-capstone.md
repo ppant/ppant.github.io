@@ -11,7 +11,7 @@ I have created a text prediction application as a part of Coursera Johns Hopkins
 
 Check below for resources.
 
-**Next Word Text Prediction Algorithm &#8212; Data Science Capstone Project by JHU and Swiftkey**
+**Next Word Text Prediction Algorithm — Data Science Capstone Project by JHU and Swiftkey**
 
 **Presentation:**
 

@@ -11,10 +11,10 @@ Book
 
 Essentialism: The Disciplined <g class="gr_ gr\_10 gr-alert gr\_spell gr\_inline\_cards gr\_run\_anim ContextualSpelling ins-del multiReplace gr-progress" id="10" data-gr-id="10">Pursuit</g> of less  
 Greg Mckeown  
-[Essentialism &#8211; The Disciplined Pursuit of Less](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0804137382)  
-<figure class="wp-block-image">
+[Essentialism – The Disciplined Pursuit of Less](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0804137382)  
+<figure>
 
-<img src="/assets/images/essentialism.png" alt="" class="wp-image-2012" srcset="/assets/images/essentialism.png 393w, /assets/images/essentialism-221x300.png 221w" sizes="(max-width: 393px) 100vw, 393px" /> </figure> 
+<img src="/assets/images/essentialism.png" alt="" /> </figure> 
 
 ## Theme
 

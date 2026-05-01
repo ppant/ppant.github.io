@@ -9,7 +9,7 @@ permalink: /2019/05/03/algorithms-performance-big-oh-notation-simplified-short-n
 ---
  The big O notation is used to analyze runtime time complexity. big O notation provides an abstract measurement by which we can judge the performance of algorithms without using mathematical proofs. Some of the most common big O notations are:
 
-  * **O(1)** : **constant**: the operation doesn&#8217;t depend on the size of its input, e.g. adding a node to the tail of a linked list where we always maintain a pointer to the tail node.
+  * **O(1)** : **constant**: the operation doesn't depend on the size of its input, e.g. adding a node to the tail of a linked list where we always maintain a pointer to the tail node.
   * **O(n)**: **linear**: the run time complexity is proportionate to the size of n.
   * **O(log n)**: **logarithmic**: normally associated with&nbsp;algorithms&nbsp;that break the problem into similar chunks per each invocation, e.g. searching a binary search tree.
   * **O(n log n)**: **just n log n**: usually&nbsp;associated&nbsp;with an&nbsp;algorithm&nbsp;that breaks the problem into smaller chunks per each invocation, and then takes the results of these smaller&nbsp;chunks&nbsp;and&nbsp;stitches&nbsp;them back together, e.g, quicksort.

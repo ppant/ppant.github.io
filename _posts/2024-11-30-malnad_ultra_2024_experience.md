@@ -28,17 +28,17 @@ For preparation, I stuck to my usual workout routine, which includes cycling, ru
 **Stay:**  
 Since we had a larger group this time, we chose a homestay near the road leading to the starting point. Here are some important notes about the stay:  
 <ol>
-<li>There’s very limited mobile network (only some BSNL coverage), so it’s advisable to inform family and friends when you're near the main road or car park.</li>
-<li>Due to the remote location and limited transport options, carry essential items like medicines, snacks, and other necessities since stepping out unexpectedly may not be feasible.</li>
-<li>Room service is limited, so it’s best to adhere to the scheduled meal times in the common area.</li>
-<li>The food was fantastic — home-cooked, with both vegetarian and non-vegetarian options.</li>
+<li>There’s very limited mobile network (only some BSNL coverage), so it’s advisable to inform family and friends when you're near the main road or car park.
+<li>Due to the remote location and limited transport options, carry essential items like medicines, snacks, and other necessities since stepping out unexpectedly may not be feasible.
+<li>Room service is limited, so it’s best to adhere to the scheduled meal times in the common area.
+<li>The food was fantastic — home-cooked, with both vegetarian and non-vegetarian options.
 </ol>
 
 **Areas for Improvement:**  
 <ul>
-<li>More frequent room and bathroom cleaning would enhance the experience.</li>
-<li>An electric kettle in the rooms for tea, coffee, or warm water would be a useful addition.</li>
-</ul>
+<li>More frequent room and bathroom cleaning would enhance the experience.
+<li>An electric kettle in the rooms for tea, coffee, or warm water would be a useful addition.
+
 
 **Event:**  
 The starting point felt like something out of an adventure novel- a remote location accessed via a winding, narrow forest road that was buzzing with activity even before dawn. Cars and runners filled the path, headlights slicing through the darkness. Despite the chaos, the organizers did an outstanding job of managing parking efficiently, ensuring everyone found their space. Hats off to Coach Anand and his team for handling logistics so well in such an isolated area.
@@ -59,11 +59,11 @@ Crossing the finish line was immensely satisfying—not just because we made it 
 The Malnad Ultra is truly a remarkable experience. The breathtaking scenery, challenging trails, and wonderful community of runners make it an unforgettable event. Here are some key tips for anyone planning to participate:
 
 <ul>
-<li>Try to book your accommodation close to the starting point, though options may be limited.</li>
-<li>It’s best to run with a partner or find someone maintaining a similar pace.</li>
-<li>Carry essentials like extra clothes, sandals, snacks, and chargers in your vehicle. Given the poor mobile network, a backup phone with a BSNL SIM can be handy.</li>
-<li>Traveling in a group enhances the experience and adds an extra layer of safety.</li>
-</ul>
+<li>Try to book your accommodation close to the starting point, though options may be limited.
+<li>It’s best to run with a partner or find someone maintaining a similar pace.
+<li>Carry essentials like extra clothes, sandals, snacks, and chargers in your vehicle. Given the poor mobile network, a backup phone with a BSNL SIM can be handy.
+<li>Traveling in a group enhances the experience and adds an extra layer of safety.
+
 
 This was a quick glimpse into our Malnad Ultra experience. I'm hoping to return in 2025/2026 — maybe for the 100K challenge!  
 

@@ -15,4 +15,4 @@ reddit:
 dsq_thread_id:
   - "818181704"
 ---
-I have seen the news about availability of [PureMVC for Perl](http://puremvc.org/content/view/171/1/).  Frankly,  I don&#8217;t know much about it. Can I get some expert comments on the usage and implementation of PueMVC for Perl.
+I have seen the news about availability of [PureMVC for Perl](http://puremvc.org/content/view/171/1/).  Frankly,  I don't know much about it. Can I get some expert comments on the usage and implementation of PueMVC for Perl.

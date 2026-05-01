@@ -11,7 +11,7 @@ jabber_published:
 dsq_thread_id:
   - "783087539"
 ---
-<span style="color:#888888;"><span style="color:#000000;">Backtracking might be costly so one should try to avoid useless backtracking. Perl regx have  special form of parentheses: (?>&#8230;). These are called Perl’s “don’t-ever-backtrack-into-me” markers. They will tell the regex engine that the enclosed sub-pattern can safely be skipped over during backtracking. As we know that the re-matching the contents either won’t succeed or, if it does succeed, won’t help the overall match. So these markers helps to avoid useless backtracking and saves a lot of tim</span>e.</span>
+<span style="color:#888888;"><span style="color:#000000;">Backtracking might be costly so one should try to avoid useless backtracking. Perl regx have  special form of parentheses: (?>...). These are called Perl’s “don’t-ever-backtrack-into-me” markers. They will tell the regex engine that the enclosed sub-pattern can safely be skipped over during backtracking. As we know that the re-matching the contents either won’t succeed or, if it does succeed, won’t help the overall match. So these markers helps to avoid useless backtracking and saves a lot of tim</span>e.</span>
 
 <span style="color:#008000;">Some more useful links and examples can be found at:</span>
 

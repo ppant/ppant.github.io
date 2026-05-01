@@ -36,22 +36,22 @@ dsq_thread_id:
 <span style="color:#000000;"><br /> </span>
 
 <span style="color:#800000;">To get a code reference:</span>  
-[code lang=&#8221;perl&#8221;]  
+[code lang="perl"]  
 $cref = &func;  
 [/code]  
 <span style="color:#000000;">Reference to anonymous functions</span>  
-[code lang=&#8221;perl&#8221;]  
-$cref = sub { &#8230; };  
+[code lang="perl"]  
+$cref = sub { ... };  
 [/code]
 
 <span style="color:#800000;">To call a code reference:</span>
 
 <span style="color:#800000;"><span style="color:#000000;">Using a postfix arrow notation for dereferencing a code reference.</span><br /> </span>  
-[code lang=&#8221;perl&#8221;]  
+[code lang="perl"]  
 @returned = $cref->(@arguments);  
 [/code]  
 <span style="color:#000000;">A way to call the subroutine by reference prior to Perl 5.004</span>  
-[code lang=&#8221;perl&#8221;]  
+[code lang="perl"]  
 @returned = &$cref(@arguments);  
 [/code]  
 <span style="color:#000000;"><span style="color:#800000;">Explanation:</span> </span>
@@ -66,10 +66,9 @@ $cref = sub { &#8230; };
 
 <p style="text-align:left;">
   <span style="color:#000000;">Thanks for reading.</span>
-</p>
+
 
 <span style="color:#000000;"><br /> </span>
 
 <p style="text-align:left;">
   <span style="color:#000000;"><strong>Ref:</strong><a href="http://oreilly.com/catalog/9781565922433"> Perl Cookbook</a> by <a href="http://98.245.82.12/tcpc/">Tom Christiansen</a> & <a href="http://nathan.torkington.com/">Nathan Torkingston</a></span>
-</p>

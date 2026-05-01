@@ -17,6 +17,6 @@ This is how apache JIRA is hacked
 
 If any of you have account on apache.org for various projects then you might have received mail from them to change the password. If not then change your password for apache account (JIRA, Bugzilla etc)
 
-I must say this is a big learning. Let&#8217;s be a bit more alert.
+I must say this is a big learning. Let's be a bit more alert.
 
 <span style="color:#993300;"><br /> </span>

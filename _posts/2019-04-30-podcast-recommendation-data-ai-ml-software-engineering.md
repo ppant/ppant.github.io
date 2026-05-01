@@ -11,7 +11,7 @@ Currently, I am listening to the following podcast on topics like Software engin
 
 
 
-  * [O&#8217;REILLY Data show](https://www.oreilly.com/topics/oreilly-data-show-podcast)
+  * [O'REILLY Data show](https://www.oreilly.com/topics/oreilly-data-show-podcast)
   * [SuperDataScience](https://www.superdatascience.com/podcast) 
   * [Software Engineering Radio](https://www.se-radio.net/)
   * [The Georgian Impact podcast - AI, ML & More](https://georgianpartners.com/about-the-impact-podcast/)

@@ -11,9 +11,9 @@ categories: [ai-ml]
 
 *Image Source: Andrew Ng Deep Learning Course* 
 
-In this post, we&#8217;ll see how we can detect edges in an image. 
+In this post, we'll see how we can detect edges in an image. 
 
-Given a picture below:<figure class="wp-block-image">
+Given a picture below:<figure>
 
 ![](/assets/images/edge_detection_problems-1-e1571219766497-1024x355.png "Detect Edge in an Image")
 *Image Source: Andrew Ng Deep Learning Course*

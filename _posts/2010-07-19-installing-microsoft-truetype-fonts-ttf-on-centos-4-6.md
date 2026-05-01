@@ -14,7 +14,7 @@ dsq_thread_id:
   - "780523850"
 ---
 <div id="_mcePaste" style="padding-left:30px;">
-  Default Linux installation (Cent OS in this case) doesn&#8217;t contain true type fonts. The application like open office, PDF generators requires proper fonts to embed into if not it will use the free system fonts which can create a lot of issues like  pdf, not showing content properly etc. It&#8217;s always good idea to install ms core fonts Well you can buy more fonts as per your requirement if you want.
+  Default Linux installation (Cent OS in this case) doesn't contain true type fonts. The application like open office, PDF generators requires proper fonts to embed into if not it will use the free system fonts which can create a lot of issues like  pdf, not showing content properly etc. It's always good idea to install ms core fonts Well you can buy more fonts as per your requirement if you want.
 </div>
 
 <div style="padding-left:30px;">
@@ -25,8 +25,8 @@ dsq_thread_id:
   <ul>
     <li>
       <span style="color:#993300;">Download cab extractor:</span><a href="http://prdownloads.sourceforge.net/corefonts/cabextract-0.6-1.i386.rpm?download" target="_blank">cabextract-0.6-1.i386.rpm</a>
-    </li>
-  </ul>
+    
+  
 </div>
 
 <div id="_mcePaste" style="padding-left:30px;">
@@ -45,8 +45,8 @@ dsq_thread_id:
   <ul>
     <li>
       <span style="color:#993300;">Download ms core fonts:</span><a href="http://prdownloads.sourceforge.net/corefonts/msttcorefonts-1.3-4.spec?download" target="_blank">msttcorefonts-1.3-4.spec</a>
-    </li>
-  </ul>
+    
+  
 </div>
 
 <div id="_mcePaste" style="padding-left:30px;">
@@ -79,8 +79,8 @@ dsq_thread_id:
   <ul>
     <li>
       <span style="color:#993300;">Installing RPM: </span>Change the directory to <span style="color:#33cccc;">/usr/src/redhat/RPMS/noarch/ <span style="color:#000000;">and </span></span>run the follwing command
-    </li>
-  </ul>
+    
+  
 </div>
 
 <div style="padding-left:30px;">
@@ -98,8 +98,8 @@ dsq_thread_id:
   <ul>
     <li>
       <span style="color:#993300;">Restart X server:</span>
-    </li>
-  </ul>
+    
+  
 </div>
 
 <div style="padding-left:30px;">

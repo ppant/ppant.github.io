@@ -23,6 +23,6 @@ Lets take a look on closures:-
 
 <span style="color:#800000;">Need of closures:</span>
 
-Since closures are subroutine references with a bit of private data thrown in, they are very convenient to use as callback procedures in graphical user interfaces. There is a nice [example](http://docstore.mik.ua/orelly/perl/advprog/ch04_04.htm) which explains the need of using closures. This commonly used approach is called &#8220;smart&#8221; callback procedure.
+Since closures are subroutine references with a bit of private data thrown in, they are very convenient to use as callback procedures in graphical user interfaces. There is a nice [example](http://docstore.mik.ua/orelly/perl/advprog/ch04_04.htm) which explains the need of using closures. This commonly used approach is called "smart" callback procedure.
 
 For more info you can read [chap 4](http://docstore.mik.ua/orelly/perl/advprog/ch04_01.htm) of [Advanced Perl Programming](http://docstore.mik.ua/orelly/perl/advprog/index.htm) by ****[Sriram Srinivasan](http://www.oreillynet.com/pub/au/647).

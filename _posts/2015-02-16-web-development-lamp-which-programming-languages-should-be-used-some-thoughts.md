@@ -9,7 +9,7 @@ permalink: /2015/02/16/web-development-lamp-which-programming-languages-should-b
 dsq_thread_id:
   - "3519788975"
 ---
-Now a days people keep asking which technology stack to be used for web development (LAMP, Java, Microsoft) and finally which programming language mainly server-side. Most of the expert says that use whichever you like and comfortable and I totally agree. If you intend to use Java and Microsoft based env then you don&#8217;t have much choice but if you are using LAMP stack then you have a lot of options so question again arises which language should be used? Again, I personally think that decision should mainly on based on the requirement, experience, comfort, team etc. Still here is my take based on my little own experiences working with languages:
+Now a days people keep asking which technology stack to be used for web development (LAMP, Java, Microsoft) and finally which programming language mainly server-side. Most of the expert says that use whichever you like and comfortable and I totally agree. If you intend to use Java and Microsoft based env then you don't have much choice but if you are using LAMP stack then you have a lot of options so question again arises which language should be used? Again, I personally think that decision should mainly on based on the requirement, experience, comfort, team etc. Still here is my take based on my little own experiences working with languages:
 
 **Perl:**  
 **Pros:** Old fellow still widely used, Very powerful, secure, well tested over the years in web dev, very good market repo among users, huge collection of open source libraries, new framework like Dancer, Mojolicious are positive sign.  

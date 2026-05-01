@@ -100,4 +100,4 @@ Please so remember re-pushing your commit after changing, it will be very likely
 
 <p class="has-text-color has-small-font-size has-pale-cyan-blue-color">
   <br />
-</p>
+

@@ -11,4 +11,4 @@ dsq_thread_id:
 ---
 [RPerl](http://rperl.org/): July 4th, 2015: RPerl v1.0 Full Release On CPAN
 
-Really cool stuff&#8230;
+Really cool stuff...

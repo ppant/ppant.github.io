@@ -13,7 +13,7 @@ reddit:
 dsq_thread_id:
   - "785980839"
 ---
-If you are working in scientific domain or using <a href="http://www.bioperl.org/wiki/Main_Page" target="_blank">bioperl</a> where you require to deal with bulk data processing then you should seriously consider learning <a href="http://pdl.perl.org/" target="_blank">PDL</a> (&#8220;Perl Data Language&#8221;). PDL is actually a way to deal with larger arrays in Perl.  It allows large N-dimensional data sets such as large images, spectrogram, etc to be stored efficiently and manipulated quickly.
+If you are working in scientific domain or using <a href="http://www.bioperl.org/wiki/Main_Page" target="_blank">bioperl</a> where you require to deal with bulk data processing then you should seriously consider learning <a href="http://pdl.perl.org/" target="_blank">PDL</a> ("Perl Data Language"). PDL is actually a way to deal with larger arrays in Perl.  It allows large N-dimensional data sets such as large images, spectrogram, etc to be stored efficiently and manipulated quickly.
 
 To say it with the words of [Karl Glazebrook](http://en.wikipedia.org/wiki/Karl_Glazebrook), initiator of the PDL project:
 

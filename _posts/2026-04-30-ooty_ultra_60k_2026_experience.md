@@ -122,9 +122,7 @@ As the race progressed, the course opened into long stretches of rolling hills �
 
 Most of this section was technically runnable, but not easy. The accumulated fatigue from earlier climbs starts to show, and even small gradients begin to feel demanding.
 
-At one point, the route included a U-turn along the same stretch, which gave a different perspective of the course and a chance to see other runners coming through.
-
-This part of the race felt quieter. Compared to the early sections, you were mostly running alone, managing your own pace and effort.
+At one point, the route included a U-turn along the same stretch, which gave a different perspective of the course and a chance to see other runners coming through. This part of the race felt quieter. Compared to the early sections, you were mostly running alone, managing your own pace and effort.
 
 Along the way, I crossed paths with Suresh, Mey, and a bit later Lucky near the U-turn — brief interactions, but enough to keep the connection alive through the race.
 
@@ -133,65 +131,85 @@ The weather remained supportive, which definitely helped, but the focus by now w
 
 ### 🏁 Final Stretch
 
-The last few kilometres were about holding form and finishing strong.
+The final stretch was about staying consistent and managing effort.
 
-No dramatic push — just steady effort and awareness.
+I maintained a steady pace and made good use of aid stations — especially enjoying the watermelon, which helped refresh both body and mind.
 
-Crossing the finish line felt satisfying. Not just because of the distance, but because this time felt more controlled, more aware, and overall — better than the previous run.
+This time, I also carried some dry fruits like cashews and hazelnuts, along with roasted chana, which turned out to be quite useful. After consuming ORS and a few gels, the chana helped in balancing the palate and avoiding too much sweetness. I didn’t rely heavily on gels — probably around 4–5 in total.
+
+The last 10 KM was a familiar section — a steady climb along the same route as previous years. By this point, the focus was simple: maintain a steady walking pace on climbs and run whenever the opportunity came.
+
+It became a rhythm of small steps — one at a time, staying aware of breathing and effort.
+
+I managed to finish in under 10 hours, which was close to a one-hour improvement over last year — a satisfying end to the run.
+
+Meeting Coach Kay at the finish line was a really encouraging and happy moment, nicely closing the experience.
 
 ---
 
 ## 🤝 Post-Race Experience
 
-The finish area had its usual energy.
+After finishing, I spent some time around the finish area and soon met Suresh and Mey, both of whom had finished a bit earlier.
 
-Spent some time around the **Tea Park**, catching up with fellow runners and sharing experiences from the course. These small conversations are always a big part of the event.
+Lucky, our other ultra runner friend, was still out on the course at that point. I went for a quick massage, and by the time I was done, Lucky had also arrived — completing the run for our group. We then collected our medals, had some food, and settled into the usual post-race routine — conversations, recovery, and plenty of photographs with fellow runners and volunteers.
 
-Met a few familiar faces, exchanged quick thoughts about the run, and then focused on recovery.
+A special mention to the volunteers, especially from the Cisco Runners group — Madhav and Bala — who do an amazing job supporting runners throughout the event. Their energy and commitment really make a difference on race day.
 
-A quick massage, some rest, and then regrouping with the team.
-
-KC came to pick us up, and we headed back together.
 ---
-
 
 ## 🌆 Evening After the Race
 
-Evenings after long runs have their own rhythm.
+The evening after the race was all about unwinding and spending time together. One of the highlights was meeting my school friends Dhiresh and Kamlesh, both from our native place Berinag in Kumaon, Uttarakhand. 
 
-After some rest, we stepped out for the usual **Ooty chocolate shopping** — something that has almost become a tradition.
+Dhiresh had travelled all the way from Delhi and had been planning to run the 30K for many years. Both of them have also been strong supporters of our Nag Devta community run, which made this experience even more special.
 
-The rest of the evening was simple — food, conversations, and just unwinding as a group after the effort of the day.
+Along with our Bangalore running group, we had a wonderful time — relaxed, happy, and just enjoying the moment after the effort of the day.
 
-Nothing structured, just enjoying the moment.
+It turned into one of those evenings where the run fades into the background, and what remains is the time spent together.
+
+
 ---
 
 ## 🌄 Next Day & Return Journey
 
-The next morning was relaxed.
+The next morning was relaxed. We spent some time taking photos, enjoying the surroundings, and slowly preparing for the return journey.
+The drive back followed the same route — through Bandipur, with a stop at Mysore for lunch at coastal kitchen. And of course, picking up some Mysore Pak on the way back. We reached Bangalore by Monday evening, completing the full circle of the trip.
 
-We spent some time taking photos, enjoying the surroundings, and slowly preparing for the return journey.
-
-The drive back followed the same route — through **Bandipur**, with a stop at **Mysore** for lunch.
-
-And of course, picking up some **Mysore Pak** on the way back.
-
-We reached Bangalore by **Monday evening**, completing the full circle of the trip.
 ---
 
 ## 💡 Reflections
 
-This run was not about chasing numbers.
-
-It was about running with more awareness — understanding effort, respecting the course, and adapting as the race unfolded.
-
-There is still room to improve, especially in how I start, but this felt like a step in the right direction.
-
-Ooty remains a demanding course — altitude, elevation, and long stretches of effort — but also one that keeps pulling you back.
-
-And maybe that’s the real reason we return.
+This run was not about chasing numbers. It was about running with more awareness — understanding effort, respecting the course, and adapting as the race unfolded. Ooty remains a demanding course — altitude, elevation, and long stretches of effort — but also one that keeps pulling you back.
+And maybe that’s the real reason we return. There is always scope for improvement, and I continue to work on it.
+Perhaps the next time, I return with a new challenge — maybe 75K. Till then, thanks for reading — and happy running!
 
 ---
+
+## 🧠 Training & Preparation
+
+My preparation this time was simple and consistent.
+
+The last long event before Ooty was SRT Pune, and after that, I didn’t participate in any major race. Instead, I focused on regular training — short daily runs combined with walking, and longer efforts on weekends, usually going up to around 20 KM.
+
+One of the key aspects of my training has been a run–walk combination, which works well for me, especially for long-distance efforts. More than intensity, I focused on consistency — showing up regularly and building endurance gradually.
+
+I am not someone who strictly follows daily mileage targets. My strength lies in staying active consistently over time. Rather than stressing over training load, I focus on being active throughout the day and make use of even small opportunities.
+
+I also follow some unconventional approaches — for example, using a backpack (a kind of rucking) during household activities to build back strength. Simple things like this help when dedicated training time is limited.
+
+Along with that, I paid attention to strength and elevation training. Climbing stairs at home and office became a practical way to prepare for hill sections.
+
+Nutrition-wise, I kept things very basic and sustainable — mostly home-cooked vegetarian food with eggs. I rely on natural protein sources like lentils, including black and white soybeans from my native region.
+
+I also regularly consume soaked nuts — groundnuts, almonds, and raisins — often combined with a banana as a pre-workout meal.
+
+And of course, black coffee remains a constant — especially after runs.
+
+I also believe that in endurance running, it takes much more than just mileage. While mileage may work well for shorter distances, long runs bring a different set of challenges — ups and downs, long stretches of solitude, and phases where you are walking or even struggling to move forward.
+
+Developing the mindset and strength to handle these phases becomes just as important as physical preparation. That is something I consciously try to build into my training.
+
+Nothing fancy — just simple habits, consistency, and listening to the body.
 
 ## 📸 Photos
 

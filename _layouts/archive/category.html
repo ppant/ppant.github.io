@@ -4,6 +4,7 @@ layout: default
 {% assign cat = page.title %}
 {% assign cat_posts = site.posts | where_exp: "post", "post.categories contains cat" %}
 
+{% include search.html %}
 <div class="blog-listing">
   <div class="blog-header">
     <h1 class="blog-title">{{ site.category_titles[cat] | default: cat }}</h1>

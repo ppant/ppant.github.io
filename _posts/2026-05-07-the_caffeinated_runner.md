@@ -5,7 +5,9 @@ layout: post
 permalink: /2026/05/07/the_caffeinated_runner/
 categories: [running]
 description: 'A personal running and lifestyle experiment exploring caffeine overuse, gut stability, performance dependency, and what changed after taking a complete break from coffee.'
+image: /data/images/cover_coffee.jpg
 ---
+<img src="/data/images/cover_coffee.jpg" alt="The Caffeinated Runner" style="width:100%; border-radius:10px; margin-bottom:20px;">
 
 # The Caffeinated Runner
 

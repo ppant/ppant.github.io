@@ -298,6 +298,17 @@ For years, it traveled with me to running events, early race mornings, hotel roo
 
 In fact, if you look carefully at some of my older running posts like the [2025 Race Diary](/2025/12/20/run_diary_2025/), coffee quietly appears in the background of many memories.
 
+Some coincidences only become meaningful in hindsight.
+
+I later realized that my last cup of coffee before starting this experiment was also with Rishi during his Bengaluru visit. We met for breakfast at Bengaluru Cafe and spoke about training, endurance sports, and of course, coffee itself — without realizing that the very next day I would unexpectedly begin this caffeine experiment.
+
+<img src="/data/images/coffee_at_new_blore_cafe.jpg" alt="Coffee with friends at Bengaluru Cafe" style="width:100%; border-radius:10px; margin-top:20px;">
+
+<p style="color:#777; font-size:0.9em; margin-top:8px; text-align:center;">
+
+Suresh, Rishi and me — Bengaluru Cafe, unknowingly marking my last coffee before the experiment began.
+</p>
+
 So no, this is probably not the end of my relationship with coffee.
 
 Maybe just the beginning of a slightly more conscious one.

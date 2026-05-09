@@ -256,7 +256,7 @@ Right now, my focus is simple:
 ## Ongoing Notes
 This experiment is still ongoing, and I plan to keep updating this post with observations over time.
 
-As of writing this post, I am on Day 16 without caffeine.
+As of writing this post, I am on **Day 16** without caffeine already crossed 14-day mark.
 
 Some things I want to observe next:
 - Long-run performance without caffeine,

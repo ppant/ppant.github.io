@@ -317,3 +317,20 @@ So no, this is probably not the end of my relationship with coffee.
 Maybe just the beginning of a slightly more conscious one.
 
 <img src="/data/images/aeropress.jpg" alt="Aeropress Coffee Setup" style="width:100%; border-radius:10px; margin-top:20px;">
+
+---
+
+## Further Reading & Listening
+
+A few books, podcasts, and discussions that I found interesting while reflecting on caffeine, recovery, sleep, and performance culture:
+
+- [Huberman Lab – Using Caffeine to Optimize Mental & Physical Performance](https://www.hubermanlab.com/episode/using-caffeine-to-optimize-mental-and-physical-performance)
+
+- [Michael Pollan on caffeine, rituals, and quitting coffee for three months – The Joe Rogan Experience](https://open.spotify.com/episode/1ICSexGz1pF7qrHSPnD1hD)
+
+
+- [Diary of a CEO – Matthew Walker on caffeine & sleep](https://podcasts.apple.com/au/podcast/moment-141-what-coffee-is-really-doing-to-your-sleep/id1291423644?i=1000639414602)
+
+- [Michael Pollan Shares Everything He Learned After Quitting Caffeine for 3 Months](https://www.menshealth.com/nutrition/a36940873/joe-rogan-michael-pollan-quitting-caffeine-3-month-challenge-results/)
+
+---

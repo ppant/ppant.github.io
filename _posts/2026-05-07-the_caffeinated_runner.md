@@ -43,7 +43,7 @@ Coming from the mountains of Kumaon, tea was certainly part of the broader cultu
 
 Some of my childhood memories are also connected to tea gardens. During summer vacations, my friends and I would sometimes pluck tea leaves just for fun, without realizing that years later I would end up writing about tea culture, coffee habits, and caffeine itself.
 
-Even during my student years and early work life, coffee remained mostly occasional — usually during social gatherings, travel, or long conversations. I never really liked milk coffee much, and even tea, despite being culturally familiar, was never something I consumed heavily.
+Even during my student years and early work life, coffee remained mostly occasional usually during social gatherings, travel, or long conversations. I never really liked milk coffee much, and even tea, despite being culturally familiar, was never something I consumed heavily.
 
 My real introduction to coffee happened during my first Europe visit around 2008.
 
@@ -79,7 +79,7 @@ One thing I always maintained reasonably well was timing. I almost always consum
 
 Then came Bengaluru.
 
-Living in Bengaluru introduced another layer to coffee culture — filter coffee.
+Living in Bengaluru introduced another layer to coffee culture - filter coffee.
 
 The weekend Lalbagh running rituals often ended with filter coffee conversations. Unlike my usual black coffee, this version came with milk and sugar, and slowly it also became emotionally attached to weekends, running groups, and recovery conversations.
 
@@ -106,6 +106,9 @@ It entered slowly:
 </div>
 
 ## 🏃 Why I Started This Experiment
+<div style="margin:20px 0 30px 0; padding:16px 20px; background:#faf7f2; border-left:4px solid #8b5e3c; color:#555; border-radius:6px;">
+I am also documenting this experience because someone else might be dealing with similar low-grade digestive discomfort, bloating, dry mouth, or unexplained lifestyle-related issues without clearly connecting them to caffeine habits. This is not medical advice just a personal observation that might help someone explore a possible direction.
+</div>
 
 This was not a dramatic “quit coffee forever” decision.
 
@@ -292,7 +295,7 @@ Or helping me ignore what my body is trying to say?
 </div>
 ## ☕ One More Confession
 
-Somewhere in my cupboard still sits my beloved Aeropress — gifted by my dear friend and triathlete [Rishi Sareen](https://rishisareen.com/).
+Somewhere in my cupboard still sits my beloved Aeropress, gifted by my dear friend and triathlete [Rishi Sareen](https://rishisareen.com/).
 
 For years, it traveled with me to running events, early race mornings, hotel rooms, and long road trips. There was something deeply satisfying about manually preparing a strong black coffee before sunrise while runners slowly gathered at the start line.
 
@@ -300,13 +303,13 @@ In fact, if you look carefully at some of my older running posts like the [2025 
 
 Some coincidences only become meaningful in hindsight.
 
-I later realized that my last cup of coffee before starting this experiment was also with Rishi during his Bengaluru visit. We met for breakfast at Bengaluru Cafe and spoke about training, endurance sports, and of course, coffee itself — without realizing that the very next day I would unexpectedly begin this caffeine experiment.
+I later realized that my last cup of coffee before starting this experiment was also with Rishi during his Bengaluru visit. We met for breakfast at Bengaluru Cafe and spoke about training, endurance sports, and of course, coffee itself without realizing that the very next day I would unexpectedly begin this caffeine experiment.
 
 <img src="/data/images/coffee_at_new_blore_cafe.jpg" alt="Coffee with friends at Bengaluru Cafe" style="width:100%; border-radius:10px; margin-top:20px;">
 
 <p style="color:#777; font-size:0.9em; margin-top:8px; text-align:center;">
 
-Suresh, Rishi and me — Bengaluru Cafe, unknowingly marking my last coffee before the experiment began.
+Suresh, Rishi and me at Bengaluru Cafe, unknowingly marking my last coffee before the experiment began.
 </p>
 
 So no, this is probably not the end of my relationship with coffee.

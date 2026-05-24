@@ -74,11 +74,15 @@ After the expo, our group stopped at A2B for coffee, and picked up some local Oo
 
 We then headed back to the hotel, keeping the evening simple and focused — preparing for the race ahead.
 
+This year was also special because my school friend Dhiresh joined us at the hotel after travelling from Delhi for the event. Although he had been planning to run the 30K for the past couple of years, this time he finally made it.
+
+Dhiresh, Kamlesh, and I grew up together in the hills of [Kumaon, Uttarakhand](/2011/05/15/kumaon-himaliya/), which made the whole experience even more meaningful.
+
 ---
 
 ## 🌅 Race Morning
 
-Race morning in Ooty always carries a quiet energy. This year, the weather was not as cold as previous editions**, which made things a bit more comfortable right from the start.
+Race morning in Ooty always carries a quiet energy. This year, the weather was not as cold as previous editions, which made things a bit more comfortable right from the start.
 
 We woke up early and kept things simple. Pre-race fueling has become an important part of our routine, and this time we went with bun, peanut butter, and black coffee — something that worked well for us.
 
@@ -159,14 +163,13 @@ A special mention to the volunteers, especially from the Cisco Runners group —
 
 ## 🌆 Evening After the Race
 
-The evening after the race was all about unwinding and spending time together. One of the highlights was meeting my school friends Dhiresh and Kamlesh, both from our native place Berinag in Kumaon, Uttarakhand. 
+The evening after the race was all about unwinding and spending time together. 
+Along with our Bangalore running group, we had a wonderful time — relaxed, happy, and simply enjoying the moment after the effort of the day.
 
-Dhiresh had travelled all the way from Delhi and had been planning to run the 30K for many years. Both of them have also been strong supporters of our Nag Devta community run, which made this experience even more special.
+It was also special to spend time with old school friends from our home town, Berinag, Uttarakhand, who have been strong supporters of our community initiative, the [Nag Devta Parikrama Run](/2025/09/10/nag_devta_parikrama_run/).
 
-Along with our Bangalore running group, we had a wonderful time — relaxed, happy, and just enjoying the moment after the effort of the day.
-
-It turned into one of those evenings where the run fades into the background, and what remains is the time spent together.
-
+There was plenty of conversation, laughter, race analysis, recovery discussions, and of course plans for future runs.
+It turned into one of those evenings where the run slowly fades into the background, and what remains is the time spent together.
 
 ---
 
@@ -267,5 +270,35 @@ Nothing fancy — just simple habits, consistency, and listening to the body.
 - [Strava](https://www.strava.com/activities/17849567852)
 - [Instagram](https://www.instagram.com/p/DWdurlCEm8z)  
   
+
+---
+
+<div style="
+  border-left: 4px solid #888;
+  background: #f8f8f8;
+  padding: 18px 22px;
+  margin-top: 30px;
+  border-radius: 8px;
+  font-style: italic;
+  color: #444;
+">
+
+<p>
+Thanks to all the runners whose pictures knowingly or unknowingly appeared in this post.
+</p>
+
+<p>
+The aim of writing this blog is simply to preserve and revisit these memories and moments from the journey.
+</p>
+
+<p>
+Feel free to reach out to me in case of any queries or if you would like to connect regarding running, endurance events, or community initiatives.
+</p>
+
+<p>
+Thanks for reading till the end — and happy running!
+</p>
+
+</div>
 
 ---

@@ -20,6 +20,29 @@ description: 'Experience of Ooty Ultra 60K in Niligiris, a high-altitute road ru
 A return to [Ooty Ultra](https://ootyultra.com) — this time for my second 60K, with a simple goal: run better than last time.
 But beyond performance, this was about experiencing the journey more consciously — the travel, the people, and the moments around the run.
 
+<div style="
+
+  background:#f8f8f8;
+
+  border-left:4px solid #888;
+
+  padding:14px 18px;
+
+  margin:20px 0;
+
+  border-radius:8px;
+
+  color:#444;
+
+">
+
+<strong>Note:</strong> This is a long-form race diary covering the complete Ooty Ultra 60K 2026 journey — from the road trip and expo to race day, reflections, training, and community moments.
+
+If you prefer, you can directly jump to the <a href="#video-journey">🎥 Video Journey</a> section for a shorter visual summary.
+
+</div>
+
+
 ---
 
 ## 🚗 The Plan, The Group & The Drive
@@ -214,7 +237,7 @@ Developing the mindset and strength to handle these phases becomes just as impor
 
 Nothing fancy — just simple habits, consistency, and listening to the body.
 
-## 🎥 Video Journey
+## 🎥 Video Journey {#video-journey}
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 1.5rem 0;">
   <iframe

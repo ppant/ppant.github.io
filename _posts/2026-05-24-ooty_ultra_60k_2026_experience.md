@@ -288,6 +288,23 @@ Nothing fancy — just simple habits, consistency, and listening to the body.
 
 ---
 
+---
+
+## 📚 Related Posts
+
+If you enjoyed this race diary, you may also like:
+
+- [2025 Running Diary – Five Runs, One Journey](/2025/12/20/run_diary_2025/)
+- [Nag Devta Parikrama Run 2025 – A Community Initiative from the Himalayas](/2025/09/10/nag_devta_parikrama_run/)
+- [Malnad Ultra 2024 – Running Through the Western Ghats](/2024/11/30/malnad_ultra_2024_experience/)
+- [Ooty Ultra 2023 – Experience & Reflections](/2023/04/15/ooty_ultra_2023_experience/)
+- [Bison Ultra 2023 - Conquering the 50K Trail in Yercaud Hills](/2023/09/17/bison_ultra_2023_race_report/)
+- [Malnad Ultra 2022 - Trail run in Western ghats](/2022/12/10/malnad_ultra_2022_experience/)
+- [Ooty Ultra 2022 – My First Ooty Ultra Experience](/2022/04/16/ootyultra_2022_experience/)
+
+
+---
+
 ## 🔗 Links
 
 - [Strava](https://www.strava.com/activities/17849567852)

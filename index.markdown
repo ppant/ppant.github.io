@@ -85,9 +85,9 @@ title: About
   <!-- HERO -->
   <div class="pp-hero">
     <div class="pp-hero-text">
-      <div class="pp-eyebrow">AI/ML Architect · Ultra Runner · Researcher</div>
+      <div class="pp-eyebrow"> Software Engineer . AI/ML Architect · ML Researcher . Open-Source Contributor . Ultra Runner</div>
       <h1 class="pp-hero-name">20 years in tech.<br>Every finish line<br>teaches me something new.</h1>
-      <p class="pp-hero-tagline">Building production-grade AI systems at LTM for global clients. Running trails on weekends. Process Mining & ML Researcher at Indian Institute of Information Technology</p>
+      <p class="pp-hero-tagline">Building production-grade AI systems for global clients. Leading Engineering teams. Running trails on weekends. Process Mining & ML Researcher at IIITA</p>
       <div class="pp-hero-cta">
         <a class="pp-btn-primary" href="/blog/">Read the blog</a>
         <a class="pp-btn-secondary" href="https://www.linkedin.com/in/ppant/">Connect on LinkedIn</a>
@@ -147,6 +147,16 @@ title: About
   <!-- LATEST POSTS -->
   <div class="pp-section-label">Latest from the blog</div>
   <div class="pp-posts">
+    <a class="pp-post" href="/2026/04/30/ooty_ultra_60k_2026_experience/">
+      <span class="pp-badge pp-badge-run">Running</span>
+      <div class="pp-post-title">Ooty Ultra 60K 2026</div>
+      <div class="pp-post-date">May 2026</div>
+    </a>
+    <a class="pp-post" href="/2026/05/07/the_caffeinated_runner/">
+      <span class="pp-badge pp-badge-run">Running . Life</span>
+      <div class="pp-post-title">The Caffeinated Runner</div>
+      <div class="pp-post-date">May 2026</div>
+    </a>
     <a class="pp-post" href="/2026/04/04/why-dsa-matters-agentic-era/">
       <span class="pp-badge pp-badge-tech">AI · Engineering</span>
       <div class="pp-post-title">Why DSA Matters in the Agentic Era</div>

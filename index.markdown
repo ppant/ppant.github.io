@@ -85,9 +85,9 @@ title: About
   <!-- HERO -->
   <div class="pp-hero">
     <div class="pp-hero-text">
-      <div class="pp-eyebrow">AI/ML Architect · Ultra Runner · Researcher</div>
+      <div class="pp-eyebrow"> Software Engineer . AI/ML Architect · ML Researcher . Open-Source Contributor . Ultra Runner</div>
       <h1 class="pp-hero-name">20 years in tech.<br>Every finish line<br>teaches me something new.</h1>
-      <p class="pp-hero-tagline">Building production-grade AI systems at LTM for global clients. Running trails on weekends. Process Mining & ML Researcher at Indian Institute of Information Technology</p>
+      <p class="pp-hero-tagline">Building production-grade AI systems for global clients. Leading Engineering teams. Running trails on weekends. Process Mining & ML Researcher at IIITA</p>
       <div class="pp-hero-cta">
         <a class="pp-btn-primary" href="/blog/">Read the blog</a>
         <a class="pp-btn-secondary" href="https://www.linkedin.com/in/ppant/">Connect on LinkedIn</a>

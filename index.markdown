@@ -147,6 +147,16 @@ title: About
   <!-- LATEST POSTS -->
   <div class="pp-section-label">Latest from the blog</div>
   <div class="pp-posts">
+    <a class="pp-post" href="/2026/04/30/ooty_ultra_60k_2026_experience/">
+      <span class="pp-badge pp-badge-run">Running</span>
+      <div class="pp-post-title">Ooty Ultra 60K 2026</div>
+      <div class="pp-post-date">May 2026</div>
+    </a>
+    <a class="pp-post" href="/2026/05/07/the_caffeinated_runner/">
+      <span class="pp-badge pp-badge-run">Running . Life</span>
+      <div class="pp-post-title">The Caffeinated Runner</div>
+      <div class="pp-post-date">May 2026</div>
+    </a>
     <a class="pp-post" href="/2026/04/04/why-dsa-matters-agentic-era/">
       <span class="pp-badge pp-badge-tech">AI · Engineering</span>
       <div class="pp-post-title">Why DSA Matters in the Agentic Era</div>

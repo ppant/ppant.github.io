@@ -1,0 +1,7 @@
+{% assign words = content | number_of_words %}
+{% if words < 200 %}
+  {% assign reading_time = 1 %}
+{% else %}
+  {% assign reading_time = words | divided_by: 200 %}
+{% endif %}
+{{ reading_time }} min read

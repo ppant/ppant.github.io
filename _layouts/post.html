@@ -7,7 +7,7 @@ layout: default
       <div class="post-cats">
         {% for cat in page.categories %}
           <a href="/category/{{ cat }}/" class="cat-badge">
-            {{ site.category_titles[cat] | default: cat | capitalize }}
+            {{ site.category_titles[cat] | default: cat }}
           </a>
         {% endfor %}
       </div>
@@ -16,6 +16,7 @@ layout: default
     <div class="post-meta">
       <time>{{ page.date | date: "%b %-d, %Y" }}</time>
       {% if site.author.name %} &nbsp;·&nbsp; {{ site.author.name }}{% endif %}
+      &nbsp;·&nbsp; {% include reading_time.html %}
     </div>
   </div>
   <div class="post-content">

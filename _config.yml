@@ -16,7 +16,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-archives
   - jemoji
-google_analytics: UA-15272551-6
+google_analytics: G-ND8XC306E4
 permalink: /:year/:month/:day/:title/
 author:
   name: 'Pradeep K. Pant'

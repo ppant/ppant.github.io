@@ -22,7 +22,32 @@ layout: default
   <div class="post-content">
     {{ content }}
   </div>
+
+  {% assign cat = page.categories[0] %}
+  {% assign related = site.posts | where_exp: "post", "post.categories contains cat" | where_exp: "post", "post.url != page.url" %}
+  {% if related.size > 0 %}
+  <div class="related-posts">
+    <div class="related-header">
+      <span class="related-label">Related Posts</span>
+    </div>
+    <div class="related-grid">
+      {% for post in related limit: 3 %}
+        <a href="{{ post.url }}" class="related-post">
+          <div class="related-post-cat">
+            {% for c in post.categories limit: 1 %}
+              {{ site.category_titles[c] | default: c }}
+            {% endfor %}
+          </div>
+          <div class="related-post-title">{{ post.title }}</div>
+          <div class="related-post-date">{{ post.date | date: "%b %-d, %Y" }}</div>
+        </a>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
   {% if site.disqus.shortname %}
     {% include disqus_comments.html %}
   {% endif %}
+
 </article>

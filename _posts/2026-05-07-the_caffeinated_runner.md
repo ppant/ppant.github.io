@@ -268,6 +268,16 @@ Some things I want to observe next:
 - Whether symptoms return after reintroducing coffee,
 - and whether lower caffeine intake improves recovery consistency.
 
+### 🗓️ Mid-June 2026 Update: From 14 Days to 7 Weeks
+
+It has now been roughly 52 days since I started this experiment on April 25th. What began as a strict 14-day reset has naturally evolved into a deeply sustainable lifestyle change. 
+
+Here is what has changed after nearly two months of zero caffeine:
+
+* **The Mindset Shift:** The cravings have shifted from "manageable" to completely non-existent. I routinely sit in coffee shops with my running friends after our morning runs, comfortably defaulting to plain water or buttermilk. The decision doesn't require willpower anymore; it just isn't on my mind.
+* **A Deeper Sense of Calm:** The physical "stomach heat" and the morning bad digestive smells have vanished entirely. But the most unexpected benefit has been psychological: I feel a profound, sustained sense of calm throughout the workday, completely free of the volatile caffeine highs and subsequent crashes.
+* **The New Ritual:** At home, my brewing ritual hasn't disappeared—it has just evolved. I now prepare a refreshing herbal infusion of ginger and black pepper (strictly zero tea leaves). It gives me that same grounding, refreshing morning routine without the internal acidity.
+
 ---
 
 ## Final Thoughts (For Now)

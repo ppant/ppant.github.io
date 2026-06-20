@@ -153,7 +153,7 @@ permalink: /about/
   <div class="about-hero">
     <img src="/data/images/pp_profile_pic.jpg" alt="Pradeep K. Pant" class="about-avatar" />
     <div class="about-hero-text">
-      <div class="about-eyebrow">AI/ML Architect · Ultra Runner · Researcher</div>
+      <div class="about-eyebrow">Enterprise AI Architect · Researcher · Ultra Runner</div>
       <h1>Pradeep K. Pant</h1>
       <p>Based in Bengaluru, India &nbsp;·&nbsp; Originally from the lower Himalayas (हिमालय)</p>
     </div>
@@ -161,16 +161,17 @@ permalink: /about/
 
   <div class="about-section">
     <h2>About Me</h2>
-    <p>I am a Software Architect and AI/ML practitioner with a deep interest in building systems that solve real-world problems. I enjoy working at the intersection of software engineering, machine learning, and research, and I believe programming is a powerful medium for turning ideas into reality.</p>
-    <p>I began this blog in the autumn of 2007 to chronicle my journey and share thoughts on the ever-evolving world of technology. Over the years, it has grown into a space where I explore ideas, document experiences, and share learnings from both professional and personal pursuits.</p>
-    <p>Alongside my professional interests, I am deeply passionate about trail running and endurance sports. When I'm not working with code or research, you'll usually find me running in the hills, exploring nature, or writing about my experiences here.</p>
+    <p>I am an Enterprise AI Architect, researcher, and technology enthusiast with over two decades of experience spanning software engineering, product development, cloud platforms, and artificial intelligence. My career has evolved from building enterprise software systems and distributed platforms to architecting AI-driven solutions, Agentic AI systems, and enterprise-scale AI platforms. </p>
+    <p>I started this blog in 2007 as a way to document my learning journey, share technical insights, and reflect on experiences from both technology and life. What began as a personal technology journal has evolved into a record of nearly two decades of learning, experimentation, research, and professional growth. Over the years, it has become a collection of articles covering software engineering, architecture, AI/ML, Generative AI, Agentic AI, Process mining, open-source technologies, and personal experiments in continuous learning. </p>
+    <p>My current interests lie at the intersection of Enterprise AI Architecture, Agentic AI, AI Observability, Process Mining, and Self-Adaptive AI Operations. Through my PhD research at IIIT Allahabad, I explore how process intelligence and observability can help organizations build more reliable, explainable, and continuously improving AI systems.</p>
+    <p>Outside technology, I am a passionate ultra runner and trail enthusiast. The mountains have taught me many of the same lessons that apply to engineering—discipline, patience, adaptability, and the importance of enjoying the journey as much as the destination.</p>
   </div>
 
   <div class="about-section">
     <h2>Education</h2>
     <div class="about-edu-item">
       <strong>Ph.D. in Process Mining and Machine Learning</strong>
-      <span>Indian Institute of Information Technology (IIIT Allahabad) · in progress, expected 2026</span>
+      <span>Indian Institute of Information Technology (IIIT Allahabad) · Ongoing</span>
     </div>
     <div class="about-edu-item">
       <strong>M.Tech in Computer Science</strong>
@@ -184,53 +185,56 @@ permalink: /about/
 
   <div class="about-section">
     <h2>Professional Journey</h2>
-    <p>My professional journey spans over two decades and reflects a gradual evolution from systems development and academia to enterprise software and AI/ML.</p>
-    <p>From 1997 to 2005, I was actively involved in teaching and academic roles at institutions such as Birla Institute of Technology, Mesra, Birla Institute of Applied Sciences, and BITS Pilani — teaching programming, electronics, digital design, microprocessors, and computer systems.
-    Alongside teaching, I was also involved in developing prototypes and providing technical support for small-scale industries, working on digital systems, microprocessor interfacing, and software-based solutions.</p>
+    <p>My professional journey spans more than two decades and reflects a continuous evolution from academia and software engineering to enterprise architecture and artificial intelligence.</p>
+    <p>From 1997 to 2005, I worked in teaching and academic roles at institutions including Birla Institute of Technology (Mesra), Birla Institute of Applied Sciences, and BITS Pilani, teaching programming, computer systems, electronics, digital design, and microprocessors. Alongside teaching, I contributed to research projects, prototype development, and technology initiatives for small-scale industries, working on digital systems, microprocessor interfacing, and software-based solutions.</p>
 
-    <p>In 2005, I transitioned fully into the IT industry, working across enterprise software and product engineering roles at organisations such as Xerox Inc, Wokana Technologies, and Ockham BV.</p>
-    <p>I currently work as an AI/ML & Generative AI Architect at LTIMindtree, focusing on building scalable, production-grade AI systems for enterprise environments.</p>
+    <p>In 2005, I transitioned into the software industry, working across product engineering, enterprise software, cloud platforms, and large-scale distributed systems. Over the years, I have held engineering and architecture roles at organizations such as Xerox, Wokana Technologies, Ockham BV, and LTIMindtree, helping design and deliver enterprise-grade software platforms, cloud solutions, and AI systems.</p>
+    <p>As artificial intelligence became increasingly central to modern systems, my focus gradually expanded from software architecture into AI/ML, Generative AI, Agentic AI, and intelligent automation. Today, I work as an Enterprise AI Architect, designing AI platforms, knowledge systems, and intelligent enterprise solutions while helping organizations operationalize AI through governance, observability, and scalable engineering practices.</p>
+    <p>Alongside industry work, I continue to pursue research in Process Mining, AI Observability, Concept Drift Detection, and Self-Adaptive AI Operations, with the goal of bridging academic research and real-world enterprise AI systems.</p>
   </div>
 
   <div class="about-section">
     <h2>How I Can Help</h2>
     <div class="about-help-item">
-      <strong>Designing and scaling AI/ML systems</strong>
-      <p>Helping teams move from experimentation to robust, production-grade AI systems with emphasis on reliability and long-term maintainability.</p>
+      <strong>Enterprise AI Architecture</strong>
+      <p>Helping organizations design and scale enterprise AI platforms that are secure, governed, and aligned with business objectives.</p>
     </div>
     <div class="about-help-item">
-      <strong>End-to-end MLOps & time-series solutions</strong>
-      <p>Building and improving pipelines for time-series forecasting, monitoring, and model lifecycle management.</p>
+      <strong>Agentic AI & Multi-Agent Systems</strong>
+      <p>Designing Agentic AI solutions, tool-calling agents, and multi-agent workflows that integrate with enterprise data, applications, and business processes.</p>
     </div>
     <div class="about-help-item">
-      <strong>Applied AI & Generative AI adoption</strong>
-      <p>Guiding the practical use of ML, Generative AI, and LLM-based systems in enterprise environments focusing on value creation over hype.</p>
+      <strong>AI Platform Engineering & MLOps</strong>
+      <p>Building production-grade AI platforms with strong foundations in MLOps, evaluation frameworks, monitoring, governance, and operational excellence.</p>
     </div>
     <div class="about-help-item">
-      <strong>Research-to-industry translation</strong>
-      <p>Bridging academic research and industry practice in process mining, concept drift, and explainability.</p>
+      <strong>AI Observability & Governance</strong>
+      <p>Establishing observability, explainability, drift detection, and governance practices to improve the reliability and trustworthiness of AI systems.</p>
     </div>
     <div class="about-help-item">
-      <strong>Technical leadership & mentoring</strong>
-      <p>Supporting team building, mentoring engineers and data scientists, and strengthening technical culture.</p>
+      <strong>Process Mining & Process Intelligence</strong>
+      <p>Applying process mining and process intelligence techniques to understand, optimize, and continuously improve business and AI-driven workflows.</p>
+    </div>
+       <div class="about-help-item">
+      <strong>Technical Leadership & Mentoring</strong>
+      <p>Supporting engineering teams through architecture reviews, technology strategy, mentoring, and the adoption of engineering best practices.</p>
     </div>
   </div>
 
   <div class="about-section">
     <h2>Areas of Expertise</h2>
     <div class="about-expertise">
-      <span class="about-tag">Generative AI</span>
-      <span class="about-tag">LLMs & RAG</span>
+      <span class="about-tag">Enterprise AI Architecture</span>
+      <span class="about-tag">Agentic AI</span>
+      <span class="about-tag">Multi-Agent Systems</span>
+      <span class="about-tag">AI Platform Engineering</span>
+      <span class="about-tag">AI Observability</span>      
       <span class="about-tag">MLOps</span>
+      <span class="about-tag">LLMOps</span>
       <span class="about-tag">Process Mining</span>
-      <span class="about-tag">Time Series</span>
-      <span class="about-tag">AWS / Azure / GCP</span>
-      <span class="about-tag">Databricks</span>
-      <span class="about-tag">Docker / Kubernetes</span>
-      <span class="about-tag">Python</span>
-      <span class="about-tag">Software Architecture</span>
-      <span class="about-tag">Microservices</span>
-      <span class="about-tag">Open Source</span>
+      <span class="about-tag">Concept Drift Detection</span>
+      <span class="about-tag">Azure / AWS / Databricks</span>      
+      <span class="about-tag">Software Architecture</span>      
     </div>
   </div>
 
@@ -238,15 +242,23 @@ permalink: /about/
     <h2>Featured Work</h2>
     <div class="about-featured-item">
       <strong>Explainable Concept Drift in Process Mining</strong>
-      Published research paper at IEEE conference contributing novel methods in AI explainability.
+      Published at IEEE ICCCNT 2025. Research introducing explainable concept drift detection using MLP-based non-linear causality analysis.
     </div>
     <div class="about-featured-item">
+      <strong>Software Process Mining: State of the Art</strong>
+      Comprehensive survey of software process mining techniques, challenges, tools, and future research directions. Currently under journal review.
+    </div> 
+    <div class="about-featured-item">
+      <strong>Reviewer – Journal of Software: Evolution and Process</strong>
+      Invited peer reviewer evaluating research manuscripts in software engineering processes, software evolution, and process-related studies.
+    </div>    
+    <div class="about-featured-item">
       <strong>Python Architecture Patterns</strong>
-      Official book reviewer helping developers understand design patterns and best practices.
+      Technical reviewer for Packt publication covering architecture principles, design patterns, and software engineering best practices.
     </div>
     <div class="about-featured-item">
       <strong>Open Source Contributions</strong>
-      Reporting critical bugs in MySQL Operator and Chromium, contributor to the Perl CPAN repository.
+      Reported critical issues and contributed improvements across Chromium, MySQL Operator for Kubernetes, Perl CPAN, and open-source communities.
     </div>
   </div>
 

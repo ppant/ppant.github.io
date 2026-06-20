@@ -85,12 +85,12 @@ title: About
   <!-- HERO -->
   <div class="pp-hero">
     <div class="pp-hero-text">
-      <div class="pp-eyebrow"> Software Engineer . AI/ML Architect · ML Researcher . Open-Source Contributor . Ultra Runner</div>
+      <div class="pp-eyebrow">Enterprise AI Architect · Researcher · Open-Source Contributor · Ultra Runner</div>
       <h1 class="pp-hero-name">20 years in tech.<br>Every finish line<br>teaches me something new.</h1>
-      <p class="pp-hero-tagline">Building production-grade AI systems for global clients. Leading Engineering teams. Running trails on weekends. Process Mining & ML Researcher at IIITA</p>
+      <p class="pp-hero-tagline">Building enterprise AI platforms, Agentic AI systems, and intelligent automation solutions. Researching Process Mining, AI Observability, and Self-Adaptive AI Operations at IIIT Allahabad. Running trails and exploring the mountains to keep things in perspective.</p>   
       <div class="pp-hero-cta">
         <a class="pp-btn-primary" href="/blog/">Read the blog</a>
-        <a class="pp-btn-secondary" href="https://www.linkedin.com/in/ppant/">Connect on LinkedIn</a>
+        <a class="pp-btn-secondary" href="/about/">My Story</a>
       </div>
       <p class="pp-location">📍 Bengaluru, India &nbsp;·&nbsp; Originally from the lower Himalayas</p>
     </div>
@@ -120,14 +120,14 @@ title: About
   <div class="pp-pillars">
     <div class="pp-pillar">
       <div class="pp-pillar-icon pp-pillar-icon-tech">💻</div>
-      <h2 class="pp-pillar-title">Building AI Systems</h2>
+      <h2 class="pp-pillar-title">Building Enterprise AI Systems</h2>
       <p class="pp-pillar-body">Designing scalable, production-grade AI and ML systems. From embedded systems at Xerox to GenAI architectures — I build things that work at scale and stand the test of time.</p>
       <div class="pp-tags">
-        <span class="pp-tag">Generative AI</span>
+        <span class="pp-tag">Agentic AI</span>
+        <span class="pp-tag">AI Observability</span>
         <span class="pp-tag">MLOps</span>
-        <span class="pp-tag">LLMs</span>
-        <span class="pp-tag">Software Architecture</span>
-        <span class="pp-tag">Process Mining</span>
+        <span class="pp-tag">Process Intelligence</span>
+        <span class="pp-tag">Software Architecture</span>        
       </div>
     </div>
     <div class="pp-pillar">

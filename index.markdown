@@ -11,7 +11,7 @@ title: About
 /* Hero */
 .pp-hero { display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; align-items: center; margin: 2rem 0 3rem; }
 .pp-eyebrow { font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: #BA7517; font-weight: 500; margin-bottom: 1rem; }
-.pp-hero-name { font-family: 'Playfair Display', serif; font-size: 38px; font-weight: 400; line-height: 1.2; margin: 0 0 1.25rem; }
+.pp-hero-name { font-family: 'Playfair Display', serif; font-size: 24px; font-weight: 400; line-height: 1.2; margin: 0 0 1.25rem; }
 .pp-hero-tagline { font-size: 15px; line-height: 1.8; color: #555; border-left: 2px solid #BA7517; padding-left: 1rem; margin: 0 0 1.75rem; }
 .pp-hero-cta { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 1rem; }
 .pp-btn-primary { background: #BA7517; color: #fff !important; padding: 10px 22px; border-radius: 8px; font-size: 13px; font-weight: 500; text-decoration: none !important; display: inline-block; }

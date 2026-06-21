@@ -4,27 +4,32 @@ This repository hosts the source code for the personal website and blog of **Pra
 
 ## 👨‍💻 About Pradeep K. Pant
 
-Pradeep K. Pant is an **AI/ML Engineer**, **Software Architect**, and **Researcher** with over 20 years of experience in the technology industry. Based in Bengaluru, India, he specializes in building scalable, production-grade AI systems and has a deep interest in the intersection of software engineering and machine learning.
+Pradeep K. Pant is an Enterprise AI Architect, Software Architect, Researcher, and Technology Writer with over 20 years of experience designing and delivering enterprise software platforms, cloud-native systems, and AI-driven solutions.
+
+Based in Bengaluru, India, he specializes in Enterprise AI Architecture, Agentic AI, AI Platform Engineering, MLOps, AI Observability, and Process Intelligence. His work focuses on building scalable, governed, and production-ready AI systems while bridging software engineering principles with modern AI architectures.
 
 ### 🌟 Professional Highlights
-- **Current Role:** AI/ML & Generative AI Architect.
-- **Academic Pursuit:** Ph.D. in Process Mining and Machine Learning (in progress, IIIT Allahabad).
-- **Expertise:** AI/ML, Generative AI, MLOps, Software Architecture, and Process Mining.
-- **Passions:** Trail running, endurance sports, and community-driven fitness initiatives.
+- **Current Focus:** Enterprise AI Architecture, Agentic AI, and AI Platform Engineering.
+- **Academic Pursuit:** Ph.D. in Process Mining and Machine Learning (IIIT Allahabad).
+- **Research Areas:** AI Observability, Process Mining, Concept Drift Detection, and Self-Adaptive AI Operations.
+- **Experience:** 20+ years in Software Engineering & Architecture, including 10+ years in AI/ML.
+- **Passions:** Trail running, endurance sports, continuous learning, and open-source communities.
 
 ## 🛠️ Areas of Expertise
 
-- **AI/ML & Generative AI:** Data Mining, Machine Learning, Deep Learning, LLMs, RAG pipelines, Time Series Forecasting.
-- **Cloud & MLOps:** AWS, Azure ML, GCP, Databricks, Docker, Kubernetes, MLflow.
-- **Software Architecture:** C, Perl, Python, SQL, NoSQL, Microservices, REST APIs.
-- **Research:** Process Mining, Optimization Algorithms, Pattern Recognition.
+- **Enterprise AI Architecture:** AI Platforms, Agentic AI, Multi-Agent Systems, Enterprise Knowledge Platforms.
+- **AI Platform Engineering:** Azure AI, Azure OpenAI, Databricks, MLOps, LLMOps, Evaluation Frameworks.
+- **AI Observability & Governance:** Monitoring, Explainability, Drift Detection, Responsible AI, AI Reliability.
+- **Software Architecture:** Distributed Systems, Cloud-Native Platforms, APIs, Microservices, Enterprise Integration.
+- **Research:** Process Mining, Concept Drift Detection, AI Observability, Self-Adaptive AI Operations.
 
 ## 🏆 Featured Work
 
-- **Research:** Published work on "Explainable Concept Drift in Process Mining" (IEEE).
-- **Authoring/Reviewing:** Official book reviewer for *Python Architecture Patterns* and reviwer of *Journal of Software: Evolution and Process*
-.
-- **🌐 Open Source:** Contributor to projects like MySQL Operator, Chromium, and Perl CPAN.
+- **Research:** Explainable Concept Drift in Process Mining (IEEE ICCCNT 2025).
+- **Research:** Software Process Mining: State of the Art (under journal review).
+- **Peer Review:** Reviewer – Journal of Software: Evolution and Process.
+- **Technical Review:** Python Architecture Patterns (Packt Publishing).
+- **Open Source:** Contributor to Chromium, MySQL Operator for Kubernetes, Perl CPAN, and other community initiatives.
 
 ## 🤝 Connect with Pradeep
 
@@ -35,4 +40,4 @@ Pradeep K. Pant is an **AI/ML Engineer**, **Software Architect**, and **Research
 [![Email](https://img.shields.io/badge/Email-pp@pradeeppant.com-D14836?style=for-the-badge&logo=gmail)](mailto:pp@pradeeppant.com)
 
 ---
-*Last updated: March 2026*
+*Last updated: June 2026*

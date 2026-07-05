@@ -201,17 +201,20 @@ I kept shouting **"Lucky!"** into the forest, hoping to hear a reply, but there 
 
 When I walked back to the finish line, I found Lucky already there—not on foot, but in one of the sweep vehicles. He had crossed the Orange Bus Stop cutoff, but just like me, he knew there wasn't enough time left to complete the final climb. Since he was also recovering from a foot injury, it made sense not to push beyond the limit.
 
-In the end, our group had a good day on the trails.
+In the end, our group had a wonderful day on the trails.
 
-- **Suresh** and **Naveen** completed the **60K**.
+- **Suresh**, **Naveen**, and **Amarjeet** completed the **60K**.
+- **Anshul** completed the **45K**.
 - **Meyappan** and I finished **50K**.
 - **Lucky** covered around **55K**.
 
+I was also very happy for **Arun**, **Aniket**, and **Ashwini**, who successfully completed their **first-ever 18K trail run**. It's always nice to see more runners stepping into trail running, and I hope this is just the beginning of many more adventures for them.
+
 Most importantly, all of us finished safely and without any injuries. For me, that was probably the biggest achievement of the day.
 
-After collecting our medals, we had food, chatted with fellow runners, thanked the volunteers, and slowly started winding down. The race was over, but the conversations about the trail, the weather, and the day had only just begun.
+We had food, chatted with fellow runners, thanked the volunteers, and slowly started winding down. The race was over, but the conversations about the trail, the weather, and the day had only just begun.
 
-Finally, we got back into our cars and headed towards the hotel for a well-deserved evening of rest.
+Finally, we got back into our cars and headed towards the hotel for a well-deserved evening.
 
 ---
 ## 🚗 Back to Bengaluru
@@ -222,7 +225,7 @@ One by one, all of us took a much-needed shower, changed into fresh clothes, and
 
 Around **7:00 PM**, we started our journey back to Bengaluru in our two cars, while the bikers stayed back in Yercaud.
 
-Our only stop was at **A2B** on the Salem–Bengaluru highway for dinner and to charge the EV. Compared to the onward journey, the drive back was much quieter. Everyone was tired after a long day on the trails. I was focused on driving, chatting occasionally, and enjoying some good music along the way.
+Our only stop was at **ABD** on the Salem–Bengaluru highway for dinner and to charge the EV. Compared to the onward journey, the drive back was much quieter. Everyone was tired after a long day on the trails. I was focused on driving, chatting occasionally, and enjoying some good music along the way.
 
 Most of the group got down near the Electronic City Metro station, and by the time I finally reached home, it was around **1:00 AM**.
 
@@ -236,41 +239,47 @@ Until next time... goodbye, Yercaud.
 
 ## 💭 Reflections
 
-_To be written_
+Looking back, I am quite happy with how the day went.
 
-Topics:
+Did I complete the planned 60K? No.
 
-- Second Bison after 2023
-- Registered for 60K but happy with 50K
-- Respecting cutoffs
-- Respecting the course
-- Heat played bigger role than expected
-- Poles helped
-- Team performance
-- No injuries
-- Will return again
+Am I disappointed? Not really.
+
+By the time I reached the final cutoff, I had already accepted that attempting the last 10 KM in the available time wasn't the right decision. The final climb to Heaven's Ledge is demanding even on a fresh pair of legs, and after nearly 50 KM in the heat, it would have been more about taking unnecessary risks than enjoying the run.
+
+This year's Bison also reminded me how much the weather can influence a trail race. The forest sections were beautiful as always, but once the sun came out, maintaining pace became much harder than expected.
+
+One thing I was particularly happy about was staying injury-free. Having knocked my foot twice during the run and knowing my tendency to fall on technical trails, finishing safely felt like an achievement in itself.
+
+Looking back, I can clearly see where I need to improve. I generally run the **second half of an ultra much better than the first half**. By the time I settle into my rhythm, I often have enough energy left—but not always enough time. Ooty Ultra this year showed me that improving the first few hours of the race can make a huge difference. That's something I need to work on before my next ultra.
+
+Another area is using trekking poles more effectively, especially on downhill sections. I have become comfortable using them while climbing, but I still don't take full advantage of them while descending. With more practice and confidence on technical downhills, I believe I can save valuable time and energy over the course of a long race.
+
+Most runners, including me, spend a good part of trail ultras walking on steep climbs. Unless you're an elite runner, that's completely normal. The trick is to walk efficiently, use the poles well, and keep moving consistently.
+
+More than the distance, what I'll remember from this weekend are the people—the road trip, the conversations, waiting for friends at the finish line, cheering each other on, and celebrating everyone's effort regardless of the final distance.
+
+I was especially happy to see Arun, Aniket, and Ashwini complete their first trail 18K. Hopefully, this is just the beginning of many more trail adventures for them.
+
+Every race leaves something behind. This one reminded me, once again, that trail running is not about fighting the mountains—it's about respecting them.
+
+And that's one of the reasons I know I'll be back in Yercaud again.
 
 ---
 
 ## 🏃 Training & Preparation
 
-_To be written_
+## 🏃 Training & Preparation
 
-Topics:
+The preparation for Bison Ultra was quite similar to what I followed for Ooty Ultra earlier this year, so I won't repeat all the details here.
 
-- Similar preparation as Ooty
-- Consistency over mileage
-- Office stairs
-- Walking
-- Backpack/rucking
-- Simple vegetarian food + eggs
-- Nuts
-- Black coffee
-- ORS strategy
-- Small breakfast before race
-- Trekking poles
-- Shoes
-- Heat management
+One notable change, however, was that this was my **first ultra after giving up coffee**. Since **25 April 2026**, I have been completely caffeine-free (I have written more about that in my *The Decaffeinated Runner* blog). I was curious to see how my body would respond during a long ultra without my usual pre-race black coffee. Fortunately, I didn't miss it at all.
+
+Over the last few months, I have also shifted more focus towards **strength training**, **mobility**, **activation exercises**, and **stretching**. I try to dedicate at least two sessions every week to these areas, and I can genuinely feel the difference. Recovery has improved, I feel more stable on technical trails, and even after a long day on the hills, my body felt much better than it did a couple of years ago.
+
+The rest of my preparation remained fairly simple—consistent running, staying active throughout the day, walking whenever possible, climbing stairs, and eating mostly home-cooked vegetarian food with eggs. Nothing fancy, just trying to stay consistent rather than chasing big training numbers.
+
+If you're interested in the details of my training approach, nutrition, and preparation philosophy, I've written about it in my **Ooty Ultra 60K 2026** race report, where I covered it in much more detail.
 
 ---
 
@@ -296,27 +305,37 @@ Friends
 
 ---
 
-## 📚 Related Posts
+---
 
-- Running Diary 2025
-- Bison Ultra 2023
-- Ooty Ultra 2026
-- Ooty Ultra 2023
-- Ooty Ultra 2022
-- Malnad Ultra
-- Nag Devta Parikrama Run
+## 📚 Continue the Journey
+
+If you enjoyed this race report, you might also like these posts from my running journey:
+
+- [🏃 Running Diary 2025 – Five Runs, One Journey](/fitness/running/run_diary_2025/)
+- [🌲 Bison Ultra 2023 – My First Bison Ultra Experience](/2023/09/17/bison_ultra_2023_race_report/)
+- [⛰️ Ooty Ultra 60K 2026 – A Journey Through Altitude, Effort, and Experience](/2026/04/30/ooty_ultra_60k_2026_experience/)
+- [⛰️ Ooty Ultra 2023 – Experience & Reflections](/fitness/running/ooty_ultra_2023_experience/)
+- [⛰️ Ooty Ultra 2022 – My First Ooty Ultra Experience](/fitness/running/ootyultra_2022_experience/)
+- [🌿 Malnad Ultra – Running Through the Western Ghats](/fitness/running/malnad-ultra-2024/)
+- [🏔️ Nag Devta Parikrama Run – A Community Initiative from the Himalayas](/2025/09/10/nag_devta_parikrama_run/)
 
 ---
 
-## 🔗 Links
+---
 
-Bison Ultra
+## 🔗 Useful Links
 
-Coach Kay
+- 🏃 **Bison Ultra** (ITRA Race Page)  
+  https://itra.run/Races/RaceDetails/Bison.Ultra.18k/2026/113352
 
-Results
+- 🏅 **Official Results**  
+  https://www.myraceindia.com/overall/2026/BisonUltra2026
 
-GPX
+- 📈 **My Strava Activity**  
+  https://www.strava.com/activities/18833601031
+
+- 📸 **Instagram Highlights**  
+  https://www.instagram.com/pradeepkpant/p/DZj3wR8EtjW/
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'Bison Ultra 2026 – '
+title: 'Bison Ultra 2026 – Trails, Friends and Another Adventure'
 date: 2026-07-04
 layout: post
 permalink: /2026/07/04/bison_ultra_2026_experience/
@@ -15,15 +15,19 @@ description: ''
 📅 **Date:** 7 June 2026  
 📏 **Registered Distance:** 60 KM  
 🏃 **Completed:** 50 KM  
-⛰️ **Type:** Technical Trail Run
+⛰️ **Type:** Technical Trail Run, ITRA certified
 
-> *Introduction to be written after the complete blog is finished.*
+Bison Ultra is one of those races that keeps drawing us back to Yercaud year after year. It's not just because of the beautiful trails or the challenging course, but because the entire weekend feels like a reunion with friends, familiar faces, and the trail running community.
+
+This year, a group of us travelled together from Bengaluru for another weekend in the hills. The race didn't go exactly as planned, I completed 50K instead of the registered 60K but I returned home happy. Trail running isn't always about finishing the planned distance. Sometimes it's about making the right decisions, staying injury-free, enjoying the journey, and coming back with memories worth sharing.
+
+This blog is a collection of those memories from the road trip and bib collection to the forests of Yercaud, the long climbs, the volunteers, and the conversations that make every ultra memorable.
 
 ---
 
 ## 🚗 Journey to Yercaud
 
-Bison Ultra has become another race we always look forward to. This year our core group — Naveen, Lucky, Meyappan, Suresh, and I — had all registered for the 60K.
+Bison Ultra has become another race we always look forward to. This year our core group — Naveen, Lucky, Meyappan, Suresh, and I had all registered for the 60K.
 
 Joining us were my colleagues Arun (who had also travelled with us for Ooty), Ankit, and his friend Ashwini. They decided to make the journey a little more adventurous by riding their Royal Enfield bikes all the way to Yercaud. All three had registered for the 18K.
 
@@ -33,13 +37,13 @@ We travelled in two cars. I drove Gemini, while Suresh drove MG EV. Everyone gat
 
 I was hoping to find a coconut water stop on the way, but no luck this time. And coffee... well, I wasn't having any anyway. 😊
 
-We had planned to have breakfast at A2B (Adyar Ananda Bhavan) near Krishnagiri, but the charging station there wasn’t working. So we continued further and eventually stopped at **Selvi Mess** on the outskirts of Salem around **9:30 AM**. By then our two bikers had also caught up with us. It was a good opportunity to introduce everyone properly before continuing the journey together.
+We had planned to have breakfast at ABD (Ananda Bhavan Delight) near Krishnagiri, but the EV charging station there wasn’t working. So we continued further and eventually stopped at **Selvi Mess** on the outskirts of Salem around **9:30 AM**. By then our two bikers had also caught up with us. It was a good opportunity to introduce everyone properly before continuing the journey together.
 
 From there, the climb towards Yercaud began.
 
 Driving through the Yercaud hills is always a pleasure. The Tamil Nadu roads are generally very well maintained, making the drive enjoyable. Of course, like every hill station, you occasionally come across drivers who don't quite understand hill driving etiquette, but thankfully those moments were few.
 
-This time we stayed at **Hotel Mango Hill**, just a short distance from the lake. It turned out to be an excellent choice. The valley-facing rooms were spacious, peaceful, and probably one of the best stays we've had during a race weekend.
+This time we stayed at **Hotel Mango Hill**, just a short distance from the lake. It turned out to be an excellent choice. The valley facing rooms were spacious, peaceful, and probably one of the best stays we've had during a race weekend.
 
 After checking in, we had lunch at the hotel, which was surprisingly good. The weather was pleasant, with a light spell of rain making the hills look even fresher. We spent some time relaxing, chatting, and simply enjoying the place before heading out for bib collection at **Heaven's Ledge**, where the race weekend officially began.
 
@@ -51,7 +55,7 @@ Before leaving, we also spent quite some time clicking photos around the propert
 
 Heaven's Ledge was around 18 KM from our hotel, roughly a 40–45 minute drive. We took both our cars, while Ankit, and Ashwini enjoyed the ride on their Royal Enfields.
 
-Heaven's Ledge wasn't new to us. In fact, during one of the earlier editions of Bison Ultra, we had stayed there. It remains one of the most beautiful places I've seen. Perched on the edge of the hills, it has a small open ground overlooking the vast plains of Salem and Krishnagiri. Surrounded by coffee plantations and away from the main road, it has a peaceful charm that's hard to describe.
+Heaven's Ledge wasn't new to us. In fact, during couple of the earlier editions of Bison Ultra, we had stayed there. It remains one of the most beautiful places I've seen. Perched on the edge of the hills, it has a small open ground overlooking the vast plains of Salem and Krishnagiri. Surrounded by coffee plantations and away from the main road, it has a peaceful charm that's hard to describe.
 
 As usual, our first stop was the bib collection. We met many familiar faces, including Madhav and the Cisco Runners team, who have been an integral part of Bison Ultra for many years. They quietly do an amazing job behind the scenes, ensuring everything runs smoothly.
 
@@ -89,7 +93,7 @@ Like every year, we deposited one drop bag. To be honest, I don't think I've eve
 
 As usual, there were many familiar faces. We met runners, exchanged greetings, wished each other luck, and clicked a few more photos before moving towards the start line.
 
-Every race brings a little nervousness, and this one was no different. My biggest concern wasn't the distance—it was staying injury-free. I have a habit of taking an occasional fall on technical trails, so my first goal was simple: finish the race without getting injured. The second goal was to stay within the cut-offs and enjoy the day in the forest.
+Every race brings a little nervousness, and this one was no different. My biggest concern wasn't the distance it was staying injury free. I have a habit of taking an occasional fall on technical trails, so my first goal was simple, finish the race without getting injured. The second goal was to stay within the cut-offs and enjoy the day in the forest.
 
 ---
 
@@ -117,9 +121,9 @@ The first section through the forest was mostly downhill. It felt wonderful at t
 
 Once we entered the trails, the race slowly started finding its rhythm.
 
-For a long stretch, I was running on and off with my old running buddy **Jaysingh**, whom I had met during Bison Ultra 2023. We had finished the 50K together back then, so it was nice catching up again while covering a few kilometres together. That's one thing I enjoy about the running community—you may not meet for months, but when you do, the conversation starts exactly where it had ended.
+For a long stretch, I was running on and off with my old running buddy **Jaysingh**, whom I had met during [Bison Ultra](/2023/09/17/bison_ultra_2023_race_report/). We had finished the 50K together back then, so it was nice catching up again while covering a few kilometres together. That's one thing I enjoy about the running community you may not meet for months/years, but when you do, the conversation starts exactly where it had ended.
 
-This section had some beautiful technical trails through the forest. Since there were a large number of 18K runners this year, many of them were experiencing trail running for the first time. I could completely understand why they were stopping every now and then—the sunrise through the trees, the valley views, and the forest itself were simply beautiful.
+This section had some beautiful technical trails through the forest. Since there were a large number of 18K runners this year, many of them were experiencing trail running for the first time. I could completely understand why they were stopping every now and then the sunrise through the trees, the valley views, and the forest itself were simply beautiful.
 
 With runners moving in both directions and many stopping to enjoy the scenery, some of the softer trail sections became a bit slippery. It slowed everyone down a little, but honestly, that is part of trail running.
 
@@ -134,7 +138,7 @@ This year, I had decided not to carry my hydration bladder. Instead, I kept thin
 ---
 ### 🔥 The Toughest Part
 
-Immediately after leaving Archdale Estate, I knocked my foot twice on the same rock where I had lost a toenail during one of my earlier races. Thankfully, my trekking poles did their job and stopped me from taking a fall. Moments like these remind you why poles are so useful on technical trails.
+Immediately after leaving Archdale Estate, I knocked my foot twice on the same toenail which was injured during one of my earlier races. Thankfully, my trekking poles did their job and stopped me from taking a fall. Moments like these remind you why poles are so useful on technical trails.
 
 Soon the trail opened onto the road, and that's when the real challenge began.
 
@@ -148,13 +152,13 @@ At the aid station, I first met Suresh, who had already completed one loop and w
 
 A little later I met Meyappan, who was also beginning his first loop. During the second loop I crossed paths with Lucky and Naveen, who were already close to finishing theirs.
 
-Each loop was around 4 KM. The forest was beautiful, but by now the combination of heat, technical trails, and long periods of running alone was beginning to take its toll.
+Each loop was around 4 KM. The forest was beautiful, but by now the combination of heat, trails, and long periods of running alone was beginning to take its toll.
 
-After completing the first loop, I stopped briefly at the aid station. Most of the food had already been consumed, but there was still a little pongal with lemon, which tasted surprisingly good after so many hours on the trail.
+After completing the first loop, I stopped briefly at the aid station. Most of the food had already been consumed, but there was still a little pongal left which I ate with lemon, and tasted surprisingly good after so many hours on the trail.
 
-By the time I finished both loops, Meyappan was already back at the aid station. He looked visibly tired. I, on the other hand, was feeling reasonably okay physically. My biggest challenge wasn't fatigue — it was the heat. It had become difficult to maintain any meaningful pace.
+By the time I finished both loops, Meyappan was already back at the aid station. He looked tired and for me, biggest challenge wasn't fatigue — it was the heat. It had become difficult to maintain any meaningful pace.
 
-After leaving Stanmore Estate, I made the most of every downhill section on the road and tried to run wherever possible.
+After leaving Stanmore Estate me and Meyappan were mostly together, I made the most of every downhill section on the road and tried to run wherever possible.
 
 By then I had started doing the math.
 
@@ -199,7 +203,7 @@ The first familiar face was **Amarjeet**, who came through with around 20 minute
 
 I kept shouting **"Lucky!"** into the forest, hoping to hear a reply, but there was only silence.
 
-When I walked back to the finish line, I found Lucky already there—not on foot, but in one of the sweep vehicles. He had crossed the Orange Bus Stop cutoff, but just like me, he knew there wasn't enough time left to complete the final climb. Since he was also recovering from a foot injury, it made sense not to push beyond the limit.
+When I walked back to the finish line, I found Lucky already there not on foot, but in one of the sweep vehicles. He had crossed the Orange Bus Stop cutoff, but just like me and Mey, he knew there wasn't enough time left to complete the final climb. Since he was also recovering from a foot injury, it made sense not to push beyond the limit.
 
 In the end, our group had a wonderful day on the trails.
 
@@ -208,11 +212,11 @@ In the end, our group had a wonderful day on the trails.
 - **Meyappan** and I finished **50K**.
 - **Lucky** covered around **55K**.
 
-I was also very happy for **Arun**, **Aniket**, and **Ashwini**, who successfully completed their **first-ever 18K trail run**. It's always nice to see more runners stepping into trail running, and I hope this is just the beginning of many more adventures for them.
+I was also very happy for **Arun**, **Ankit**, and **Ashwini**, who successfully completed their **first-ever 18K trail run**. It's always nice to see more runners stepping into trail running, and I hope this is just the beginning of many more adventures for them.
 
 Most importantly, all of us finished safely and without any injuries. For me, that was probably the biggest achievement of the day.
 
-We had food, chatted with fellow runners, thanked the volunteers, and slowly started winding down. The race was over, but the conversations about the trail, the weather, and the day had only just begun.
+We had food, chatted with fellow runners, thanked the volunteers, and slowly started winding down. The race was over, but the conversations about the trail, the run, and the day had only just begun.
 
 Finally, we got back into our cars and headed towards the hotel for a well-deserved evening.
 
@@ -249,19 +253,19 @@ By the time I reached the final cutoff, I had already accepted that attempting t
 
 This year's Bison also reminded me how much the weather can influence a trail race. The forest sections were beautiful as always, but once the sun came out, maintaining pace became much harder than expected.
 
-One thing I was particularly happy about was staying injury-free. Having knocked my foot twice during the run and knowing my tendency to fall on technical trails, finishing safely felt like an achievement in itself.
+One thing I was particularly happy about was staying injury free. Having knocked my foot twice during the run and knowing my tendency to fall on technical trails, finishing safely felt like an achievement in itself.
 
-Looking back, I can clearly see where I need to improve. I generally run the **second half of an ultra much better than the first half**. By the time I settle into my rhythm, I often have enough energy left—but not always enough time. Ooty Ultra this year showed me that improving the first few hours of the race can make a huge difference. That's something I need to work on before my next ultra.
+Looking back, I can clearly see where I need to improve. I generally run the **second half of an ultra much better than the first half**. By the time I settle into my rhythm, I often have enough energy left but not always enough time. Ooty Ultra this year showed me that improving the first few hours of the race can make a huge difference. That's something I need to work on before my next ultra.
 
 Another area is using trekking poles more effectively, especially on downhill sections. I have become comfortable using them while climbing, but I still don't take full advantage of them while descending. With more practice and confidence on technical downhills, I believe I can save valuable time and energy over the course of a long race.
 
 Most runners, including me, spend a good part of trail ultras walking on steep climbs. Unless you're an elite runner, that's completely normal. The trick is to walk efficiently, use the poles well, and keep moving consistently.
 
-More than the distance, what I'll remember from this weekend are the people—the road trip, the conversations, waiting for friends at the finish line, cheering each other on, and celebrating everyone's effort regardless of the final distance.
+More than the distance, what I'll remember from this weekend are the people, the road trip, the conversations, waiting for friends at the finish line, cheering each other on, and celebrating everyone's effort regardless of the final distance.
 
-I was especially happy to see Arun, Aniket, and Ashwini complete their first trail 18K. Hopefully, this is just the beginning of many more trail adventures for them.
+I was especially happy to see Arun, Ankit, and Ashwini complete their first trail 18K. Hopefully, this is just the beginning of many more trail adventures for them.
 
-Every race leaves something behind. This one reminded me, once again, that trail running is not about fighting the mountains—it's about respecting them.
+Every race leaves something behind. This one reminded me, once again, that trail running is not about fighting the mountains, it's about respecting them.
 
 And that's one of the reasons I know I'll be back in Yercaud again.
 
@@ -269,15 +273,13 @@ And that's one of the reasons I know I'll be back in Yercaud again.
 
 ## 🏃 Training & Preparation
 
-## 🏃 Training & Preparation
-
 The preparation for Bison Ultra was quite similar to what I followed for Ooty Ultra earlier this year, so I won't repeat all the details here.
 
-One notable change, however, was that this was my **first ultra after giving up coffee**. Since **25 April 2026**, I have been completely caffeine-free (I have written more about that in my *The Decaffeinated Runner* blog). I was curious to see how my body would respond during a long ultra without my usual pre-race black coffee. Fortunately, I didn't miss it at all.
+One notable change, however, was that this was my **first ultra after giving up coffee**. Since **25 April 2026**, I have been completely caffeine free (I have written more about that in my [*The Decaffeinated Runner*](/2026/05/07/the_caffeinated_runner/) blog). I was curious to see how my body would respond during a long ultra without my usual pre-race black coffee. Fortunately, I didn't miss it at all.
 
 Over the last few months, I have also shifted more focus towards **strength training**, **mobility**, **activation exercises**, and **stretching**. I try to dedicate at least two sessions every week to these areas, and I can genuinely feel the difference. Recovery has improved, I feel more stable on technical trails, and even after a long day on the hills, my body felt much better than it did a couple of years ago.
 
-The rest of my preparation remained fairly simple—consistent running, staying active throughout the day, walking whenever possible, climbing stairs, and eating mostly home-cooked vegetarian food with eggs. Nothing fancy, just trying to stay consistent rather than chasing big training numbers.
+The rest of my preparation remained fairly simple, consistent running, staying active throughout the day, walking whenever possible, climbing stairs, and eating mostly home cooked vegetarian food with eggs. So, just trying to stay consistent rather than chasing big training numbers.
 
 If you're interested in the details of my training approach, nutrition, and preparation philosophy, I've written about it in my **Ooty Ultra 60K 2026** race report, where I covered it in much more detail.
 
@@ -305,15 +307,13 @@ Friends
 
 ---
 
----
-
 ## 📚 Continue the Journey
 
 If you enjoyed this race report, you might also like these posts from my running journey:
 
+- [⛰️ Ooty Ultra 60K 2026 – A Journey Through Altitude, Effort, and Experience](/2026/04/30/ooty_ultra_60k_2026_experience/)
 - [🏃 Running Diary 2025 – Five Runs, One Journey](/fitness/running/run_diary_2025/)
 - [🌲 Bison Ultra 2023 – My First Bison Ultra Experience](/2023/09/17/bison_ultra_2023_race_report/)
-- [⛰️ Ooty Ultra 60K 2026 – A Journey Through Altitude, Effort, and Experience](/2026/04/30/ooty_ultra_60k_2026_experience/)
 - [⛰️ Ooty Ultra 2023 – Experience & Reflections](/fitness/running/ooty_ultra_2023_experience/)
 - [⛰️ Ooty Ultra 2022 – My First Ooty Ultra Experience](/fitness/running/ootyultra_2022_experience/)
 - [🌿 Malnad Ultra – Running Through the Western Ghats](/fitness/running/malnad-ultra-2024/)
@@ -321,21 +321,15 @@ If you enjoyed this race report, you might also like these posts from my running
 
 ---
 
----
-
 ## 🔗 Useful Links
 
-- 🏃 **Bison Ultra** (ITRA Race Page)  
-  https://itra.run/Races/RaceDetails/Bison.Ultra.18k/2026/113352
+- 🏃 [**Bison Ultra**](https://itra.run/Races/RaceDetails/Bison.Ultra.18k/2026/113352)
 
-- 🏅 **Official Results**  
-  https://www.myraceindia.com/overall/2026/BisonUltra2026
+- 🏅 [**Official Results**](https://www.myraceindia.com/overall/2026/BisonUltra2026)
 
-- 📈 **My Strava Activity**  
-  https://www.strava.com/activities/18833601031
+- 📈 [**My Strava Activity**](https://www.strava.com/activities/18833601031)
 
-- 📸 **Instagram Highlights**  
-  https://www.instagram.com/pradeepkpant/p/DZj3wR8EtjW/
+- 📸 [**Instagram Highlights**](https://www.instagram.com/pradeepkpant/p/DZj3wR8EtjW/)
 
 ---
 
@@ -353,7 +347,7 @@ Thanks to all the runners whose pictures knowingly or unknowingly appeared in th
 
 The aim of writing these blogs is simply to preserve memories, revisit the journey, and hopefully encourage a few more people to experience trail running.
 
-If you have any questions about the event or would simply like to connect, feel free to reach out.
+If you have any questions or would simply like to connect, feel free to reach out.
 
 **Thanks for reading till the end... and happy running!**
 

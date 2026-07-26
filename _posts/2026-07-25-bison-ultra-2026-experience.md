@@ -287,36 +287,80 @@ If you're interested in the details of my training approach, nutrition, and prep
 
 ## 🎥 Video Journey
 
-YouTube video
+I'm currently putting together a short video from the race weekend. I'll add it here once it's ready.
 
 ---
-
 ## 📸 Photos
 
-Journey
+### 🚗 Journey to Yercaud
 
-Bib Collection
+Our journey began with one of our favourite ultra-trip traditions—**Shakarpala**, a homemade Kumaoni snack that has become a staple on almost every road trip to a race.
 
-Race Morning
+![](/data/images/running/bison_ultra_2026/shakarpala-snack.jpeg){:width="800px"}
 
-Trail
+![](/data/images/running/bison_ultra_2026/journey.jpg){:width="800px"}
 
-Finish
-
-Friends
+![](/data/images/running/bison_ultra_2026/selvi-mess-breakfast.jpeg){:width="800px"}
 
 ---
+
+### 🏨 Hotel Mango Hill
+
+![](/data/images/running/bison_ultra_2026/mango-hill.jpg){:width="800px"}
+
+![](/data/images/running/bison_ultra_2026/sun-rise-mango.jpg){:width="800px"}
+
+---
+
+### 🎟️ Bib Collection
+
+![](/data/images/running/bison_ultra_2026/bib-collection.jpg){:width="800px"}
+
+![](/data/images/running/bison_ultra_2026/bib-collection-group.jpg){:width="800px"}
+
+![](/data/images/running/bison_ultra_2026/bib-collection-coach.jpg){:width="800px"}
+
+---
+
+### 🌅 Race Morning
+
+![](/data/images/running/bison_ultra_2026/race-day-morning.jpg){:width="800px"}
+
+![](/data/images/running/bison_ultra_2026/start-line.jpg){:width="800px"}
+
+---
+
+### 🌲 On the Trail
+
+![](/data/images/running/bison_ultra_2026/stanmore-trail.jpeg){:width="800px"}
+
+![](/data/images/running/bison_ultra_2026/trail.jpg){:width="800px"}
+
+![](/data/images/running/bison_ultra_2026/pp-mey-trail.jpg){:width="800px"}
+
+---
+
+### 🏁 Finish Line
+
+![](/data/images/running/bison_ultra_2026/suresh-finish.jpg){:width="800px"}
+
+![](/data/images/running/bison_ultra_2026/at-finish-with-runners.jpg){:width="800px"}
+
+---
+
+
+
 
 ## 📚 Continue the Journey
 
 If you enjoyed this race report, you might also like these posts from my running journey:
 
 - [⛰️ Ooty Ultra 60K 2026 – A Journey Through Altitude, Effort, and Experience](/2026/04/30/ooty_ultra_60k_2026_experience/)
-- [🏃 Running Diary 2025 – Five Runs, One Journey](/fitness/running/run_diary_2025/)
+- [🏃 Running Diary 2025 – Five Runs, One Journey](/2025/12/20/run_diary_2025/)
 - [🌲 Bison Ultra 2023 – My First Bison Ultra Experience](/2023/09/17/bison_ultra_2023_race_report/)
-- [⛰️ Ooty Ultra 2023 – Experience & Reflections](/fitness/running/ooty_ultra_2023_experience/)
-- [⛰️ Ooty Ultra 2022 – My First Ooty Ultra Experience](/fitness/running/ootyultra_2022_experience/)
-- [🌿 Malnad Ultra – Running Through the Western Ghats](/fitness/running/malnad-ultra-2024/)
+- [⛰️ Ooty Ultra 2023 – Experience & Reflections](/2023/04/15/ooty_ultra_2023_experience/)
+- [⛰️ Ooty Ultra 2022 – My First Ooty Ultra Experience](/2022/04/16/ootyultra_2022_experience/)
+- [🌿 Malnad Ultra – Running Through the Western Ghats](/2022/12/10/malnad_ultra_2022_experience/)
 - [🏔️ Nag Devta Parikrama Run – A Community Initiative from the Himalayas](/2025/09/10/nag_devta_parikrama_run/)
 
 ---

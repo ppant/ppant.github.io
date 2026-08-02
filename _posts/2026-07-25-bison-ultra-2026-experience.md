@@ -21,7 +21,7 @@ Bison Ultra is one of those races that keeps drawing us back to Yercaud year aft
 
 This year, a group of us travelled together from Bengaluru for another weekend in the hills. The race didn't go exactly as planned, I completed 50K instead of the registered 60K but I returned home happy. Trail running isn't always about finishing the planned distance. Sometimes it's about making the right decisions, staying injury-free, enjoying the journey, and coming back with memories worth sharing.
 
-This blog is a collection of those memories from the road trip and bib collection to the forests of Yercaud, the long climbs, the volunteers, and the conversations that make every ultra memorable.
+This blog is a collection of those memories from the road trip and bib collection to the coffee estates of Yercaud, the long climbs, the volunteers, and the conversations that make every ultra memorable.
 
 ---
 
@@ -33,7 +33,7 @@ Joining us were my colleagues Arun (who had also travelled with us for Ooty), An
 
 Two more runners from our common running group also joined us — Amarjeet for the 60K and Anshul for the 45K.
 
-We travelled in two cars. I drove Gemini, while Suresh drove MG EV. Everyone gathered at our place, and we finally started around **6:30 AM**.
+We travelled in two cars. I drove Jimny, while Suresh drove MG EV. Everyone gathered at our place, and we finally started around **6:30 AM**.
 
 I was hoping to find a coconut water stop on the way, but no luck this time. And coffee... well, I wasn't having any anyway. 😊
 
@@ -85,7 +85,7 @@ So now, we make sure to carry simple things like bread, peanut butter, jam, and 
 
 The weather was pleasant. Thankfully, there was no rain in the morning.
 
-We left the hotel in two cars and one bike. I was driving the Gemini, taking it slow through the narrow roads. There were runners everywhere heading towards Heaven's Ledge, and with the low visibility before sunrise, it was better not to rush.
+We left the hotel in two cars and one bike. I was driving the Jimny, taking it slow through the narrow roads. There were runners everywhere heading towards Heaven's Ledge, and with the low visibility before sunrise, it was better not to rush.
 
 Parking was surprisingly well managed, and soon we were at the start area. Runners had already started gathering, and the atmosphere was wonderful. There was excitement, laughter, last-minute gear checks, and of course, plenty of photographs.
 
@@ -93,7 +93,7 @@ Like every year, we deposited one drop bag. To be honest, I don't think I've eve
 
 As usual, there were many familiar faces. We met runners, exchanged greetings, wished each other luck, and clicked a few more photos before moving towards the start line.
 
-Every race brings a little nervousness, and this one was no different. My biggest concern wasn't the distance it was staying injury free. I have a habit of taking an occasional fall on technical trails, so my first goal was simple, finish the race without getting injured. The second goal was to stay within the cut-offs and enjoy the day in the forest.
+Every race brings a little nervousness, and this one was no different. My biggest concern wasn't the distance it was staying injury free. I have a habit of taking an occasional fall on technical trails, so my first goal was simple, finish the race without getting injured. The second goal was to stay within the cut-offs and enjoy the day in the coffee estate.
 
 ---
 
@@ -113,17 +113,17 @@ One thing I missed that morning was my usual stretching routine. By the time I p
 
 Back at Heaven's Ledge, I had a quick sip of ORS, another sip of water, and then it was finally time to enter the trails.
 
-The first section through the forest was mostly downhill. It felt wonderful at that moment, but there was one thought quietly sitting in the back of my mind — *we'll have to climb all of this again while returning to the finish... and that's probably not going to be as much fun.* 😊
+The first section through the coffee estate was mostly downhill. It felt wonderful at that moment, but there was one thought quietly sitting in the back of my mind — *we'll have to climb all of this again while returning to the finish... and that's probably not going to be as much fun.* 😊
 
 
 ---
-### 🌲 Into the Forest – Archdale Estate
+### 🌲 Into the coffee estate – Archdale Estate
 
 Once we entered the trails, the race slowly started finding its rhythm.
 
 For a long stretch, I was running on and off with my old running buddy **Jaysingh**, whom I had met during [Bison Ultra](/2023/09/17/bison_ultra_2023_race_report/). We had finished the 50K together back then, so it was nice catching up again while covering a few kilometres together. That's one thing I enjoy about the running community you may not meet for months/years, but when you do, the conversation starts exactly where it had ended.
 
-This section had some beautiful technical trails through the forest. Since there were a large number of 18K runners this year, many of them were experiencing trail running for the first time. I could completely understand why they were stopping every now and then the sunrise through the trees, the valley views, and the forest itself were simply beautiful.
+This section had some beautiful technical trails through the coffee estate. Since there were a large number of 18K runners this year, many of them were experiencing trail running for the first time. I could completely understand why they were stopping every now and then the sunrise through the trees, the valley views, and the coffee estate itself were simply beautiful.
 
 With runners moving in both directions and many stopping to enjoy the scenery, some of the softer trail sections became a bit slippery. It slowed everyone down a little, but honestly, that is part of trail running.
 
@@ -131,7 +131,7 @@ Up to the **Archdale Estate** turnaround, there were still plenty of runners fro
 
 The crowds disappeared.
 
-From that point onwards, it was mostly the 60K runners, and the trail suddenly became much quieter. The conversations faded away, and it was just you, the forest, and the trail ahead.
+From that point onwards, it was mostly the 60K runners, and the trail suddenly became much quieter. The conversations faded away, and it was just you, the coffee estate, and the trail ahead.
 
 This year, I had decided not to carry my hydration bladder. Instead, I kept things simple with one **250 ml water bottle** and one **250 ml ORS bottle**. It worked surprisingly well because Bison Ultra has excellent aid station support. Coach Kay always makes sure runners are well looked after, so there was never any real worry about hydration.
 
@@ -152,7 +152,7 @@ At the aid station, I first met Suresh, who had already completed one loop and w
 
 A little later I met Meyappan, who was also beginning his first loop. During the second loop I crossed paths with Lucky and Naveen, who were already close to finishing theirs.
 
-Each loop was around 4 KM. The forest was beautiful, but by now the combination of heat, trails, and long periods of running alone was beginning to take its toll.
+Each loop was around 4 KM. The coffee estate was beautiful, but by now the combination of heat, trails, and long periods of running alone was beginning to take its toll.
 
 After completing the first loop, I stopped briefly at the aid station. Most of the food had already been consumed, but there was still a little pongal left which I ate with lemon, and tasted surprisingly good after so many hours on the trail.
 
@@ -201,7 +201,7 @@ I knew exactly how tough the last climb to the finish was. Since the runners pas
 
 The first familiar face was **Amarjeet**, who came through with around 20 minutes still left before the cutoff. A little later came **Suresh**, looking strong with about 15 minutes to spare. Finally, **Naveen** appeared with less than five minutes left on the clock. It was great to see both of them complete the full 60K.
 
-I kept shouting **"Lucky!"** into the forest, hoping to hear a reply, but there was only silence.
+I kept shouting **"Lucky!"** into the trails hoping to hear a reply, but there was only silence.
 
 When I walked back to the finish line, I found Lucky already there not on foot, but in one of the sweep vehicles. He had crossed the Orange Bus Stop cutoff, but just like me and Mey, he knew there wasn't enough time left to complete the final climb. Since he was also recovering from a foot injury, it made sense not to push beyond the limit.
 
@@ -251,7 +251,7 @@ Am I disappointed? Not really.
 
 By the time I reached the final cutoff, I had already accepted that attempting the last 10 KM in the available time wasn't the right decision. The final climb to Heaven's Ledge is demanding even on a fresh pair of legs, and after nearly 50 KM in the heat, it would have been more about taking unnecessary risks than enjoying the run.
 
-This year's Bison also reminded me how much the weather can influence a trail race. The forest sections were beautiful as always, but once the sun came out, maintaining pace became much harder than expected.
+This year's Bison also reminded me how much the weather can influence a trail race. The coffee estate sections were beautiful as always, but once the sun came out, maintaining pace became much harder than expected.
 
 One thing I was particularly happy about was staying injury free. Having knocked my foot twice during the run and knowing my tendency to fall on technical trails, finishing safely felt like an achievement in itself.
 
@@ -287,7 +287,14 @@ If you're interested in the details of my training approach, nutrition, and prep
 
 ## 🎥 Video Journey
 
-I'm currently putting together a short video from the race weekend. I'll add it here once it's ready.
+<iframe width="800" height="450"
+src="https://www.youtube.com/embed/Wpsu84ijiZw"
+title="Bison Ultra 2026"
+frameborder="0"
+allowfullscreen>
+</iframe>
+
+This video captures the complete Bison Ultra 2026 experience, from the journey to Yercaud and bib collection to race day on the trails and the drive back home.
 
 ---
 ## 📸 Photos

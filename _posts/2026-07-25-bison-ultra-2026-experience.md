@@ -287,7 +287,14 @@ If you're interested in the details of my training approach, nutrition, and prep
 
 ## 🎥 Video Journey
 
-I'm currently putting together a short video from the race weekend. I'll add it here once it's ready.
+<iframe width="800" height="450"
+src="https://www.youtube.com/embed/Wpsu84ijiZw"
+title="Bison Ultra 2026"
+frameborder="0"
+allowfullscreen>
+</iframe>
+
+This video captures the complete Bison Ultra 2026 experience, from the journey to Yercaud and bib collection to race day on the trails and the drive back home.
 
 ---
 ## 📸 Photos

@@ -35,7 +35,7 @@ So we stayed at [Jhari Eco Resort](https://www.google.com/maps/place/Jhari+Eco+S
 <ul>
 <li>More cleaning of common areas, dining, etc.
 <li>Electric Kettle in rooms for tea, coffee, or warm water
-
+</ul>
 PS: Don't forget to carry your favorite book as there will be plenty of time as there is no network 
 
 **Event:** The start point was a remote place with a single-lane forest road that was fully packed early in the morning. The organizers have done good work with allocating good parking spaces and the overall event. We'd reached the venue around 6 a.m. and had some light breakfast. One of the challenges was not having enough toilets to accommodate so many runners, so it was only given to female runners. But anyway, it was a dense forest, and this is all part of the experience. The run started on time; I think at 6:30 a.m., and we just had a light breakfast. The first 2-3 kilometers were downhill, but the last 5–6 kilometers were a steep climb. The first hydration was around that point; the views were superb, and it was a mix of running and walking. The last 8–9 km were downhill, but the sun was also there. There were enough hydration points, first aid kiosks, etc. Kudos to Coach Anand and his team for all the arrangements in such a remote area. We met many runners from different parts of the country and abroad.
@@ -53,7 +53,7 @@ Malnad Ultra is an absolutely wonderful experience. The beauty of the place, rou
 <li>Make sure that you run with someone or find someone to run with at your pace. 
 <li>Carry some extra clothes, sandals, snacks, chargers, etc. in your car. Mobile networks are also a problem, so it is better to keep a spare basic phone with a different network SIM, preferably BSNL. 
 <li>Traveling in a group will be much more enjoyable and safe! 
-
+</ul>
 
 This was a brief overview of our Malnad trip. I hope to revisit it in 2023.
 

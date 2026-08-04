@@ -33,11 +33,13 @@ Based in Bengaluru, India, he specializes in Enterprise AI Architecture, Agentic
 
 ## 🤝 Connect with Pradeep
 
-[![Blog](https://img.shields.io/badge/Blog-pradeeppant.com-blue?style=for-the-badge&logo=rss)](https://pradeeppant.com/blog)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pradeep_Pant-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ppant/)
-[![GitHub](https://img.shields.io/badge/GitHub-ppant-181717?style=for-the-badge&logo=github)](https://github.com/ppant)
-[![Twitter/X](https://img.shields.io/badge/Twitter/X-@ppant-1DA1F2?style=for-the-badge&logo=x)](https://x.com/ppant)
-[![Email](https://img.shields.io/badge/Email-pp@pradeeppant.com-D14836?style=for-the-badge&logo=gmail)](mailto:pp@pradeeppant.com)
+<p align="center">
+  <a href="https://pradeeppant.com/blog" title="Blog"><img src="https://img.shields.io/badge/Blog-pradeeppant.com-0A66C2?style=for-the-badge&logo=rss" alt="Blog" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/ppant/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-ppant-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://github.com/ppant" title="GitHub"><img src="https://img.shields.io/badge/GitHub-ppant-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>&nbsp;
+  <a href="https://x.com/ppant" title="X (Twitter)"><img src="https://img.shields.io/badge/X-@ppant-1DA1F2?style=for-the-badge&logo=x" alt="X" /></a>&nbsp;
+  <a href="mailto:pp@pradeeppant.com" title="Email"><img src="https://img.shields.io/badge/Email-pp@pradeeppant.com-D14836?style=for-the-badge&logo=gmail" alt="Email" /></a>
+</p>
 
 ---
 *Last updated: June 2026*
